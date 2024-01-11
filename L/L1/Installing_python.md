@@ -17,6 +17,20 @@ Note: Make sure you select the right system type (32-bit or 64-bit). If you do n
 ## Install jupyterlab 
 Follow these instructions for installing jupyter lab: https://jupyter.org/install   
 
+To run jupyterlab open Command Prompt and type 
+````
+python -m jupyter lab 
+````
+In case you are wondering, to open Command Prompt go to search near to windows `Start` menu and type `cmd`. 
+  
+If you want jupyterlab to start at a different path, on the Command Prompt you need to first to go to this path. Here is an example,
+````
+cd /d C:\Users\aelshall
+````
+Note the `/d` switch tells the command prompt to change the directory and the drive and `cd` specifies the target directory. 
+   
+Then you can start the jupyterlab as shown above, but this is tedious, so it is easier to create a shortcut that starts jupyterlab for you. 
+
 ## Create jupyterlab shortcut
 Right click the windows screen: `New` > `Shortcut`  
 Type the location of the item: `cmd.exe` then click next  
