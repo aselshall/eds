@@ -33,7 +33,7 @@ In case you are wondering:
 - `&&` to add another command that is `exit` 
 
 ## Change shortcut icon (optional)
-Download this icon and save it anywhere you like: https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico   
+Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.    
 If you do not like this icon, get any other icon that you like that has the extension `.ico`  
    
 Right click on the shortcut: `Change Icon`: `Browse`: Select the icon from where you saved it.
