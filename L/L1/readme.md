@@ -7,18 +7,17 @@ https://www.python.org/downloads/
 Note: Make sure you select the right system type (32-bit or 64-bit). If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
 
 ## Install JupyterLab 
-Follow these instructions for installing jupyter lab 
-https://jupyter.org/install
+Follow these instructions for installing jupyter lab: https://jupyter.org/install   
 Jupyter Lab is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface
 
 ## Create a shortcut for your jupyterlab
 Right click the windows screen: `New` > `Shortcut`  
-Type the location of the item: “cmd.exe” then click next
-Type a name for this shortcut: ”JupyterLab” or any name you like and click finish
-Right click on shortcut: `Properties`: `Target`
-At the target cell write down the following:  
+Type the location of the item: “cmd.exe” then click next  
+Type a name for this shortcut: ”JupyterLab” or any name you like and click finish   
+Right click on shortcut: `Properties`: `Target`   
 
-cmd.exe /k "cd C:\Users\aelshall\" & jupyter lab && exit
+At the target cell write down the following: 
+`` cmd.exe /k "cd C:\Users\aelshall\" & jupyter lab && exit ``
 
 Note 1: You need to replace “aelshall” with your username on your machine.
 
