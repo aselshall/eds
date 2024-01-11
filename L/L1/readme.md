@@ -1,4 +1,4 @@
-# Install python, jupyterlab and create a jupyterlab shortcut
+# Install python, jupyterlab and create a jupyterlab shortcut for Windows
 
 ## Install python 
 Download the latest version for windows and follow the instruction for installation 
@@ -6,12 +6,12 @@ https://www.python.org/downloads/
 
 Note: Make sure you select the right system type (32-bit or 64-bit). If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
 
-## Install JupyterLab 
+## Install jupyterlab 
 Follow these instructions for installing jupyter lab: https://jupyter.org/install   
 
 Jupyter Lab is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface
 
-## Create a shortcut for your jupyterlab
+## Create jupyterlab shortcut
 Right click the windows screen: `New` > `Shortcut`  
 Type the location of the item: `cmd.exe` then click next  
 Type a name for this shortcut: "JupyterLab" or any name you like and click finish   
@@ -32,7 +32,7 @@ In case you are wondering:
 - `jupyter lab` will launch the app
 - `&&` to add another command that is `exit` 
 
-## Change shortcut icon (optional)
+## Change jupyterlab shortcut icon (optional)
 Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.    
 If you do not like this icon, get any other icon that you like that has the extension `.ico`  
    
