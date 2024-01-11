@@ -52,7 +52,10 @@ In case you are wondering:
 - `"cd C:\Users\aelshall\"` will go the the specified path 
 - `&` to add another command
 - `jupyter lab` will launch the app
-- `&&` to add another command that is `exit` 
+- `&&` to add another command that is `exit`
+
+Note if you installed jupyterlab through anaconda, use an anaconda prompt and at the target cell write down `jupyter lab && exit` as shown in [This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
+
 
 ## Change jupyterlab shortcut icon (optional)
 Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.    
