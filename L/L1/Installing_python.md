@@ -54,7 +54,7 @@ In case you are wondering:
 - `jupyter lab` will launch the app
 - `&&` to add another command that is `exit`
 
-Note if you installed jupyterlab through anaconda, use an anaconda prompt and at the target cell write down `jupyter lab && exit` as shown in [This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
+Note if you installed jupyterlab through anaconda, use an anaconda prompt and at the target cell write down `jupyter lab && exit` as shown in [this video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
 
 
 ## Change jupyterlab shortcut icon (optional)
