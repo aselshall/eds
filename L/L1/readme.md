@@ -12,26 +12,24 @@ Jupyter Lab is an open-source interactive development environment that facilitat
 
 ## Create a shortcut for your jupyterlab
 Right click the windows screen: `New` > `Shortcut`  
-Type the location of the item: “cmd.exe” then click next  
-Type a name for this shortcut: ”JupyterLab” or any name you like and click finish   
+Type the location of the item: `cmd.exe` then click next  
+Type a name for this shortcut: "JupyterLab" or any name you like and click finish   
 Right click on shortcut: `Properties`: `Target`   
 
 At the target cell write down the following: 
 ```` 
 cmd.exe /k "cd C:\Users\aelshall\" & jupyter lab && exit 
 ````
-
-Note 1: You need to replace “aelshall” with your username on your machine.
-
-Note 2: “C:\Users\aelshall “ is the location where you want your jupyterlab to access in your file system.
+Note 1: You need to replace “aelshall” with your username on your machine.  
+Note 2: “C:\Users\aelshall “ is the location where you want your jupyterlab to access in your file system.  
 
 In case you are wondering:
-cmd.exe is a Command Prompt to execute MS-DOS commands 
-The /k switch tells Command Prompt to issue the command that follows, and then stay open
-"cd C:\Users\your_username_here\" will go the the specified path 
-& to add another command
-jupyter lab will launch the app
-&& to add another command that is exit 
+- `cmd.exe` is a Command Prompt to execute MS-DOS commands 
+- The `/k` switch tells Command Prompt to issue the command that follows, and then stay open
+- `"cd C:\Users\aelshall\"` will go the the specified path 
+- `&` to add another command
+- `jupyter lab` will launch the app
+- `&&` to add another command that is `exit` 
 
 ## Change shortcut icon (optional)
 Download this icon and save it anywhere you like
