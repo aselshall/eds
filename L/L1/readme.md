@@ -17,7 +17,9 @@ Type a name for this shortcut: ”JupyterLab” or any name you like and click f
 Right click on shortcut: `Properties`: `Target`   
 
 At the target cell write down the following: 
-`` cmd.exe /k "cd C:\Users\aelshall\" & jupyter lab && exit ``
+```` 
+cmd.exe /k "cd C:\Users\aelshall\" & jupyter lab && exit 
+````
 
 Note 1: You need to replace “aelshall” with your username on your machine.
 
