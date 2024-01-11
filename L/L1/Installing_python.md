@@ -14,6 +14,8 @@ https://www.python.org/downloads/
 
 Note: Make sure you select the right system type (32-bit or 64-bit). If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
 
+If you need help you can check out this [video](https://youtu.be/LQ47rIO5bTw?si=FHA1B0j0uZIn62La) or something similar.
+
 ## Install jupyterlab 
 Follow these instructions for installing jupyter lab: https://jupyter.org/install   
 
