@@ -41,7 +41,7 @@ Right click on shortcut: `Properties`: `Target`
 
 At the target cell write down the following: 
 ```` 
-cmd.exe /k "cd C:\Users\aelshall\" & jupyter lab && exit 
+cmd.exe /K "cd C:\Users\aelshall\" & jupyter lab && exit 
 ````
 Note 1: You need to replace “aelshall” with your username on your machine.  
 Note 2: “C:\Users\aelshall “ is the location where you want your jupyterlab to access in your file system.  
