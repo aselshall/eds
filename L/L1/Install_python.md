@@ -1,6 +1,6 @@
 # Install python, jupyterlab and create a jupyterlab shortcut for Windows
 
-In this course we will use python with [jupyterlab](https://jupyter.org/), which is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface.  
+In this course we will use python with [jupyterlab](https://jupyter.org/), which is an open-source interactive development environment that facilitates data science and scientific computing in python through a web-based interface.  
    
 [Installing python using Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools. It simplifies the setup process, ensuring compatibility among packages. On the other hand, installing Python and Jupyter Lab manually allows for more control over specific versions but requires additional effort in managing dependencies and configurations.   
   
