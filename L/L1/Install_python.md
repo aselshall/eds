@@ -2,7 +2,7 @@
 
 In this course we will use python with [jupyterlab](https://jupyter.org/), which is an open-source interactive development environment that facilitates data science and scientific computing in python through a web-based interface.  
    
-Installing python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools. It simplifies the setup process, ensuring compatibility among packages. On the other hand, installing Python and Jupyter Lab manually allows for more control over specific versions but requires additional effort in managing dependencies and configurations.   
+Installing python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only python but also popular data science libraries and tools. It simplifies the setup process, ensuring compatibility among packages. On the other hand, installing Python and Jupyter Lab manually allows for more control over specific versions but requires additional effort in managing dependencies and configurations.   
   
 [This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg) for example shows how to install python with anaconda, the different tools that anaconda provides, how to create a shortcut for jupyterl lab, and how to get started.    
   
