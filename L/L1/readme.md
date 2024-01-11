@@ -8,6 +8,7 @@ Note: Make sure you select the right system type (32-bit or 64-bit). If you do n
 
 ## Install JupyterLab 
 Follow these instructions for installing jupyter lab: https://jupyter.org/install   
+
 Jupyter Lab is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface
 
 ## Create a shortcut for your jupyterlab
