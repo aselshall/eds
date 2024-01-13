@@ -30,7 +30,7 @@ print(list.append.__doc__)  # Prints the docstring of the list's append method
 A LLM such as [ChatGPT](https://chat.openai.com/) or [DeepSeek Coder](https://chat.deepseek.com/coder) can provide information about Python syntax, libraries, functions, and programming concepts, and can generate responses that provide explanations, code snippets, and examples to address your queries. You can also explor different approaches to solving problems, and gaining a deeper understanding of programming concepts. While a LLM can provide valuable assistance, it is essential to verify and validate the information provided.
 
 ## 6. Online communities
-[Stack Overflow](https://stackoverflow.com/): A Q&A website where you can search for existing answers or ask your own questions about Python. You can check some of the questions that [instructor](https://stackoverflow.com/users/4734563/ase) of this course asked or answered. 
+[Stack Overflow](https://stackoverflow.com/): A Q&A website where you can search for existing answers or ask your own questions about Python. You need to create an account to ask questions. Here are examples of questions asked by a [Stack Overflow user](https://stackoverflow.com/users/4734563/ase). 
 
 ## 7. Third-party websites 
 There are additional resources like [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) and [Project Pythia](https://projectpythia.org/) that provide tutorials, explanations, and cookbooks.
