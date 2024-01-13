@@ -36,7 +36,7 @@ A LLM such as [ChatGPT](https://chat.openai.com/) or [DeepSeek Coder](https://ch
 There are additional resources like [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) and [Project Pythia](https://projectpythia.org/) that provide tutorials, explanations, and cookbooks.
 
 ## 8. Books
-There are many comprehensive books on Python programming for all levels, which can be helpful references.
+There are many comprehensive books on Python programming for all levels, which can be helpful references. [Python for Data Analysis](https://wesmckinney.com/book/) is an example for beginner level.
 
 ## Summary
 Whatever method you choose, it's often helpful to start by looking at the official documentation or using the built-in help() function, as they are directly tied to the version of Python you are using and are the most authoritative source of information.
