@@ -3,7 +3,7 @@
 **Instructions:**
 * LLM Not Permitted  
 * Answer all questions in one notebook
-* Rename notebook file name to `YourLastName_YourFirstName`
+* Rename notebook file name to `HW1_YourLastName_YourFirstName`
 * Submit your notebook to Canvas by the due date on Canvas
   
 ## Problem 1 - Happiness rating
