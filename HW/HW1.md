@@ -44,3 +44,42 @@ For example,  for FV= \$1,000,000 and t = 40 years, then PM ≈ \$310.5. Note wh
 
 **Answer these two questions:**       
 **(1)** Write a code to check how much do you need to invest monthly to become a millionaire in 25 years? Display your answer as "For a future value of \$ 1.0 million in 25 years, you need to invist \\$ 1100.0 per month". Note that \$ 1100.0 is rounded and the actual value is 1100.120953605599.   
+**(2)** Write a code to find out that if you will invest \\$1000 per month, after how many years will you become a millionaire? Display your answer as "If you invisited \\$1000.0 per month, you will become a milloire in 25.5 years". **Note** you need to import [math](https://docs.python.org/3/library/math.html) module to solve the exponential equation using logarithms. We did not learn logarithms, but we learned how to find functions in the documentation of the math module.   
+
+## Problem 3 - List 
+**The objectives** of this problem is that you demonstrate that you have a good understanding python list including different methods of list, and to find help in python to find and apply new methods that you did not learn in class.
+
+You are given a list representing daily average temperatures (in degrees Celsius) for a week in Estero, FL as follows.
+```python
+temperatures = [16, 17, 18, 15, 17, 19, 20]
+``` 
+**Answer these questions:**   
+1. Find the number of days in the dataset.   
+2. A new average temperature of 21 degrees Celsius was recorded for the next day (Monday of the following week). Add the new temperature reading.   
+3. Add to the list this other list of temperatures from a different region: [25, 26, 25, 27, 28, 26, 27]. You did not learn the method to add a list to another list. Check [Finding Help in Python](https://github.com/aselshall/eds/blob/main/L/L1/find_help_python.md) to get ideas on how to find help.   
+4. Use python functions to find the highest and lowest temperatures in the list.   
+5. Replace the third from the last temperature in the list (i.e., 28) with 35.   
+6. Create a list of temperatures converted to Fahrenheit. The formula for converting Celsius to Fahrenheit is (Celsius * 9/5) + 32.
+
+Print you answers clearly (e.g., Number of days: 7).
+
+## Problem 4 - Using f-formatting
+
+**The objectives** of this problem is to show that you can use f-formatting with scientific notation and percentage.
+
+Consider the concentration of particulate matter (PM2.5) in the air as follows.
+```python
+#pm2.5 concentration in micrograms per cubic meter (µg/m³)
+pm25_concentration=0.215  
+# reference standard or permissible limit in micrograms per cubic meter (µg/m³)
+pm25_limit=10
+```
+**Write a python code to perform the following:**   
+(1) Calculate this ratio:   
+$$\text{PM2.5 Ratio} = \frac{\text{PM2.5 Concentration}}{\text{PM2.5 Permissible Limit}}$$   
+
+(2) Print this ratio using f-formatting as follows:  
+  
+"A PM2.5 concentration of 2.15E-1 µg/m³ is approximately 2.15% of the permissible limit."
+  
+**Note**  The concentration format has 2 decimal places in scientific notation, and the ratio format is in percentage with 2 decimal places. 
