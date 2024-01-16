@@ -1,7 +1,7 @@
 <h1 style="color:green; text-align:center;"> Homework 1 Python Basics </h1>  
 
 **Instructions:**
-* LLM Not Permitted  
+* LLM Not Permitted (Check syllabus for details)
 * Answer all questions in one notebook
 * Rename notebook file name to `HW1_YourLastName_YourFirstName`
 * Submit your notebook to Canvas by the due date on Canvas
