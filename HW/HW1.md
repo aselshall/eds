@@ -29,9 +29,7 @@ My name is Wormfy Noseborn and my happiness rating is 8.5 out of 10, or 85.0%
 **The objectives** of this problems are to show that you can perform math operations in python and use math functions (e.g., `log`) that you did not learn in class.
 
 According to [New Trader U: 3 Low-Effort Ways To Become A Millionaire](https://www.newtraderu.com/2023/05/07/3-low-effort-ways-to-become-a-millionaire/), Standard and Poor's 500 index fund (S&P 500) tracks the stock performance of 500 of the largest companies listed on stock exchanges in the US. The average historical rate an investor can expect long-term on S&P 500 is 8% annual compounded growth. The formula is:   
-$$
-FV = PM * \frac{[(1 + r)^{nt} – 1]}{r} 
-$$    
+$FV = PM * \frac{[(1 + r)^{nt} – 1]}{r}$    
 Where:      
 FV:  Future value of the investment (e.g., \\$1,000,000)     
 PM: Monthly investment amount (e.g., \\$300)     
