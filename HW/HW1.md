@@ -60,7 +60,7 @@ temperatures = [16, 17, 18, 15, 17, 19, 20]
 3. Add to the list this other list of temperatures from a different region: [25, 26, 25, 27, 28, 26, 27]. You did not learn the method to add a list to another list. Check [Finding Help in Python](https://github.com/aselshall/eds/blob/main/L/L1/find_help_python.md) to get ideas on how to find help.   
 4. Use python functions to find the highest and lowest temperatures in the list.   
 5. Replace the third from the last temperature in the list (i.e., 28) with 35.   
-6. Create a list of temperatures converted to Fahrenheit. The formula for converting Celsius to Fahrenheit is (Celsius * 9/5) + 32.
+6. Create a list of temperatures converted to Fahrenheit. The formula for converting Celsius to Fahrenheit is (Celsius * 9/5) + 32 (Bonus questions).
 
 Print you answers clearly (e.g., Number of days: 7).
 
