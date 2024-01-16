@@ -37,7 +37,8 @@ r:   Monthly interest rate
 n:   Number of times the interest is compounded per year (i.e., 12 for monthly compounding)     
 t:   Number of years (e.g., 20 years)   
 
-To convert annual interest rate of 8% to monthly interest rate you can use this formula $r = (1 + 0.08)^{1/n} – 1$
+To convert annual interest rate of 8% to monthly interest rate you can use this formula   
+$$r = (1 + 0.08)^{1/n} – 1$$
 
 For example,  for FV= \$1,000,000 and t = 40 years, then PM ≈ \$310.5. Note while there is wide variance in monthly and annual returns, long-term destination will likely lead to being a millionaire based on historical performance of past 100 years. 
 
