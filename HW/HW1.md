@@ -44,9 +44,9 @@ $$r = (1 + 0.08)^{1/n} – 1$$
 For example,  for FV= \$1,000,000 and t = 40 years, then PM ≈ \$310.5. Note while there is wide variance in monthly and annual returns, long-term destination will likely lead to being a millionaire based on historical performance of past 100 years. 
 
 **Answer these two questions:**       
-**(1)** Write a code to check how much do you need to invest monthly to become a millionaire in 25 years? Display your answer as "For a future value of \$ 1.0 million in 25 years, you need to invist \\$ 1100.0 per month". Note that \$ 1100.0 is rounded and the actual value is 1100.120953605599.   
+**(1)** Write a code to check how much do you need to invest monthly to become a millionaire in 25 years? Display your answer as "For a future value of \$ 1.0 million in 25 years, you need to invist \$ 1100.0 per month". **Note** that \$ 1100.0 is rounded and the actual value is 1100.120953605599.   
   
-**(2)** Write a code to find out that if you will invest \\$1000 per month, after how many years will you become a millionaire? Display your answer as "If you invisited \\$1000.0 per month, you will become a milloire in 25.5 years". **Note** you need to import [math](https://docs.python.org/3/library/math.html) module to solve the exponential equation using logarithms. We did not learn logarithms, but we learned how to find functions in the documentation of the math module.   
+**(2)** Write a code to find out that if you will invest \$1000 per month, after how many years will you become a millionaire? Display your answer as "If you invisited \$1000.0 per month, you will become a milloire in 25.5 years". **Note** you need to import [math](https://docs.python.org/3/library/math.html) module to solve the exponential equation using logarithms. We did not learn logarithms, but we learned how to find functions in the documentation of the math module.   
 
 ## Problem 3 - List 
 **The objectives** of this problem is that you demonstrate that you have a good understanding python list including different methods of list, and that you can find help in python beyond what you learned in the class (e.g., to find and apply new methods that you did not learn in class).
@@ -61,7 +61,7 @@ temperatures = [16, 17, 18, 15, 17, 19, 20]
 3. Add to the list this other list of temperatures from a different region: [25, 26, 25, 27, 28, 26, 27]. You did not learn the method to add a list to another list. Check [Finding Help in Python](https://github.com/aselshall/eds/blob/main/L/L1/find_help_python.md) to get ideas on how to find help.   
 4. Use python functions to find the highest and lowest temperatures in the list.   
 5. Replace the third from the last temperature in the list (i.e., 28) with 35.   
-6. Create a list of temperatures converted to Fahrenheit. The formula for converting Celsius to Fahrenheit is (Celsius * 9/5) + 32 (Bonus question).
+6. Create a list of temperatures converted to Fahrenheit. The formula for converting Celsius to Fahrenheit is (Celsius * 9/5) + 32 (Bonus question - 1 point).
 
 Print you answers clearly (e.g., Number of days: 7).
 
