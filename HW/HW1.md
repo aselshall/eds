@@ -48,7 +48,7 @@ For example,  for FV= \$1,000,000 and t = 40 years, then PM ≈ \$310.5. Note wh
 **(2)** Write a code to find out that if you will invest \\$1000 per month, after how many years will you become a millionaire? Display your answer as "If you invisited \\$1000.0 per month, you will become a milloire in 25.5 years". **Note** you need to import [math](https://docs.python.org/3/library/math.html) module to solve the exponential equation using logarithms. We did not learn logarithms, but we learned how to find functions in the documentation of the math module.   
 
 ## Problem 3 - List 
-**The objectives** of this problem is that you demonstrate that you have a good understanding python list including different methods of list, and to find help in python to find and apply new methods that you did not learn in class.
+**The objectives** of this problem is that you demonstrate that you have a good understanding python list including different methods of list, and that you can find help in python beyond what you learned in the class (e.g., to find and apply new methods that you did not learn in class).
 
 You are given a list representing daily average temperatures (in degrees Celsius) for a week in Estero, FL as follows.
 ```python
