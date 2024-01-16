@@ -31,15 +31,15 @@ My name is Wormfy Noseborn and my happiness rating is 8.5 out of 10, or 85.0%
 According to [New Trader U: 3 Low-Effort Ways To Become A Millionaire](https://www.newtraderu.com/2023/05/07/3-low-effort-ways-to-become-a-millionaire/), Standard and Poor's 500 index fund (S&P 500) tracks the stock performance of 500 of the largest companies listed on stock exchanges in the US. The average historical rate an investor can expect long-term on S&P 500 is 8% annual compounded growth. The formula is:   
 $$FV = PM * \frac{[(1 + r)^{nt} – 1]}{r}$$    
 Where:      
-FV:  Future value of the investment (e.g., \\$1,000,000)     
-PM: Monthly investment amount (e.g., \\$300)     
+FV:  Future value of the investment (e.g., \$1,000,000)     
+PM: Monthly investment amount (e.g., \$300)     
 r:   Monthly interest rate       
 n:   Number of times the interest is compounded per year (i.e., 12 for monthly compounding)     
 t:   Number of years (e.g., 20 years)   
 
-To convert annual interest rate of 8% to monthly interest rate you can use this formula $ r = (1 + 0.08)^{1/n} – 1  $
+To convert annual interest rate of 8% to monthly interest rate you can use this formula $r = (1 + 0.08)^{1/n} – 1$
 
-For example,  for FV= \\$1,000,000 and t = 40 years, then PM ≈ \\$310.5. Note while there is wide variance in monthly and annual returns, long-term destination will likely lead to being a millionaire based on historical performance of past 100 years. 
+For example,  for FV= \$1,000,000 and t = 40 years, then PM ≈ \$310.5. Note while there is wide variance in monthly and annual returns, long-term destination will likely lead to being a millionaire based on historical performance of past 100 years. 
 
 **Answer these two questions:**       
-**(1)** Write a code to check how much do you need to invest monthly to become a millionaire in 25 years? Display your answer as "For a future value of \\$ 1.0 million in 25 years, you need to invist \\$ 1100.0 per month". Note that \$ 1100.0 is rounded and the actual value is 1100.120953605599.   
+**(1)** Write a code to check how much do you need to invest monthly to become a millionaire in 25 years? Display your answer as "For a future value of \$ 1.0 million in 25 years, you need to invist \\$ 1100.0 per month". Note that \$ 1100.0 is rounded and the actual value is 1100.120953605599.   
