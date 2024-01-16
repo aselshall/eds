@@ -5,6 +5,7 @@
 * Answer all questions in one notebook
 * Rename notebook file name to `HW1_YourLastName_YourFirstName`
 * Submit your notebook to Canvas by the due date on Canvas
+* 40 points (10 points each)
   
 ## Problem 1 - Happiness rating
 
