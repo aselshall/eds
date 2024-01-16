@@ -43,8 +43,8 @@ At the target cell write down the following:
 ```` 
 cmd.exe /K "cd C:\Users\aelshall\" & jupyter lab && exit
 ````
-Note 1: You need to replace “aelshall” with your username on your machine.  
-Note 2: “C:\Users\aelshall “ is the location where you want your jupyterlab to access in your file system and you can change this as you want.
+**Note 1**: You need to replace “aelshall” with your username on your machine.  
+**Note 2**: “C:\Users\aelshall “ is the location where you want your jupyterlab to access in your file system and you can change this as you want.
 
 In case you are wondering:
 - `cmd.exe` is a Command Prompt to execute MS-DOS commands 
