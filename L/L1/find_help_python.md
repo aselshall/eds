@@ -15,7 +15,7 @@ help(list.append)  # Get help on the list's append method
 ````
 
 ## 3. Python documentation 
-Python's official documentation is comprehensive and includes information on all aspects of the language as well as the standard library. It's available [online](docs.python.org).
+Python's official documentation is comprehensive and includes information on all aspects of the language as well as the standard library. It's available [online](https://docs.python.org/3/).
 
 ## 4. Docstrings 
 Many Python functions, classes, and modules come with docstrings, which are string literals that occur as the first statement in a module, function, class, or method definition. You can view these by accessing the __doc__ attribute.
