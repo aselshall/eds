@@ -61,9 +61,12 @@ These topics and dates are tentative and subject to change based on class progre
  |
 | --- | --- | --- | --- | --- |
 |   | 4 | 18-Jan |
+ |
+ |
 | 3 | 5 | 23-Jan | Python programming 1 | HW1 |
 | --- | --- | --- | --- | --- |
-|   | 6 | 25-Jan |   |
+|   | 6 | 25-Jan |
+ |
  |
 | 4 | 7 | 30-Jan | Python programming 2 |
  |
@@ -93,28 +96,40 @@ These topics and dates are tentative and subject to change based on class progre
 | --- | --- | --- | --- | --- |
 |   |   | 7-Mar |   |
  |
-| 10 | 17 | 12-Mar | Cartopy for geospatial data visualization | Project Abstract |
+| 10 | 17 | 12-Mar | Cartopy for geospatial data visualization |
+ |
 | --- | --- | --- | --- | --- |
 |   | 18 | 14-Mar |
-| 11 | 19 | 19-Mar | ST: Coupled Model Intercomparison Project Phase 6 (CMIP6) data of World Climate Research Program |
+ |
+ |
+| 11 | 19 | 19-Mar | ST: CMIP6 data for climate change |
  |
 | --- | --- | --- | --- | --- |
 |   | 20 | 21-Mar |
+ |
+ |
 | 12 | 21 | 26-Mar | ST: Google Earth Engine Python API |
 HW5 |
 | --- | --- | --- | --- | --- |
 |   | 22 | 28-Mar |
+ |
 | 13 | 23 | 2-Apr | ST: ScienceBasePy for interaction with USGS platform |
  |
 | --- | --- | --- | --- | --- |
 |   | 24 | 4-Apr |
-| 14 | 25 | 9-Apr | ST: Machine learning 1 | Interim Report |
+ |
+ |
+| 14 | 25 | 9-Apr | ST: Machine learning 1 |
+ |
 | --- | --- | --- | --- | --- |
 |   | 26 | 11-Apr |
+ |
+ |
 | 15 | 27 | 16-Apr | ST: Machine learning 2 |
  |
 | --- | --- | --- | --- | --- |
-|   | 28 | 18-Apr | HW6 |
+|   | 28 | 18-Apr |
+ | HW6 |
 | 16 | 29 | 23-Apr | Project presentation |
  |
 | --- | --- | --- | --- | --- |
