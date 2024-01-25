@@ -3,7 +3,7 @@
 Python provides several ways to get help and documentation about its features. Below are some of the most common methods:
 
 ## 1. Integrated development environments (IDEs) 
-Many IDEs like Jupyter Notebook provide quick access to documentation. You can often hover over a function or method, or press a shortcut key, to view its documentation. For example, in jupyter press <kbd>shift</kbd> + <kbd>tab</kbd>. Also, if you pressed <kbd>tab</kbd> it will show you the available method for a function. Additionally, you can use the question mark followed by the function name to display the documentation in a separate panel.For example, typing `list.index?` and running the cell will show the documentation for that function and method.
+Many IDEs like Jupyter Notebook provide quick access to documentation. You can often hover over a function or method, or press a shortcut key, to view its documentation. For example, in jupyter press <kbd>shift</kbd> + <kbd>tab</kbd>. Also, if you pressed <kbd>tab</kbd> it will show you the available method for a function. Additionally, you can use the question mark followed by the function name to display the documentation in a separate panel. For example, typing `list.index?` and running the cell will show the documentation for that function and method.
 
 ## 2. Built-in `help()` function
 
