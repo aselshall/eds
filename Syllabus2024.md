@@ -53,90 +53,17 @@ These topics and dates are tentative and subject to change based on class progre
 | **Week** | **Lesson** | **Date** | **Topic** | **Due Date** |
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
- |
-| --- | --- | --- | --- | --- |
-|   | 2 | 11-Jan |   |
- |
-| 2 | 3 | 16-Jan | Basic elements of Python |
- |
-| --- | --- | --- | --- | --- |
-|   | 4 | 18-Jan |
- |
- |
-| 3 | 5 | 23-Jan | Python programming 1 | HW1 |
-| --- | --- | --- | --- | --- |
-|   | 6 | 25-Jan |
- |
- |
-| 4 | 7 | 30-Jan | Python programming 2 |
- |
-| --- | --- | --- | --- | --- |
-|   | 8 | 1-Feb |   | HW2 |
-| 5 | 9 | 6-Feb | Pandas for data management |
- |
-| --- | --- | --- | --- | --- |
-|   | 10 | 8-Feb |   |
- |
-| 6 | 11 | 13-Feb | Data visualization with Matplotlib |
- |
-| --- | --- | --- | --- | --- |
-|   | 12 | 15-Feb |   | HW3 |
-| 7 | 13 | 20-Feb | NumPy for scientific computing |
- |
-| --- | --- | --- | --- | --- |
-|   | 14 | 22-Feb |   |
- |
-| 8 | 15 | 27-Feb | Xarray for n-dimensional geospatial data |
- |
-| --- | --- | --- | --- | --- |
-|   | 16 | 29-Feb |
- | HW4 |
-| 9 |   | 5-Mar | Spring Break |
- |
-| --- | --- | --- | --- | --- |
-|   |   | 7-Mar |   |
- |
-| 10 | 17 | 12-Mar | Cartopy for geospatial data visualization |
- |
-| --- | --- | --- | --- | --- |
-|   | 18 | 14-Mar |
- |
- |
-| 11 | 19 | 19-Mar | ST: CMIP6 data for climate change |
- |
-| --- | --- | --- | --- | --- |
-|   | 20 | 21-Mar |
- |
- |
-| 12 | 21 | 26-Mar | ST: Google Earth Engine Python API |
-HW5 |
-| --- | --- | --- | --- | --- |
-|   | 22 | 28-Mar |
- |
-| 13 | 23 | 2-Apr | ST: ScienceBasePy for interaction with USGS platform |
- |
-| --- | --- | --- | --- | --- |
-|   | 24 | 4-Apr |
- |
- |
-| 14 | 25 | 9-Apr | ST: Machine learning 1 |
- |
-| --- | --- | --- | --- | --- |
-|   | 26 | 11-Apr |
- |
- |
-| 15 | 27 | 16-Apr | ST: Machine learning 2 |
- |
-| --- | --- | --- | --- | --- |
-|   | 28 | 18-Apr |
- | HW6 |
-| 16 | 29 | 23-Apr | Project presentation |
- |
-| --- | --- | --- | --- | --- |
-|   | 30 | 25-Apr | Project presentation | Final Report |
-| 17 |   | 30-Apr | Final Exam |
- |
-| --- | --- | --- | --- | --- |
+| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
+| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
+| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
+| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
+| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
+| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
+| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
+
+
+
+
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
