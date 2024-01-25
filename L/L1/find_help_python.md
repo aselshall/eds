@@ -33,7 +33,7 @@ A LLM such as [ChatGPT](https://chat.openai.com/) or [DeepSeek Coder](https://ch
 [Stack Overflow](https://stackoverflow.com/): A Q&A website where you can search for existing answers or ask your own questions about Python. You need to create an account to ask questions. Here are examples of questions asked by a [Stack Overflow user](https://stackoverflow.com/users/4734563/ase). 
 
 ## 7. Third-party websites 
-There are additional resources like [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) and [Project Pythia](https://projectpythia.org/) that provide tutorials, explanations, and cookbooks.
+There are additional resources like [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/) and [Project Pythia](https://projectpythia.org/) that provide tutorials, explanations, and cookbooks. Project pythia offers a list of [resources for envirnmental data science](https://projectpythia.org/resource-gallery.html).
 
 ## 8. Books
 There are many comprehensive books on Python programming for all levels, which can be helpful references. Your textbook [Python for Data Analysis](https://wesmckinney.com/book/) is an example for beginner level.
