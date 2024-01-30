@@ -46,7 +46,7 @@ For example,  for FV= \$1,000,000 and t = 40 years, then PM ≈ \$310.5. Note wh
 **Answer these two questions:**       
 **(1)** Write a code to check how much do you need to invest monthly to become a millionaire in 25 years? Display your answer as "For a future value of \$ 1.0 million in 25 years, you need to invist \$ 1100.0 per month". **Note** that \$ 1100.0 is rounded and the actual value is 1100.120953605599.   
   
-**(2)** Write a code to find out that if you will invest \$1000 per month, after how many years will you become a millionaire? Display your answer as "If you invisited \$1000.0 per month, you will become a milloire in 25.5 years". **Note** you need to import [math](https://docs.python.org/3/library/math.html) module to solve the exponential equation using logarithms. We did not learn logarithms, but we learned how to find functions in the documentation of the math module.   
+**(2)** Write a code to find out that if you will invest \$1000 per month, after how many years will you become a millionaire? Display your answer as "If you invisited \$1000.0 per month, you will become a milloire in 26.1 years". **Note** you need to import [math](https://docs.python.org/3/library/math.html) module to solve the exponential equation using logarithms. We did not learn logarithms, but we learned how to find functions in the documentation of the math module.   
 
 ## Problem 3 - List 
 **The objectives** of this problem is that you demonstrate that you have a good understanding python list including different methods of list, and that you can find help in python beyond what you learned in the class (e.g., to find and apply new methods that you did not learn in class).
