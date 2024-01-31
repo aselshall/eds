@@ -1,30 +1,30 @@
-Florida Gulf Coast University
-U.A. Whitaker College of Engineering
-EGN 4930/EGN 5932C Special Topic: Environmental Data Science, Spring 2024
-Last updated: Jan 4, 2024
+## EGN 4930 / EGN 5932C Special Topic : Environmental Data Science  
+Florida Gulf Coast University  
+U.A. Whitaker College of Engineering  
+Spring 2024  
+Last updated: Jan 4, 2024  
 
 ## Course Information
 
-EGN 4930/EGN 5932C Special Topic: Environmental Data Science (CRN: [15603](javascript:void%20window.open('szkschd.p_showdetail?termcode=202401&crn=15603%27,%20%27_blank%27,%20%27width=640,height=700,directories=no,toolbar=yes,resizable=no,menubar=yes,scrollbars=yes,resizable=yes%27)) /[15604](javascript:void%20window.open('szkschd.p_showdetail?termcode=202401&crn=15604%27,%20%27_blank%27,%20%27width=640,height=700,directories=no,toolbar=yes,resizable=no,menubar=yes,scrollbars=yes,resizable=yes%27)))
-Credit hours: 3
-Class: T R -- 04:30pm - 05:45pm -- Holmes Engineering 439 (Jan 9 – Apr 25)
-Exam: T -- 03:00pm - 05:15pm -- Holmes Engineering 439 (Apr 30)
+EGN 4930 / EGN 5932C Special Topic : Environmental Data Science   
+CRN: [15603](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15603) / [15604](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15604)   
+Credit hours: 3  
+Class: T R -- 04:30pm - 05:45pm -- Holmes Engineering 439 (Jan 9 – Apr 25)  
+Exam: T -- 03:00pm - 05:15pm -- Holmes Engineering 439 (Apr 30)  
 
 ## Instructor 
 
-Ahmed S. Elshall, PhD
-Assistant Professor
-Department of Bioengineering, Civil Engineering, and Environmental Engineering
-U.A. Whitaker College of Engineering Joint Appointment with The Water School
-Office: Holmes Hall 423 (inside 416)
-Phone: (239) 590-7591
-Email: [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu)
-Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)
-Office Hours:Tuesday and Thursday 8:00 am – 12:00 pm and by appointment
+Ahmed S. Elshall, PhD  
+Assistant Professor  
+Department of Bioengineering, Civil Engineering, and Environmental Engineering  
+U.A. Whitaker College of Engineering Joint Appointment with The Water School  
+Office: Holmes Hall 423 (inside 416)  
+Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
+Office Hours : Tuesday and Thursday 8:00 am – 12:00 pm and 3:00 pm - 4:00 pm, and by appointment  
 
-## Teaching assistant
-Thalia Valle Chavez
-[tvallechavez4390@eagle.fgcu.edu](mailto:tvallechavez4390@eagle.fgcu.edu)
+## Teaching Assistant
+Thalia Valle Chavez  
+Office Hours :  By appointment  
 
 ## Course Description
 
@@ -49,32 +49,30 @@ Special topics (ST) are suggested topics by the instructor and subject to change
 
 Required materials will be posted on Canvas.
 
-Textbook: Python for Data Analysis (2022), O'Reilly, 3rd Edition. This textbook is suggestive in case you like textbooks. There is no need to purchase it. Online available materials include:
+Textbook: [Python for Data Analysis](https://wesmckinney.com/book/), 2022 O'Reilly, 3rd Edition.   
+This textbook is suggestive in case you like textbooks. There is no need to purchase it and a free copy is available online.
 
+Online available materials include:
 - eBook: Scientific Python, [https://lectures.scientific-python.org](https://lectures.scientific-python.org/)
 - Course: Geo-Python, [https://geo-python-site.readthedocs.io](https://geo-python-site.readthedocs.io/en/latest/)
 - Cookbooks:[https://projectpythia.org/](https://projectpythia.org/)
 - Tutorials:[https://github.com/nasa/gesdisc-tutorials](https://github.com/nasa/gesdisc-tutorials)
 - Project: Environmental Data Driven Inquiry and Exploration (Eddie), [https://serc.carleton.edu/eddie](https://serc.carleton.edu/eddie)
-- Journal: Environmental Data Science, Cambridge University Press
-
-[https://www.cambridge.org/core/journals/environmental-data-science](https://www.cambridge.org/core/journals/environmental-data-science)
-
+- Journal: Environmental Data Science, Cambridge University Press [https://www.cambridge.org/core/journals/environmental-data-science](https://www.cambridge.org/core/journals/environmental-data-science)
 - Resource gallery:[https://projectpythia.org/resource-gallery.html](https://projectpythia.org/resource-gallery.html)
 
-**Course Learning Objectives**
+## Course Learning Objectives
 
 By the end of this course, you will be able to:
-
 - Apply basic Python programming skills and libraries related to scientific computing such as NumPy, SciPy, Pandas, Matplotlib, Xarray and Catropy
 - Write Python codes to access, manage, analyze, visualize, and share environmental data from various sources such as files, databases, dashboards, and web scraping
 - Use Python to analyze climate change data using datasets such as Coupled Model Intercomparison Project Phase 6 (CMIP6) data
 - Perform spatial analysis of environmental and water resources data using platforms and libraries such as Google Earth Engine, USGS ScienceBasePy, and FloPy
 - Execute project using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
 
-**Assessment and Grading**
+##Assessment and Grading
 
-Grading scale
+### Grading scale
 
 The instructor may elect to employ a curve that favors the students.
 
@@ -86,56 +84,45 @@ The instructor may elect to employ a curve that favors the students.
  |
  |
 
-Assessment plan (100%)
-
-Participation 10%
-
-Assignments 30%
-
-Project 30%
-
-Fina Exam 30%
+### Assessment plan (100%)
+- Participation 10%
+- Assignments 30%
+- Project 30%
+- Fina Exam 30%
 
 General notes
-
 - Grades Due from Faculty by Tuesday, 07 May 2024
 - If you are falling behind, consult the academic calendar for the last day to drop.
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
-**Participation and Attendance**
+## Participation and Attendance
 
-Participation:
-
+### Participation
 For participation assessment students are expected to:
-
 - arrive on time, and attend everyclass for the entire class period
-
 - actively participate in discussions_without_ being called upon by the instructor. Questions in class and office hours are highly encouraged
-
 - be present in class, meaning avoid web browsing, texting, off subject discussions, or other non-academic activities that impact your class participation grade
 - read assigned materials _before_ class to prepare for discussion and to incorporate what is learned from the readings in the class discussion
 - fill-out exit ticket meaningfully to provide instructor with constructive feedback and suggestions
 
-All these will be evident by the quality of your class participation, which form the majority of your participation grade.
-
-Let the instructor know at the beginning of class if you anticipate an event (e.g., emergency phone call, appointment) that will disrupt the class activities.
-
-Two warnings regarding engaging in non-class related activities will be counted as one absence.
-
-Attendance: Regular attendance in classes is expected.
-
+All these will be evident by the quality of your class participation, which form the majority of your participation grade.  
+   
+Let the instructor know at the beginning of class if you anticipate an event (e.g., emergency phone call, appointment) that will disrupt the class activities.  
+   
+Two warnings regarding engaging in non-class related activities will be counted as one absence.  
+  
+### Attendance
+Regular attendance in classes is expected.
 - Notify instructor if you anticipate missing class.
 - Students are responsible for any missed material or changes in assignments, times, dates, or due dates announced in class. Unavoidable absences do not excuse students from responsibility for course material.
 - Absences may be excused with a written explanation from a medical professional, faculty member, administration, coach or athletic director.
 - Attendance will be monitored using "sign-in sheet" for each class meeting. It is the responsibility of the student to sign-in during each class attended. A student is considered absent if his or her signature does not appear on the sign-in sheet. Forgery of signatures on a sign-in sheet is a violation of university Academic Integrity Policies and subject to disciplinary action.
 
-Tardiness:
-
+### Tardiness
 - Each two instances of excessive tardiness (\> 5 minutes) will count as one absence.
 - Two instances of leaving class early will also count as one absence.
 
-Absences:
-
+### Absences
 Unexcused absences affect the final course grade according to the following schedule:
 
 | Up to 2 Absences | No effect on final grade |
@@ -144,54 +131,45 @@ Unexcused absences affect the final course grade according to the following sche
 | 4 Absences | Final grade lowered by a one full letter grade (e.g., from A to B) |
 | 5 or more absences | Final grade of 0 assigned (Official withdrawal recommended) |
 
-**Assignments**
+## Assignments
 
 You learn a programming language by practice. Accordingly, almost a bi-weekly assignment will be posted on Canvas. Each assignment is due by Thursday at 11:59 pm, unless otherwise mentioned in class or posted on CANVAS. Assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with a variety of Python libraries and datasets of your interest.
 
-**Project**
+## Project
 
 A main learning objective is to immerse students in a project-based learning experience that integrates practical skills with a scientific mindset and engineering design approach. You are expected to work individually or in a group of two or three to develop a research question or industry-oriented problem, and use python tools to process data to provide useful information and solutions that support decisions. The project objectives are to help you to build a deeper understanding of different Python libraries and their applications in water resources and environmental data analysis, while promoting independent learning and critical thinking skills. By achieving these objectives, you will be well-equipped to leverage Python for in-depth analysis of environmental data across various domains. The instructor will be available to provide guidance and support. In addition, you will share your discoveries with the class through a presentation. A rubric for class presentation will be posted on Canvas. Attending all presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates for project abstract, interim report, and final report will be posted on Canvas. If you have a group of two or three students, a peer-assessment rubric will be posted on Canvas. The project will be graded according to the following schedule
 
 Project assessment plan
+- Abstract 10%
+- Interim report 10%
+- Project presentation 20%
+- Peer-assessment 10%
+- Final report 50%
 
-Abstract 10%
-
-Interim report 10%
-
-Project presentation 20%
-
-Peer-assessment 10%
-
-Final report 50%
-
-**Exam**
+## Exam
 
 There will be a final exam that is comprehensive and open-book.
 
-**Financial Aid Statement**
+## Financial Aid Statement
 
 As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. The confirmation of attendance is required for all students, not only those receiving financial aid.
 
-**LLM use**
+## LLM use
 
 Large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "LLM Not Permitted". Students must cite the used LLM tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
 
-**Core Syllabus Policies**
+## Core Syllabus Policies 
 
-FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these online at: [https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.fgcu.edu%2Fabout%2Fleadership%2Fofficeoftheprovost%2Fcore-syllabus-policy-statements&data=05%7C01%7Caelshall%40fgcu.edu%7C21c07c8cdefc49d28f0e08db98e7ec82%7Cf7a5a4ef4ffa4c80bfb3c12e28872099%7C0%7C0%7C638271894123358947%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=ajZanMHmWBIdeicvt627sMaij%2B3niNwY7m7idJJYB2E%3D&reserved=0)
+FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these [online](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
 
-**FGCU Writing Lab**
+## FGCU Writing Lab
 
-We're here to help students, faculty, and staff become more confident writers. To this end, we offer a variety of free services including one-on-one sessions with expert writing consultants, on-demand presentations on a range of writing-related topics and a broad selection of handouts developed specifically for the needs of the FGCU community.
+We're here to help students, faculty, and staff become more confident writers. To this end, we offer a variety of free services including one-on-one sessions with expert writing consultants, on-demand presentations on a range of writing-related topics and a broad selection of handouts developed specifically for the needs of the FGCU community. [https://www.fgcu.edu/academics/caa/writinglab/](https://www.fgcu.edu/academics/caa/writinglab/)
 
-[https://www.fgcu.edu/academics/caa/writinglab/](https://www.fgcu.edu/academics/caa/writinglab/)
-
-**High Performance Computing (HPC) Resources**
+## High Performance Computing (HPC) Resources
 
 HiPerGator AI: Access the fastest artificial intelligence supercomputer in higher education. FGCU is partnered with the University of Florida to provide faculty and students with unparalleled computing power. The possibilities are endless when applied to instruction, research, and course development. Please contact the University Help Desk to learn more.
 
-**Syllabus Change Policy**
+## Syllabus Change Policy 
 
 Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice.
-
-16
