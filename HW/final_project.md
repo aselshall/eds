@@ -99,14 +99,13 @@ Q5. **Contribution to Project Tasks (5 points):**
 Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.
 <br> 
 <br>  
-
 ### 2.1.3 Submission Instructions:
 - Individually, complete the Peer Assessment Form in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in zero credit for this part
 - Even if you are doing the project indvidually, you still need to submit this form as described above for grading purposes
-
-
+<br> 
+<br>  
 ## 2.2 Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
