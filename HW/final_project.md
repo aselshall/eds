@@ -42,7 +42,7 @@ Good luck, and we look forward to seeing your creative applications of Python in
 
 ## 2.1. Peer-Assessment (10%)
 
-### Instructions:
+### 2.1.1 Instructions:
 In the form below you will be asked to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions to the project. You need to assign a score from 0 to 4 for each criterion, where:
 
 Q1. **Understanding of Team Dynamics (5 points):**
@@ -80,7 +80,7 @@ Q5. **Contribution to Project Tasks (5 points):**
    - [ ] 1 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
    - [ ] 0 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
   
-### Peer Assessment Form:
+### 2.1.2 Peer Assessment Form:
 **Project Title:** [Insert Project Title]
 
 **Project Type** 
@@ -99,7 +99,7 @@ Provide any additional comments or feedback on the overall team collaboration. B
 <br> 
 <br>  
 
-### Submission Instructions:
+### 2.1.3 Submission Instructions:
 - Individually, complete the Peer Assessment Form in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in no credit for this part
