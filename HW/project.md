@@ -4,7 +4,7 @@ Project Assignment
 
 This project is designed to provide a hands-on experience of applying Python programming skills in environmental and water resources data analysis. It emphasizes practical application, critical thinking, and independent learning.
 
-### Project Description:
+## Project Description:
 
 You will be required to develop a research question or an industry-oriented problem related to environmental issues or water resources. Then, you will use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve the problem. The project will be conducted individually or in a group of two to three students.
 
