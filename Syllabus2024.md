@@ -42,6 +42,15 @@ These topics and dates are tentative and subject to change based on class progre
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 9-Jan  | Introduction to Environmental Data Science with Python |
 |   | 2 | 11-Jan |  |
+| 2  | 3 | 16-Jan |  |
+|   | 4 | 18-Jan |  |
+| 3  | 5 | 23-Jan |  |
+|   | 6 | 25-Jan |  |
+| 4  | 7 | 30-Jan |  |
+|   | 8 | 1-Feb |  |
+| 5 | 9 | 6-Feb |  |
+|   | 10 | 8-Feb |  |
+
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
