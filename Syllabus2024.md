@@ -42,14 +42,52 @@ These topics and dates are tentative and subject to change based on class progre
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 9-Jan  | Introduction to Environmental Data Science with Python |
 |   | 2 | 11-Jan |  |
-| 2  | 3 | 16-Jan |  |
+| 2  | 3 | 16-Jan | Basic elements of Python   |
 |   | 4 | 18-Jan |  |
-| 3  | 5 | 23-Jan |  |
+| 3  | 5 | 23-Jan | Python programming 1 |
 |   | 6 | 25-Jan |  |
-| 4  | 7 | 30-Jan |  |
+| 4  | 7 | 30-Jan | Python programming 2 |
 |   | 8 | 1-Feb |  |
-| 5 | 9 | 6-Feb |  |
+| 5 | 9 | 6-Feb | Pandas for data management |
 |   | 10 | 8-Feb |  |
+| 6  | 11 | 16-Jan | Data visualization with Matplotlib |
+|   | 12 | 18-Jan |  |
+| 7  | 13 | 23-Jan | NumPy for scientific computing |
+|   | 14 | 25-Jan |  |
+| 8  | 15 | 30-Jan | Xarray for n-dimensional geospatial data  |
+|   | 16 | 1-Feb |  |
+| 9 | | 6-Feb | Spring Break |
+|   |  | 8-Feb |  |
+| 10  | 17 | 16-Jan | Cartopy for geospatial data visualization |
+|   | 18 | 18-Jan |  |
+| 11  | 19 | 23-Jan | ST: CMIP6 data for climate change |
+|   | 20 | 25-Jan |  |
+| 12  | 21 | 30-Jan | ST: Google Earth Engine Python API  |
+|   | 22 | 1-Feb |  |
+| 13 | 23 | 6-Feb | ST: ScienceBasePy for interaction with USGS platform  |
+|   | 24 | 8-Feb |  |
+| 14  | 25 | 16-Jan | ST: Machine learning 1  |
+|   | 26 | 18-Jan |  |
+| 15  | 27 | 23-Jan | ST: Machine learning 2  |
+|   | 28 | 25-Jan |  |
+| 16  | 29 | 30-Jan | Project presentation |
+|   | 30 | 1-Feb | Project presentation  |
+| 17 |  | 6-Feb |  Final Exam |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
