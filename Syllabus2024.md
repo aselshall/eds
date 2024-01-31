@@ -40,8 +40,8 @@ These topics and dates are tentative and subject to change based on class progre
 
 | **Week** | **Lesson** | **Date** | **Topic** | **Due Date** |
 | --- | --- | --- | --- | --- |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-
+| 1 | 1 | 9-Jan  | Introduction to Environmental Data Science with Python |
+|   | 2 | 11-Jan |  |
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
@@ -105,7 +105,7 @@ For participation assessment students are expected to:
 
 All these will be evident by the quality of your class participation, which form the majority of your participation grade.  
 
-General notes:
+**Specific notes:**
 - Let the instructor know at the beginning of class if you anticipate an event (e.g., emergency phone call, appointment) that will disrupt the class activities.
 - Two warnings regarding engaging in non-class related activities will be counted as one absence.  
   
