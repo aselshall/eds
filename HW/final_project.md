@@ -52,39 +52,39 @@ Good luck, and we look forward to seeing your creative applications of Python in
 Please provide an honest and thoughtful evaluation of both your contribution and your team members' contributions to the project.Assign a score from 1 to 5 for each criterion, where:
 
 Q1. **Understanding of Team Dynamics (5 points):**
-   - [ ] 5 - Consistently demonstrates a deep understanding of team dynamics by actively: Contribute to a positive team environment, considering and respecting the perspectives of others.
-   - [ ] 4 - Generally understands team dynamics and actively participates in team discussions: Collaborate well with others but may occasionally need more awareness of team dynamics.
-   - [ ] 3 - Demonstrates a basic understanding of team dynamics and contributes when prompted: May require more active engagement in team discussions and activities.
-   - [ ] 2 - Shows limited awareness of team dynamics: Occasionally contributes but may not fully engage in team discussions or activities.
-   - [ ] 1 - Lacks understanding of team dynamics: Rarely contributes to team discussions or activities, hindering overall collaboration.
+   - [ ] 4 - Consistently demonstrates a deep understanding of team dynamics by actively: Contribute to a positive team environment, considering and respecting the perspectives of others.
+   - [ ] 3 - Generally understands team dynamics and actively participates in team discussions: Collaborate well with others but may occasionally need more awareness of team dynamics.
+   - [ ] 2 - Demonstrates a basic understanding of team dynamics and contributes when prompted: May require more active engagement in team discussions and activities.
+   - [ ] 1 - Shows limited awareness of team dynamics: Occasionally contributes but may not fully engage in team discussions or activities.
+   - [ ] 0 - Lacks understanding of team dynamics: Rarely contributes to team discussions or activities, hindering overall collaboration.
 
 Q2. **Communication and Collaboration (5 points):**
-   - [ ] 5 - Communicates effectively and collaborates seamlessly with team members: Actively listens, provides valuable input, and fosters open communication.
-   - [ ] 4 - Communicates well and collaborates effectively most of the time: Occasionally needs improvement in terms of clarity or responsiveness.
-   - [ ] 3 - Communicates adequately and collaborates when necessary: May require more consistent and proactive communication with the team.
-   - [ ] 2 - Communication is occasionally unclear or lacking, impacting collaboration: Needs to improve responsiveness and active participation.
-   - [ ] 1 - Communication is a significant challenge, hindering effective collaboration: Rarely contributes meaningfully to team discussions.
+   - [ ] 4 - Communicates effectively and collaborates seamlessly with team members: Actively listens, provides valuable input, and fosters open communication.
+   - [ ] 3 - Communicates well and collaborates effectively most of the time: Occasionally needs improvement in terms of clarity or responsiveness.
+   - [ ] 2 - Communicates adequately and collaborates when necessary: May require more consistent and proactive communication with the team.
+   - [ ] 1 - Communication is occasionally unclear or lacking, impacting collaboration: Needs to improve responsiveness and active participation.
+   - [ ] 0 - Communication is a significant challenge, hindering effective collaboration: Rarely contributes meaningfully to team discussions.
 
 Q3. **Commitment and Work Ethic (5 points):**
-   - [ ] 5 - Demonstrates a strong commitment to the project, consistently putting in extra effort: Shows a commendable work ethic and takes initiative.
-   - [ ] 4 - Generally committed to the project and displays a good work ethic: May occasionally need more proactive engagement or effort.
-   - [ ] 3 - Meets the minimum level of commitment and work ethic: May need occasional reminders or encouragement to stay engaged.
-   - [ ] 2 - Shows limited commitment and work ethic: Requires more consistent effort and a proactive approach to tasks.
-   - [ ] 1 - Lacks commitment and work ethic, impacting overall project progress: Needs a significant improvement in effort and engagement.
+   - [ ] 4 - Demonstrates a strong commitment to the project, consistently putting in extra effort: Shows a commendable work ethic and takes initiative.
+   - [ ] 3 - Generally committed to the project and displays a good work ethic: May occasionally need more proactive engagement or effort.
+   - [ ] 2 - Meets the minimum level of commitment and work ethic: May need occasional reminders or encouragement to stay engaged.
+   - [ ] 1 - Shows limited commitment and work ethic: Requires more consistent effort and a proactive approach to tasks.
+   - [ ] 0 - Lacks commitment and work ethic, impacting overall project progress: Needs a significant improvement in effort and engagement.
 
 Q4. **Reliability and Meeting Deadlines (5 points):**
-   - [ ] 5 - Consistently meets all deadlines and is highly reliable: Delivers high-quality work on time or ahead of schedule.
-   - [ ] 4 - Generally reliable and meets most deadlines: May occasionally need more attention to ensure all tasks are completed on time.
-   - [ ] 3 - Meets deadlines but may require occasional reminders: Requires improvement in consistently meeting all project timelines.
-   - [ ] 2 - Struggles to meet deadlines consistently, impacting project progress: Needs more focus on timely completion of tasks.
-   - [ ] 1 - Frequently fails to meet deadlines, significantly affecting project timelines: Requires immediate attention to improve reliability.
+   - [ ] 4 - Consistently meets all deadlines and is highly reliable: Delivers high-quality work on time or ahead of schedule.
+   - [ ] 3 - Generally reliable and meets most deadlines: May occasionally need more attention to ensure all tasks are completed on time.
+   - [ ] 2 - Meets deadlines but may require occasional reminders: Requires improvement in consistently meeting all project timelines.
+   - [ ] 1 - Struggles to meet deadlines consistently, impacting project progress: Needs more focus on timely completion of tasks.
+   - [ ] 0 - Frequently fails to meet deadlines, significantly affecting project timelines: Requires immediate attention to improve reliability.
 
 Q5. **Contribution to Project Tasks (5 points):**
-   - [ ] 5 - Consistently makes substantial and high-quality contributions to project tasks: Takes a proactive role in various aspects of the project.
-   - [ ] 4 - Generally contributes well to project tasks: May occasionally need more involvement or focus on specific areas.
-   - [ ] 3 - Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas.
-   - [ ] 2 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
-   - [ ] 1 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
+   - [ ] 4 - Consistently makes substantial and high-quality contributions to project tasks: Takes a proactive role in various aspects of the project.
+   - [ ] 3 - Generally contributes well to project tasks: May occasionally need more involvement or focus on specific areas.
+   - [ ] 2 - Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas.
+   - [ ] 1 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
+   - [ ] 0 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
 
 **Total Score:**   
 | **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Total Score** |
