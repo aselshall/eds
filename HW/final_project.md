@@ -179,3 +179,5 @@ The key is to choose a project that aligns with your interests and allows you to
 - Study datata sets that are traditional non-related such as urban water lake quality and real estate prices    
 
 Feel free to combine multiple ideas or customize them to suit your preferences. If in doubt, consult with your instructor for guidance and approval.
+
+### Grading of grad and undergrad, indvidual and group projects
