@@ -53,13 +53,13 @@ Textbook: [Python for Data Analysis](https://wesmckinney.com/book/), 2022 O'Reil
 This textbook is suggestive in case you like textbooks. There is no need to purchase it and a free copy is available online.
 
 Online available materials include:
-- eBook: Scientific Python, [https://lectures.scientific-python.org](https://lectures.scientific-python.org/)
-- Course: Geo-Python, [https://geo-python-site.readthedocs.io](https://geo-python-site.readthedocs.io/en/latest/)
-- Cookbooks:[https://projectpythia.org/](https://projectpythia.org/)
-- Tutorials:[https://github.com/nasa/gesdisc-tutorials](https://github.com/nasa/gesdisc-tutorials)
-- Project: Environmental Data Driven Inquiry and Exploration (Eddie), [https://serc.carleton.edu/eddie](https://serc.carleton.edu/eddie)
-- Journal: Environmental Data Science, Cambridge University Press [https://www.cambridge.org/core/journals/environmental-data-science](https://www.cambridge.org/core/journals/environmental-data-science)
-- Resource gallery:[https://projectpythia.org/resource-gallery.html](https://projectpythia.org/resource-gallery.html)
+- eBook: [Scientific Python](https://lectures.scientific-python.org)
+- Course: [Geo-Python](https://geo-python-site.readthedocs.io)
+- Cookbooks: [Project Pythia Cookbooks](https://projectpythia.org/)
+- Tutorials: [NASA Gesdisc Tutorials](https://github.com/nasa/gesdisc-tutorials)
+- Project: [Environmental Data Driven Inquiry and Exploration (Eddie)](https://serc.carleton.edu/eddie)
+- Journal: [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) by Cambridge University Press 
+- Resource gallery: [Project Pythia Resource Gallery](https://projectpythia.org/resource-gallery.html)
 
 ## Course Learning Objectives
 
