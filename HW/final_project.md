@@ -178,5 +178,6 @@ The key is to choose a project that aligns with your interests and allows you to
 - Explore projects related to water resources, such as analyzing groundwater levels, assessing water quality, etc.  
 - Analyze data related to air in a specific region and explore ways to visualize and interpret the findings
 - Assess environmental impact of a specific community or industry by analyzing data related to emissions, waste management, resource consumption, etc.
-- Study datata sets that are traditional non-related such as urban water lake quality and real estate prices 
+- Study datata sets that are traditional non-related such as urban water lake quality and real estate prices    
+
 Feel free to combine multiple ideas or customize them to suit your preferences. If in doubt, consult with your instructor for guidance and approval.
