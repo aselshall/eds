@@ -17,7 +17,7 @@ You will be required to develop a research question or an industry-oriented prob
 
 ## 4. Project Schedule & Assessment:
 
-To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract.
+To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You can schedule a meeting with the instructor during office hourse on Tuesday and Thursday from 8:00 to 12:pm and from 3:00 pm to 4:15 pm, or after the class.
 
 Due dates will be posted on Canvas. The project will be graded according to the following schedule:
 - 10% Project Abstract : Outline of the proposed research question or problem, methodology, and expected outcomes
@@ -102,7 +102,6 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 - In the case of individual projects, 
 
 
-
 ### 2. Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
@@ -127,6 +126,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
+
 ### 4. Final Report (50%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
@@ -139,6 +139,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 | **Conclusion and Future Work**              | Offers a comprehensive conclusion summarizing key findings and proposes meaningful suggestions for future work. | Provides a good conclusion summarizing findings and proposes reasonable suggestions for future work. | Presents a basic conclusion with some summarization and generic suggestions for future work. | Conclusion lacks depth, and future work suggestions are limited. | No clear conclusion or meaningful suggestions for future work. |
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
+
 
 ## 5. Project Presentation (20%)
 
