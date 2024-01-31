@@ -88,10 +88,10 @@ Q5. **Contribution to Project Tasks (5 points):**
 
 **Overall Score:**   
 | **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Overall Score** |
-| ---                  | ---          | ---          | ---          | ---          | ---          | ---               |
-| [Name 1]  |           |           |           |           |           |                |
-| [Name 2]  |           |           |           |           |           |                |
-| [Your name]  |           |           |           |           |           |                |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Name 1]  
+| [Name 2] 
+| [Your name]  
 
 **Additional Comments:**  
 Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.
@@ -99,7 +99,7 @@ Provide any additional comments or feedback on the overall team collaboration. B
 <br>  
 
 **Submission Instructions:**
-- Individually, complete the "Overall Score" and "Additional Comments" sections in Word or Excel file, and print it to a pdf file. 
+- Individually, complete the "Overall Score" and "Additional Comments" sections in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in no credit
 <br>
