@@ -23,7 +23,7 @@ Due dates will be posted on Canvas. The project will be graded according to the 
 - 10% Project Abstract : Outline of the proposed research question or problem, methodology, and expected outcomes
 - 10% Interim Report : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - 20% Project Presentation : Presentation of your project findings to the class
-- 10% Peer-Assessment : Evaluation of your contribution and your team members' contributions to the project
+- 10% Peer-Assessment : Evaluation of your contribution and your team members' contributions to the project (for group projects only)
 - 60% Final Report : Comprehensive report detailing your methodology, analysis, results, and conclusions
 
 Note: For groups of two or three students, a peer-assessment rubric will be provided to evaluate the contribution of each member.
@@ -42,14 +42,8 @@ Good luck, and we look forward to seeing your creative applications of Python in
 
 ## 2.1. Peer-Assessment (10%)
 
-**Project Title:** [Insert Project Title]
-
-**Project Type** 
-   - [ ] - Indvidual project: Stop here and submit file to canvas.   
-   - [ ] - Group project: Complete the form below.
-
-**Instructions:**
-Please provide an honest and thoughtful evaluation of both your contribution and your team members' contributions to the project.Assign a score from 1 to 5 for each criterion, where:
+### Instructions:
+In the form below you will be asked to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions to the project. You need to assign a score from 0 to 4 for each criterion, where:
 
 Q1. **Understanding of Team Dynamics (5 points):**
    - [ ] 4 - Consistently demonstrates a deep understanding of team dynamics by actively: Contribute to a positive team environment, considering and respecting the perspectives of others.
@@ -85,6 +79,13 @@ Q5. **Contribution to Project Tasks (5 points):**
    - [ ] 2 - Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas.
    - [ ] 1 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
    - [ ] 0 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
+  
+### Peer Assessment Form:
+**Project Title:** [Insert Project Title]
+
+**Project Type** 
+   - [ ] - Indvidual project: Stop here and read the submission instructions below.
+   - [ ] - Group project: Complete the form below and then proceed to submussion instructions. 
 
 **Total Score:**   
 | **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Total Score** |
@@ -98,12 +99,13 @@ Provide any additional comments or feedback on the overall team collaboration. B
 <br> 
 <br>  
 
-**Submission Instructions:**
-- Individually, complete the 'Total Score' and 'Additional Comments' sections in a Word or Excel file, and print it to a pdf file. 
+### Submission Instructions:
+- Individually, complete the Peer Assessment Form in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
-- Failing to submit your Peer-Assessment form will results in no credit
-<br>
-<br>
+- Failing to submit your Peer-Assessment form will results in no credit for this part
+- Even if you are doing the project indvidually, you still need this form as described above for grading purposes
+
+
 ## 2.2 Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
