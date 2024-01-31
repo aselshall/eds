@@ -86,8 +86,8 @@ Q5. **Contribution to Project Tasks (5 points):**
    - [ ] 2 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
    - [ ] 1 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
 
-**Overall Score:**   
-| **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Overall Score** |
+**Total Score:**   
+| **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Total Score** |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Name 1]  
 | [Name 2] 
@@ -99,7 +99,7 @@ Provide any additional comments or feedback on the overall team collaboration. B
 <br>  
 
 **Submission Instructions:**
-- Individually, complete the 'Overall Score' and 'Additional Comments' sections in a Word or Excel file, and print it to a pdf file. 
+- Individually, complete the 'Total Score' and 'Additional Comments' sections in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in no credit
 <br>
