@@ -159,3 +159,24 @@ Provide any additional comments or feedback on the overall team collaboration. B
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 <br>
 <br>
+
+## 3. FAQ 
+
+### Project idea 
+
+**In case I do not have a project idea, how can I find a one?**   
+   
+The key is to choose a project that aligns with your interests and allows you to demonstrate your skills in Python and environmental data analysis. Here are few suggestions:
+- Identify personal interests or environmental challenges specific to your local area
+- Explore available datasets from sources like USGS, Google Earth Engine, CMIP6, Data.GOV Database, etc. 
+- Reproduce a research paper, and you can find many research papers at different sources such as a [special issue](https://www.frontiersin.org/research-topics/22582/rapid-reproducible-and-robust-environmental-modeling-for-decision-support-worked-examples-and-open-source-software-tools/articles) or a [jounral](https://www.cambridge.org/core/journals/environmental-data-science) about environmental data science. 
+- Leverage on an existing project such the as environmental projects on [Environmental Data Driven Inquiry and Exploration (Eddie)](https://serc.carleton.edu/eddie)
+- Check tutorials such as [NASA Gesdisc Tutorials](https://github.com/nasa/gesdisc-tutorials) or cookbooks such as [Geo-Python](https://geo-python-site.readthedocs.io) to get ideas 
+- Leverage on a project that you currently doing at work or working on with your supervisor 
+- Reach out to local environmental organizations or agencies and they may have data or specific problems that you could address using your skills. For example, contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) and he will pair you with a local organization that suits your interest.
+- Analyze climate data, predict trends, or assess the potential consequences on water resources, specific ecosystem, etc. 
+- Explore projects related to water resources, such as analyzing groundwater levels, assessing water quality, etc.  
+- Analyze data related to air in a specific region and explore ways to visualize and interpret the findings
+- Assess environmental impact of a specific community or industry by analyzing data related to emissions, waste management, resource consumption, etc.
+- Study datata sets that are traditional non-related such as urban water lake quality and real estate prices 
+Feel free to combine multiple ideas or customize them to suit your preferences. If in doubt, consult with your instructor for guidance and approval.
