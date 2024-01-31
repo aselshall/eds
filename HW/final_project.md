@@ -162,7 +162,7 @@ Provide any additional comments or feedback on the overall team collaboration. B
 
 ## 3. FAQ 
 
-### In case I do not have a project idea, how can I find a one?**   
+### In case I do not have a project idea, how can I find a one?   
    
 The key is to choose a project that aligns with your interests and allows you to demonstrate your skills in Python and environmental data analysis. Here are few suggestions:
 - Identify personal interests or environmental challenges specific to your local area
