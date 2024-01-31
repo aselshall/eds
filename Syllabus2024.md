@@ -50,7 +50,7 @@ Special topics (ST) are suggested topics by the instructor and subject to change
 Required materials will be posted on Canvas.
 
 Textbook: [Python for Data Analysis](https://wesmckinney.com/book/), 2022 O'Reilly, 3rd Edition.   
-This textbook is suggestive in case you like textbooks. There is no need to purchase it and a free copy is available online.
+This textbook is suggestive in case you like textbooks. There is no need to purchase it and a [free copy](https://wesmckinney.com/book/) is available online.
 
 Online available materials include:
 - eBook: [Scientific Python](https://lectures.scientific-python.org)
