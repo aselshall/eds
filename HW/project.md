@@ -1,62 +1,109 @@
-Project Assignment
+# Project Assignment 
 
-## Objective: 
+## 1. Objective: 
 
 This project is designed to provide a hands-on experience of applying Python programming skills in environmental and water resources data analysis. It emphasizes practical application, critical thinking, and independent learning.
 
-## Project Description:
+## 2. Project Description:
 
 You will be required to develop a research question or an industry-oriented problem related to environmental issues or water resources. Then, you will use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve the problem. The project will be conducted individually or in a group of two to three students.
 
-## Your project should demonstrate your ability to:
+## 3. Your project should demonstrate your ability to:
 
 - Utilize Python libraries such as NumPy, Pandas, Matplotlib, Xarray, and Catropy
 - Access, manage, analyze, visualize, and share data from various sources
 - Perform spatial analysis using platforms and tools like Google Earth Engine, USGS ScienceBasePy, and FloPy
 - Execute a project using Python, encompassing data analysis, and visualization to address environmental and water resources challenges
 
-## Project Schedule & Assessment:
+## 4. Project Schedule & Assessment:
 
-Before you submit your project abstract you need to schedule a 15-minute meeting with the instructor to discuss your proposed project and obtain instructor approval. This is mainly to ensure the project is appropriately challenging.
+To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract.
 
 Due dates will be posted on Canvas. The project will be graded according to the following schedule:
-- Project Abstract – 10% : Outline of the proposed research question or problem, methodology, and expected outcomes
-- Interim Report – 10% : Progress report detailing the work done so far, preliminary results, and any challenges encountered
-- Project Presentation – 20% : Presentation of your project findings to the class
-- Peer-Assessment – 10% : Evaluation of contribution of each member to the project
-- Final Report – 60% : Comprehensive report detailing your methodology, analysis, results, and conclusions
+- 10% Project Abstract : Outline of the proposed research question or problem, methodology, and expected outcomes
+- 10% Interim Report : Progress report detailing the work done so far, preliminary results, and any challenges encountered
+- 20% Project Presentation : Presentation of your project findings to the class
+- 10% Peer-Assessment : Evaluation of your contribution and your team members' contributions to the project
+- 60% Final Report : Comprehensive report detailing your methodology, analysis, results, and conclusions
 
 Note: For groups of two or three students, a peer-assessment rubric will be provided to evaluate the contribution of each member.
 
-## Support:
+## 5. Support:
 
 Bear in mind that the instructor is available to provide any needed guidance and support. You're encouraged to seek help when necessary and to actively discuss your project with the instructor.
 
-## Submission:
+## 6. Submission:
 
 All submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions may result in a reduction of marks.
 
 Good luck, and we look forward to seeing your creative applications of Python in environmental data science!
 
-## FAQ
+# Rubrics 
+
+### 1. Peer-Assessment (10%)
+
+**Project Title:** [Insert Project Title]
+
+**Project Type** 
+   - [ ] - Indvidual project: Stop here and submit file to canvas.   
+   - [ ] - Group project: Complete the form below.
+
+**Instructions:**
+Please provide an honest and thoughtful evaluation of both your contribution and your team members' contributions to the project.Assign a score from 1 to 5 for each criterion, where:
+
+1. **Understanding of Team Dynamics (5 points):**
+   - [ ] 5 - Consistently demonstrates a deep understanding of team dynamics by actively: Contribute to a positive team environment, considering and respecting the perspectives of others.
+   - [ ] 4 - Generally understands team dynamics and actively participates in team discussions: Collaborate well with others but may occasionally need more awareness of team dynamics.
+   - [ ] 3 - Demonstrates a basic understanding of team dynamics and contributes when prompted: May require more active engagement in team discussions and activities.
+   - [ ] 2 - Shows limited awareness of team dynamics: Occasionally contributes but may not fully engage in team discussions or activities.
+   - [ ] 1 - Lacks understanding of team dynamics: Rarely contributes to team discussions or activities, hindering overall collaboration.
+
+2. **Communication and Collaboration (5 points):**
+   - [ ] 5 - Communicates effectively and collaborates seamlessly with team members: Actively listens, provides valuable input, and fosters open communication.
+   - [ ] 4 - Communicates well and collaborates effectively most of the time: Occasionally needs improvement in terms of clarity or responsiveness.
+   - [ ] 3 - Communicates adequately and collaborates when necessary: May require more consistent and proactive communication with the team.
+   - [ ] 2 - Communication is occasionally unclear or lacking, impacting collaboration: Needs to improve responsiveness and active participation.
+   - [ ] 1 - Communication is a significant challenge, hindering effective collaboration: Rarely contributes meaningfully to team discussions.
+
+3. **Commitment and Work Ethic (5 points):**
+   - [ ] 5 - Demonstrates a strong commitment to the project, consistently putting in extra effort: Shows a commendable work ethic and takes initiative.
+   - [ ] 4 - Generally committed to the project and displays a good work ethic: May occasionally need more proactive engagement or effort.
+   - [ ] 3 - Meets the minimum level of commitment and work ethic: May need occasional reminders or encouragement to stay engaged.
+   - [ ] 2 - Shows limited commitment and work ethic: Requires more consistent effort and a proactive approach to tasks.
+   - [ ] 1 - Lacks commitment and work ethic, impacting overall project progress: Needs a significant improvement in effort and engagement.
+
+4. **Reliability and Meeting Deadlines (5 points):**
+   - [ ] 5 - Consistently meets all deadlines and is highly reliable: Delivers high-quality work on time or ahead of schedule.
+   - [ ] 4 - Generally reliable and meets most deadlines: May occasionally need more attention to ensure all tasks are completed on time.
+   - [ ] 3 - Meets deadlines but may require occasional reminders: Requires improvement in consistently meeting all project timelines.
+   - [ ] 2 - Struggles to meet deadlines consistently, impacting project progress: Needs more focus on timely completion of tasks.
+   - [ ] 1 - Frequently fails to meet deadlines, significantly affecting project timelines: Requires immediate attention to improve reliability.
+
+5. **Contribution to Project Tasks (5 points):**
+   - [ ] 5 - Consistently makes substantial and high-quality contributions to project tasks: Takes a proactive role in various aspects of the project.
+   - [ ] 4 - Generally contributes well to project tasks: May occasionally need more involvement or focus on specific areas.
+   - [ ] 3 - Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas.
+   - [ ] 2 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
+   - [ ] 1 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
+
+**Additional Comments**  
+Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.
+
+**Overall Score**   
+Team Member 1: [Name]  - Score  ( ___ / 25)  
+Team Member 2: [Name]  - Score  ( ___ / 25)  
+Team Member 3: [Name]  - Score  ( ___ / 25)  
+
+**Submission Instructions:**
+- Please complete this form individually
+- Submit the completed form to Canvas by the due date
+- Late submission apply
+- Failing to submit your Peer-Assessment form will results in no credit
+- In the case of individual projects, 
 
 
-## Rubrics 
 
-### Peer-Assessment (10%)
-
-| Criteria                              | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
-|---------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| **Understanding of Team Dynamics**    | Demonstrates a clear understanding of team dynamics, acknowledging the contributions of all members. | Recognizes and appreciates the contributions of most team members. | Shows a basic understanding of team dynamics but may overlook some contributions. | Limited understanding of team dynamics, resulting in a lack of acknowledgment for most contributions. | Lacks understanding of team dynamics, with no recognition of team members' contributions. |
-| **Fair and Objective Evaluation**      | Provides fair and objective evaluations, considering each team member's contributions accurately. | Mostly fair and objective evaluations, with minor biases or inconsistencies. | Tends to be somewhat biased or inconsistent in evaluating team members' contributions. | Biases significantly impact the fairness of evaluations. | Evaluations are heavily biased, rendering them unreliable and unfair. |
-| **Specificity in Feedback**            | Offers specific feedback on individual contributions, highlighting strengths and areas for improvement. | Provides feedback with reasonable specificity, pointing out key strengths and areas for improvement. | Offers somewhat generic feedback with limited specificity. | Feedback lacks specificity, making it challenging for team members to understand their contributions. | No specific feedback is provided, rendering the evaluation unhelpful. |
-| **Communication Skills**              | Communicates the evaluation clearly, using appropriate language and tone. | Communicates the evaluation clearly, but there may be instances of unclear language or tone. | Communication is basic, with occasional instances of unclear language or inappropriate tone. | Communication is unclear or inconsistent, impacting the effectiveness of the evaluation. | Communication is extremely unclear or inappropriate, making it difficult for team members to understand the evaluation. |
-| **Teamwork Assessment**               | Evaluates teamwork effectively, considering collaboration, communication, and overall team cohesion. | Evaluates teamwork reasonably well, with some considerations for collaboration and communication. | Provides a basic evaluation of teamwork with limited considerations for collaboration and communication. | Teamwork assessment is unclear or lacks depth, neglecting important aspects of collaboration. | No meaningful evaluation of teamwork is provided. |
-
-*Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score. For students working alone, assign the full mark.*
-
-
-### Abstract (10%)
+### 2. Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -68,7 +115,7 @@ Good luck, and we look forward to seeing your creative applications of Python in
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
 
-### Interim Report (10%)
+### 3. Interim Report (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -80,7 +127,7 @@ Good luck, and we look forward to seeing your creative applications of Python in
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
-### Final Report (50%)
+### 4. Final Report (50%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -93,7 +140,7 @@ Good luck, and we look forward to seeing your creative applications of Python in
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
-## Project Presentation (20%)
+## 5. Project Presentation (20%)
 
 | Criteria                              | Excellent (4)                                     | Good (3)                                  | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |---------------------------------------|---------------------------------------------------|-------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
