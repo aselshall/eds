@@ -1,21 +1,21 @@
-# Project Assignment 
+# 1. Project Assignment 
 
-## 1. Objective: 
+## 1.1 Objective: 
 
 This project is designed to provide a hands-on experience of applying Python programming skills in environmental and water resources data analysis. It emphasizes practical application, critical thinking, and independent learning.
 
-## 2. Project Description:
+## 1.2 Project Description:
 
 You will be required to develop a research question or an industry-oriented problem related to environmental issues or water resources. Then, you will use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve the problem. The project will be conducted individually or in a group of two to three students.
 
-## 3. Your project should demonstrate your ability to:
+## 1.3 Your project should demonstrate your ability to:
 
 - Utilize Python libraries such as NumPy, Pandas, Matplotlib, Xarray, and Catropy
 - Access, manage, analyze, visualize, and share data from various sources
 - Perform spatial analysis using platforms and tools like Google Earth Engine, USGS ScienceBasePy, and FloPy
 - Execute a project using Python, encompassing data analysis, and visualization to address environmental and water resources challenges
 
-## 4. Project Schedule & Assessment:
+## 1.4 Project Schedule & Assessment:
 
 To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You can schedule a meeting with the instructor during office hourse on Tuesday and Thursday from 8:00 to 12:pm and from 3:00 pm to 4:15 pm, or after the class.
 
@@ -28,19 +28,19 @@ Due dates will be posted on Canvas. The project will be graded according to the 
 
 Note: For groups of two or three students, a peer-assessment rubric will be provided to evaluate the contribution of each member.
 
-## 5. Support:
+## 1.5 Support:
 
 Bear in mind that the instructor is available to provide any needed guidance and support. You're encouraged to seek help when necessary and to actively discuss your project with the instructor.
 
-## 6. Submission:
+## 1.6 Submission:
 
 All submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions may result in a reduction of marks.
 
 Good luck, and we look forward to seeing your creative applications of Python in environmental data science!
 
-# Rubrics 
+# 2. Rubrics 
 
-### 1. Peer-Assessment (10%)
+### 2.1. Peer-Assessment (10%)
 
 **Project Title:** [Insert Project Title]
 
@@ -102,7 +102,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 - In the case of individual projects, 
 
 
-### 2. Abstract (10%)
+### 2.2 Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -114,7 +114,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
 
-### 3. Interim Report (10%)
+### 2.3 Interim Report (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -127,7 +127,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
 
-### 4. Final Report (50%)
+### 2.4 Final Report (50%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -141,7 +141,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
 
-## 5. Project Presentation (20%)
+## 2.5 Project Presentation (20%)
 
 | Criteria                              | Excellent (4)                                     | Good (3)                                  | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |---------------------------------------|---------------------------------------------------|-------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
