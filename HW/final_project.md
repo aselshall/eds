@@ -99,7 +99,7 @@ Provide any additional comments or feedback on the overall team collaboration. B
 <br>  
 
 **Submission Instructions:**
-- Individually, complete the "Overall Score" and "Additional Comments" sections in a Word or Excel file, and print it to a pdf file. 
+- Individually, complete the 'Overall Score' and 'Additional Comments' sections in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in no credit
 <br>
