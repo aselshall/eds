@@ -26,7 +26,8 @@ Due dates will be posted on Canvas. The project will be graded according to the 
 - 10% Peer-Assessment : Evaluation of your contribution and your team members' contributions to the project (for group projects only)
 - 60% Final Report : Comprehensive report detailing your methodology, analysis, results, and conclusions
 
-Note: For groups of two or three students, a peer-assessment rubric will be provided to evaluate the contribution of each member.
+Note: For groups of two or three students, a [peer-assessment rubric](####-2.1.1-Instructions:) is provided to evaluate the contribution of each member. However, even if you are working individually, you still need to submit the Peer Assessment Form as instructed [below](####-2.1.3-Submission-Instructions:) for grading purposes. 
+
 
 ## 1.5 Support:
 
