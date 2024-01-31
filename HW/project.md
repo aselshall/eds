@@ -51,3 +51,18 @@ For example, here is the abstract grading rubric (10%)
 | **Feasibility and Scope**                   | Clearly outlines the feasibility and scope of the project, indicating a well-considered plan for implementation. | Provides a reasonable outline of feasibility and scope. | Offers a somewhat feasible and scoped plan. | Feasibility and scope are unclear. | Feasibility and scope are not addressed. |
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
+
+
+# Interim Report Grading Rubric (10%)
+
+| Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
+|--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| **Introduction and Background**             | Provides a comprehensive introduction, clearly defining the project's background and context. | Offers a good introduction with relevant background information. | Presents a basic introduction with some background information. | Introduction lacks depth and context. | No clear introduction or background information. |
+| **Project Objectives and Scope**            | Clearly outlines the specific objectives and scope of the project, demonstrating a well-defined plan. | Provides a reasonable outline of project objectives and scope. | Offers a somewhat clear outline of objectives and scope. | Objectives and scope are unclear. | Objectives and scope are not addressed. |
+| **Methods and Tools**                       | Clearly explains the methods and tools used for data analysis, showcasing a well-thought-out approach. | Provides a good explanation of methods and tools used. | Presents a basic overview of methods and tools. | Methods and tools are unclear or poorly explained. | Methods and tools are not addressed. |
+| **Challenges Faced**                        | Clearly identifies and discusses challenges encountered during the project, along with proposed solutions. | Recognizes and discusses challenges with some proposed solutions. | Acknowledges challenges without offering adequate solutions. | Challenges are mentioned but not discussed in-depth. | Fails to identify or address challenges. |
+| **Preliminary Findings**                    | Presents clear and insightful preliminary findings from the data analysis conducted. | Offers reasonable preliminary findings with some insights. | Provides basic preliminary findings with limited insights. | Preliminary findings lack clarity or depth. | No clear or meaningful preliminary findings. |
+
+*Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
+
+
