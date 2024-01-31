@@ -1,44 +1,32 @@
-**Florida Gulf Coast University**
-
-**U.A. Whitaker College of Engineering**
-
-**EGN 4930/EGN 5932C Special Topic: Environmental Data Science, Spring 2024**
-
+Florida Gulf Coast University
+U.A. Whitaker College of Engineering
+EGN 4930/EGN 5932C Special Topic: Environmental Data Science, Spring 2024
 Last updated: Jan 4, 2024
 
-**Course Information**
+## Course Information
 
 EGN 4930/EGN 5932C Special Topic: Environmental Data Science (CRN: [15603](javascript:void%20window.open('szkschd.p_showdetail?termcode=202401&crn=15603%27,%20%27_blank%27,%20%27width=640,height=700,directories=no,toolbar=yes,resizable=no,menubar=yes,scrollbars=yes,resizable=yes%27)) /[15604](javascript:void%20window.open('szkschd.p_showdetail?termcode=202401&crn=15604%27,%20%27_blank%27,%20%27width=640,height=700,directories=no,toolbar=yes,resizable=no,menubar=yes,scrollbars=yes,resizable=yes%27)))
-
 Credit hours: 3
-
 Class: T R -- 04:30pm - 05:45pm -- Holmes Engineering 439 (Jan 9 – Apr 25)
-
 Exam: T -- 03:00pm - 05:15pm -- Holmes Engineering 439 (Apr 30)
 
-**Instructor**
+## Instructor 
 
 Ahmed S. Elshall, PhD
-
 Assistant Professor
-
 Department of Bioengineering, Civil Engineering, and Environmental Engineering
-
 U.A. Whitaker College of Engineering Joint Appointment with The Water School
-
 Office: Holmes Hall 423 (inside 416)
-
 Phone: (239) 590-7591
-
 Email: [aelshall@fgcu.edu](mailto:aelshall@fgcu.edu)
-
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)
-
 Office Hours:Tuesday and Thursday 8:00 am – 12:00 pm and by appointment
 
-Teaching assistant: Thalia Valle Chavez, [tvallechavez4390@eagle.fgcu.edu](mailto:tvallechavez4390@eagle.fgcu.edu)
+## Teaching assistant
+Thalia Valle Chavez
+[tvallechavez4390@eagle.fgcu.edu](mailto:tvallechavez4390@eagle.fgcu.edu)
 
-**Course Description**
+## Course Description
 
 Welcome to the Environmental Data Science course. This course serves as an introduction to scientific data analysis using Python, a dynamic programming language with rich scientific computing libraries including Pandas, Matplotlib, NumPy, Xarray, and Cartopy. Throughout this course, you will not only learn these libraries but also learn how to leverage Python for the analysis and visualization of environmental and water resources data. We will explore various data sources and formats, utilizing specialized resources tailored to your interests, such as Google Earth Engine, CMIP6 datasets, and FloPy. Additionally, you will receive an introduction to the application of machine learning techniques to environmental datasets, employing Python libraries like Scikit-learn and TensorFlow.
 
@@ -46,28 +34,18 @@ This course is designed for engineering and science students, who are interested
 
 This course is project-based and with self-directed learning opportunities. Accordingly, hands-on learning and practical applications are key criteria for assessing and evaluating your progress in environmental data analysis using Python.
 
-**Course Schedule**
+## Course Schedule 
 
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative and actual deadlines will be posted of canvas.
 
 | **Week** | **Lesson** | **Date** | **Topic** | **Due Date** |
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-| 1 | 1 | 9-Jan | Introduction to Environmental Data Science with Python |
-
-
-
 
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
-**Course materials**
+## Course materials
 
 Required materials will be posted on Canvas.
 
