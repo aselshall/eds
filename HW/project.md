@@ -86,10 +86,10 @@ Please provide an honest and thoughtful evaluation of both your contribution and
    - [ ] 2 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
    - [ ] 1 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
 
-**Additional Comments**  
+**Additional Comments:**  
 Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.
 
-**Overall Score**   
+**Overall Score:**   
 Team Member 1: [Name]  - Score  ( ___ / 25)  
 Team Member 2: [Name]  - Score  ( ___ / 25)  
 Team Member 3: [Name]  - Score  ( ___ / 25)  
