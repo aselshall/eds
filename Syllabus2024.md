@@ -70,7 +70,7 @@ By the end of this course, you will be able to:
 - Perform spatial analysis of environmental and water resources data using platforms and libraries such as Google Earth Engine, USGS ScienceBasePy, and FloPy
 - Execute project using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
 
-##Assessment and Grading
+## Assessment and Grading
 
 ### Grading scale
 
@@ -81,8 +81,6 @@ The instructor may elect to employ a curve that favors the students.
 | A- | 86% to 89.99% | C+ | 73% to 75.99% | D | 60% to 62.99% |
 | B+ | 83% to 85.99% | C | 70% to 72.99% | F | Below 60% |
 | B | 80% to 82.99% | C- | 66% to 69.99% |
- |
- |
 
 ### Assessment plan (100%)
 - Participation 10%
@@ -106,17 +104,21 @@ For participation assessment students are expected to:
 - fill-out exit ticket meaningfully to provide instructor with constructive feedback and suggestions
 
 All these will be evident by the quality of your class participation, which form the majority of your participation grade.  
-   
-Let the instructor know at the beginning of class if you anticipate an event (e.g., emergency phone call, appointment) that will disrupt the class activities.  
-   
-Two warnings regarding engaging in non-class related activities will be counted as one absence.  
+
+General notes:
+- Let the instructor know at the beginning of class if you anticipate an event (e.g., emergency phone call, appointment) that will disrupt the class activities.
+- Two warnings regarding engaging in non-class related activities will be counted as one absence.  
   
 ### Attendance
 Regular attendance in classes is expected.
 - Notify instructor if you anticipate missing class.
-- Students are responsible for any missed material or changes in assignments, times, dates, or due dates announced in class. Unavoidable absences do not excuse students from responsibility for course material.
+- Students are responsible for any missed material or changes in assignments, times, dates, or due dates announced in class.
+- Unavoidable absences do not excuse students from responsibility for course material.
 - Absences may be excused with a written explanation from a medical professional, faculty member, administration, coach or athletic director.
-- Attendance will be monitored using "sign-in sheet" for each class meeting. It is the responsibility of the student to sign-in during each class attended. A student is considered absent if his or her signature does not appear on the sign-in sheet. Forgery of signatures on a sign-in sheet is a violation of university Academic Integrity Policies and subject to disciplinary action.
+- Attendance will be monitored using "sign-in sheet" for each class meeting.
+- It is the responsibility of the student to sign-in during each class attended.
+- A student is considered absent if his or her signature does not appear on the sign-in sheet.
+- Forgery of signatures on a sign-in sheet is a violation of university Academic Integrity Policies and subject to disciplinary action.
 
 ### Tardiness
 - Each two instances of excessive tardiness (\> 5 minutes) will count as one absence.
