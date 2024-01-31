@@ -103,7 +103,7 @@ Provide any additional comments or feedback on the overall team collaboration. B
 - Individually, complete the Peer Assessment Form in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in no credit for this part
-- Even if you are doing the project indvidually, you still need this form as described above for grading purposes
+- Even if you are doing the project indvidually, you still need to submit this form as described above for grading purposes
 
 
 ## 2.2 Abstract (10%)
