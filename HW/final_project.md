@@ -26,7 +26,7 @@ Due dates will be posted on Canvas. The project will be graded according to the 
 - 10% Peer-Assessment : Evaluation of your contribution and your team members' contributions to the project (for group projects only)
 - 60% Final Report : Comprehensive report detailing your methodology, analysis, results, and conclusions
 
-Note: For groups of two or three students, a [peer-assessment rubric](####-2.1.1-Instructions:) is provided to evaluate the contribution of each member. However, even if you are working individually, you still need to submit the Peer Assessment Form as instructed [below](####-2.1.3-Submission-Instructions:) for grading purposes. 
+Note: For groups of two or three students, a [peer-assessment rubric](#-Instructions:) is provided to evaluate the contribution of each member. However, even if you are working individually, you still need to submit the Peer Assessment Form as instructed [below](#-Submission-Instructions:) for grading purposes. 
 
 
 ## 1.5 Support:
@@ -43,7 +43,7 @@ Good luck, and we look forward to seeing your creative applications of Python in
 
 ## 2.1. Peer-Assessment (10%)
 
-### 2.1.1 Instructions:
+### Instructions:
 In the form below you will be asked to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions to the project. You need to assign a score from 0 to 4 for each criterion, where:
 
 Q1. **Understanding of Team Dynamics (5 points):**
@@ -81,7 +81,7 @@ Q5. **Contribution to Project Tasks (5 points):**
    - [ ] 1 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
    - [ ] 0 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
   
-### 2.1.2 Peer Assessment Form:
+### Peer Assessment Form:
 **Project Title:** [Insert Project Title]
 
 **Project Type** 
@@ -99,13 +99,14 @@ Q5. **Contribution to Project Tasks (5 points):**
 Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.
 <br> 
 <br>  
-### 2.1.3 Submission Instructions:
+### Submission Instructions:
 - Individually, complete the Peer Assessment Form in a Word or Excel file, and print it to a pdf file. 
 - Submit your pdf file to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in zero credit for this part
 - Even if you are doing the project indvidually, you still need to submit this form as described above for grading purposes
 <br> 
 <br>  
+
 ## 2.2 Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
