@@ -88,10 +88,9 @@ Q5. **Contribution to Project Tasks (5 points):**
 
 **Additional Comments:**  
 Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.
-
-
-
-
+<br> 
+<br>  
+  
 **Overall Score:**   
 | **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Overall Score** |
 | ---                  | ---          | ---          | ---          | ---          | ---          | ---               |
@@ -103,8 +102,8 @@ Provide any additional comments or feedback on the overall team collaboration. B
 - Please complete this form individually
 - Submit the completed form to Canvas by the due date (late submission apply)
 - Failing to submit your Peer-Assessment form will results in no credit
-
-
+<br>
+<br>
 ## 2.2 Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
@@ -115,8 +114,8 @@ Provide any additional comments or feedback on the overall team collaboration. B
 | **Feasibility and Scope**                   | Clearly outlines the feasibility and scope of the project, indicating a well-considered plan for implementation. | Provides a reasonable outline of feasibility and scope. | Offers a somewhat feasible and scoped plan. | Feasibility and scope are unclear. | Feasibility and scope are not addressed. |
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
-
-
+<br>
+<br>
 ## 2.3 Interim Report (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
@@ -128,8 +127,8 @@ Provide any additional comments or feedback on the overall team collaboration. B
 | **Preliminary Findings**                    | Presents clear and insightful preliminary findings from the data analysis conducted. | Offers reasonable preliminary findings with some insights. | Provides basic preliminary findings with limited insights. | Preliminary findings lack clarity or depth. | No clear or meaningful preliminary findings. |
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
-
-
+<br>
+<br>
 ## 2.4 Final Report (50%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
@@ -142,8 +141,8 @@ Provide any additional comments or feedback on the overall team collaboration. B
 | **Conclusion and Future Work**              | Offers a comprehensive conclusion summarizing key findings and proposes meaningful suggestions for future work. | Provides a good conclusion summarizing findings and proposes reasonable suggestions for future work. | Presents a basic conclusion with some summarization and generic suggestions for future work. | Conclusion lacks depth, and future work suggestions are limited. | No clear conclusion or meaningful suggestions for future work. |
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
-
-
+<br>
+<br>
 ## 2.5 Project Presentation (20%)
 
 | Criteria                              | Excellent (4)                                     | Good (3)                                  | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
@@ -155,4 +154,5 @@ Provide any additional comments or feedback on the overall team collaboration. B
 | **Time Management**                   | Presentation adheres closely to the assigned time, allowing for effective coverage of all key points. | Presentation mostly adheres to the assigned time, with minor deviations. Key points are adequately covered. | Presentation deviates noticeably from the assigned time, affecting the coverage of key points. | Significant deviations from the assigned time impact the coverage of key points. | Presentation significantly exceeds or falls short of the assigned time, compromising the coverage of key points. |
 
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
-
+<br>
+<br>
