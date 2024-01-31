@@ -40,7 +40,7 @@ Good luck, and we look forward to seeing your creative applications of Python in
 
 # 2. Rubrics 
 
-### 2.1. Peer-Assessment (10%)
+## 2.1. Peer-Assessment (10%)
 
 **Project Title:** [Insert Project Title]
 
@@ -102,7 +102,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 - In the case of individual projects, 
 
 
-### 2.2 Abstract (10%)
+## 2.2 Abstract (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -114,7 +114,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
 
-### 2.3 Interim Report (10%)
+## 2.3 Interim Report (10%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -127,7 +127,7 @@ Team Member 3: [Name]  - Score  ( ___ / 25)
 *Note: Assign numerical values (4, 3, 2, 1, 0) to each level for calculating the overall score.*
 
 
-### 2.4 Final Report (50%)
+## 2.4 Final Report (50%)
 
 | Criteria                                   | Excellent (4)                                      | Good (3)                                    | Satisfactory (2)                                  | Needs Improvement (1)                           | Inadequate (0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
