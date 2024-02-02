@@ -22,7 +22,7 @@ You can install python using different methods:
 [This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg) for example shows how to install python with anaconda, the different tools that anaconda provides, how to create a shortcut for jupyterl lab, and how to get started.
   
 ### Install python with Miniconda (recommended)
-You can install Python using Miniconda following instructions on [Geopython - Installing Python](https://geo-python-site.readthedocs.io/en/latest/course-info/installing-miniconda.html)
+You can easily install Python through Minoconda from [Minconda webpage](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html). You can find more information at [Geopython - Installing Python](https://geo-python-site.readthedocs.io/en/latest/course-info/installing-miniconda.html). 
    
 ### Install python manually (not very much recommended)
 Download the latest version for windows and follow the instruction for installation 
