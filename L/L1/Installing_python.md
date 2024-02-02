@@ -6,10 +6,10 @@ You can install python using different methods:
 - Anaconda: Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only python but also popular data science libraries and tools.[This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg) for example shows how to install python with anaconda, the different tools that anaconda provides, how to create a shortcut for jupyterl lab, and how to get started.
    - Pros: It simplifies the setup process, ensuring compatibility among packages.
    - Cons: Too much time and too much space needed and you will get a lot of tools that you will not use for this course
-- Miniconda: You can install Python using Miniconda following instructions on [Geopython - Installing Python](https://geo-python-site.readthedocs.io/en/latest/course-info/installing-miniconda.html)
+- Miniconda (this document): 
    - Pros: Light weight version of Anaconda
    - Cons: You would need to do few extra things to use Jupterlab
-- Installing Python and Jupyterlab manually (this document)
+- Installing Python manually (this document)
    - Pros: Allows for more control over specific versions
    - Cons: Requires additional effort in managing dependencies and configurations
 - FGCU AppsAnywhere (not recommended):  If you cannot install python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has anaconda.
@@ -17,6 +17,10 @@ You can install python using different methods:
      - Cons: Many features such as adding a jupyterlab extension will be disabled, old version of Python 3.8x, can creat problematic synic issue with OneDrive, etc. 
    
 ## Install python 
+### Install python with Miniconda
+You can install Python using Miniconda following instructions on [Geopython - Installing Python](https://geo-python-site.readthedocs.io/en/latest/course-info/installing-miniconda.html)
+
+### Install python manually 
 Download the latest version for windows and follow the instruction for installation 
 https://www.python.org/downloads/
 
