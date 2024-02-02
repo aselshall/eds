@@ -12,7 +12,7 @@ You can install python using different methods:
 - Installing Python and Jupyterlab manually (this document)
    - Pros: Allows for more control over specific versions
    - Cons: Requires additional effort in managing dependencies and configurations
-  - FGCU AppsAnywhere (not recommended):  If you cannot install python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has anaconda. ,
+- FGCU AppsAnywhere (not recommended):  If you cannot install python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has anaconda. ,
      - Pros: You do not need to install anything and you can use Jupyterlab on the cloud
      - Cons: Many features such as adding a jupyterlab extension will be disabled, old version of Python 3.8x, can creat problematic synic issue with OneDrive, etc. 
    
