@@ -32,8 +32,16 @@ Note: Make sure you select the right system type (32-bit or 64-bit). If you do n
 
 If you need help you can check out this [video](https://youtu.be/LQ47rIO5bTw?si=FHA1B0j0uZIn62La) or something similar.
 
-## Install jupyterlab 
+## Install Jupyterlab 
 Follow these instructions for installing jupyter lab: https://jupyter.org/install   
+
+## Run Jupyterlab
+
+### For Python with Miniconda and Anaconda
+
+Open an Anaconda Prompt and type `jupyter lab`
+
+### For Python with manual installation
 
 To run jupyterlab open Command Prompt and type 
 ````
@@ -75,8 +83,7 @@ In case you are wondering:
 - `jupyter lab` will launch the app
 - `&&` to add another command that is `exit`
 
-
-
+  
 ## Change jupyterlab shortcut icon (optional)
 Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.    
 If you do not like this icon, get any other icon that you like that has the extension `.ico`  
