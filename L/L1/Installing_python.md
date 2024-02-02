@@ -46,6 +46,11 @@ Note the `/d` switch tells the command prompt to change the directory and the dr
 Then you can start the jupyterlab as shown above, but this is tedious, so it is easier to create a shortcut that starts jupyterlab for you. 
 
 ## Create jupyterlab shortcut
+
+### For Python with Anaconda and Miniconda 
+If you installed jupyterlab through anaconda or miniconda, use an anaconda prompt and at the target cell write down `jupyter lab && exit` as shown in [this video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
+
+### For Python with manual installation  
 Right click the windows screen: `New` > `Shortcut`  
 Type the location of the item: `cmd.exe` then click next  
 Type a name for this shortcut: "JupyterLab" or any name you like and click finish   
@@ -66,7 +71,6 @@ In case you are wondering:
 - `jupyter lab` will launch the app
 - `&&` to add another command that is `exit`
 
-Note if you installed jupyterlab through anaconda, use an anaconda prompt and at the target cell write down `jupyter lab && exit` as shown in [this video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
 
 
 ## Change jupyterlab shortcut icon (optional)
