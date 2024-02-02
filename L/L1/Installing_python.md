@@ -60,7 +60,7 @@ Then you can start the Jupyterlab as shown above, but this is tedious, so it is 
 ## Create Jupyterlab shortcut
 
 ### For Python with Anaconda and Miniconda 
-If you installed Jupyterlab through Anaconda or miniconda, use an Anaconda prompt and at the target cell write down `jupyter lab && exit` as shown in [this video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
+If you installed Jupyterlab through Anaconda or miniconda, create an Anaconda prompt shortcut and at the target cell write down `jupyter lab && exit` as shown in [this video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
 
 ### For Python with manual installation  
 Right click the windows screen: `New` > `Shortcut`  
