@@ -1,11 +1,25 @@
-## Problem 1: Exploratory data analysis with Pandas (65 Points)
+# Problem 1: Exploratory data analysis with Pandas (65 Points)
 
-### Objectives 
+## Tasks
+In this problem you will repeat the steps in lesson 10 - 12 using a dataset of your interest. Also, you will use an additional method that we did not cover in class. The use of LLM is permitted and encouraged. Finally, you will report any useful information that you learned from your data analysis. 
+
+## Objective
 As outlined in the syllabus, this course emphasizes project-based learning and self-directed study opportunities. This problem provides you with the chance to explore a dataset of personal interest. The objectives of this problem are to:
 - Facilitate your learning of Pandas by engaging with a dataset that aligns with your interests
 - Provide hands-on practice to strengthen your ability to analyze tabular data
 - Enhance your proficiency in accessing, manipulating, analyzing, and visualizing large datasets using Pandas
 
+## Dataset selection
+
+Select any dataset that you are interested in. This can be a dataset that you will use in your final project. 
+Here are some datasets in case you need some suggestions. 
+[Data.GOV   Database 7121 data sets for florida]
+(https://catalog.data.gov/dataset/?q=florida+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=&_vocab_category_all_limit=0)
+[SOI Tax Stats - Data by Geographic Area]
+(https://www.irs.gov/statistics/soi-tax-stats-data-by-geographic-area)
+
+
+## Rubric 
 ### 1.1 Data Exploration (50 points)
 Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12 
 | Task                                       | Criteria                                                            | Points |
@@ -55,10 +69,10 @@ This section highlights the integration of advanced AI technologies in data anal
 - For tasks with alternative operations (marked with an asterisk), in case your dataset does not contain datetime data, students should be graded on the relevance and appropriateness of the selected operation to their dataset.
 
 
+
+
 ## Problem 2 - Water Quality analysis
 
+Red tides are caused by Karenia brevis harmful algae blooms. Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary. From your plots, at which of these two areas red tides seem more frequent? 
 
-
-
-
-
+For Karenia brevis cell count data, you can use the [current dataset](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0120767) of Physical and biological data collected along the Texas, Mississippi, Alabama, and Florida Gulf coasts in the Gulf of Mexico as part of the Harmful Algal BloomS Observing System from 1953-08-19 to 2023-07-06 (NCEI Accession 0120767).
