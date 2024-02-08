@@ -69,7 +69,7 @@ This section highlights the integration of advanced AI technologies in data anal
 - For tasks with alternative operations (marked with an asterisk), in case your dataset does not contain datetime data, students should be graded on the relevance and appropriateness of the selected operation to their dataset.
 
   
-## Problem 2 - Water Quality analysis (35 points)
+## Problem 2 - Water quality analysis (35 points)
 
 Red tides are caused by Karenia brevis harmful algae blooms. Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary. From your plots, at which of these two areas red tides seem more frequent? 
 
