@@ -74,22 +74,6 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 30 | 25-Apr |  | Final report
 | 17 |  | 30-Apr |  Final Exam |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
 ## Course materials
@@ -123,8 +107,9 @@ By the end of this course, you will be able to:
 
 The instructor may elect to employ a curve that favors the students.
 
-| A | 90% or above | B- | 76% to 79.99% | D+ | 63% to 65.99% |
+| Grade | Range | Grade| Range | Grade | Range |
 | --- | --- | --- | --- | --- | --- |
+| A | 90% or above | B- | 76% to 79.99% | D+ | 63% to 65.99% |
 | A- | 86% to 89.99% | C+ | 73% to 75.99% | D | 60% to 62.99% |
 | B+ | 83% to 85.99% | C | 70% to 72.99% | F | Below 60% |
 | B | 80% to 82.99% | C- | 66% to 69.99% |
@@ -198,6 +183,12 @@ Project assessment plan
 - Project presentation 20%
 - Peer-assessment 10%
 - Final report 50%
+
+## Late Assignments and Project Policy
+
+- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
+- Once the solutions and grades are posted, late submissions will not be accepted, and a score of zero will be assigned
+- Check [Execused Absence Policy](#Execused-Absence-Policy) for details
 
 ## Exam
 
