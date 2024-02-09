@@ -83,7 +83,7 @@ Required materials will be posted on Canvas.
 
 Textbook: [Python for Data Analysis](https://wesmckinney.com/book/), 2022 O'Reilly, 3rd Edition.  
     - This textbook is suggestive in case you like textbooks
-    - [free copy](https://wesmckinney.com/book/) is available online
+    - free copy](https://wesmckinney.com/book/) is available online
 
 Online available materials include:
 - eBook: [Scientific Python](https://lectures.scientific-python.org)
