@@ -12,6 +12,7 @@ As outlined in the syllabus, this course emphasizes project-based learning and s
 - Facilitate your learning of Pandas by engaging with a dataset that aligns with your interests
 - Enhance your proficiency in accessing, manipulating, analyzing, and visualizing large datasets in `csv` format using Pandas
 - Provide hands-on practice to strengthen your ability to analyze tabular data
+- Practice presenting information in a structured and engaging manner, ability to articulate their findings clearly and concisely using appropriate visualizations or narrative explanations, and critical thinking to determine which aspects of the data are most relevant or significant and how to effectively communicate those information
    
 ### Dataset selection
 Select a dataset that aligns with the learning objectives for this assignment. When choosing a dataset, consider the following:
