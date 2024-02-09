@@ -149,7 +149,7 @@ Explore a Pandas method that was not covered in class but piques your interest o
 </table>
 
 #### Task 3. Information discovries (5 points)
-In this section, report any valuable information and findings derived from your data analysis.
+Report any valuable information and findings derived from your data analysis.
 <table>
     <thead>
         <tr>
@@ -168,7 +168,7 @@ In this section, report any valuable information and findings derived from your 
 </table>
 
 #### Task 4. LLM usage (5 points)
-This section highlights the integration of advanced AI technologies in data analysis workflows and showcases your ability to leverage cutting-edge tools for effective problem-solving. In this section, document the specific instances where you utilized a Large Language Model (LLM) such as GPT-3.5 for problem-solving during this assignment and discuss your overall experience of using LLM. 
+Highlight the integration of advanced AI technologies in data analysis workflows and showcases your ability to leverage cutting-edge tools for effective problem-solving. In this section, document the specific instances where you utilized a Large Language Model (LLM) such as GPT-3.5 for problem-solving during this assignment and discuss your overall experience of using LLM. 
 <table>
     <thead>
         <tr>
