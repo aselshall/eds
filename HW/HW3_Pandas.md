@@ -43,7 +43,7 @@ Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12
     <tbody>
         <tr>
             <td>1. Data Selection</td>
-            <td>Appropriateness of dataset and citation</td>
+            <td>Appropriateness of dataset and proper citation</td>
             <td>5</td>
         </tr>
         <tr>
