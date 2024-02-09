@@ -206,6 +206,23 @@ Image Credit: [Lokers et al. 2016](https://doi.org/10.1016/j.envsoft.2016.07.017
   
 ## Problem 2 - Water quality analysis (35 points)
 
+### Problem statement
 Red tides are caused by Karenia brevis harmful algae blooms. Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
 
+### Dataset
 For Karenia brevis cell count data, you can use the [current dataset](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0120767) of Physical and biological data collected along the Texas, Mississippi, Alabama, and Florida Gulf coasts in the Gulf of Mexico as part of the Harmful Algal BloomS Observing System from 1953-08-19 to 2023-07-06 (NCEI Accession 0120767). For direct data download, you can use this [data link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/habsos_20230714.csv) and this [data documentation link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/Support%20Documents/).  Alternatively, FWRI documents Karenia brevis blooms from 1953 to the present. The dataset has more than 200,000 records is updated daily. To request this dataset email: HABdata@MyFWC.com. To learn more about this data, check the [FWRI  Red Tide  Red Tide Current Status](https://myfwc.com/research/redtide/statewide/).
+
+### Rubric
+The student's performance on this homework problem will be evaluated based on the ability to collect and organize the data, perform data analysis and visualization, interpret the results, and communicate the findings in a clear and concise manner as follows.
+1. Data Collection and Preparation (10 points)
+- Correctly downloaded and imported the dataset from the provided data link or requested the dataset from FWRI as instructed.
+- Successfully filtered and subsetted the data for Tampa Bay and Charlotte Harbor estuary regions based on the provided latitude and longitude constraints.
+2. Data Analysis and Visualization (15 points)
+- Accurately extracted the maximum concentration of Karenia brevis cell counts per week from the dataset for both Tampa Bay and Charlotte Harbor estuary.
+- Created a clear and informative plot(s) of the maximum concentration of Karenia brevis cell counts per week for the whole dataset and for each region.
+3. Interpretation and Conclusion (5 points)
+- Provided a brief interpretation of the plots, including any noticeable patterns, trends, or anomalies in the Karenia brevis cell counts over time and between the two regions.
+- Discussed relevant assumptions or limitations. 
+4. Code Quality and Documentation (5 points)
+- Submitted a well-structured and commented Python code, demonstrating a good understanding of Pandas and good coding practices
+- Proper citation of the used AI-LLM and data source.
