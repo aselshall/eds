@@ -164,8 +164,9 @@ Regular attendance in classes is expected.
 ### Absences and Final Grade Policy
 Unexcused absences affect the final course grade according to the following schedule:
 
-| Up to 2 Absences | No effect on final grade |
+| Absences | Effect on final grade |
 | --- | --- |
+| Up to 2 Absences | No effect on final grade |
 | 3 Absences | Final grade lowered by half later grade (e.g., from A to A-) |
 | 4 Absences | Final grade lowered by a one full letter grade (e.g., from A to B) |
 | 5 or more absences | Final grade of 0 assigned (Official withdrawal recommended) |
