@@ -1,8 +1,12 @@
 ## Problem 1: Exploratory data analysis with Pandas (65 Points)
 
 ### Tasks
-In this problem you will repeat the steps in lesson 10 - 12 using a dataset of your interest. Also, you will use an additional method that we did not cover in class. The use of LLM is permitted and encouraged. Finally, you will report any useful information that you learned from your data analysis. 
-
+Perform the following tasks:
+- Repeat the steps in Lessons 10 - 12 Pansas Primer using a dataset of your interest
+- Use one method that we did not cover in class in your analysis
+- Report some useful information that you learned from your data analysis
+- Document your use of LLM to debug your code and get help
+ 
 ### Objective
 As outlined in the syllabus, this course emphasizes project-based learning and self-directed study opportunities. This problem provides you with the chance to explore a dataset of personal interest. The objectives of this problem are to:
 - Facilitate your learning of Pandas by engaging with a dataset that aligns with your interests
@@ -10,14 +14,15 @@ As outlined in the syllabus, this course emphasizes project-based learning and s
 - Enhance your proficiency in accessing, manipulating, analyzing, and visualizing large datasets using Pandas
 
 ### Dataset selection
+Select a dataset that aligns with the learning objectives for this assignment. When choosing a dataset, consider the following:
+- **Personal Interest:** Select a dataset related to your domain of interest or final project 
+- **Size:** The dataset should contain enough rows and columns to allow you to demonstrate a variety of Pandas functionalities. As a guideline, aim for at least 50,000 rows and 5-10 columns. This is just one suggestion, but do what interest you most. 
+- **Data Types:** Choose a dataset with a mix of numeric and non-numeric columns. The inclusion of date/time data and geographic data provides additional opportunities to practice Pandas time-series capabilities and geospatial features.
+- **Suggested Datasets:** In case you do not have a dataset in mind, here are few suggestions: 
+   - Public government databases: [Data.GOV   Database 7121 data sets for florida](https://catalog.data.gov/dataset/?q=florida+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=&_vocab_category_all_limit=0)
+   - Tax data:[SOI Tax Stats - Data by Geographic Area](https://www.irs.gov/statistics/soi-tax-stats-data-by-geographic-area)
 
-Select any dataset that you are interested in. This can be a dataset that you will use in your final project. 
-Here are some datasets in case you need some suggestions. 
-[Data.GOV   Database 7121 data sets for florida]
-(https://catalog.data.gov/dataset/?q=florida+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=&_vocab_category_all_limit=0)
-[SOI Tax Stats - Data by Geographic Area]
-(https://www.irs.gov/statistics/soi-tax-stats-data-by-geographic-area)
-
+The instructor is available to provide guidance if you need help selecting an appropriate dataset. Reach out with any questions!
 
 ### Rubric 
 #### 1.1 Data Exploration (50 points)
