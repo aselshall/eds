@@ -25,7 +25,7 @@ Select a dataset that aligns with the learning objectives for this assignment. W
 The instructor is available to provide guidance if you need help selecting an appropriate dataset. Reach out with any questions!
 
 ### Rubric 
-#### 1.1 Data exploration (50 points)
+#### Task 1. Data exploration (50 points)
 Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12 
 <table>
     <thead>
@@ -129,7 +129,7 @@ Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12
     </tbody>
 </table>
 
-#### 1.2 New Pandas method exploration (5 points)
+#### Task 2. New Pandas method exploration (5 points)
 Explore a Pandas method that was not covered in class but piques your interest or aligns with your dataset analysis. Demonstrate its usage with examples from your dataset. Here are some suggestions:  `.agg()` method, `.pivot_table()` methods, `.stack()` and `.unstack()`methods, `.merge()` and `.join()`methods, `.cut()` and `.qcut()` methods. `.explode()` method, `.shift()`method, `.rolling()` method, `.duplicated()` and `.drop_duplicates()` methods, and many more. 
 <table>
     <thead>
@@ -148,7 +148,7 @@ Explore a Pandas method that was not covered in class but piques your interest o
     </tbody>
 </table>
 
-#### 1.3 Information discovries (5 points)
+#### Task 3. Information discovries (5 points)
 In this section, report any valuable information and findings derived from your data analysis.
 <table>
     <thead>
@@ -167,7 +167,7 @@ In this section, report any valuable information and findings derived from your 
     </tbody>
 </table>
 
-#### 1.4 LLM usage (5 points)
+#### Task 4. LLM usage (5 points)
 This section highlights the integration of advanced AI technologies in data analysis workflows and showcases your ability to leverage cutting-edge tools for effective problem-solving. In this section, document the specific instances where you utilized a Large Language Model (LLM) such as GPT-3.5 for problem-solving during this assignment and discuss your overall experience of using LLM. 
 <table>
     <thead>
@@ -194,7 +194,7 @@ This section highlights the integration of advanced AI technologies in data anal
 - For tasks with alternative operations (marked with an asterisk), in case your dataset does not contain datetime data, students should be graded on the relevance and appropriateness of the selected operation to their dataset.
 
 
-For Task 1.3 Information discovries (5 points), these two figures will help you to understand the data-information-knowledge-wisdom hierarchy at the science-policy interface. 
+For Task 3. Information discovries (5 points), these two figures will help you to understand the data-information-knowledge-wisdom hierarchy at the science-policy interface. 
   
 ![Image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6V0Xfqp86y2Jvzbmi5p8EQFtGTZtt65jGMEysrnAhqX7d7taK5dwzB6-fLx3Rdmdqm4nkSuKU4uSzjTeneGFCC_G1MwQFu4NN1_OWDYkjLgFhZhcwod5rJfPtDOrfr_Z35h8HKf_eA8jbO6NdTpGLbvswpm1oJCVAL5YakduNO2CnEx5zd4S4hUY/s850/DKIW.JPG)   
 Image Credit: [Cannas et al. 2019](https://doi.org/10.1093/af/vfz005)
