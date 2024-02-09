@@ -23,8 +23,7 @@ Select a dataset that aligns with the learning objectives for this assignment. W
 - **Suggested Datasets:** In case you do not have a dataset in mind, here are few suggestions: 
    - Florida public government databases: [Data.GOV   Database 7121 data sets for florida](https://catalog.data.gov/dataset/?q=florida+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=&_vocab_category_all_limit=0)
    - Tax data: [SOI Tax Stats - Data by Geographic Area](https://www.irs.gov/statistics/soi-tax-stats-data-by-geographic-area)
-   - https://www.kaggle.com/datasets?fileType=csv
-   - Find Open Datasets and Machine Learning Projects - Kaggle: [Kaggle csv data](https://www.kaggle.com/datasets?fileType=csv)
+   - Kaggle Open Datasets and Machine Learning Projects: [Kaggle csv data](https://www.kaggle.com/datasets?fileType=csv)
 
 The instructor is available to provide guidance if you need help selecting an appropriate dataset. Please reach out with any questions!
 
