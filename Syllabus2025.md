@@ -156,22 +156,25 @@ All these will be evident by the quality of your class participation, which form
 - Let the instructor know at the beginning of class if you anticipate an event (e.g., emergency phone call, appointment) that will disrupt the class activities.
 - Two warnings regarding engaging in non-class related activities will be counted as one absence.  
   
-### Attendance
+### Attendance Policy
 Regular attendance in classes is expected.
 - Notify instructor if you anticipate missing class.
 - Students are responsible for any missed material or changes in assignments, times, dates, or due dates announced in class.
 - Unavoidable absences do not excuse students from responsibility for course material.
-- Absences may be excused with a written explanation from a medical professional, faculty member, administration, coach or athletic director.
 - Attendance will be monitored using "sign-in sheet" for each class meeting.
 - It is the responsibility of the student to sign-in during each class attended.
 - A student is considered absent if his or her signature does not appear on the sign-in sheet.
 - Forgery of signatures on a sign-in sheet is a violation of university Academic Integrity Policies and subject to disciplinary action.
 
-### Tardiness
+### Tardiness Policy
 - Each two instances of excessive tardiness (\> 5 minutes) will count as one absence.
 - Two instances of leaving class early will also count as one absence.
 
-### Absences
+### Execused Absence Policy
+- Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
+- Absence will be execused after the verification of the submitted document
+
+### Absences and Final Grade Policy
 Unexcused absences affect the final course grade according to the following schedule:
 
 | Up to 2 Absences | No effect on final grade |
