@@ -196,7 +196,7 @@ Project assessment plan
 - There will be a final exam that is comprehensive and open-book
 - Makeup exam may be provided for [execused absence](#Execused-Absence-Policy)
 
-## Academic Behavior Standards and Academic Dishonesty  
+## Academic Dishonesty  
 - Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
 - Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission, and will be strictly addressed in line with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
 - Zero tolerance is enforced, and such behavior is extremely disruptive.
