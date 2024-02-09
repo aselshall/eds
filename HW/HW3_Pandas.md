@@ -25,19 +25,19 @@ Select a dataset that aligns with the learning objectives for this assignment. W
 The instructor is available to provide guidance if you need help selecting an appropriate dataset. Reach out with any questions!
 
 ### Rubric 
-#### 1.1 Data Exploration (50 points)
+#### 1.1 Data exploration (50 points)
 Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12 
 | Task                                       | Criteria                                                            | Points |
 |--------------------------------------------|---------------------------------------------------------------------|--------|
-| 1. Data Collection                         | Evidence of data collection, appropriateness of dataset and citation   | 3      |
-| 2. Read CSV File                           | Correctly read into DataFrame with Pandas                           | 3      |
-| 3. Display DataFrame                       | Properly displayed with head/tail/info                              | 3      |
+| 1. Data Collection                         | Appropriateness of dataset and citation                             | 5      |
+| 2. Read CSV File                           | Correctly read into DataFrame with Pandas                           | 1      |
+| 3. Display DataFrame                       | Properly displayed with head/tail/info                              | 2      |
 | 4. Filter Columns by Labels                | Accurate filtering, demonstrated understanding                      | 3      |
 | 5. Filter Columns by Keyword               | Accurate filtering, demonstrated understanding                      | 3      |
-| 6. Filter Rows by Value                    | Correct filtering by numeric and non-numeric values                 | 4      |
-| 7. Datetime Index*                          | Appropriate datetime conversion and indexing, or suitable alternative operation | 4 |
+| 6. Filter Rows by Value                    | Correct filtering by numeric and non-numeric values                 | 3      |
+| 7. Datetime Index*                          | Appropriate datetime conversion and indexing, or suitable alternative operation | 3 |
 | 8. Descriptive Statistics                  | Comprehensive descriptive statistics provided                       | 3      |
-| 9. Resampling of Time-Series Data*          | Correct application of resampling techniques, or suitable alternative if no datetime | 4 |
+| 9. Resampling of Time-Series Data*          | Correct application of resampling techniques, or suitable alternative if no datetime | 3 |
 | 10. Groupby                                | Correct usage of groupby for data aggregation                       | 3      |
 | 11. Slicing with loc & iloc                | Accurate slicing techniques demonstrated                           | 3      |
 | 12. Dicing                                 | Correct dicing of DataFrame to obtain smaller portions              | 3      |
@@ -45,20 +45,28 @@ Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12
 | 14. Datetime Column Subsetting*             | Correct subsetting using Datetime, or suitable alternative operation | 3     |
 | 15. Quick Plots of Data                    | Creation of insightful plots that aid in data understanding         | 3      |
 | 16. Operations on DataFrame                | Appropriate and effective operations applied to DataFrame           | 3      |
-| 17. Iterating over Rows                    | (Bonus) Successful iteration over DataFrame rows for additional insights | 2 (bonus) |
+| 17. Iterating over Rows                    | (Bonus) Successful iteration over DataFrame rows for additional insights | 1 (bonus) |
 | 18. Save & Load DataFrame                  | Correctly saved to and loaded from file                             | 3      |
 
-#### 1.2 Pandas Method Exploration (5 points)
-In this section, explore a Pandas method that was not covered in class but piques your interest or aligns with your dataset analysis. Demonstrate its usage with examples from your dataset. Here are some suggestions:  `.agg()` method, `.pivot_table()` methods, `.stack()` and `.unstack()`methods, `.merge()` and `.join()`methods, `.cut()` and `.qcut()` methods. `.explode()` method, `.shift()`method, `.rolling()` method, `.duplicated()` and `.drop_duplicates()` methods, and many more. 
+#### 1.2 New Pandas method exploration (5 points)
+Explore a Pandas method that was not covered in class but piques your interest or aligns with your dataset analysis. Demonstrate its usage with examples from your dataset. Here are some suggestions:  `.agg()` method, `.pivot_table()` methods, `.stack()` and `.unstack()`methods, `.merge()` and `.join()`methods, `.cut()` and `.qcut()` methods. `.explode()` method, `.shift()`method, `.rolling()` method, `.duplicated()` and `.drop_duplicates()` methods, and many more. 
 | Task            | Criteria                                                                 | Points |
 |-----------------|--------------------------------------------------------------------------|--------|
 | 19. New Method  | Successful demonstration of a new Pandas method not covered in class, with clear explanation and proper application to the dataset | 5      |
 
-#### 1.3 Information (5 points)
-In this section, report any insights or useful information that you learned about your data from this analysis
+#### 1.3 Information Discovries (5 points)
+In this section, report any valuable information and findings derived from your data analysis.
 | Task        | Criteria                                                             | Points |
 |-------------|----------------------------------------------------------------------|--------|
-| 19. Information | Insightful report detailing valuable findings from the analysis, including patterns, anomalies, or other relevant observations | 5      |
+| 19. Dtion | Clear and informative report outlining valuable findings from the analysis, including patterns, anomalies, or other relevant observations | 5      |
+
+This two figures will help you to understand the data-information-knowledge-wisdom hierarchy and the science policy interface. 
+
+![Image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6V0Xfqp86y2Jvzbmi5p8EQFtGTZtt65jGMEysrnAhqX7d7taK5dwzB6-fLx3Rdmdqm4nkSuKU4uSzjTeneGFCC_G1MwQFu4NN1_OWDYkjLgFhZhcwod5rJfPtDOrfr_Z35h8HKf_eA8jbO6NdTpGLbvswpm1oJCVAL5YakduNO2CnEx5zd4S4hUY/s850/DKIW.JPG)
+Image Credit: [Cannas et al. 2019](https://doi.org/10.1093/af/vfz005)
+  
+![Image2](https://ars.els-cdn.com/content/image/1-s2.0-S1364815216304194-gr1_lrg.jpg)
+Image Credit: [Lokers et al. 2016](https://doi.org/10.1016/j.envsoft.2016.07.017)
 
 #### 1.4 LLM Usage (5 points)
 This section highlights the integration of advanced AI technologies in data analysis workflows and showcases your ability to leverage cutting-edge tools for effective problem-solving. In this section, document the specific instances where you utilized a Large Language Model (LLM) such as GPT-3.5 for problem-solving during this assignment and discuss your overall experience of using LLM. 
