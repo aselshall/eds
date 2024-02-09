@@ -35,14 +35,14 @@ Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12
 | 4. Filter Columns by Labels                | Accurate filtering, demonstrated understanding                      | 3      |
 | 5. Filter Columns by Keyword               | Accurate filtering, demonstrated understanding                      | 3      |
 | 6. Filter Rows by Value                    | Correct filtering by numeric and non-numeric values                 | 3      |
-| 7. Datetime Index*                          | Appropriate datetime conversion and indexing, or suitable alternative operation | 3 |
+| 7. Datetime Index*                          | Appropriate datetime conversion and indexing, or alternative if no datetime | 3 |
 | 8. Descriptive Statistics                  | Comprehensive descriptive statistics provided                       | 3      |
-| 9. Resampling of Time-Series Data*          | Correct application of resampling techniques, or suitable alternative if no datetime | 3 |
+| 9. Resampling of Time-Series Data*          | Correct application of resampling techniques, or alternative if no datetime | 3 |
 | 10. Groupby                                | Correct usage of groupby for data aggregation                       | 3      |
 | 11. Slicing with loc & iloc                | Accurate slicing techniques demonstrated                           | 3      |
 | 12. Dicing                                 | Correct dicing of DataFrame to obtain smaller portions              | 3      |
 | 13. Slicing and Dicing Together            | Effective combination of slicing and dicing to extract data         | 3      |
-| 14. Datetime Column Subsetting*             | Correct subsetting using Datetime, or suitable alternative operation | 3     |
+| 14. Datetime Column Subsetting*             | Correct subsetting using Datetime, or alternative if no datetime | 3     |
 | 15. Quick Plots of Data                    | Creation of insightful plots that aid in data understanding         | 3      |
 | 16. Operations on DataFrame                | Appropriate and effective operations applied to DataFrame           | 3      |
 | 17. Iterating over Rows                    | (Bonus) Successful iteration over DataFrame rows for additional insights | 1 (bonus) |
