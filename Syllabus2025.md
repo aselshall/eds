@@ -1,8 +1,8 @@
 ## EGN 4930 / EGN 5932C Special Topic : Environmental Data Science  
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-Spring 2025
-Syllabus link: https://aselshall.github.io/eds/Syllabus2025
+Spring 2025  
+Syllabus link: https://aselshall.github.io/eds/Syllabus2025  
 Last updated: Jan 4, 2024  
 
 ## Course Information
