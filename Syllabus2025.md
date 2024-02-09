@@ -1,7 +1,8 @@
 ## EGN 4930 / EGN 5932C Special Topic : Environmental Data Science  
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-Spring 2024  
+Spring 2025
+Syllabus link: https://aselshall.github.io/eds/Syllabus2025
 Last updated: Jan 4, 2024  
 
 ## Course Information
@@ -11,7 +12,6 @@ CRN: [15603](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=20
 Credit hours: 3  
 Class: T R -- 04:30pm - 05:45pm -- Holmes Engineering 439 (Jan 9 – Apr 25)  
 Exam: T -- 03:00pm - 05:15pm -- Holmes Engineering 439 (Apr 30)  
-Syllabus link: https://aselshall.github.io/eds/Syllabus2025
 
 ## Instructor 
 
