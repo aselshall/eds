@@ -81,9 +81,10 @@ Special topics (ST) are suggested topics by the instructor and subject to change
 
 Required materials will be posted on Canvas.
 
-Textbook: [Python for Data Analysis](https://wesmckinney.com/book/), 2022 O'Reilly, 3rd Edition.  
-    - This textbook is suggestive in case you like textbooks
-    - free copy](https://wesmckinney.com/book/) is available online
+Textbook: 
+- [Python for Data Analysis](https://wesmckinney.com/book/), 2022 O'Reilly, 3rd Edition
+- [Digital copy](https://wesmckinney.com/book/) is available as open access
+- This textbook is suggestive in case you like textbooks
 
 Online available materials include:
 - eBook: [Scientific Python](https://lectures.scientific-python.org)
@@ -196,10 +197,9 @@ Project assessment plan
 - There will be a final exam that is comprehensive and open-book
 - Makeup exam may be provided for [execused absence](#Execused-Absence-Policy)
 
-## Academic Dishonesty  
-- Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
+## Policy for Academic Integrity Violations 
 - Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission, and will be strictly addressed in line with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
-- Zero tolerance is enforced, and such behavior is extremely disruptive.
+- Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
 
 ## Financial Aid Statement
 
