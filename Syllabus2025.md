@@ -173,7 +173,7 @@ Regular attendance in classes is expected.
 ### Execused Absence Policy
 - Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director.
 - Absence will be execused after the verification of the submitted document
-- Any attempt to forge or falsify documents will be taken very seriously and may result in disciplinary actions in accordance with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)
+- Any attempt to falsify documents will be taken very seriously in accordance with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf)
 
 ### Absences and Final Grade Policy
 Unexcused absences affect the final course grade according to the following schedule:
