@@ -192,11 +192,11 @@ Highlight the integration of advanced AI technologies in data analysis workflows
 </table>
 
 **Additional Notes:**
-- Students should adhere to best practices in coding and data analysis.
+- Students should adhere to best practices in coding.
 - Comments and documentation in the code are expected to explain the steps and logic.
-- Graders should consider the clarity and thoroughness of the student's approach and explanations.
+- Grade will be based on the clarity and thoroughness of the student's approach and explanations
 - Points may be deducted for incorrect applications, lack of explanations, or failure to meet the criteria as outlined.
-- For tasks with alternative operations (marked with an asterisk), in case your dataset does not contain datetime data, students should be graded on the relevance and appropriateness of the selected operation to their dataset.
+- Tasks with alternative operations (marked with an asterisk) is for the case that your dataset does not contain datetime data. Students should be graded on the relevance and appropriateness of the alternative selected operation to their dataset.
 
 **Additional Information:**   
    
