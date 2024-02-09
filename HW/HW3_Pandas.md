@@ -11,7 +11,7 @@ Perform the following tasks:
 As outlined in the syllabus, this course emphasizes project-based learning and self-directed study opportunities. This problem provides you with the chance to explore a dataset of personal interest. The objectives of this problem are to:
 - Facilitate your learning of Pandas by engaging with a dataset that aligns with your interests
 - Provide hands-on practice to strengthen your ability to analyze tabular data
-- Enhance your proficiency in accessing, manipulating, analyzing, and visualizing large datasets using Pandas
+- Enhance your proficiency in accessing, manipulating, analyzing, and visualizing large datasets in `csv` format using Pandas
 
 ### Dataset selection
 Select a dataset that aligns with the learning objectives for this assignment. When choosing a dataset, consider the following:
