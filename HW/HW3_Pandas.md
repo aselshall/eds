@@ -48,6 +48,109 @@ Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12
 | 17. Iterating over Rows                    | (Bonus) Successful iteration over DataFrame rows for additional insights | 1 (bonus) |
 | 18. Save & Load DataFrame                  | Correctly saved to and loaded from file                             | 3      |
 
+
+<table>
+    <thead>
+        <tr>
+            <th>Task</th>
+            <th>Criteria</th>
+            <th>Points</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1. Data Collection</td>
+            <td>Appropriateness of dataset and citation</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>2. Read CSV File</td>
+            <td>Correctly read into DataFrame with Pandas</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>3. Display DataFrame</td>
+            <td>Properly displayed with head/tail/info</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>4. Filter Columns by Labels</td>
+            <td>Accurate filtering, demonstrated understanding</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>5. Filter Columns by Keyword</td>
+            <td>Accurate filtering, demonstrated understanding</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>6. Filter Rows by Value</td>
+            <td>Correct filtering by numeric and non-numeric values</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>7. Datetime Index*</td>
+            <td>Appropriate datetime conversion and indexing, or alternative if no datetime</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>8. Descriptive Statistics</td>
+            <td>Comprehensive descriptive statistics provided</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>9. Resampling of Time-Series Data*</td>
+            <td>Correct application of resampling techniques, or alternative if no datetime</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>10. Groupby</td>
+            <td>Correct usage of groupby for data aggregation</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>11. Slicing with loc & iloc</td>
+            <td>Accurate slicing techniques demonstrated</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>12. Dicing</td>
+            <td>Correct dicing of DataFrame to obtain smaller portions</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>13. Slicing and Dicing Together</td>
+            <td>Effective combination of slicing and dicing to extract data</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>14. Datetime Column Subsetting*</td>
+            <td>Correct subsetting using Datetime, or alternative if no datetime</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>15. Quick Plots of Data</td>
+            <td>Creation of insightful plots that aid in data understanding</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>16. Operations on DataFrame</td>
+            <td>Appropriate and effective operations applied to DataFrame</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>17. Iterating over Rows</td>
+            <td>(Bonus) Successful iteration over DataFrame rows for additional insights</td>
+            <td>1 (bonus)</td>
+        </tr>
+        <tr>
+            <td>18. Save & Load DataFrame</td>
+            <td>Correctly saved to and loaded from file</td>
+            <td>3</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 1.2 New Pandas method exploration (5 points)
 Explore a Pandas method that was not covered in class but piques your interest or aligns with your dataset analysis. Demonstrate its usage with examples from your dataset. Here are some suggestions:  `.agg()` method, `.pivot_table()` methods, `.stack()` and `.unstack()`methods, `.merge()` and `.join()`methods, `.cut()` and `.qcut()` methods. `.explode()` method, `.shift()`method, `.rolling()` method, `.duplicated()` and `.drop_duplicates()` methods, and many more. 
 | Task            | Criteria                                                                 | Points |
