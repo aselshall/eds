@@ -14,6 +14,7 @@ As outlined in the syllabus, this course emphasizes project-based learning and s
 - Provide hands-on practice to strengthen your ability to analyze tabular data with mixed data types
 - Engage in critical thinking to extract useful infromation from raw data 
 - Practice articulating your findings clearly and concisely using visualizations or narrative explanations
+- Improve your skills in using AI-LLM for independent and self-directed learning
  
 ### Dataset selection
 Select a dataset that aligns with the learning objectives for this assignment. When choosing a dataset, consider the following:
