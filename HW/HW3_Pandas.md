@@ -22,7 +22,7 @@ Select a dataset that aligns with the learning objectives for this assignment. W
    - Florida public government databases: [Data.GOV   Database 7121 data sets for florida](https://catalog.data.gov/dataset/?q=florida+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=&_vocab_category_all_limit=0)
    - Tax data: [SOI Tax Stats - Data by Geographic Area](https://www.irs.gov/statistics/soi-tax-stats-data-by-geographic-area)
 
-The instructor is available to provide guidance if you need help selecting an appropriate dataset. Reach out with any questions!
+The instructor is available to provide guidance if you need help selecting an appropriate dataset. Please reach out with any questions!
 
 ### Rubric 
 #### Task 1. Data exploration (50 points)
