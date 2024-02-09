@@ -148,7 +148,7 @@ Explore a Pandas method that was not covered in class but piques your interest o
     </tbody>
 </table>
 
-#### 1.3 Information Discovries (5 points)
+#### 1.3 Information discovries (5 points)
 In this section, report any valuable information and findings derived from your data analysis.
 <table>
     <thead>
@@ -167,15 +167,7 @@ In this section, report any valuable information and findings derived from your 
     </tbody>
 </table>
 
-These two figures will help you to understand the data-information-knowledge-wisdom hierarchy at the science-policy interface. 
-
-![Image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6V0Xfqp86y2Jvzbmi5p8EQFtGTZtt65jGMEysrnAhqX7d7taK5dwzB6-fLx3Rdmdqm4nkSuKU4uSzjTeneGFCC_G1MwQFu4NN1_OWDYkjLgFhZhcwod5rJfPtDOrfr_Z35h8HKf_eA8jbO6NdTpGLbvswpm1oJCVAL5YakduNO2CnEx5zd4S4hUY/s850/DKIW.JPG)   
-Image Credit: [Cannas et al. 2019](https://doi.org/10.1093/af/vfz005)
-  
-![Image2](https://ars.els-cdn.com/content/image/1-s2.0-S1364815216304194-gr1_lrg.jpg)    
-Image Credit: [Lokers et al. 2016](https://doi.org/10.1016/j.envsoft.2016.07.017)
-
-#### 1.4 LLM Usage (5 points)
+#### 1.4 LLM usage (5 points)
 This section highlights the integration of advanced AI technologies in data analysis workflows and showcases your ability to leverage cutting-edge tools for effective problem-solving. In this section, document the specific instances where you utilized a Large Language Model (LLM) such as GPT-3.5 for problem-solving during this assignment and discuss your overall experience of using LLM. 
 <table>
     <thead>
@@ -200,6 +192,15 @@ This section highlights the integration of advanced AI technologies in data anal
 - Graders should consider the clarity and thoroughness of the student's approach and explanations.
 - Points may be deducted for incorrect applications, lack of explanations, or failure to meet the criteria as outlined.
 - For tasks with alternative operations (marked with an asterisk), in case your dataset does not contain datetime data, students should be graded on the relevance and appropriateness of the selected operation to their dataset.
+
+
+For Task 1.3 Information discovries (5 points), these two figures will help you to understand the data-information-knowledge-wisdom hierarchy at the science-policy interface. 
+  
+![Image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6V0Xfqp86y2Jvzbmi5p8EQFtGTZtt65jGMEysrnAhqX7d7taK5dwzB6-fLx3Rdmdqm4nkSuKU4uSzjTeneGFCC_G1MwQFu4NN1_OWDYkjLgFhZhcwod5rJfPtDOrfr_Z35h8HKf_eA8jbO6NdTpGLbvswpm1oJCVAL5YakduNO2CnEx5zd4S4hUY/s850/DKIW.JPG)   
+Image Credit: [Cannas et al. 2019](https://doi.org/10.1093/af/vfz005)
+  
+![Image2](https://ars.els-cdn.com/content/image/1-s2.0-S1364815216304194-gr1_lrg.jpg)    
+Image Credit: [Lokers et al. 2016](https://doi.org/10.1016/j.envsoft.2016.07.017)
 
   
 ## Problem 2 - Water quality analysis (35 points)
