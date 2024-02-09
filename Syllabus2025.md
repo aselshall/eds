@@ -196,6 +196,11 @@ Project assessment plan
 - There will be a final exam that is comprehensive and open-book
 - Makeup exam may be provided for [execused absence](#Execused-Absence-Policy)
 
+## Academic Behavior Standards and Academic Dishonesty  
+- Familiarize yourself with the [FGCU Student Guidebook](https://www.fgcu.edu/studentlife/studentconduct/) that outlines the consequences for academic integrity violations.
+- Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission, and will be strictly addressed in line with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
+- Zero tolerance is enforced, and such behavior is extremely disruptive.
+
 ## Financial Aid Statement
 
 As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. The confirmation of attendance is required for all students, not only those receiving financial aid.
