@@ -3,9 +3,9 @@
 ### Tasks
 Perform the following tasks:
 - Repeat the steps in Lessons 10 - 12 Pansas Primer using a dataset of your interest
-- Use one method that we did not cover in class in your analysis
-- Report some useful information that you learned from your data analysis
-- Document your use of LLM to debug your code and get help
+- Apply a Pandas method that was not introduced in class in your data analysis
+- Present noteworthy information uncovered from your data exploration
+- Document your use of AI-LLM in debugging your code and seeking help during the process
  
 ### Objective
 As outlined in the syllabus, this course emphasizes project-based learning and self-directed study opportunities. This problem provides you with the chance to explore a dataset of personal interest. The objectives of this problem are to:
@@ -15,7 +15,7 @@ As outlined in the syllabus, this course emphasizes project-based learning and s
 
 ### Dataset selection
 Select a dataset that aligns with the learning objectives for this assignment. When choosing a dataset, consider the following:
-- **Personal Interest:** Select a dataset related to your domain of interest or final project 
+- **Personal Interest:** Select a dataset related to your domain of interest or your final project 
 - **Size:** The dataset should contain enough rows and columns to allow you to demonstrate a variety of Pandas functionalities. As a guideline, aim for at least 50,000 rows and 5-10 columns. This is just one suggestion, but do what you want and what interests you most. 
 - **Data Types:** Choose a dataset with a mix of numeric and non-numeric columns. The inclusion of datetime data and geographic data provides additional opportunities to practice Pandas time-series capabilities and geospatial features.
 - **Suggested Datasets:** In case you do not have a dataset in mind, here are few suggestions: 
