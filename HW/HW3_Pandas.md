@@ -17,7 +17,7 @@ As outlined in the syllabus, this course emphasizes project-based learning and s
 Select a dataset that aligns with the learning objectives for this assignment. When choosing a dataset, consider the following:
 - **Personal Interest:** Select a dataset related to your domain of interest or final project 
 - **Size:** The dataset should contain enough rows and columns to allow you to demonstrate a variety of Pandas functionalities. As a guideline, aim for at least 50,000 rows and 5-10 columns. This is just one suggestion, but do what you want and what interests you most. 
-- **Data Types:** Choose a dataset with a mix of numeric and non-numeric columns. The inclusion of date/time data and geographic data provides additional opportunities to practice Pandas time-series capabilities and geospatial features.
+- **Data Types:** Choose a dataset with a mix of numeric and non-numeric columns. The inclusion of datetime data and geographic data provides additional opportunities to practice Pandas time-series capabilities and geospatial features.
 - **Suggested Datasets:** In case you do not have a dataset in mind, here are few suggestions: 
    - Public government databases: [Data.GOV   Database 7121 data sets for florida](https://catalog.data.gov/dataset/?q=florida+&sort=views_recent+desc&ext_location=&ext_bbox=&ext_prev_extent=&_vocab_category_all_limit=0)
    - Tax data:[SOI Tax Stats - Data by Geographic Area](https://www.irs.gov/statistics/soi-tax-stats-data-by-geographic-area)
