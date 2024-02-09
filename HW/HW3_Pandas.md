@@ -2,10 +2,10 @@
 
 ### Tasks
 Perform the following tasks:
-- Repeat the steps in Lessons 10 - 12 Pansas Primer using a dataset of your interest
-- Apply a Pandas method that was not introduced in class in your data analysis
-- Present noteworthy information uncovered from your data exploration
-- Document your use of AI-LLM in debugging your code and seeking help during the process
+1. Repeat the steps in Lessons 10 - 12 Pansas Primer using a dataset of your interest
+2. Apply a Pandas method that was not introduced in class in your data analysis
+3. Present noteworthy information uncovered from your data exploration
+4. Document your use of AI-LLM in debugging your code and seeking help during the process
  
 ### Learning objectives
 As outlined in the syllabus, this course emphasizes project-based learning and self-directed study opportunities. This problem provides you with the chance to explore a dataset of personal interest. The objectives of this problem are to:
