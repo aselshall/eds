@@ -193,7 +193,7 @@ This section highlights the integration of advanced AI technologies in data anal
 - Points may be deducted for incorrect applications, lack of explanations, or failure to meet the criteria as outlined.
 - For tasks with alternative operations (marked with an asterisk), in case your dataset does not contain datetime data, students should be graded on the relevance and appropriateness of the selected operation to their dataset.
 
-
+**Additional Information:**
 For Task 3. Information discovries (5 points), these two figures will help you to understand the data-information-knowledge-wisdom hierarchy at the science-policy interface. 
   
 ![Image1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6V0Xfqp86y2Jvzbmi5p8EQFtGTZtt65jGMEysrnAhqX7d7taK5dwzB6-fLx3Rdmdqm4nkSuKU4uSzjTeneGFCC_G1MwQFu4NN1_OWDYkjLgFhZhcwod5rJfPtDOrfr_Z35h8HKf_eA8jbO6NdTpGLbvswpm1oJCVAL5YakduNO2CnEx5zd4S4hUY/s850/DKIW.JPG)   
