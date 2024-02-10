@@ -44,13 +44,13 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 2 | 11-Jan | Getting Started with JupyterLab and Python |
 | 2  | 3 | 16-Jan | Python Basics 1 - Variables and functions |
 |   | 4 | 18-Jan |  Python Basics 2 - Python data structures |
-| 3  | 5 | 23-Jan | Python Basics 3 - Text formatting | HW1 |
-|   | 6 | 25-Jan |  Python Programming 1 - Loops |
+| 3  | 5 | 23-Jan | Python Basics 3 - Text formatting |
+|   | 6 | 25-Jan |  Python Programming 1 - Loops | HW1 |
 | 4  | 7 | 30-Jan | Python programming 2 - Conditional statements |
 |   | 8 | 1-Feb | Python programming 3 - Functions |
 | 5 | 9 | 6-Feb | Python programming 4 - Modules |
-|   | 10 | 8-Feb | Pandas 1 - Handling large data with csv format|
-| 6  | 11 | 13-Feb | Pandas 2 - Wrangling of spreadsheet data| HW 2 |
+|   | 10 | 8-Feb | Pandas 1 - Handling large data with csv format| HW 2 |
+| 6  | 11 | 13-Feb | Pandas 2 - Wrangling of spreadsheet data|
 |   | 12 | 15-Feb | Pandas 3 - Analysis and visualization of speadsheet data |  
 | 7  | 13 | 20-Feb | AI-LLM in JupyterLab to boost productivity|
 |   | 14 | 22-Feb |  Data visualization with Matplotlib | HW3 |
@@ -58,8 +58,8 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 16 | 29-Feb | Xarray for n-dimensional geospatial data | HW4 |
 | 9 | | 5-Mar | Spring Break |
 |   |  | 7-Mar | Spring Break |
-| 10  | 17 | 12-Mar | Cartopy for geospatial data visualization 1 | Project Abstract |
-|   | 18 | 14-Mar |  Cartopy for geospatial data visualization 2 |
+| 10  | 17 | 12-Mar | Cartopy for geospatial data visualization 1 |  
+|   | 18 | 14-Mar |  Cartopy for geospatial data visualization 2 | Project Abstract |
 | 11  | 19 | 19-Mar | ST: CMIP6 data for climate change |
 |   | 20 | 21-Mar | ST: Google Earth Engine Python API 1 |
 | 12  | 21 | 26-Mar | ST: Google Earth Engine Python API 2 |
