@@ -52,7 +52,7 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 10 | 8-Feb | Pandas 1 - Handling large data with csv format| HW 2 |
 | 6  | 11 | 13-Feb | Pandas 2 - Wrangling of spreadsheet data|
 |   | 12 | 15-Feb | Pandas 3 - Analysis and visualization of speadsheet data |  
-| 7  | 13 | 20-Feb | JupyterLab-AI for boosting productivity|
+| 7  | 13 | 20-Feb | JupyterLab-AI to boost learning and productivity|
 |   | 14 | 22-Feb |  Data visualization with Matplotlib | HW3 |
 | 8  | 15 | 27-Feb | NumPy for scientific computing   |
 |   | 16 | 29-Feb | Xarray for n-dimensional geospatial data | HW4 |
