@@ -43,7 +43,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 1 | 1 | 9-Jan  | Introduction to Environmental Data Science with Python |
 |   | 2 | 11-Jan | Getting Started with JupyterLab and Python |
 | 2  | 3 | 16-Jan | Python Basics 1 - Variables and functions |
-|   | 4 | 18-Jan |  Python Basics 2 - Python lists |
+|   | 4 | 18-Jan |  Python Basics 2 - Python data structures |
 | 3  | 5 | 23-Jan | Python Basics 3 - Text formatting | HW1 |
 |   | 6 | 25-Jan |  Python Programming 1 - Loops |
 | 4  | 7 | 30-Jan | Python programming 2 - Conditional statements |
@@ -58,12 +58,12 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 16 | 29-Feb | Xarray for n-dimensional geospatial data | HW4 |
 | 9 | | 5-Mar | Spring Break |
 |   |  | 7-Mar | Spring Break |
-| 10  | 17 | 12-Mar | Cartopy for geospatial data visualization | Project Abstract |
-|   | 18 | 14-Mar |  |
+| 10  | 17 | 12-Mar | Cartopy for geospatial data visualization 1 | Project Abstract |
+|   | 18 | 14-Mar |  Cartopy for geospatial data visualization 2 |
 | 11  | 19 | 19-Mar | ST: CMIP6 data for climate change |
-|   | 20 | 21-Mar |  |
-| 12  | 21 | 26-Mar | ST: Google Earth Engine Python API  |
-|   | 22 | 28-Mar |  | HW5 |
+|   | 20 | 21-Mar | ST: Google Earth Engine Python API 1 |
+| 12  | 21 | 26-Mar | ST: Google Earth Engine Python API 2 |
+|   | 22 | 28-Mar | ST: Google Earth Engine Python API 3 | HW5 |
 | 13 | 23 | 2-Apr | ST: ScienceBasePy for interaction with USGS platform  |
 |   | 24 | 4-Apr |  |
 | 14  | 25 | 9-Apr | ST: Machine learning 1  | Interim report
