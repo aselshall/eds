@@ -41,7 +41,7 @@ These topics and dates are tentative and subject to change based on class progre
 | **Week** | **Lesson** | **Date** | **Topic** | **Due Date** |
 | --- | --- | --- | --- | --- |
 | 1 | 1 | 9-Jan  | Introduction to Environmental Data Science with Python |
-|   | 2 | 11-Jan | Getting Started with JupyterLab and Python |
+|   | 2 | 11-Jan | Getting Started with JupyterLab and Python | Python Installation |
 | 2  | 3 | 16-Jan | Python Basics 1 - Variables and functions |
 |   | 4 | 18-Jan |  Python Basics 2 - Python data structures |
 | 3  | 5 | 23-Jan | Python Basics 3 - Text formatting |
