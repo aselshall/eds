@@ -53,7 +53,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 6  | 11 | 13-Feb | Pandas 2 - Wrangling of spreadsheet data|
 |   | 12 | 15-Feb | Pandas 3 - Analysis and visualization of speadsheet data |  
 | 7  | 13 | 20-Feb | AI-LLM in JupyterLab to boost productivity|
-|   | 14 | 22-Feb |  Data visualization with Matplotlib | HW3 |
+|   | 14 | 22-Feb |  Matplotlib for data visualization | HW3 |
 | 8  | 15 | 27-Feb | NumPy for scientific computing   |
 |   | 16 | 29-Feb | Xarray for n-dimensional geospatial data | HW4 |
 | 9 | | 5-Mar | Spring Break |
