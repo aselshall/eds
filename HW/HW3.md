@@ -229,7 +229,7 @@ Create new columns `Weekly_Index_Tampa` and `Weekly_Index_Naples`, and use the m
 Hints:
 - Create a function with if-condition to classify bloom impact based on maximum concentration per week. The function will take the maximum concentration per week and return bloom index (0-4).
 - Apply this function to the DataFrame as we learned in '4.16 Applying operations to a DataFrame'
-- For the histogram to select from index 1 - 4 you can use dicing as we learned in `4.12 Dicing`
+- For the histogram to select from index 1 - 4 you can use dicing as we learned in '4.12 Dicing'
 - You can use the `.plot.hist()` method of Pandas
   
 
