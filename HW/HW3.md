@@ -218,13 +218,48 @@ Image Credit: [Lokers et al. 2016](https://doi.org/10.1016/j.envsoft.2016.07.017
 Task 1: Red tides are caused by Karenia brevis harmful algae blooms. Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
 
 Task 2: FWRI classifies Karenia brevis abundance based on cell counts as described here [here](https://myfwc.com/research/redtide/statewide/) as follows:   
-| Index | Description   | K. brevis abundance   | Possible effects (K. brevis only) |
-|------| ------|------|------|
-| 0 | NOT PRESENT- BACKGROUND | background levels of 1,000 cells or less | no effects anticipated |
-| 1 | VERY LOW      | > 1,000 - 10,000 cells/L | possible respiratory irritation; shellfish harvesting closures when cell abundance equals or exceeds 5,000 cells/L |
-| 2 | LOW           | > 10,000 - 100,000 cells/L | respiratory irritation; shellfish harvesting closures; possible fish kills; probable detection of chlorophyll by satellites at upper range of cell abundance |
-| 3 | MEDIUM        | > 100,000 - 1,000,000 cells/L | respiratory irritation; shellfish harvesting closures; probable fish kills; detection of surface chlorophyll by satellites |
-| 4 | HIGH          | > 1,000,000 cells/L     | as above, plus water discoloration |
+<table>
+  <thead>
+    <tr>
+      <th>Index</th>
+      <th>Description</th>
+      <th>K. brevis abundance</th>
+      <th>Possible effects (K. brevis only)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td>NOT PRESENT- BACKGROUND</td>
+      <td>background levels of 1,000 cells or less</td>
+      <td>no effects anticipated</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>VERY LOW</td>
+      <td>> 1,000 - 10,000 cells/L</td>
+      <td>possible respiratory irritation; shellfish harvesting closures when cell abundance equals or exceeds 5,000 cells/L</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>LOW</td>
+      <td>> 10,000 - 100,000 cells/L</td>
+      <td>respiratory irritation; shellfish harvesting closures; possible fish kills; probable detection of chlorophyll by satellites at upper range of cell abundance</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>MEDIUM</td>
+      <td>> 100,000 - 1,000,000 cells/L</td>
+      <td>respiratory irritation; shellfish harvesting closures; probable fish kills; detection of surface chlorophyll by satellites</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HIGH</td>
+      <td>> 1,000,000 cells/L</td>
+      <td>as above, plus water discoloration</td>
+    </tr>
+  </tbody>
+</table>
   
 Create new columns `Weekly_Index_Tampa` and `Weekly_Index_Naples`, and use the maximum concentration of K. brevis (cells/L) per week to do weekly classifcation of bloom impact per week for the two regions of Tampa Bay and Charlotte Harbor estuary for the whole dataset. For example, if the max concentration in week 1 is 50,000 cells/L in Tampa Bay and 1,500,000 cell/L in Charlotte Harbor estuary, then the first rows in `Weekly_Index_Tampa` and `Weekly_Index_Naples` will have the values of 2 and 4, respectively. If the max concentration in a given week is 0 then the index will be 0 and so on. Create a histogram plot for only index values 1 to 4 for the two regions.  For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
 
