@@ -189,10 +189,10 @@ Project assessment plan
 - Final report 50%
 
 ## Late Assignments and Project Policy
-- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
-- Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
+- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
+- Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
 ## Exam
 - There will be a final exam that is comprehensive and open-book
