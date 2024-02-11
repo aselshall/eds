@@ -7,11 +7,6 @@
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
-## Late Assignments and Project Policy
-- Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
-- Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
-- Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
-   
 ## Problem 1: Exploratory data analysis with Pandas (65 Points)
 
 ### Tasks
