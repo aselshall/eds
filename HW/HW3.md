@@ -223,10 +223,14 @@ Image Credit: [Lokers et al. 2016](https://doi.org/10.1016/j.envsoft.2016.07.017
 ### Dataset
 Red tides are caused by Karenia brevis harmful algae blooms. For Karenia brevis cell count data, you can use the [current dataset](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0120767) of Physical and biological data collected along the Texas, Mississippi, Alabama, and Florida Gulf coasts in the Gulf of Mexico as part of the Harmful Algal BloomS Observing System from 1953-08-19 to 2023-07-06 (NCEI Accession 0120767). For direct data download, you can use this [data link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/habsos_20230714.csv) and this [data documentation link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/Support%20Documents/).  Alternatively, FWRI documents Karenia brevis blooms from 1953 to the present. The dataset has more than 200,000 records is updated daily. To request this dataset email: HABdata@MyFWC.com. To learn more about this data, check the [FWRI  Red Tide  Red Tide Current Status](https://myfwc.com/research/redtide/statewide/).
 
-### Problem statement
-Task 1: Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
+### Study areas
+Conduct your analysis in Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
 
-Task 2: FWRI classifies Karenia brevis abundance based on cell counts as described here [here](https://myfwc.com/research/redtide/statewide/) as follows:   
+### Problem statement
+
+**Task 1:** Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary.
+ 
+**Task 2:** FWRI classifies Karenia brevis abundance based on cell counts as described [here](https://myfwc.com/research/redtide/statewide/) as follows:   
 <table>
   <thead>
     <tr>
@@ -273,9 +277,7 @@ Task 2: FWRI classifies Karenia brevis abundance based on cell counts as describ
 Create new columns `Weekly_Index_Tampa` and `Weekly_Index_Naples`, and use the maximum concentration of K. brevis (cells/L) per week to do weekly classifcation of bloom impact per week for the two regions of Tampa Bay and Charlotte Harbor estuary for the whole dataset. For example, if the max concentration in week 1 is 50,000 cells/L in Tampa Bay and 1,500,000 cell/L in Charlotte Harbor estuary, then the first rows in `Weekly_Index_Tampa` and `Weekly_Index_Naples` will have the values of 2 and 4, respectively. If the max concentration in a given week is 0 then the index will be 0 and so on. 
    
 Create a histogram plot for only index values 1 to 4 for the two regions.  
-  
-For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
-  
+
 Hints:
 - Create a function with if-condition to classify bloom impact based on maximum concentration per week. The function will take the maximum concentration per week and return bloom index (0-4).
 - Apply this function to the DataFrame as we learned in '4.16 Applying operations to a DataFrame'
