@@ -2,7 +2,7 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2024  
-Syllabus link: https://aselshall.github.io/eds/admin/live_syllabus2025  
+Syllabus link: https://aselshall.github.io/eds/admin/live_syllabus2024  
 Last updated: Feb 9, 2024  
 
 ## Course Information
