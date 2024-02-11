@@ -217,7 +217,7 @@ Image Credit: [Lokers et al. 2016](https://doi.org/10.1016/j.envsoft.2016.07.017
 
 Task 1: Red tides are caused by Karenia brevis harmful algae blooms. Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
 
-Task 2: FWRI classifies Karenia brevis abundance based on cell counts as described here [here](https://myfwc.com/research/redtide/statewide/) as follows:
+Task 2: FWRI classifies Karenia brevis abundance based on cell counts as described here [here](https://myfwc.com/research/redtide/statewide/) as follows:   
 | Index | Description   | K. brevis abundance   | Possible effects (K. brevis only) |
 |------| ------|------|------|
 | 0 | NOT PRESENT- BACKGROUND | background levels of 1,000 cells or less | no effects anticipated |
