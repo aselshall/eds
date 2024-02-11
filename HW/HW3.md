@@ -1,7 +1,7 @@
 # [Homework 3](https://aselshall.github.io/eds/HW/HW3)
 
 ## Late Submission Policy
-- If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
+- If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations
 - Deadline maybe extended for execused absences
 - Absence excuse requires written documentation from a certified medical professional, faculty member, administration, coach, or athletic director
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
