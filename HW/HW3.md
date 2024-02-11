@@ -261,8 +261,12 @@ Task 2: FWRI classifies Karenia brevis abundance based on cell counts as describ
   </tbody>
 </table>
   
-Create new columns `Weekly_Index_Tampa` and `Weekly_Index_Naples`, and use the maximum concentration of K. brevis (cells/L) per week to do weekly classifcation of bloom impact per week for the two regions of Tampa Bay and Charlotte Harbor estuary for the whole dataset. For example, if the max concentration in week 1 is 50,000 cells/L in Tampa Bay and 1,500,000 cell/L in Charlotte Harbor estuary, then the first rows in `Weekly_Index_Tampa` and `Weekly_Index_Naples` will have the values of 2 and 4, respectively. If the max concentration in a given week is 0 then the index will be 0 and so on. Create a histogram plot for only index values 1 to 4 for the two regions.  For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
-
+Create new columns `Weekly_Index_Tampa` and `Weekly_Index_Naples`, and use the maximum concentration of K. brevis (cells/L) per week to do weekly classifcation of bloom impact per week for the two regions of Tampa Bay and Charlotte Harbor estuary for the whole dataset. For example, if the max concentration in week 1 is 50,000 cells/L in Tampa Bay and 1,500,000 cell/L in Charlotte Harbor estuary, then the first rows in `Weekly_Index_Tampa` and `Weekly_Index_Naples` will have the values of 2 and 4, respectively. If the max concentration in a given week is 0 then the index will be 0 and so on. 
+   
+Create a histogram plot for only index values 1 to 4 for the two regions.  
+  
+For Tampa Bay, restrict the Karenia brevis measurements from 27° N to 28° N and 85° W to coast. For Charlotte Harbor estuary, restrict the Karenia brevis measurements from 25.5° N to less than 27° N and 85° W to coast.
+  
 Hints:
 - Create a function with if-condition to classify bloom impact based on maximum concentration per week. The function will take the maximum concentration per week and return bloom index (0-4).
 - Apply this function to the DataFrame as we learned in '4.16 Applying operations to a DataFrame'
