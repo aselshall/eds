@@ -46,11 +46,11 @@ These topics and dates are tentative and subject to change based on class progre
 | 2  | 3 | 16-Jan | Python Basics 1 - Variables and functions |
 |   | 4 | 18-Jan |  Python Basics 2 - Python data structures |
 | 3  | 5 | 23-Jan | Python Basics 3 - Text formatting |
-|   | 6 | 25-Jan |  Python Programming 1 - Loops | HW1 Python Basics |
+|   | 6 | 25-Jan |  Python Programming 1 - Loops | HW1 Basics |
 | 4  | 7 | 30-Jan | Python programming 2 - Conditional statements |
 |   | 8 | 1-Feb | Python programming 3 - Functions |
 | 5 | 9 | 6-Feb | Python programming 4 - Modules |
-|   | 10 | 8-Feb | Pandas 1 - Handling large data with csv format| HW 2 Python Programming |
+|   | 10 | 8-Feb | Pandas 1 - Handling large data with csv format| HW 2 Programming |
 | 6  | 11 | 13-Feb | Pandas 2 - Wrangling of spreadsheet data|
 |   | 12 | 15-Feb | Pandas 3 - Analysis and visualization of speadsheet data |  
 | 7  | 13 | 20-Feb | JupyterLab-AI to boost learning and productivity|
