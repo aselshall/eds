@@ -228,7 +228,7 @@ Conduct your analysis in Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, 
 
 ### Problem statement
 
-**Task 1:** Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for the two regions of Tampa Bay and Charlotte Harbor estuary.
+**Task 1:** Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for each of the regions of Tampa Bay and Charlotte Harbor estuary.
  
 **Task 2:** FWRI classifies Karenia brevis abundance based on cell counts as described [here](https://myfwc.com/research/redtide/statewide/) as follows:   
 <table>
