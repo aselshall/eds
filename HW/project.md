@@ -8,34 +8,17 @@ You are expected to conduct a project using Python on a water or environmental i
 
 ### 1.2 Project Objectives
 
-Your project should demonstrate your ability to:
-1. conduct a project using Python, encompassing data analysis, and visualization to address a water or environmental issue of your choice
-2. develop a research question or problem statement that guides your analysis 
-3. skillfully access, manage, wrangle, and analyze complex datasets from diverse sources, including Google Earth Engine, USGS ScienceBasePy, NOAA, Data.Gov, peer-reviewed articles, among others
-4. apply appropriate Python libraries and tools for data manipulation, analysis, and visualization, such as Pandas, NumPy, Matplotlib, Xarray, Cartopy, Geemap, FloPy, and TensorFlow
-5. critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
-6. effectively communicate your findings by documenting, visualizing and sharing your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder
-7. deliver clear and well-documented Jupyter notebook and Python code following the best coding practices
-8. deliver a technically proficient final report following recognized academic or professional standards
-9. deliver a clear, organized, and effective class presentation
-10. collaborate effectively in a team, if applicable, and contribute meaningfully to the project's objectives and outcomes
-
-
-
-The project objectives outlined are comprehensive and well-structured. They cover all essential aspects of a data analysis project, from problem identification to presentation of results. Here's a breakdown of the objectives:
-
-1. **Python application**: This objective emphasizes the use of Python for data analysis and visualization while addressing a water or environmental issue.
-2. **Research question/problem statement**: Developing a research question or problem statement helps to focus the analysis and ensures that it has a clear purpose.
-3. **Data management and analysis**: This objective highlights the importance of working with complex datasets from multiple sources and demonstrates the ability to handle diverse data formats.
-4. **Python libraries and tools**: This objective lists various Python libraries for data manipulation, analysis, and visualization. Familiarity with these libraries will enable the project to be comprehensive and professional.
-5. **Result evaluation and interpretation**: This objective emphasizes the importance of critically evaluating and interpreting the results to draw meaningful conclusions that address the original research question.
-6. **Data communication**: Clear communication of findings is crucial, and this objective emphasizes the use of Jupyter notebooks, GitHub, and Binder to document, visualize, and share data insights.
-7. **Code documentation and best practices**: Delivering clear, well-documented Jupyter notebooks and Python code following best coding practices is essential for project reproducibility and collaboration.
-8. **Final report**: A technically proficient final report following recognized academic or professional standards is important for presenting the project's results in a formal manner.
-9. **Class presentation**: A clear, organized, and effective class presentation is essential for disseminating the project's findings to a wider audience.
-10. **Team collaboration**: If applicable, this objective emphasizes the importance of effective team collaboration and meaningful contributions to the project's objectives and outcomes.
-
-Overall, these objectives set a high standard for the project and cover all essential aspects of a successful data analysis project.
+Your project should demonstrate your ability to perform the following tasks.
+1. **Environmental data analysis and visualization:** Conduct a project using Python, encompassing data analysis, and visualization to address a water or environmental issue of your choice
+2. **Research question/problem statement:** Develop a research question or problem statement that guides your analysis 
+3. **Data acquisition and processing:** Skillfully access, manage, wrangle, and analyze complex datasets with diverse data formats and from diverse sources such as Google Earth Engine, USGS ScienceBasePy, NOAA, Data.Gov, peer-reviewed articles, among others
+4. **Python libraries and tools:** Apply appropriate Python libraries and tools for data manipulation, analysis, and visualization, such as Jupyter, Pandas, NumPy, Matplotlib, Xarray, Cartopy, Geemap, FloPy, and TensorFlow
+5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
+6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, Binder and PowerPoint 
+7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook and Python code following the best coding practices
+8. **Reporitng**: Deliver a technically proficient final report following recognized academic or professional standards
+9. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
+10. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
 
 
 ### 1.3 Schedule and Assessment
