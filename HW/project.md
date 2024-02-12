@@ -55,7 +55,7 @@ The rubrics serve as a general guide to understand the evaluation criteria and e
 ### 2.1. Peer-Assessment Rubric (10%)
 
 #### Peer Assessment Criteria
-Use the [Peer Assessment Form](#-Peer-Assessment-Form) below to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions based on this criteria:
+Use the Peer Assessment Form below to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions based on these criteria:
 
 Q1. **Understanding of Team Dynamics (5 points):**
    - [ ] 5 - Consistently demonstrates a deep understanding of team dynamics by actively: Contribute to a positive team environment, considering and respecting the perspectives of others.
@@ -109,9 +109,9 @@ Use this form to provide you peer assessment:
 
 #### Submission Instructions
 - **Individual-project submission:** If you are working individually, submit a document confirming your individual work for Canvas grading purposes.
-- **Group-project submission:** Fill out the above Peer Assessment Form in either a Word or Excel file. Once completed, print it to a PDF file for submission.
-- **Submission process:**: Submit your PDF file to Canvas by the due date. Late submissions are subject to penalties.
-- **Consequences of non-submission:** Failure to submit your Peer Assessment form will result in zero credit for this deliverable.
+- **Group-project submission:** Fill out the above Peer Assessment Form in either a Word or Excel file. Once completed, print it to a PDF file and submit on Canvas.
+- **Submission process:**: Submit your PDF file to Canvas by the due date. Late submissions are subject to penalty of 10% deduction per day. 
+- **Consequences of non-submission:** Failure to submit your Peer Assessment form will result in zero grade for this deliverable.
 - **Handling non-contributing team members:** If a team member is not meaningfully contributing to the project, please inform the instructor as soon as possible. You have the option to remove their name when submitting the project deliverables after discussing with the instructor. Clearly indicate this by assigning a score of zero in the peer assessment for that individual and in the additinal comments section.
 
 
