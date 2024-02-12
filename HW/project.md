@@ -40,7 +40,7 @@ The instructor is available to provide any needed guidance and support. You are 
 
 ### 1.5 Submission
 
-Submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions will result in 10% reduction of score per day up to 50%. 
+Submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions will result in 10% deduction per day up to 50%. 
 
 All students need to submit the peer-assessment. You only get the peer-assessment grade if you submitted peer-assessment. 
 - If you are working in a group, use peer-assessment rubric below to evaluate the contribution of each member
