@@ -44,7 +44,7 @@ Submission dates will be posted on Canvas. Please ensure that your work is submi
 
 All students need to submit the peer-assessment. You only get the peer-assessment grade if you submitted peer-assessment. 
 - If you are working in a group, use peer-assessment rubric below to evaluate the contribution of each member
-- If you are working individually, submit a document stating that you are working individually for Canvas grading purposes
+- If you are working individually, for Canvas grading purposes, submit a document stating that you are working individually 
 
 Good luck, and we look forward to seeing your creative applications in water and environmental data science with Python.
 
