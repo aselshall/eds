@@ -46,6 +46,8 @@ Good luck, and we look forward to seeing your creative applications in water and
 
 # 2. Rubrics 
 
+The rubrics serve as a general guide to understand the evaluation criteria and expectations. The rubrics are subject to change to the benefit of the students. The rubrics may be adjusted based on student feedback to ensure a more relevant and engaging learning experience.
+
 ## 2.1. Peer-Assessment Rubric (10%)
 
 ### Peer Assessment Criteria
