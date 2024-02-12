@@ -1,10 +1,12 @@
-# 1. Project Assignment 
+#[Environmental Data Science](https://aselshall.github.io/eds/admin/live_syllabus2024) - Final Project
 
-## 1.1 Project Description
+## 1. Project Assignment 
+
+### 1.1 Project Description
 
 You are expected to conduct a project using Python on a water or environmental issue of your choice. You should develop a research question or problem statement that guides your analysis. You need to use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve the industry-oriented problem. The project can be conducted individually or in a group of two to three students. Throughout the project, you will have the opportunity to apply and deepen your skills in data analysis and visualization, critical thinking, and independent learning, in alignment with the project learning objectives.
 
-## 1.2 Project Objectives
+### 1.2 Project Objectives
 
 Your project should demonstrate your ability to:
 1. conduct a project using Python, encompassing data analysis, and visualization to address a water or environmental issue of your choice
@@ -18,7 +20,7 @@ Your project should demonstrate your ability to:
 9. deliver a clear, organized, and effective class presentation
 10. collaborate effectively in a team, if applicable, and contribute meaningfully to the project's objectives and outcomes
 
-## 1.3 Project Schedule and Assessment
+### 1.3 Schedule and Assessment
 
 To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hourse on Tuesday and Thursday from 8:00 to 12:pm and from 3:00 pm to 4:15 pm, or after the class.
 
@@ -30,11 +32,11 @@ Due dates for the following deliverables will be posted on Canvas. The project w
 - 20% Project Presentation : Presentation of your project findings to the class
 The due dates of the above deliverables will be posted on Canvas.
 
-## 1.4 Support
+### 1.4 Support
 
 The instructor is available to provide any needed guidance and support. You are encouraged to seek help when necessary and to actively discuss your project with the instructor.
 
-## 1.5 Submission
+### 1.5 Submission
 
 Submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions will result in 10% reduction of score per day up to 50%. 
 
@@ -44,13 +46,13 @@ All students need to submit the peer-assessment. You only get the peer-assessmen
 
 Good luck, and we look forward to seeing your creative applications in water and environmental data science with Python.
 
-# 2. Rubrics 
+## 2. Rubrics 
 
 The rubrics serve as a general guide to understand the evaluation criteria and expectations. The rubrics are subject to change to the benefit of the students. The rubrics may be adjusted based on student feedback to ensure a more relevant and engaging learning experience.
 
-## 2.1. Peer-Assessment Rubric (10%)
+### 2.1. Peer-Assessment Rubric (10%)
 
-### Peer Assessment Criteria
+#### Peer Assessment Criteria
 Use the [Peer Assessment Form](#-Peer-Assessment-Form) below to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions based on this criteria:
 
 Q1. **Understanding of Team Dynamics (5 points):**
@@ -88,7 +90,7 @@ Q5. **Contribution to Project Tasks (5 points):**
    - [ ] 1 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
    - [ ] 0 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
   
-### Peer Assessment Form
+#### Peer Assessment Form
 Use this form to provide you peer assessment:
 
 **Project Title:** [Insert Project Title]
@@ -103,7 +105,7 @@ Use this form to provide you peer assessment:
 **Additional Comments:**  
 [Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]
 
-### Submission Instructions
+#### Submission Instructions
 - **Individual-project submission:** If you are working individually, submit a document confirming your individual work for Canvas grading purposes.
 - **Group-project submission:** Fill out the above Peer Assessment Form in either a Word or Excel file. Once completed, print it to a PDF file for submission.
 - **Submission process:**: Submit your PDF file to Canvas by the due date. Late submissions are subject to penalties.
@@ -111,7 +113,7 @@ Use this form to provide you peer assessment:
 - **Handling non-contributing team members:** If a team member is not meaningfully contributing to the project, please inform the instructor as soon as possible. You have the option to remove their name when submitting the project deliverables after discussing with the instructor. Clearly indicate this by assigning a score of zero in the peer assessment for that individual and in the additinal comments section.
 
 
-## 2.2 Abstract Rubric (10%)
+### 2.2 Abstract Rubric (10%)
 
 | Criteria                                   | Excellent (5.0)                                      | Good (4.5)                                    | Satisfactory (4.0)                                  | Needs Improvement (3.5)                           | Inadequate (3.0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -124,7 +126,7 @@ Use this form to provide you peer assessment:
 
 *Note: Assign numerical values (5.0, 4.5, 4.0, 3.5, 3.0) to each level for calculating the overall score.*
 
-## 2.3 Interim Report Rubric (10%)
+### 2.3 Interim Report Rubric (10%)
 
 | Criteria                                   | Excellent (5.0)                                      | Good (4.5)                                    | Satisfactory (4.0)                                  | Needs Improvement (3.5)                           | Inadequate (3.0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -137,7 +139,7 @@ Use this form to provide you peer assessment:
 
 *Note: Assign numerical values (5.0, 4.5, 4.0, 3.5, 3.0) to each level for calculating the overall score.*
 
-## 2.4 Final Report Rubric (50%)
+### 2.4 Final Report Rubric (50%)
 
 | Criteria | Excellent (5.0) | Good (4.5) | Satisfactory (4.0) | Needs Improvement (3.5) | Inadequate (3.0) |
 |---|---|---|---|---|---|
@@ -152,7 +154,7 @@ Use this form to provide you peer assessment:
 
 *Note: Assign numerical values (5.0, 4.5, 4.0, 3.5, 3.0) to each level for calculating the overall score.*
 
-## 2.5 Project Presentation Rubric (20%)
+### 2.5 Project Presentation Rubric (20%)
 
 | Criteria                              | Excellent (5.0)                                     | Good (4.5)                                  | Satisfactory (4)                                  | Needs Improvement (3.5)                           | Inadequate (3.0)                                   |
 |---------------------------------------|---------------------------------------------------|-------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
