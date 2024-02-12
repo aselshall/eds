@@ -166,15 +166,14 @@ Use this form to provide you peer assessment:
 ## 3. FAQ 
 
 ### In case I do not have a project idea, how can I find a one?   
-   
+
 The key is to choose a project that aligns with your interests and allows you to demonstrate your skills in Python and water and environmental data analysis. To get project ideas you can:
-- leverage on a project that you currently doing at work, working on with your supervisor, or for your graduation 
-- explore available datasets from various sources such as [NOAA](https://data.noaa.gov/onestop/), [NASA](https://data.nasa.gov/browse), [copernicus](https://www.copernicus.eu/en/accessing-data-where-and-how/copernicus-services-catalogue), [USGS](https://www.sciencebase.gov/catalog/), and [Data.Gov](https://data.gov)
-- explore research papers from a [special issue](https://www.frontiersin.org/research-topics/22582/rapid-reproducible-and-robust-environmental-modeling-for-decision-support-worked-examples-and-open-source-software-tools/articles) or a [jounral](https://www.cambridge.org/core/journals/environmental-data-science) about environmental data science
-- leverage on an existing project such the as environmental projects on [Environmental Data Driven Inquiry and Exploration (Eddie)](https://serc.carleton.edu/eddie)
-- check tutorials such as [NASA Gesdisc Tutorials](https://github.com/nasa/gesdisc-tutorials) or cookbooks such as [Geo-Python](https://geo-python-site.readthedocs.io) 
-- identify an environmental problem specific to your local area that aligns with your interests or reach out to local environmental organizations or agencies. For example, contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) and he will pair you with a local organization that suits your interest
-- consult with your instructor and the instructor can suggest a specific project for you
+- **Align with your current work**: Leverage on a project that you currently doing at work, working on with your supervisor, or for your graduation
+- **Explore datasets**: Explore available datasets from various sources such as [Data.Gov](https://data.gov), [NOAA](https://data.noaa.gov/onestop/), [NASA](https://data.nasa.gov/browse), [copernicus](https://www.copernicus.eu/en/accessing-data-where-and-how/copernicus-services-catalogue), [USGS](https://www.sciencebase.gov/catalog/), Tax data: [SOI Tax Stats - Data by Geographic Area](https://www.irs.gov/statistics/soi-tax-stats-data-by-geographic-area), and Kaggle Open Datasets and Machine Learning Projects: [Kaggle csv data](https://www.kaggle.com/datasets?fileType=csv) to generate creative project ideas.
+- **Research papers**: Explore research papers from an [environmental data science journal](https://www.cambridge.org/core/journals/environmental-data-science) or a [special issue](https://www.frontiersin.org/research-topics/22582/rapid-reproducible-and-robust-environmental-modeling-for-decision-support-worked-examples-and-open-source-software-tools/articles)
+- **Build on existing projects**: Leverage on an existing project such the as environmental projects on [Environmental Data Driven Inquiry and Exploration (Eddie)](https://serc.carleton.edu/eddie), tutorials from [NASA Gesdisc](https://github.com/nasa/gesdisc-tutorials), or [cookbooks from Project Pythia](https://cookbooks.projectpythia.org/)
+- **Local concerns**: Identify an environmental problem specific to your local area that aligns with your interests or reach out to local environmental organizations or agencies. For example, contact the [Director of Community Engagement at FGCU Service-Learning team](https://www.fgcu.edu/studentlife/servicelearning/aboutus#OurTeam) and he will pair you with a local organization that suits your interest
+- **Seek Guidance**: Consult with your instructor, who may have suggestions for tailored project ideas that suit your interests and learning goals.
 
 ### Are there any project themes or topics that we are restricted to?
 
