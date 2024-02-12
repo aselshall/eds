@@ -1,4 +1,5 @@
-# [Environmental Data Science](https://aselshall.github.io/eds/admin/live_syllabus2024) - Final Project
+# [Environmental Data Science](https://aselshall.github.io/eds/admin/live_syllabus2024)  
+# [Final Project](https://aselshall.github.io/eds/HW/project)
 
 ## 1. Project Assignment 
 
