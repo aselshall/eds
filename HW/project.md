@@ -4,7 +4,7 @@
 
 ### 1.1 Project Description
 
-You are expected to conduct a project using Python on a water or environmental issue of your choice. You should develop a research question or problem statement that guides your analysis. You need to use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve the industry-oriented problem. The project can be conducted individually or in a group of two to three students. Throughout the project, you will have the opportunity to apply and deepen your skills in data analysis and visualization, critical thinking, and independent learning, in alignment with the project learning objectives.
+You are expected to conduct a project using Python on a water or environmental issue of your choice. You should develop a research question or problem statement that guides your analysis. You need to use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve the industry-oriented problem. The project can be conducted individually or in a group of two to three students. Throughout the project, you will have the opportunity to apply and deepen your skills in data analysis and visualization, critical thinking, and independent learning, in alignment with the project objectives.
 
 ### 1.2 Project Objectives
 
@@ -14,8 +14,8 @@ Your project should demonstrate your ability to perform the following tasks.
 3. **Data acquisition and processing:** Skillfully access, manage, wrangle, and analyze complex datasets with diverse data formats and from diverse sources such as Google Earth Engine, USGS ScienceBasePy, NOAA, Data.Gov, peer-reviewed articles, among others
 4. **Python libraries and tools:** Apply appropriate Python libraries and tools for data manipulation, analysis, and visualization, such as Jupyter, Pandas, NumPy, Matplotlib, Xarray, Cartopy, Geemap, FloPy, and TensorFlow
 5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
-6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, Binder and PowerPoint 
-7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook and Python code following the best coding practices
+6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
+7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
 8. **Reporitng**: Deliver a technically proficient final report following recognized academic or professional standards
 9. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
 10. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
