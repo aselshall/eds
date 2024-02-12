@@ -31,6 +31,7 @@ Due dates for the following deliverables will be posted on Canvas. The project w
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your methodology, analysis, results, and conclusions
 - **Project Presentation (20%)** : Presentation of your project findings to the class
+
 The due dates of the above deliverables will be posted on Canvas.
 
 ### 1.4 Support
