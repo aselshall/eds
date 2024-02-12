@@ -20,16 +20,34 @@ Your project should demonstrate your ability to:
 9. deliver a clear, organized, and effective class presentation
 10. collaborate effectively in a team, if applicable, and contribute meaningfully to the project's objectives and outcomes
 
+
+
+The project objectives outlined are comprehensive and well-structured. They cover all essential aspects of a data analysis project, from problem identification to presentation of results. Here's a breakdown of the objectives:
+
+1. **Python application**: This objective emphasizes the use of Python for data analysis and visualization while addressing a water or environmental issue.
+2. **Research question/problem statement**: Developing a research question or problem statement helps to focus the analysis and ensures that it has a clear purpose.
+3. **Data management and analysis**: This objective highlights the importance of working with complex datasets from multiple sources and demonstrates the ability to handle diverse data formats.
+4. **Python libraries and tools**: This objective lists various Python libraries for data manipulation, analysis, and visualization. Familiarity with these libraries will enable the project to be comprehensive and professional.
+5. **Result evaluation and interpretation**: This objective emphasizes the importance of critically evaluating and interpreting the results to draw meaningful conclusions that address the original research question.
+6. **Data communication**: Clear communication of findings is crucial, and this objective emphasizes the use of Jupyter notebooks, GitHub, and Binder to document, visualize, and share data insights.
+7. **Code documentation and best practices**: Delivering clear, well-documented Jupyter notebooks and Python code following best coding practices is essential for project reproducibility and collaboration.
+8. **Final report**: A technically proficient final report following recognized academic or professional standards is important for presenting the project's results in a formal manner.
+9. **Class presentation**: A clear, organized, and effective class presentation is essential for disseminating the project's findings to a wider audience.
+10. **Team collaboration**: If applicable, this objective emphasizes the importance of effective team collaboration and meaningful contributions to the project's objectives and outcomes.
+
+Overall, these objectives set a high standard for the project and cover all essential aspects of a successful data analysis project.
+
+
 ### 1.3 Schedule and Assessment
 
 To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hourse on Tuesday and Thursday from 8:00 to 12:pm and from 3:00 pm to 4:15 pm, or after the class.
 
 Due dates for the following deliverables will be posted on Canvas. The project will be graded according to the following schedule:
-- 10% Peer-Assessment : Evaluation of your contribution and your team members' contributions to the project, if applicable
-- 10% Project Abstract : Two-page abstract outlining the proposed research question or industry-oriented problem, methodology, plan for implementation, and expected outcomes
-- 10% Interim Report : Progress report detailing the work done so far, preliminary results, and any challenges encountered
-- 50% Final Report : Comprehensive report detailing your methodology, analysis, results, and conclusions
-- 20% Project Presentation : Presentation of your project findings to the class
+- **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
+- **Project Abstract ((10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, methodology, plan for implementation, and expected outcomes
+- **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
+- **Final Report (50%)** : Comprehensive report detailing your methodology, analysis, results, and conclusions
+- **Project Presentation (20%)** : Presentation of your project findings to the class
 The due dates of the above deliverables will be posted on Canvas.
 
 ### 1.4 Support
@@ -168,6 +186,8 @@ Use this form to provide you peer assessment:
 
 
 ## 3. FAQ 
+
+The instructor will regularly update this The FAQ section throughout the project to common questions and clarify any uncertainties that students may have.
 
 ### Are there any project themes or topics that we are restricted to?
 
