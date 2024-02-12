@@ -187,7 +187,7 @@ Use this form to provide you peer assessment:
 
 ## 3. FAQ 
 
-The instructor will regularly update this The FAQ section throughout the project to common questions and clarify any uncertainties that students may have.
+The instructor will regularly update this section throughout the project to common questions and clarify any uncertainties that students may have.
 
 ### Are there any project themes or topics that we are restricted to?
 
