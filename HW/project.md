@@ -95,6 +95,7 @@ Q5. **Contribution to Project Tasks (5 points):**
 #### Peer Assessment Form
 Use this form to provide you peer assessment:
 
+---  
 **Project Title:** [Insert Project Title]
 
 **Total Score:**   
@@ -140,10 +141,11 @@ Use this form to provide you peer assessment:
     </tr>
   </tbody>
 </table>
-
    
-**Additional Comments:**  
-[Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]
+**Additional Comments**  
+[Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]  
+
+---
 
 #### Submission Instructions
 - **Individual-project submission:** If you are working individually, submit a document confirming your individual work for Canvas grading purposes.
