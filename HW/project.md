@@ -94,56 +94,20 @@ Q5. **Contribution to Project Tasks (5 points):**
   
 #### Peer Assessment Form
 Use this form to provide you peer assessment:
----  
-**Project Title:** [Insert Project Title]
-
-**Total Score:** [Add score based on Peer Assessment Criteria]    
-<table>
-  <thead>
-    <tr>
-      <th>Team Member Name</th>
-      <th>Q1 Score</th>
-      <th>Q2 Score</th>
-      <th>Q3 Score</th>
-      <th>Q4 Score</th>
-      <th>Q5 Score</th>
-      <th>Total Score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>[Name 1]</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>[Name 2]</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>[Your name]</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-   
-**Additional Comments:** [Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]  
-
----
+>  **Project Title:** [Insert Project Title] 
+> 
+> 
+> **Total Score:** [Add score based on Peer Assessment Criteria]    
+> 
+> 
+> | Team Member Name | Q1 Score | Q2 Score | Q3 Score | Q4 Score | Q5 Score | Total Score |
+> |------------------|----------|----------|----------|----------|----------|-------------|
+> | [Name 1]         |          |          |          |          |          |             |
+> | [Name 2]         |          |          |          |          |          |             |
+> | [Your name]      |          |          |          |          |          |             |
+>
+> 
+> **Additional Comments:** [Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]
 
 #### Submission Instructions
 - **Individual-project submission:** If you are working individually, submit a document confirming your individual work for Canvas grading purposes.
