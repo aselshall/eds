@@ -86,11 +86,11 @@ Q4. **Reliability and Meeting Deadlines (5 points):**
    - [ ] 1 - Frequently fails to meet deadlines, significantly affecting project timelines: Requires immediate attention to improve reliability.
 
 Q5. **Contribution to Project Tasks (5 points):**
-   - [ ] 4 - Consistently makes substantial and high-quality contributions to project tasks: Takes a proactive role in various aspects of the project.
-   - [ ] 3 - Generally contributes well to project tasks: May occasionally need more involvement or focus on specific areas.
-   - [ ] 2 - Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas.
-   - [ ] 1 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
-   - [ ] 0 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
+   - [ ] 5 - Consistently makes substantial and high-quality contributions to project tasks: Takes a proactive role in various aspects of the project.
+   - [ ] 4 - Generally contributes well to project tasks: May occasionally need more involvement or focus on specific areas.
+   - [ ] 3 - Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas.
+   - [ ] 2 - Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion.
+   - [ ] 1 - Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively.
   
 #### Peer Assessment Form
 Use this form to provide you peer assessment:
@@ -100,9 +100,9 @@ Use this form to provide you peer assessment:
 **Total Score:**   
 | **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Total Score** |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Name 1] 
-| [Name 2] 
-| [Your name]  
+| [Name 1] |  |  |  |  |  |  |
+| [Name 2] |  |  |  |  |  |  |
+| [Your name]  |  |  |  |  |  |  |
 
 **Additional Comments:**  
 [Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]
