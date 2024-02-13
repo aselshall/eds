@@ -99,7 +99,7 @@ Use this form to provide you peer assessment:
 
 **Total Score:**   
 | **Team Member Name** | **Q1 Score** | **Q2 Score** | **Q3 Score** | **Q4 Score** | **Q5 Score** | **Total Score** |
-| --- | --- | --- | --- | --- | --- | --- |
+| ---                  | ---          | ---          | ---          | ---          | ---          | ---             |
 | [Name 1] |  |  |  |  |  |  |
 | [Name 2] |  |  |  |  |  |  |
 | [Your name]  |  |  |  |  |  |  |
