@@ -142,7 +142,7 @@ Use this form to provide you peer assessment:
   </tbody>
 </table>
    
-**Additional Comments**  
+**Additional Comments:**  
 [Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]  
 
 ---
