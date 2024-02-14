@@ -1,4 +1,4 @@
-## Data-information-knowledge-wisdom hierarchy
+## [Data-information-knowledge-wisdom hierarchy](https://aselshall.github.io/eds/HW/data_hierarchy)
 
 These two figures will help you to understand the data-information-knowledge-wisdom hierarchy at the science-policy interface. 
   
