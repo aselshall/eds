@@ -228,7 +228,7 @@ Conduct your analysis in Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, 
 
 ### Problem statement
 
-**Task 1:** Plot the maximum concentration of Karenia brevis (cell counts per letter) per week for the whole dataset for each of the regions of Tampa Bay and Charlotte Harbor estuary.
+**Task 1:** Plot the maximum cellcount of Karenia brevis (cell counts per letter) per week for the whole dataset for each of the regions of Tampa Bay and Charlotte Harbor estuary.
  
 **Task 2:** FWRI classifies Karenia brevis abundance based on cell counts as described [here](https://myfwc.com/research/redtide/statewide/) as follows:   
 <table>
@@ -273,17 +273,57 @@ Conduct your analysis in Tampa Bay and Charlotte Harbor estuary. For Tampa Bay, 
     </tr>
   </tbody>
 </table>
+
+Given the data in the above table, plot a histogram for each region to show the frequencies of the maximum cellcount per week according to the above classification. The histogram should only include 4 bins for the cases of 'very low', 'low', 'medium', and 'high'.
   
-Create new columns `Weekly_Index_Tampa` and `Weekly_Index_Naples`, and use the maximum concentration of K. brevis (cells/L) per week to do weekly classifcation of bloom impact per week for the two regions of Tampa Bay and Charlotte Harbor estuary for the whole dataset. For example, if the max concentration in week 1 is 50,000 cells/L in Tampa Bay and 1,500,000 cell/L in Charlotte Harbor estuary, then the first rows in `Weekly_Index_Tampa` and `Weekly_Index_Naples` will have the values of 2 and 4, respectively. If the max concentration in a given week is 0 then the index will be 0 and so on. 
-   
-Create a histogram plot for only index values 1 to 4 for the two regions.  
+Here is one solution strategy that you can follow. 
+
+(1) After you read and clean your data into DataFrame let use say `df` as you did in task 1, create a new column `BLOOM_CLASS`. Given the above table do bloom classifcation (i.e., 'no bloom', 'very low bloom', 'low bloom', 'medium bloom', and 'hig bloomh') for the whole dataset. For example, if the max cellcount in row 1 is 50,000 cells/L , then according to the table above this is a medium bloom, and then the first rows in `BLOOM_CLASS` will have the values of 2 (i.e., the index value in the table above). If the max concentration in a given row is 0 then the index will 0 and that row under `BLOOM_CLASS` will have a value of 0. Here is an example, of how your DataFrame `df` will look like:
+
+|         | STATE_ID | DESCRIPTION                                           | LATITUDE | LONGITUDE | CELLCOUNT | REGION     | BLOOM_CLASS |
+|---------|----------|-------------------------------------------------------|----------|-----------|-----------|------------|-------------|
+| 2022-11-30 18:50:00 | FL       | Bay Dock (Sarasota Bay)                              | 27.331600| -82.577900| 388400000 | Tampa Bay  | 4           |
+| 1994-12-09 20:30:00 | FL       | Bay Dock (Sarasota Bay)                              | 27.331600| -82.577900| 358000000 | Tampa Bay  | 4           |
+| 1996-02-22 00:00:00 | FL       | Siesta Key; 8 mi off mkr 3A at 270 degrees           | 27.277200| -82.722300| 197656000 | Tampa Bay  | 4           |
+| 2005-10-10 21:21:00 | TX       | Windsurfing Flats, Pinell Property, south Padr...    | 26.162420| -97.182580| 40000     | Other      | 2           |
+| 2019-01-02 20:30:00 | FL       | Lido Key, 2.5 miles WSW of                            | 27.300000| -82.620000| 186266667 | Tampa Bay  | 4           |
+| ...     | ...      | ...                                                   | ...      | ...       | ...       | ...        | ...         |
+| 2020-08-25 00:00:00 | MS       | 5-9A                                                  | 30.361850| -88.850067| 0         | Other      | 0           |
+| 2020-09-30 00:00:00 | MS       | Katrina Key                                           | 30.356869| -88.839592| 0         | Other      | 0           |
+| 2021-01-25 00:00:00 | MS       | Sample* Long Beach                                    | 30.346020| -89.141030| 0         | Other      | 0           |
+| 2021-11-15 00:00:00 | MS       | 10-Jun                                                | 30.343900| -88.602667| 0         | Other      | 0           |
+| 2021-12-21 00:00:00 | MS       | 10-Jun                                                | 30.343900| -88.602667| 0         | Other      | 0           |
+
+205552 rows × 7 columns
+
+This is similar to Exercise 4. In  exercise 4 you created an new column 'REGION" and did a mask and dicing to fill-in this new column with values (i.e, 'Tampa Bay',  'Charlotte Harbor', and 'Other') based on the latitude and longitude mask. You can do the same here. Create a new column `BLOOM_CLASS`, and do a mask and dicing to fill-in new columns with values of 0, 1, 2, 3, or 4 based on brevis abundance mask given the values in the table above.
+
+(2) As a copy from your original DataFrame `df`, create two new DataFrames, one for each region as follows: `charlotte_harbor_hist_data` and  `tampa_bay_hist_data`. You can use these DataFrames to do resampling for each regions
+
+(3) Resample your cellcount to find the maximum cell count per week. Remember from class that you can only do resample with numeric columns, so make sure that you only select the `BLOOM_CLASS` column. It is always a good idea to do sorting before resampling. Then after you do sorting and weekly resample, your data should look like this for Charlotte Harbor, for example,
+| SAMPLE_DATE    | BLOOM_CLASS |
+|----------------|-------------|
+| 1953-08-23     | 3.0         |
+| 1953-08-30     | 0.0         |
+| 1953-09-06     | NaN         |
+| 1953-09-13     | NaN         |
+| 1953-09-20     | NaN         |
+| ...            | ...         |
+| 2023-06-04     | 0.0         |
+| 2023-06-11     | 0.0         |
+| 2023-06-18     | 0.0         |
+| 2023-06-25     | 0.0         |
+| 2023-07-02     | 0.0         |
+
+3646 rows × 1 columns
+
+(4) Create a histogram plot for only index values 1 to 4 in your `BLOOM_Class` column for each region. You can have one figure for each region. 
+
 
 Hints:
-- Create a function with if-condition to classify bloom impact based on maximum concentration per week. The function will take the maximum concentration per week and return bloom index (0-4).
-- Apply this function to the DataFrame as we learned in '4.16 Applying operations to a DataFrame'
-- For the histogram to select from index 1 - 4 you can use dicing as we learned in '4.12 Dicing'
-- You can use the `.plot.hist()` method of Pandas
-  
+- For task 1: Check Exercise 4 on Canvas under the Pandas module
+- For task 2: You can follow the above solution strategy
+
 ### Rubric
 The student's performance on this homework problem will be evaluated based on the ability to collect and organize the data, perform data analysis and visualization, interpret the results, and communicate the findings in a clear and concise manner as follows.
 1. Data Collection and Preparation (5 points)
