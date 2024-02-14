@@ -332,7 +332,7 @@ The student's performance on this homework problem will be evaluated based on th
 2. Data Analysis and Visualization (20 points)
    - Accurately extracted the maximum concentration of Karenia brevis cell counts per week from the dataset for both Tampa Bay and Charlotte Harbor estuary.
    - Created a clear and informative plot(s) of the maximum concentration of Karenia brevis cell counts per week for the whole dataset and for each region.
-   - Accurately classified the bloom impact per week for for both Tampa Bay and Charlotte Harbor estuary. 
+   - Accurately classified the bloom  per week for for both Tampa Bay and Charlotte Harbor estuary. 
    - Created a clear and informative histogram plot(s) for the bloom impact per week for each region.
 3. Interpretation and Conclusion (5 points)
    - Provided a brief interpretation of the plots, including any noticeable patterns, trends, or anomalies between the two regions.
