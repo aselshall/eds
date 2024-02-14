@@ -301,6 +301,7 @@ This is similar to Exercise 4. In  exercise 4 you created an new column `REGION`
 (2) As a copy from your original DataFrame `df`, create two new DataFrames, one for each region as follows: `charlotte_harbor_hist_data` and  `tampa_bay_hist_data`. You can use these DataFrames to do resampling for each regions
 
 (3) Resample your cellcount to find the maximum cell count per week. Remember from class that you can only do resample with numeric columns, so make sure that you only select the `BLOOM_CLASS` column. It is always a good idea to do sorting before resampling. Then after you do sorting and weekly resample, your data should look like this for Charlotte Harbor, for example,
+
 | SAMPLE_DATE    | BLOOM_CLASS |
 |----------------|-------------|
 | 1953-08-23     | 3.0         |
