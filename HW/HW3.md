@@ -296,7 +296,7 @@ Here is one solution strategy that you can follow.
 
 205552 rows × 7 columns
 
-This is similar to Exercise 4. In  exercise 4 you created an new column 'REGION" and did a mask and dicing to fill-in this new column with values (i.e, 'Tampa Bay',  'Charlotte Harbor', and 'Other') based on the latitude and longitude mask. You can do the same here. Create a new column `BLOOM_CLASS`, and do a mask and dicing to fill-in new columns with values of 0, 1, 2, 3, or 4 based on brevis abundance mask given the values in the table above.
+This is similar to Exercise 4. In  exercise 4 you created an new column `REGION` and did a mask and dicing to fill-in this new column with values (i.e, 'Tampa Bay',  'Charlotte Harbor', and 'Other') based on the latitude and longitude mask. You can do the same here. Create a new column `BLOOM_CLASS`, and do a mask and dicing to fill-in new columns with values of 0, 1, 2, 3, or 4 based on brevis abundance mask given the ranges in the table above.
 
 (2) As a copy from your original DataFrame `df`, create two new DataFrames, one for each region as follows: `charlotte_harbor_hist_data` and  `tampa_bay_hist_data`. You can use these DataFrames to do resampling for each regions
 
