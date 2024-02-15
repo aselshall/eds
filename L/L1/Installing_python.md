@@ -39,7 +39,9 @@ This will return to you the Python version that you have installed (e.g., Python
 **Note:** Make sure you that you have a 64-bit system. If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
 
 ### 2. Install and run Jupyterlab 
-You do not want to use Python in a back screen, so need to install a graphical user interface(GUI). For programming languages, a GUI is refered to as interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, R, MATLAB/Octave, and many more. In Python we generally use `pip` or `conda` for installation. For JupyterLab installation details you can check the [JupyterLab documentation](https://jupyter.org/install), or follow these steps:
+You do not want to use Python in a back screen, so you need to install a graphical user interface(GUI). For programming languages, a GUI is called interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, Julia, R, MATLAB/Octave, and few other programming languages. 
+  
+In Python, we generally use `pip` or `conda` for installation. For JupyterLab installation details you can check the [JupyterLab documentation](https://jupyter.org/install), or follow these steps:
 
 Open your Anaconda Prompt(Miniconda3) from the Windows Start menu and install JupyterLab with pip by running this command:
 ```code
@@ -60,15 +62,15 @@ Each time you use JupterLab you do not want to open an Anaconda Prompt(Miniconda
 
 **Create Anaconda Prompt Shortcut:** Drag Anaconda Prompt(Miniconda3) from Start Menu to Desktop, which will create an Anaconda Prompt(Miniconda3) shortcut. You can check that by clicking on it and then typing `jupyter lab` which will lunch JupyterLab.
 
-**Customize Anaconda Prompt Shortcut:** Now you want to Customize the shortcut to lunch JupyterLab automatically without typing anything. Right click on your shortcut and select "Properties". Then at the end of the "Target" cell type
+**Customize Anaconda Prompt Shortcut:** To customize the shortcut to lunch JupyterLab automatically, right click on your shortcut and select "Properties". Then at the end of the "Target" cell type
 ```code
 & jupyter lab && exit
 ```
-At my machine the content of the "Target" cell looks something like this:
+At my machine the content of the "Target" cell now looks something like this:
 ```
 %windir%\System32\cmd.exe "/K" C:\Users\username\AppData\Local\miniconda3\Scripts\activate.bat C:\Users\username\AppData\Local\miniconda3 & jupyter lab && exit
 ```
-For details check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
+If this is unclear, check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
   
 ### 4. Change JupyterLab shortcut icon (optional)
 In case you want your icon to look nice
