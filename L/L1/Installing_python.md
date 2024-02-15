@@ -13,7 +13,8 @@ Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/insta
 - Installing Python manually (not recommended):
    - Pros: Allows for more control over specific versions
    - Cons: Requires additional effort in managing dependencies and configurations
-- FGCU AppsAnywhere (not recommended):  If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
+- FGCU AppsAnywhere (not recommended):  
+If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
      - Pros: You do not need to install anything and you can use Jupyterlab on the cloud
      - Cons: Many features such as adding a Jupyterlab extension will be disabled, old version of Python 3.8x, can creat problematic synic issue with OneDrive, etc. 
    
