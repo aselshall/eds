@@ -1,10 +1,11 @@
 # Installing Python and Jupyterlab and creating a Jupyterlab shortcut for Windows
 
+## Overivew 
 In this course we will use Python with [Jupyterlab](https://jupyter.org/), which is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface.  
 
 You can install Python using different methods:
-- Anaconda:  
-Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools.
+- Anaconda (*not very much recommended):  
+Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools. [This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg) for example shows how to install Python with Anaconda, the different tools that Anaconda provides, how to create a shortcut for jupyterl lab, and how to get started.
    - Pros: It simplifies the setup process, ensuring compatibility among packages.
    - Cons: Too much time and too much space needed and you will get a lot of tools that you will not use for this course
 - Miniconda (*recommended*):  
@@ -17,12 +18,16 @@ Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/insta
 If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
      - Pros: You do not need to install anything and you can use Jupyterlab on the cloud
      - Cons: Many features such as adding a Jupyterlab extension will be disabled, old version of Python 3.8x, can creat problematic synic issue with OneDrive, etc. 
-   
+
+This tutorial shows you how to: 
+- install Miniconda that will install Python
+- use Miniconda to install JupyterLab
+- create a JupyterLab shortcut. 
+
 ## Install Python 
 
 ### Install Python with Anaconda (not very much recommended)
-[This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg) for example shows how to install Python with Anaconda, the different tools that Anaconda provides, how to create a shortcut for jupyterl lab, and how to get started.
-  
+
 ### Install Python with Miniconda (recommended)
 You can easily install Python through Minoconda from [Minconda webpage](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html). You can find more information at [GeoPython - Installing Python](https://geo-Python-site.readthedocs.io/en/latest/course-info/installing-miniconda.html). 
    
