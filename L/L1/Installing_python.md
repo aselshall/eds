@@ -12,7 +12,7 @@ Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/insta
    - Cons: You would need to do few extra things to use Jupterlab as shown in the document
 - Installing Python manually (*not recommended*):
    - Pros: Allows for more control over specific versions
-   - Cons: Requires additional effort in managing dependencies and configurations
+   - Cons: Requires much additional effort in managing dependencies and configurations
 - FGCU AppsAnywhere (*not recommended*):  
 If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
      - Pros: You do not need to install anything and you can use Jupyterlab on the cloud
