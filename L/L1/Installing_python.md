@@ -38,7 +38,7 @@ This will return to you the Python version that you have installed (e.g., Python
 
 **Note:** Make sure you that you have a 64-bit system. If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
 
-## 2. Install and run Jupyterlab 
+### 2. Install and run Jupyterlab 
 You do not want to use Python in a back screen, so need to install a graphical user interface(GUI). For programming languages, a GUI is refered to as interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, R, MATLAB/Octave, and many more. For installation details you can check the [JupyterLab documentation](https://jupyter.org/install), or follow these steps:
 
 Open your Anaconda Prompt(Miniconda3) from the Windows Start menu and install JupyterLab with pip:
@@ -55,7 +55,7 @@ Once installed, launch JupyterLab with:
 jupyter lab
 ```
 
-## 3. Create Jupyterlab shortcut
+### 3. Create Jupyterlab shortcut
 Each time you use JupterLab you do not want to open an Anaconda Prompt(Miniconda3) and type `jupyter lab`, so you can create a shortcut to automatically lunch JupyterLab. Here are the steps
 
 **Create Anaconda Prompt Shortcut:** Drag Anaconda Prompt(Miniconda3) from Start Menu to Desktop, which will create an Anaconda Prompt(Miniconda3) shortcut. You can check that by clicking on it and then typing `jupyter lab` which will lunch JupyterLab.
@@ -70,9 +70,12 @@ At my machine the content of the "Target" cell looks something like this:
 ```
 For details check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
   
-## 4. Change JupyterLab shortcut icon (optional)
+### 4. Change JupyterLab shortcut icon (optional)
 In case you want your icon to look nice
 - Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.
 - If you do not like this icon, get any other icon that you like that has the extension `.ico`.
 - Right click on the shortcut: "Change Icon": "Browse": Select the icon from where you saved it.
 - You can now drag your icon from Desktop to Taskbar 
+
+## Next steps
+Now you have JupyterLab and Python, you can check these links for [Getting Started with Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html) and [Getting Started with Python](https://foundations.projectpythia.org/foundations/getting-started-python.html)
