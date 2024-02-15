@@ -3,10 +3,11 @@
 In this course we will use Python with [Jupyterlab](https://jupyter.org/), which is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface.  
 
 You can install Python using different methods:
-- Anaconda: Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools.
+- Anaconda:
+Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools.
    - Pros: It simplifies the setup process, ensuring compatibility among packages.
    - Cons: Too much time and too much space needed and you will get a lot of tools that you will not use for this course
-- Miniconda:  
+- Miniconda (recommended):  
    - Pros: Light weight version of Anaconda
    - Cons: You would need to do few extra things to use Jupterlab as shown in the document
 - Installing Python manually 
