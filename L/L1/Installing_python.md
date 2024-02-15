@@ -41,7 +41,7 @@ This will return to you the Python version that you have installed (e.g., Python
 ### 2. Install and run Jupyterlab 
 You do not want to use Python in a back screen, so need to install a graphical user interface(GUI). For programming languages, a GUI is refered to as interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, R, MATLAB/Octave, and many more. In Python we generally use `pip` or `conda` for installation. For JupyterLab installation details you can check the [JupyterLab documentation](https://jupyter.org/install), or follow these steps:
 
-Open your Anaconda Prompt(Miniconda3) from the Windows Start menu and install JupyterLab with pip:
+Open your Anaconda Prompt(Miniconda3) from the Windows Start menu and install JupyterLab with pip by running this command:
 ```code
 pip install jupyterlab
 ```
