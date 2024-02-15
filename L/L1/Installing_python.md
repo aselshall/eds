@@ -71,7 +71,4 @@ At my machine the content of the "Target" cell looks something like this:
 For details check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
   
 ## 4. Change JupyterLab shortcut icon (optional)
-Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.    
-If you do not like this icon, get any other icon that you like that has the extension `.ico`  
-   
-Right click on the shortcut: "Change Icon": "Browse": Select the icon from where you saved it.
+Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like. If you do not like this icon, get any other icon that you like that has the extension `.ico`. Right click on the shortcut: "Change Icon": "Browse": Select the icon from where you saved it.
