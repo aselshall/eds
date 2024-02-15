@@ -10,7 +10,7 @@ Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/insta
    - Cons: Too much time and too much space needed and you will get a lot of tools that you will not use for this course
 - Miniconda (*recommended*):  
    - Pros: Light weight version of Anaconda
-   - Cons: You would need to do few extra steps as shown in this document
+   - Cons: You would need to do few extra steps as shown in this tutorial
 - Installing Python manually (*not recommended*):
    - Pros: Allows for more control over specific versions
    - Cons: Requires much additional effort in managing dependencies and configurations
