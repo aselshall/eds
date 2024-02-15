@@ -10,7 +10,7 @@ Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/insta
 - Miniconda (recommended):  
    - Pros: Light weight version of Anaconda
    - Cons: You would need to do few extra things to use Jupterlab as shown in the document
-- Installing Python manually 
+- Installing Python manually (not recommended):
    - Pros: Allows for more control over specific versions
    - Cons: Requires additional effort in managing dependencies and configurations
 - FGCU AppsAnywhere (not recommended):  If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
