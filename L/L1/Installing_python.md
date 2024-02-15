@@ -7,13 +7,13 @@ You can install Python using different methods:
 Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools.
    - Pros: It simplifies the setup process, ensuring compatibility among packages.
    - Cons: Too much time and too much space needed and you will get a lot of tools that you will not use for this course
-- Miniconda (recommended):  
+- Miniconda (*recommended*):  
    - Pros: Light weight version of Anaconda
    - Cons: You would need to do few extra things to use Jupterlab as shown in the document
-- Installing Python manually (not recommended):
+- Installing Python manually (*not recommended*):
    - Pros: Allows for more control over specific versions
    - Cons: Requires additional effort in managing dependencies and configurations
-- FGCU AppsAnywhere (not recommended):  
+- FGCU AppsAnywhere (*not recommended*):  
 If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
      - Pros: You do not need to install anything and you can use Jupyterlab on the cloud
      - Cons: Many features such as adding a Jupyterlab extension will be disabled, old version of Python 3.8x, can creat problematic synic issue with OneDrive, etc. 
