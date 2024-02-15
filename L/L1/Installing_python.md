@@ -77,7 +77,7 @@ In case you want your icon to look nice
 - Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.
 - If you do not like this icon, get any other icon that you like that has the extension `.ico`.
 - Right click on the shortcut: "Change Icon": "Browse": Select the icon from where you saved it.
-- You can now drag your icon from Desktop to Taskbar 
+- You can now drag your icon from Desktop to Taskbar to make your JupyterLab handy.
 
 ## Next steps
 Now you have JupyterLab and Python installed , you can start with these two links: [Getting Started with Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html) and [Getting Started with Python](https://foundations.projectpythia.org/foundations/getting-started-python.html)
