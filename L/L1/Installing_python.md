@@ -22,73 +22,54 @@ If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fg
 This tutorial shows you how to: 
 - install Miniconda that will install Python
 - use Miniconda to install JupyterLab
-- create a JupyterLab shortcut. 
+- create a JupyterLab shortcut 
 
-## Install Python 
+## Installing Python and JupyterLab
 
-### Install Python with Anaconda (not very much recommended)
+### 1. Install Python with Miniconda
 
-### Install Python with Miniconda (recommended)
 You can easily install Python through Minoconda from [Minconda webpage](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html). You can find more information at [GeoPython - Installing Python](https://geo-Python-site.readthedocs.io/en/latest/course-info/installing-miniconda.html). 
-   
-### Install Python manually (not recommended)
-Download the latest version for windows and follow the instruction for installation 
-https://www.Python.org/downloads/
 
-Note: Make sure you select the right system type (32-bit or 64-bit). If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
+After the installation is complete, from Windows Star Menu, open Anaconda Prompt(Miniconda3) and type:
+```code
+python -- version
+```
+This will return to you the Python version that you have installed (e.g., Python 3.11.5). 
 
-If you need help you can check out this [video](https://youtu.be/LQ47rIO5bTw?si=FHA1B0j0uZIn62La) or something similar.
+**Note:** Make sure you that you have a 64-bit system. If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
 
-## Install Jupyterlab 
-Follow these instructions for installing jupyter lab: https://jupyter.org/install   
+## 2. Install and run Jupyterlab 
+You do not want to use Python in a back screen, so need to install a graphical user interface(GUI). For programming languages, a GUI is refered to as interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, R, MATLAB/Octave, and many more. For installation details you can check the [JupyterLab documentation](https://jupyter.org/install), or follow these steps:
 
-## Run Jupyterlab
+Open your Anaconda Prompt(Miniconda3) from the Windows Start menu and install JupyterLab with pip:
+```code
+pip install jupyterlab
+```
+Alternatively, you can install JupyterLab with a conda forge channel by running this command:
+```code
+conda install -c conda-forge jupyterlab
+```
 
-### For Python with Miniconda and Anaconda
+Once installed, launch JupyterLab with:
+```code
+jupyter lab
+```
 
-Open an Anaconda Prompt and type `jupyter lab`
+## 3. Create Jupyterlab shortcut
+Each time you use JupterLab you do not want to open an Anaconda Prompt(Miniconda3) and type `jupyter lab`, so you can create a shortcut to automatically lunch JupyterLab. Here are the steps
 
-### For Python with manual installation
+**Create Anaconda Prompt Shortcut:** Drag Anaconda Prompt(Miniconda3) from Start Menu to Desktop, which will create an Anaconda Prompt(Miniconda3) shortcut. You can check that by clicking on it and then typing `jupyter lab` which will lunch JupyterLab.
 
-To run Jupyterlab open Command Prompt and type 
-````
-Python -m jupyter lab 
-````
-In case you are wondering, to open Command Prompt go to search near to windows `Start` menu and type `cmd`. 
-  
-If you want Jupyterlab to start at a different path, on the Command Prompt you need to first to go to this path. Here is an example,
-````
-cd /d C:\Users\aelshall
-````
-Note the `/d` switch tells the command prompt to change the directory and the drive and `cd` specifies the target directory. 
-   
-Then you can start the Jupyterlab as shown above, but this is tedious, so it is easier to create a shortcut that starts Jupyterlab for you. 
+**Customize Anaconda Prompt Shortcut:** Now you want to Customize the shortcut to lunch JupyterLab automatically without typing anything. Right click on your shortcut and select "Properties". Then at the end of the "Target" cell type
+```code
+& jupyter lab && exit
+```
+At my machine the content of the target cell looks something like this:
+```
+%windir%\System32\cmd.exe "/K" C:\Users\username\AppData\Local\miniconda3\Scripts\activate.bat C:\Users\username\AppData\Local\miniconda3 & jupyter lab && exit
+```
+For details check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
 
-## Create Jupyterlab shortcut
-
-### For Python with Anaconda and Miniconda 
-If you installed Jupyterlab through Anaconda or miniconda, create an Anaconda prompt shortcut and at the target cell write down `jupyter lab && exit` for Anaconda or ` & jupyter lab && exit` for Miniconda as shown in [this video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
-
-### For Python with manual installation  
-Right click the windows screen: `New` > `Shortcut`  
-Type the location of the item: `cmd.exe` then click next  
-Type a name for this shortcut: "Jupyterlab" or any name you like and click finish   
-Right click on shortcut: `Properties`: `Target`   
-
-At the target cell write down the following: 
-```` 
-cmd.exe /K "cd C:\Users\aelshall\" & jupyter lab && exit
-````
-**Note 1**: You need to replace “aelshall” with your username on your machine.  
-**Note 2**: “C:\Users\aelshall “ is the location where you want your Jupyterlab to access in your file system and you can change this as you want.
-
-In case you are wondering:
-- `cmd.exe` is a Command Prompt to execute MS-DOS commands 
-- The `/k` switch tells Command Prompt to issue the command that follows, and then stay open
-- `"cd C:\Users\aelshall\"` will go the the specified path 
-- `&` to add another command
-- `jupyter lab` will launch the app
-- `&&` to add another command that is `exit`
 
   
 ## Change Jupyterlab shortcut icon (optional)
