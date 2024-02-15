@@ -26,7 +26,7 @@ If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fg
 ### Install Python with Miniconda (recommended)
 You can easily install Python through Minoconda from [Minconda webpage](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html). You can find more information at [GeoPython - Installing Python](https://geo-Python-site.readthedocs.io/en/latest/course-info/installing-miniconda.html). 
    
-### Install Python manually (not very much recommended)
+### Install Python manually (not recommended)
 Download the latest version for windows and follow the instruction for installation 
 https://www.Python.org/downloads/
 
