@@ -212,7 +212,9 @@ Highlight the integration of advanced AI technologies in data analysis workflows
 For Task 3. Information discovries (5 points), if you are interested, you can learn about [data-information-knowledge-wisdom hierarchy](https://aselshall.github.io/eds/HW/data_hierarchy) at the science-policy interface. 
 
   
-## Problem 2 - Water quality analysis (35 points)
+## Problem 2 - Water quality analysis (35 points) 
+- Mandatory for graduate students
+- Optional for undergraduates or 10 bonus points
 
 ### Dataset
 Red tides are caused by Karenia brevis harmful algae blooms. For Karenia brevis cell count data, you can use the [current dataset](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0120767) of Physical and biological data collected along the Texas, Mississippi, Alabama, and Florida Gulf coasts in the Gulf of Mexico as part of the Harmful Algal BloomS Observing System from 1953-08-19 to 2023-07-06 (NCEI Accession 0120767). For direct data download, you can use this [data link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/habsos_20230714.csv) and this [data documentation link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/Support%20Documents/).  Alternatively, FWRI documents Karenia brevis blooms from 1953 to the present. The dataset has more than 200,000 records is updated daily. To request this dataset email: HABdata@MyFWC.com. To learn more about this data, check the [FWRI  Red Tide  Red Tide Current Status](https://myfwc.com/research/redtide/statewide/).
