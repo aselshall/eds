@@ -1,4 +1,4 @@
-# Installing Python and Jupyterlab and creating a Jupyterlab shortcut for Windows
+# Installing Python and JupyterLab
 
 ## Overivew 
 In this course we will use Python with [Jupyterlab](https://jupyter.org/), which is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface.  
