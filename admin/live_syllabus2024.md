@@ -56,10 +56,10 @@ These topics and dates are tentative and subject to change based on class progre
 | 7  | 13 | 20-Feb | Pandas 4 - Data visualization | |
 |   | 14 | 22-Feb | Generative AI within Jupyter | HW3 Pandas |
 | 8  | 15 | 27-Feb | Data visualization with Matplotlib | |
-|   | 16 | 29-Feb | NumPy for scientific computing | HW4 |
+|   | 16 | 29-Feb | Data visualization with Matplotlib | HW4 |
 | 9 | | 5-Mar | Spring Break | |
 |   |  | 7-Mar | Spring Break | |
-| 10  | 17 | 12-Mar |  |  |
+| 10  | 17 | 12-Mar | NumPy for scientific computing |  |
 |   | 18 | 14-Mar |   | Project Abstract |
 | 11  | 19 | 19-Mar |  | |
 |   | 20 | 21-Mar |  | |
