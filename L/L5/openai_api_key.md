@@ -1,10 +1,10 @@
 ## [OpenAI API Key](https://aselshall.github.io/eds/L/L5/openai_api_key)
 
 ### Why do I need  OpenAI API Key ?
-We will connect your Jupyter notebooks with generative AI such as the large language models (LLMs) of OpenAI like ChatGPT 3.5. This will allow you to interact with LLM  through programming and get help as you code.
+We need this to connect Jupyter notebooks with generative AI such as the large language models (LLMs) of OpenAI like ChatGPT 3.5. This will allow you to interact with LLMs through programming and get help as you code.
 
 ### What is OpenAI ?
-OpenAI is a leading AI research lab focused on developing advanced AI technologies such as ChatGPT.
+OpenAI is a leading AI research lab focused on developing advanced AI technologies such as ChatGPT and Text-embedding
 
 ### What is OpenAI API?
 OpenAI API is a tool that provides access to language models such as ChatGPT3.5 and ChatGPT4, and more importantly allows users to integrate these AI capabilities into their applications. In that case that would be your JupyterLab and Python.
