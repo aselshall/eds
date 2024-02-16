@@ -41,39 +41,39 @@ These topics and dates are tentative and subject to change based on class progre
 
 | **Week** | **Lesson** | **Date** | **Topic** | **Due Date** |
 | --- | --- | --- | --- | --- |
-| 1 | 1 | 9-Jan  | Introduction to environmental data science with Python |
+| 1 | 1 | 9-Jan  | Introduction to environmental data science with Python | |
 |   | 2 | 11-Jan | Getting Started with JupyterLab and Python | Python Installation |
-| 2  | 3 | 16-Jan | Python Basics 1 - Variables and functions |
-|   | 4 | 18-Jan |  Python Basics 2 - Python data structures |
-| 3  | 5 | 23-Jan | Python Basics 3 - Text formatting |
+| 2  | 3 | 16-Jan | Python Basics 1 - Variables and functions | |
+|   | 4 | 18-Jan |  Python Basics 2 - Python data structures | |
+| 3  | 5 | 23-Jan | Python Basics 3 - Text formatting | |
 |   | 6 | 25-Jan |  Python Programming 1 - Loops | HW1 Basics |
-| 4  | 7 | 30-Jan | Python programming 2 - Conditional statements |
-|   | 8 | 1-Feb | Python programming 3 - Functions |
-| 5 | 9 | 6-Feb | Python programming 4 - Modules |
+| 4  | 7 | 30-Jan | Python programming 2 - Conditional statements | |
+|   | 8 | 1-Feb | Python programming 3 - Functions | |
+| 5 | 9 | 6-Feb | Python programming 4 - Modules | |
 |   | 10 | 8-Feb | Pandas 1 - Handling large data with csv format| HW 2 Programming |
-| 6  | 11 | 13-Feb | Pandas 2 - Wrangling of spreadsheet data|
-|   | 12 | 15-Feb | Pandas 3 - Analysis and visualization of speadsheet data |  
-| 7  | 13 | 20-Feb | Generative AI within Jupyter |
-|   | 14 | 22-Feb |  Data visualization with Matplotlib | HW3 Pandas |
-| 8  | 15 | 27-Feb | NumPy for scientific computing   |
-|   | 16 | 29-Feb | Xarray for n-dimensional geospatial data | HW4 |
-| 9 | | 5-Mar | Spring Break |
-|   |  | 7-Mar | Spring Break |
-| 10  | 17 | 12-Mar | Cartopy for geospatial data visualization 1 |  
-|   | 18 | 14-Mar |  Cartopy for geospatial data visualization 2 | Project Abstract |
-| 11  | 19 | 19-Mar | ST: CMIP6 data for climate change |
-|   | 20 | 21-Mar | ST: Google Earth Engine Python API 1 |
-| 12  | 21 | 26-Mar | ST: Google Earth Engine Python API 2 |
-|   | 22 | 28-Mar | ST: Google Earth Engine Python API 3 | HW5 |
-| 13 | 23 | 2-Apr | ST: ScienceBasePy for interaction with USGS platform  |
-|   | 24 | 4-Apr |  |
-| 14  | 25 | 9-Apr | ST: Machine learning 1  | Interim report
-|   | 26 | 11-Apr |  |
-| 15  | 27 | 16-Apr | ST: Machine learning 2  |
+| 6  | 11 | 13-Feb | Pandas 2 - Data wrangling | |
+|   | 12 | 15-Feb | Pandas 3 - Data analysis|  |
+| 7  | 13 | 20-Feb | Pandas 4 - Data visualization | |
+|   | 14 | 22-Feb | Generative AI within Jupyter | HW3 Pandas |
+| 8  | 15 | 27-Feb | Data visualization with Matplotlib | |
+|   | 16 | 29-Feb | NumPy for scientific computing | HW4 |
+| 9 | | 5-Mar | Spring Break | |
+|   |  | 7-Mar | Spring Break | |
+| 10  | 17 | 12-Mar |  |  |
+|   | 18 | 14-Mar |   | Project Abstract |
+| 11  | 19 | 19-Mar |  | |
+|   | 20 | 21-Mar |  | |
+| 12  | 21 | 26-Mar |  | |
+|   | 22 | 28-Mar |  | HW5 |
+| 13 | 23 | 2-Apr |  | |
+|   | 24 | 4-Apr |  | |
+| 14  | 25 | 9-Apr |  | Interim report |
+|   | 26 | 11-Apr |  | |
+| 15  | 27 | 16-Apr |  | |
 |   | 28 | 18-Apr |  | HW6 |
-| 16  | 29 | 23-Apr | Project presentation |
-|   | 30 | 25-Apr |  | Final report
-| 17 |  | 30-Apr |  Final Exam |
+| 16  | 29 | 23-Apr | Project presentation | |
+|   | 30 | 25-Apr |  Project presentation | Final report |
+| 17 |  | 30-Apr |  Final Exam | |
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
