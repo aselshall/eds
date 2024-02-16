@@ -1,4 +1,4 @@
-## OpenAI API Key
+## [OpenAI API Key](https://aselshall.github.io/eds/L/L5/openai_api_key
 
 ### Why do I need  OpenAI API Key ?
 We will connect your Jupyter notebooks with generative AI such as the large language models (LLMs) of OpenAI like ChatGPT 3.5. This will allow you to interact with LLM  through programming and get help as you code.
