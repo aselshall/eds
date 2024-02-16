@@ -54,7 +54,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 6  | 11 | 13-Feb | Pandas 2 - Data wrangling | |
 |   | 12 | 15-Feb | Pandas 3 - Data analysis|  |
 | 7  | 13 | 20-Feb | Pandas 4 - Data visualization | |
-|   | 14 | 22-Feb | Generative AI within Jupyter | HW3 Pandas |
+|   | 14 | 22-Feb | Generative AI for Python | HW3 Pandas |
 | 8  | 15 | 27-Feb | Data visualization with Matplotlib | |
 |   | 16 | 29-Feb | Data visualization with Matplotlib | HW4 |
 | 9 | | 5-Mar | Spring Break | |
