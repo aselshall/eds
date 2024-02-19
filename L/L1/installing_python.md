@@ -81,5 +81,5 @@ In case you want your icon to look nice
 
 ## Next steps
 Now you have JupyterLab and Python installed , you can start with these: 
-- Jupyter tutorial: [Getting Started with Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html)
-- Zero-to-hero Python tutorial: [Getting Started with Python](https://foundations.projectpythia.org/foundations/getting-started-python.html)
+- Jupyter tutorial(*recommended*): [Getting Started with Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html) 
+- Zero-to-hero Python tutorial(*highly recommended*): [Getting Started with Python](https://foundations.projectpythia.org/foundations/getting-started-python.html)
