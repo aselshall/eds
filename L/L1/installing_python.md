@@ -17,7 +17,7 @@ Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/insta
 - FGCU AppsAnywhere (*not recommended*):  
 If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
      - Pros: You do not need to install anything and you can use Jupyterlab on the cloud
-     - Cons: Many features such as adding a Jupyterlab extension will be disabled, old version of Python 3.8x, can creat problematic synic issue with OneDrive, etc. 
+     - Cons: Many features such as adding Jupyterlab extensions will be disabled; old version of Python 3.8x; can creat synce issues with OneDrive 
 
 This tutorial shows you how to: 
 - install Miniconda that will install Python for you
