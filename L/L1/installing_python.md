@@ -1,7 +1,7 @@
 # [Installing Python and JupyterLab](https://aselshall.github.io/eds/L/L1/installing_python)
 
 ## Overivew 
-In this course we will use Python with [Jupyterlab](https://jupyter.org/), which is an open-source interactive development environment that facilitates data science and scientific computing in Python through a web-based interface.  
+In this course we will use Python with [Jupyterlab](https://jupyter.org/), which is an open-source interactive development environment (IDE) that facilitates data science and scientific computing in Python through a web-based interface.  
 
 You can install Python using different methods:
 - Anaconda (*not very much recommended*):  
