@@ -36,7 +36,7 @@ python -- version
 ```
 This will return to you the Python version that you have installed (e.g., Python 3.11.5). 
 
-**Note:** Make sure you that you have a 64-bit system. If you do not know: Use the search icon near `Start Menu` and search for `About` that will take you to`Settings`: `About` where you can know if you have a 32-bit or 64-bit processor. 
+**Note:** Make sure you that you have a 64-bit system. If you do not know: Use the search icon near "Start Menu" and search for "About" that will take you to"Settings": "About" where you can know if you have a 32-bit or 64-bit processor. 
 
 ### 2. Install and run Jupyterlab 
 You do not want to use Python in a back screen, so you need to install a graphical user interface(GUI). For programming languages, a GUI is called interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, Julia, R, MATLAB/Octave, and few other programming languages. 
@@ -58,7 +58,7 @@ jupyter lab
 ```
 
 ### 3. Create Jupyterlab shortcut
-Each time you use JupterLab you do not want to open an Anaconda Prompt(Miniconda3) and type `jupyter lab`, so you can create a shortcut to automatically lunch JupyterLab. Here are the steps
+Each time you use JupterLab, you do not want to open an Anaconda Prompt(Miniconda3) and type `jupyter lab`, so you can create a shortcut to automatically lunch JupyterLab. Here are the steps
 
 **Create Anaconda Prompt Shortcut:** Drag Anaconda Prompt(Miniconda3) from Start Menu to Desktop, which will create an Anaconda Prompt(Miniconda3) shortcut. You can check that by clicking on it and then typing `jupyter lab` which will lunch JupyterLab.
 
