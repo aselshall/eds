@@ -32,7 +32,7 @@ You can easily install Python through Minoconda from [Minconda webpage](https://
 
 After the installation is complete, from Windows Star Menu, open Anaconda Prompt(Miniconda3) and type:
 ```code
-python -- version
+python --version
 ```
 This will return to you the Python version that you have installed (e.g., Python 3.11.5). 
 
