@@ -80,4 +80,4 @@ In case you want your icon to look nice
 - You can now drag your icon from Desktop to Taskbar to make your JupyterLab handy.
 
 ## Next steps
-Now you have JupyterLab and Python installed , you can start with these two links: [Getting Started with Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html) and [Getting Started with Python](https://foundations.projectpythia.org/foundations/getting-started-python.html)
+Now you have JupyterLab and Python installed , you can start with these zero-to-hero two tutorial: [Getting Started with Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html) and [Getting Started with Python](https://foundations.projectpythia.org/foundations/getting-started-python.html)
