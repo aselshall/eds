@@ -72,7 +72,7 @@ At my machine the content of the "Target" cell now looks something like this:
 ```
 If this is unclear, check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
   
-### 4. Change JupyterLab shortcut icon (optional)
+### 4. Change JupyterLab shortcut icon (*optional*)
 In case you want your icon to look nice
 - Download this [jupterlab icon](https://github.com/aselshall/git-tutorial-/blob/master/JupyterLab-icon.ico) and save it anywhere you like.
 - If you do not like this icon, get any other icon that you like that has the extension `.ico`.
