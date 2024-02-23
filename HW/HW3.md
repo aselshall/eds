@@ -324,7 +324,7 @@ Hints:
 This is a solution:
 ![histogram1953](https://github.com/aselshall/eds/assets/40507239/1f8cbc94-c6f6-40b4-ad8d-d549273d1739)
   
-This is an extra figure in case your are curious:
+This is an extra figure in case your are curious about the last 10 years:
 ![histogram](https://github.com/aselshall/eds/assets/40507239/6b48bd63-0c8c-4091-ade6-3fd6df1c1ac2)
 
 ### Rubric
