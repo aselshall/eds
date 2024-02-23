@@ -60,7 +60,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 9 | | 5-Mar | Spring Break | |
 |   |  | 7-Mar | Spring Break | |
 | 10  | 17 | 12-Mar | NumPy for scientific computing |  |
-|   | 18 | 14-Mar |   | Project Abstract |
+|   | 18 | 14-Mar |  NumPy for scientific computing | Project Abstract |
 | 11  | 19 | 19-Mar | Data visualization with Matplotlib | |
 |   | 20 | 21-Feb | Data visualization with Matplotlib | HW4 |
 | 12  | 21 | 26-Mar |  | |
