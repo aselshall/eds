@@ -50,7 +50,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 4  | 7 | 30-Jan | Python programming 2 - Conditional statements | |
 |   | 8 | 1-Feb | Python programming 3 - Functions | |
 | 5 | 9 | 6-Feb | Python programming 4 - Modules | |
-|   | 10 | 8-Feb | Pandas 1 - Big data - csv format | HW 2 Programming |
+|   | 10 | 8-Feb | Pandas 1 - Big data - csv format | HW2 Programming |
 | 6  | 11 | 13-Feb | Pandas 2 - Data wrangling | |
 |   | 12 | 15-Feb | Pandas 3 - Data analysis|  |
 | 7  | 13 | 20-Feb | Pandas 4 - Data analysis | |
@@ -62,15 +62,15 @@ These topics and dates are tentative and subject to change based on class progre
 | 10  | 17 | 12-Mar | NumPy for scientific computing |  |
 |   | 18 | 14-Mar |  NumPy for scientific computing | Project Abstract |
 | 11  | 19 | 19-Mar | Data visualization with Matplotlib | |
-|   | 20 | 21-Feb | Data visualization with Matplotlib | HW4 |
+|   | 20 | 21-Feb | Data visualization with Matplotlib |  |
 | 12  | 21 | 26-Mar |  | |
-|   | 22 | 28-Mar |  | HW5 |
+|   | 22 | 28-Mar |  | HW4 |
 | 13 | 23 | 2-Apr |  | |
 |   | 24 | 4-Apr |  | |
 | 14  | 25 | 9-Apr |  | Interim report |
 |   | 26 | 11-Apr |  | |
 | 15  | 27 | 16-Apr |  | |
-|   | 28 | 18-Apr |  | HW6 |
+|   | 28 | 18-Apr |  | HW5 |
 | 16  | 29 | 23-Apr | Project presentation | |
 |   | 30 | 25-Apr |  Project presentation | Final report |
 | 17 |  | 30-Apr |  Final Exam | |
