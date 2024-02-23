@@ -315,12 +315,14 @@ This is similar to Exercise 4. In  exercise 4 you created an new column `REGION`
 3646 rows × 1 columns
 
 (4) Create a histogram plot for only index values 1 to 4 in your `BLOOM_Class` column for each region. You can have one figure for each region. 
-![histogram](https://github.com/aselshall/eds/assets/40507239/6b48bd63-0c8c-4091-ade6-3fd6df1c1ac2)
-
 
 Hints:
 - For task 1: Check Exercise 4 on Canvas under the Pandas module
 - For task 2: You can follow the above solution strategy
+
+### Final answer
+This is a solution.
+![histogram](https://github.com/aselshall/eds/assets/40507239/6b48bd63-0c8c-4091-ade6-3fd6df1c1ac2)
 
 ### Rubric
 The student's performance on this homework problem will be evaluated based on the ability to collect and organize the data, perform data analysis and visualization, interpret the results, and communicate the findings in a clear and concise manner as follows.
