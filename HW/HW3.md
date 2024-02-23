@@ -315,6 +315,7 @@ This is similar to Exercise 4. In  exercise 4 you created an new column `REGION`
 3646 rows × 1 columns
 
 (4) Create a histogram plot for only index values 1 to 4 in your `BLOOM_Class` column for each region. You can have one figure for each region. 
+![histogram](https://github.com/aselshall/eds/assets/40507239/6b48bd63-0c8c-4091-ade6-3fd6df1c1ac2)
 
 
 Hints:
