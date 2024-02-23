@@ -321,7 +321,10 @@ Hints:
 - For task 2: You can follow the above solution strategy
 
 ### Final answer
-This is a solution.
+This is a solution:
+![histogram1953](https://github.com/aselshall/eds/assets/40507239/1f8cbc94-c6f6-40b4-ad8d-d549273d1739)
+  
+This is an extra figure in case your are curious:
 ![histogram](https://github.com/aselshall/eds/assets/40507239/6b48bd63-0c8c-4091-ade6-3fd6df1c1ac2)
 
 ### Rubric
