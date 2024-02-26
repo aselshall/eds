@@ -1,3 +1,5 @@
+## Environmental Data Science JupyterHub
+
 The [JupyterHub](https://jupyter.org/hub) server for our class is ready for your use. 
 
 **Access:** 
