@@ -1,12 +1,14 @@
-The JupyterHub server is now ready for you to begin using.
+The [JupyterHub](https://jupyter.org/hub) server for our class is ready for your use. 
 
-To access, go to: 69.88.163.33:8001 while connected to fgcu-campus or eduroam wifi networks (only).
+**Access** 
+- You can access the JupyterHub at: 69.88.163.33:8001 while connected to fgcu-campus or eduroam Wi-Fi networks (only)
+- For optimal experience, use Google Chrome in an Incognito window.
+- If you encounter a browser warning of unsafe site, proceed by clicking "Advanced" and "Proceed." The website is in fact safe, and we are working to resolve this issue.
 
-It is recommended to use Google Chrome and Incognito window. 
+**Your login credentials:**
+- Username: Your FGCU username (i.e., username@eagle.fgcu.edu)
+- Password: Set any password with at least 8 characters. Remember it for future logins.
 
-Currently there is an issue with something behind the scenes that will cause your browser to say the website is unsafe, but by clicking “Advanced” (or similar) and “Proceed…” (or similar), this error can be bypassed. The website is in fact safe, and we are working to resolve this issue.
 
-Username: Your fgcu username (i.e., username@eagle.fgcu.edu)   
-Password: For the first time, set any password that is 8 characters or more, and remember your password for subsequent logins. 
-
-**Note:** In order to access [eduroam wifi](https://fgcu.zendesk.com/hc/en-us/articles/16716764593179-Using-eduroam-Wireless-Network), you need to first [setup eduroam wifi](https://cloud.securew2.com/public/00457/eduroam/) 
+**Additional Information:** 
+- To access [eduroam WiFi](https://fgcu.zendesk.com/hc/en-us/articles/16716764593179-Using-eduroam-Wireless-Network), first set it up [here](https://cloud.securew2.com/public/00457/eduroam/) 
