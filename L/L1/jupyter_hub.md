@@ -1,6 +1,6 @@
 ## Environmental Data Science JupyterHub
 
-The [JupyterHub](https://jupyter.org/hub) server for our class is ready for your use. 
+[JupyterHub](https://jupyter.org/hub) is a platform that allows multiple users to access and interact with Jupyter notebooks on a shared server environment. The JupyterHub server for our class is ready for your use. 
 
 **Access:** 
 - You can access the JupyterHub at: http://69.88.163.33:8001 while connected to fgcu-campus or eduroam Wi-Fi networks (only)
