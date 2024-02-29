@@ -63,10 +63,10 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 18 | 14-Mar |  NumPy for scientific computing | Project Abstract |
 | 11  | 19 | 19-Mar | Data visualization with Matplotlib | |
 |   | 20 | 21-Feb | Data visualization with Matplotlib |  |
-| 12  | 21 | 26-Mar |  | |
-|   | 22 | 28-Mar |  | HW4 |
-| 13 | 23 | 2-Apr |  | |
-|   | 24 | 4-Apr |  | |
+| 12  | 21 | 26-Mar | Xarray | |
+|   | 22 | 28-Mar | CartoPy | HW4 |
+| 13 | 23 | 2-Apr | Climate data | |
+|   | 24 | 4-Apr | Climate data | |
 | 14  | 25 | 9-Apr |  | Interim report |
 |   | 26 | 11-Apr |  | |
 | 15  | 27 | 16-Apr |  | |
