@@ -63,12 +63,12 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 18 | 14-Mar |  NumPy for scientific computing | Project Abstract |
 | 11  | 19 | 19-Mar | Data visualization with Matplotlib | |
 |   | 20 | 21-Feb | Data visualization with Matplotlib |  |
-| 12  | 21 | 26-Mar | Xarray | |
-|   | 22 | 28-Mar | CartoPy | HW4 |
-| 13 | 23 | 2-Apr | Climate data | |
-|   | 24 | 4-Apr | Climate data | |
+| 12  | 21 | 26-Mar | Xarray for n-dimensional geospatial data | |
+|   | 22 | 28-Mar | Cartopy for geospatial data visualization	 | HW4 |
+| 13 | 23 | 2-Apr | CMIP6 data for climate change | |
+|   | 24 | 4-Apr | CMIP6 data for climate change | |
 | 14  | 25 | 9-Apr | Machine Learning | Interim report |
-|   | 26 | 11-Apr | USGS sciencebasepy | |
+|   | 26 | 11-Apr | ScienceBasePy for interaction with USGS platform | |
 | 15  | 27 | 16-Apr | Google Earth Engine with Geemap  | |
 |   | 28 | 18-Apr | Google Earth Engine with Geemap | HW5 |
 | 16  | 29 | 23-Apr | Project presentation | |
