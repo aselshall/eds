@@ -67,10 +67,10 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 22 | 28-Mar | CartoPy | HW4 |
 | 13 | 23 | 2-Apr | Climate data | |
 |   | 24 | 4-Apr | Climate data | |
-| 14  | 25 | 9-Apr |  | Interim report |
-|   | 26 | 11-Apr |  | |
-| 15  | 27 | 16-Apr |  | |
-|   | 28 | 18-Apr |  | HW5 |
+| 14  | 25 | 9-Apr | Machine Learning | Interim report |
+|   | 26 | 11-Apr | USGS sciencebasepy | |
+| 15  | 27 | 16-Apr | Google Earth Engine with Geemap  | |
+|   | 28 | 18-Apr | with Google Earth Engine with Geemap | HW5 |
 | 16  | 29 | 23-Apr | Project presentation | |
 |   | 30 | 25-Apr |  Project presentation | Final report |
 | 17 |  | 30-Apr |  Final Exam | |
