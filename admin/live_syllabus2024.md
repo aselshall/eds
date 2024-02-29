@@ -70,7 +70,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 14  | 25 | 9-Apr | Machine Learning | Interim report |
 |   | 26 | 11-Apr | USGS sciencebasepy | |
 | 15  | 27 | 16-Apr | Google Earth Engine with Geemap  | |
-|   | 28 | 18-Apr | with Google Earth Engine with Geemap | HW5 |
+|   | 28 | 18-Apr | Google Earth Engine with Geemap | HW5 |
 | 16  | 29 | 23-Apr | Project presentation | |
 |   | 30 | 25-Apr |  Project presentation | Final report |
 | 17 |  | 30-Apr |  Final Exam | |
