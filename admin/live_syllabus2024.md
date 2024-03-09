@@ -56,21 +56,21 @@ These topics and dates are tentative and subject to change based on class progre
 | 7  | 13 | 20-Feb | Pandas 4 - Data analysis | |
 |   | 14 | 22-Feb | Pandas 5 - Data visualization |  |
 | 8  | 15 | 27-Feb | AI coding assistance | |
-|   | 16 | 29-Feb | Data science workflow | HW3 Pandas |
-| 9 | | 5-Mar | Spring Break | |
+|   | 16 | 29-Feb | Data science workflow |  |
+| 9 | | 5-Mar | Spring Break | HW3 Pandas |
 |   |  | 7-Mar | Spring Break | |
-| 10  | 17 | 12-Mar | NumPy for scientific computing |  |
-|   | 18 | 14-Mar |  NumPy for scientific computing | Project Abstract |
-| 11  | 19 | 19-Mar | Data visualization with Matplotlib | |
-|   | 20 | 21-Feb | Data visualization with Matplotlib |  |
-| 12  | 21 | 26-Mar | Xarray for n-dimensional geospatial data | |
-|   | 22 | 28-Mar | Cartopy for geospatial data visualization	 | HW4 |
-| 13 | 23 | 2-Apr | CMIP6 data for climate change | |
-|   | 24 | 4-Apr | CMIP6 data for climate change | |
-| 14  | 25 | 9-Apr | Machine Learning | Interim report |
-|   | 26 | 11-Apr | ScienceBasePy for interaction with USGS platform | |
-| 15  | 27 | 16-Apr | Google Earth Engine with Geemap  | |
-|   | 28 | 18-Apr | Google Earth Engine with Geemap | HW5 |
+| 10  | 17 | 12-Mar | Data science workflow |  |
+|   | 18 | 14-Mar |  NumPy for scientific computing |  |
+| 11  | 19 | 19-Mar | NumPy for scientific computing | |
+|   | 20 | 21-Mar | Data visualization with Matplotlib | Project Abstract |
+| 12  | 21 | 26-Mar | Data visualization with Matplotlib | |
+|   | 22 | 28-Mar | Data visualization with Matplotlib 	 |  |
+| 13 | 23 | 2-Apr | Xarray for n-dimensional geospatial data|  HW4 Matplotlib |
+|   | 24 | 4-Apr | Cartopy for geospatial data visualization | |
+| 14  | 25 | 9-Apr | CMIP6 data for climate change |  |
+|   | 26 | 11-Apr | Machine Learning | Interim report |
+| 15  | 27 | 16-Apr | ScienceBasePy for interaction with USGS platform  |  |
+|   | 28 | 18-Apr | Google Earth Engine with Geemap | HW5 CartoPy |
 | 16  | 29 | 23-Apr | Project presentation | |
 |   | 30 | 25-Apr |  Project presentation | Final report |
 | 17 |  | 30-Apr |  Final Exam | |
