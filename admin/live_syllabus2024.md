@@ -50,7 +50,7 @@ These topics and dates are tentative and subject to change based on class progre
 | 4  | 7 | 30-Jan | Python programming 2 - Conditional statements | |
 |   | 8 | 1-Feb | Python programming 3 - Functions | |
 | 5 | 9 | 6-Feb | Python programming 4 - Modules | |
-|   | 10 | 8-Feb | Pandas 1 - Big data - csv format | HW2 Programming |
+|   | 10 | 8-Feb | Pandas 1 -Tabular data | HW2 Programming |
 | 6  | 11 | 13-Feb | Pandas 2 - Data wrangling | |
 |   | 12 | 15-Feb | Pandas 3 - Data analysis|  |
 | 7  | 13 | 20-Feb | Pandas 4 - Data analysis | |
