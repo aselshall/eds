@@ -192,13 +192,13 @@ The key is to choose a project that aligns with your interests and allows you to
 
 ### For the abstract, what do you mean by "plan for implementation" ?
 
-I recommend focusing on a question or hypothesis that does not require extensive data collection or complex modeling, which can be time-consuming. Given the number of hours that you will spend on this per week, you need to have a realistic plan to complete your project. Once you decide on your research/management/business question or hypothesis, you can structure your project as follows:
-``` 
-- **Week 1:** Project planning and data source identification. Define the scope and goals clearly, and start searching for and gathering required data.
-- **Week 2:** Data acquisition and initial exploration. Download the needed datasets and conduct preliminary analysis to understand the data.
-- **Week 3:** Data cleaning and preparation. Handle missing values, outliers, and any data inconsistencies.
-- **Week 4:** In-depth data analysis. Use statistical methods or machine learning models if applicable to test your hypothesis or answer your research question.
-- **Week 5:** Interpretation of results and report drafting. Begin to draw conclusions from your analysis and start writing your findings.
-- **Week 6:** Finalizing the report/presentation. Refine your report, and prepare the presentation and final report to share your project results.
-```
+I recommend focusing on a question or hypothesis that does not require extensive data collection or complex modeling, which can be time-consuming. Given the number of hours that you will spend on this project per week, you need to have a realistic plan to complete your project on time. Once you decide on your research/management/business question or hypothesis, you can outline a plan for implementation. Here is an exampe. 
+
+>- **Week 1:** Project planning and data source identification. Define the scope and goals clearly, and start searching for and gathering required data.
+>- **Week 2:** Data acquisition and initial exploration. Download the needed datasets and conduct preliminary analysis to understand the data.
+>- **Week 3:** Data cleaning and preparation. Handle missing values, outliers, and any data inconsistencies.
+>- **Week 4:** In-depth data analysis. Use statistical methods or machine learning models if applicable to test your hypothesis or answer your research question.
+>- **Week 5:** Interpretation of results and report drafting. Begin to draw conclusions from your analysis and start writing your findings.
+>- **Week 6:** Finalizing the report/presentation. Refine your report, and prepare the presentation and final report to share your project results.
+
 Remember to allocate some time for unexpected challenges and iterative improvement. 
