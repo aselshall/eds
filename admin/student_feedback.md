@@ -1,4 +1,4 @@
-Positive Feedback:
+**Positive Feedback:**
 - Students appreciate the instructor's friendliness and passion for their success.
 - The use of JupyterLab notebooks for lessons and guidance during sessions is highly valued.
 - The detailed explanations of coding practices and the "why" behind certain actions are beneficial.
@@ -9,7 +9,7 @@ Positive Feedback:
 
 Response: Thank you for your valuable feedback. I'm glad to hear that you find me friendly and passionate about helping you succeed. 
 
-Concerns:
+**Concerns:**
 - Some students find the pace of the class too fast, particularly for beginners, suggesting a need for more time spent on basics.
   - **Response**:
     - I did not want to spend more time on basics of Python because I want to have time for the more interesting materials in the course.
