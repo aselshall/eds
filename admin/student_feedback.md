@@ -17,7 +17,7 @@ Response: Thank you for your valuable feedback. I'm glad to hear that you find m
 - One student feels overwhelmed by the amount of information presented in a single class, leading to difficulty in following along.
    - **Response**: Please try to review the material before class as this might help 
 - While explanations are appreciated, there's a desire for a balance between thoroughness and pacing.
-  - **Response**: This is a good suggestion. However, I try my best to present the minimum material that you need to use this tool. I will spend more time on this.   
+  - **Response**: This is a good suggestion. However, I try my best to present the minimum material that you need to use the tool. I will try to improve this.  
 - Some students find homework assignments lengthy and challenging, occasionally needing external assistance.
   - **Response**:
     - Please do the assignment part by part after each class.
