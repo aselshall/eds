@@ -1,3 +1,9 @@
+![image](https://github.com/aselshall/eds/assets/40507239/dcf10db7-f87e-4257-98cf-5f9a7f5b5efb)
+
+![image](https://github.com/aselshall/eds/assets/40507239/3bdcea99-f0df-431a-9050-fe8b0caede01)
+
+
+
 **Positive Feedback:**
 - Students appreciate the instructor's friendliness and passion for their success.
 - The use of JupyterLab notebooks for lessons and guidance during sessions is highly valued.
