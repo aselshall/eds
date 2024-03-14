@@ -23,7 +23,8 @@ Response: Thank you for your valuable feedback. I'm glad to hear that you find m
     - Please do the assignment part by part after each class.
 - Clearer instructions and guidance are requested for certain assignments, particularly when the tasks are more complex.
   - **Response**:
-    - Check exercise before solving the homework and ask the instructor for help.
+    - Check exercise in each module before solving the homework
+    - Ask the instructor for assistance.
     - I will provide additional guidance for challenging assignments.
 - One student has classes during office hours
   -**Response**: Please note that office hours are also by appointment.
