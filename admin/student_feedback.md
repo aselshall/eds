@@ -33,7 +33,7 @@ Response: Thank you for your valuable feedback. I'm glad to hear that you find m
     - Ask the instructor for assistance.
     - I will provide additional guidance for challenging assignments.
 - One student has classes during office hours
-  -**Response**: Please note that office hours are also by appointment.
+  - **Response**: Please note that office hours are also by appointment.
 - **Requests for more collaborative and interactive elements within the course are made** 
   - **Response**:
      - I will explore opportunities to increase class interaction and collaboration. 
