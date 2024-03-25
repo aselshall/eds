@@ -16,14 +16,14 @@ Your project should demonstrate your ability to perform the following tasks.
 5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
 6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
 7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
-8. **Reporitng**: Deliver a technically proficient final report following recognized academic or professional standards
+8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards
 9. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
 10. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
 
 
 ### 1.3 Schedule and Assessment
 
-To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hourse on Tuesday and Thursday from 8:00 to 12:pm and from 3:00 pm to 4:15 pm, or after the class.
+To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hours on Tuesday and Thursday from 8:00 to 12:pm and from 3:00 pm to 4:15 pm, or after the class.
 
 Due dates for the following deliverables will be posted on Canvas. The project will be graded according to the following schedule:
 - **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
