@@ -62,14 +62,14 @@ These topics and dates are tentative and subject to change based on class progre
 | 10  | 17 | 12-Mar | Data science workflow |  |
 |   | 18 | 14-Mar |  NumPy for scientific computing |  |
 | 11  | 19 | 19-Mar | NumPy for scientific computing | |
-|   | 20 | 21-Mar | Data visualization with Matplotlib | Project Abstract |
+|   | 20 | 21-Mar | NumPy for scientific computing | Project Abstract |
 | 12  | 21 | 26-Mar | Data visualization with Matplotlib | |
 |   | 22 | 28-Mar | Data visualization with Matplotlib 	 |  |
-| 13 | 23 | 2-Apr | Xarray for n-dimensional geospatial data|  HW4 Matplotlib |
-|   | 24 | 4-Apr | Cartopy for geospatial data visualization | |
-| 14  | 25 | 9-Apr | CMIP6 data for climate change |  |
-|   | 26 | 11-Apr | Machine Learning | Interim report |
-| 15  | 27 | 16-Apr | ScienceBasePy for interaction with USGS platform  |  |
+| 13 | 23 | 2-Apr | Data visualization with Matplotlib |   |
+|   | 24 | 4-Apr | Xarray for n-dimensional geospatial data |HW4 Matplotlib |
+| 14  | 25 | 9-Apr | Xarray for n-dimensional geospatial data  |  |
+|   | 26 | 11-Apr | Cartopy for geospatial data visualization and CMIP6 data for climate change | Interim report |
+| 15  | 27 | 16-Apr | Machine Learning and ScienceBasePy for interaction with USGS platform  |  |
 |   | 28 | 18-Apr | Google Earth Engine with Geemap | HW5 CartoPy |
 | 16  | 29 | 23-Apr | Project presentation | |
 |   | 30 | 25-Apr |  Project presentation | Final report |
