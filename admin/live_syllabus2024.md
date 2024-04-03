@@ -66,11 +66,11 @@ These topics and dates are tentative and subject to change based on class progre
 | 12  | 21 | 26-Mar | Data visualization with Matplotlib | |
 |   | 22 | 28-Mar | Data visualization with Matplotlib 	 |  |
 | 13 | 23 | 2-Apr | Data visualization with Matplotlib |   |
-|   | 24 | 4-Apr | Xarray for n-dimensional geospatial data |HW4 NumPy and Matplotlib |
-| 14  | 25 | 9-Apr | Xarray for n-dimensional geospatial data  |  |
-|   | 26 | 11-Apr | Cartopy for geospatial data visualization and CMIP6 data for climate change | Interim report |
-| 15  | 27 | 16-Apr | Machine Learning and ScienceBasePy for interaction with USGS platform  |  |
-|   | 28 | 18-Apr | Google Earth Engine with Geemap | HW5 Xarray and CartoPy |
+|   | 24 | 4-Apr | Climate Data - CMIP6 and Remote Sensing | |
+| 14  | 25 | 9-Apr | Xarray for n-dimensional geospatial data  | HW4 NumPy and Matplotlib |
+|   | 26 | 11-Apr | Xarray for n-dimensional geospatial data | Interim report |
+| 15  | 27 | 16-Apr | Cartopy for geospatial data visualization |  |
+|   | 28 | 18-Apr | Case Study: Google Earth Engine, GeeMap, and machine learning| HW5 Xarray and CartoPy |
 | 16  | 29 | 23-Apr | Project presentation | |
 |   | 30 | 25-Apr |  Project presentation | Final report |
 | 17 |  | 30-Apr |  Final Exam | |
