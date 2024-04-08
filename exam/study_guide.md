@@ -177,7 +177,35 @@ b) Between 5 and 15
 c) Error   
 d) None of the above   
    
+**Question 15.** Consider the following code:  
+```python
+def process_data(data):
+   result = data**2
+   return result
 
+output = process_data(5)
+print(result)
+```
+What will be printed?  
+a) 5  
+b) 10  
+c) 25  
+d) None of the above   
+  
+**Question 16.** Consider the following code saved in a script file named 'my_script.py':    
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
+def multiply(x, y):
+    return x * y
+```
+How can you import and use the greet function from this script in another Python file?   
+a) `import my_script.greet`   
+b) `from my_script import greet`   
+c) `from my_script import greet()`   
+d) `import my_script`   
+    
 ## 4. Pandas
 - Lessons 10-14: Pandas Primer
   - Installing and importing Pandas
