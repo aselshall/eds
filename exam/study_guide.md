@@ -315,9 +315,45 @@ d) none of the above
   - Customizing plots
 
 **Sample Questions:**
+**Question 26.** Which of the following statements accurately describes Matplotlib?   
+a) Matplotlib is the best choice for specialized statistical plots among plotting libraries in Python   
+b) Matplotlib is the best choice for interactive plots among plotting libraries in Python   
+c) Matplotlib is a versatile plotting library for creating static, interactive, and animated visualizations   
+d) Matplotlib is the best choice for for 3D visualization tasks among plotting libraries in Python   
 
+**Question 27.** Consider the following code:  
+```python
+import matplotlib.pyplot as plt
+fig, ax = plt.subplots()
+ax.plot([1, 2, 3, 4], [1, 4, 9, 16], label='Line 1')
+ax.plot([1, 2, 3, 4], [2, 3, 5, 8], label='Line 2')
+ax.legend()
+plt.show()
+```
+The `ax.legend()` in this code  
+a) will add a legend to the plot   
+b) will not add a legend because we did not specify any legend labels  
+c) is an invalid method to `ax.`  
+d) is none of the above  
+
+**Question 28.** Consider the following code:   
+```python
+import matplotlib.pyplot as plt
+fig, ax = plt.subplots()
+ax.plot([1, 2, 3, 4], [1, 4, 9, 16], linestyle='--')
+plt.show()
+```
+What does linestyle='--' do in this code?  
+a) Sets the line style to dashed line   
+b) Sets the line style to dotted line   
+c) Sets the line style to solid line  
+d) None of the above  
+   
 ## 9. Xarray and CartoPy
-- Lessons 24-26: Xarray Basics
+- Lessons 24 Climate Data - CMIP6 and Remote Sensing   
+  - General information about CMIP6 and remote sensing data
+    
+- Lessons 25-26: Xarray Basics
   - Working with NetCDF data
   - Analyzing and visualizing climate data
   - Performing operations on Xarray DataArrays and Datasets
@@ -328,12 +364,72 @@ d) none of the above
   - Customizing map extent and features
 
 **Sample Questions:**   
+**Question 29.** Which of the following best describes CMIP6?   
+a) A satellite launched by NASA for remote sensing of climate data    
+b) A dataset containing historical climate observations from the past century    
+c) A modeling project providing climate model output      
+d) A project providing weather forecasting models   
+   
+**Question 30.** What is the primary purpose of Xarray in Python?  
+a) Xarray is a library for statstical analysis   
+b) Xarray is the best tool for working with tabular data   
+c) Xarray is a library for working with labeled arrays and datasets in Python   
+d) Xarray is a package for web development and data storage  
 
+**Question 31.** Consider the following code:
+```python
+import matplotlib.pyplot as plt
+
+#Xarray DataSet ds
+ds['temperature'].plot()   #temperature shape (50, 50)
+plt.show()
+```
+What does ds['temperature'].plot() do in this code?   
+a) Plots the temperature data from the dataset using Matplotlib as a line plot  
+b) Plots the temperature data from the dataset using Matplotlib as a pcolormesh plot  
+c) Returns an error as xarray has no built-in plotting method   
+d) None of the above  
+
+**Question 32.** Consider the following code:  
+```python
+import xarray as xr
+import pandas as pd
+import numpy as np
+dates = pd.date_range('2024-01-01', periods=240, freq='M')  
+latitudes= [24.5, 26.5, 28.5, 30.5]
+size=(len(dates), len(latitudes))
+zos = np.round(np.random.uniform(-1, 1, size= size), 2) #sea surface height [m]
+ds = xr.Dataset({'zos': (('date', 'lat',), zos)}, coords={'date': dates, 'lat': latitudes})
+ds.zos.mean(dim=('lat')).plot()
+```
+What will this code plot?   
+a) time series plot showing mean zos varying with time with monthly intervals  
+b) time series plot showing mean zos varying with lat with monthly intervals  
+c) lat contour plot showing mean zos varying with time with monthly intervals  
+d) nothing because, unlike pandas, xarray does not have built-in plotting  
+
+**Question 33.** What is the purpose of specifying subplot_kw={'projection': ...} when creating subplots in CartoPy?  
+a) To define the color scheme for the subplots   
+b) To specify the resolution of the subplots  
+c) To set the extent of the subplots  
+d) To define the map projection for the subplots   
+   
+**Question 34.** What does the term "map projection" refer to in the context of CartoPy?  
+a) The process of creating a map by projecting points on Earth's surface onto a flat surface  
+b) The method of coloring different regions on a map  
+c) The process of adding geographic features such as coastlines and rivers to a map  
+d) The technique of overlaying multiple plots on a single map figure  
+   
 ## 10. Google Earth Engine and GeeMap
 - Lesson 27: Google Earth Enginer and GeeMap
   - General information about Google Earth Enginer and GeeMap
 
 **Sample Questions:**  
+**Question 35.**
+What is the primary purpose of Google Earth Engine (GEE) in environmental data science?  
+a) To provide satellite imagery for visual inspection  
+b) To analyze and process large-scale geospatial datasets  
+c) To create custom maps for web applications  
+d) To collect ground-level environmental data  
   
-
 Best of luck!
