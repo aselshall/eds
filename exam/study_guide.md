@@ -200,7 +200,7 @@ def greet(name):
 def multiply(x, y):
     return x * y
 ```
-How can you import and use the greet function from this script in another Python file?   
+**Question 17.** How can you import and use the greet function from this script in another Python file?   
 a) `import my_script.greet`   
 b) `from my_script import greet`   
 c) `from my_script import greet()`   
