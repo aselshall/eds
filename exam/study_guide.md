@@ -461,6 +461,7 @@ Best of luck!
   3. provide real-time feedback and context-aware suggestions   
   4. improve various aspects of the coding process   
   7. boost your Python learning and productivity   
+ 
 **Question 23** c) Data collection   
 **Question 24** c) Arrays   
 **Question 25** b) selects all rows of the second column of the array   
