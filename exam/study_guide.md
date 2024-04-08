@@ -233,20 +233,20 @@ d) none of the above
    d) None of the above  
    
 **Question 20.** Which of the following will display the first three rows of df DataFrame in Pandas?   
-a) `display(df.iloc[0:3])`
-b) `display(df.iloc[0:3,:])`   
-c) `display(df.loc[0:2])`   
-d) All the above   
+a) `display(df.iloc[0:3])`   
+b) `display(df.iloc[0:3,:])`      
+c) `display(df.loc[0:2])`     
+d) All the above     
 
-**Question 21.** Suppose you have a DataFrame named df with columns 'A', 'B', and 'C'. What does the following code do?
+**Question 21.** Suppose you have a DataFrame named df with columns 'A', 'B', and 'C'. What does the following code do?   
 ```python
 df = df.groupby('A').sum()
 ```
-a) Groups the DataFrame by unique values in column 'A' and sums the values in column 'A' for each group
-b) Groups the DataFrame by unique values in column 'A', sums the values in columns 'B' and 'C' for each group
-c) Returns a syntax error
-d) None of the above
-   
+a) Groups the DataFrame by unique values in column 'A' and sums the values in column 'A' for each group   
+b) Groups the DataFrame by unique values in column 'A', sums the values in columns 'B' and 'C' for each group  
+c) Returns a syntax error  
+d) None of the above  
+    
 ## 5. AI Coding Assistance
 - Lesson 15: AI Coding Assistance
   - Pros and cons of generative AI in Python learning and productivity
@@ -307,7 +307,6 @@ b) selects all rows of the second column of the array
 c) selects the second row of all columns of the array  
 d) none of the above  
    
-
 ## 8. Matplotlib
 - Lessons 21-23: Matplotlib Basics
   - Purpose and features of Matplotlib
