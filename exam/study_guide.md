@@ -6,7 +6,7 @@
 
 As we approach the final exam, I encourage you to diligently prepare for the exam. Here are some important details regarding the exam:
 
-- The final exam will last for one hour and consist of 60 multiple-choice questions.
+- The one hour final exam consists of 60 multiple-choice /select all correct questions.
 - The the exam is open book, but not open internet.
 - Any form of academic dishonesty will result in a grade of zero for this exam.
 - The questions will cover key topics from the 10 modules in the course, focusing mainly on basic materials.
