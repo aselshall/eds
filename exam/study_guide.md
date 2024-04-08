@@ -13,7 +13,7 @@ As we approach the final exam, I encourage you to diligently prepare for the exa
 - You can concentrate on the lessons, as the exam will not include exercise and homework questions.
 - Expect a mix of easy and moderate questions to assess different levels of understanding.
 - The exam will evaluate your grasp of general information discussed in class and your level of class participation.
-- If you ar regularly attending the class and consistant with practicing with homework and project, the exam should be easy.
+- If you are regularly present in the class and consistant with practicing with homework and project, the exam should be easy.
   
 To help you to prepare, the study guide includes key topics based on the exam questions, along with a few sample questions.
 
