@@ -200,7 +200,7 @@ def greet(name):
 def multiply(x, y):
     return x * y
 ```
-**Question 17.** How can you import and use the greet function from this script in another Python file?   
+How can you import and use the greet function from this script in another Python file?   
 a) `import my_script.greet`   
 b) `from my_script import greet`   
 c) `from my_script import greet()`   
@@ -433,3 +433,48 @@ c) To create custom maps for web applications
 d) To collect ground-level environmental data  
   
 Best of luck!
+
+## Keys:
+
+**Question 1.** d) All of the above    
+**Question 2.** a) pip install package_name   
+**Question 3.** a) `my_var1`  
+**Question 4.** b) Python raises an error   
+**Question 5.** c) 8  
+**Question 6.** a) `math.sqrt()`    
+**Question 7.** d) 4    
+**Question 8.** b) The percentage is 75.0%  
+**Question 10.** a) for loop  
+**Question 11.** a) 2 4 6 8 10   
+**Question 12.** b) It prints the count from 0 to 4  
+**Question 13.** a) x is greater than 5   
+**Question 14.** a) Outside the range   
+**Question 15.** c) 25  
+**Question 16.** b) `from my_script import greet`   
+**Question 18.**  a) You can install pandas using pip install pandas  
+**Question 19.** a) The number of rows and columns in the DataFrame   
+**Question 20.**  d) All the above     
+**Question 21.** b) Groups the DataFrame by unique values in column 'A', sums the values in columns 'B' and 'C' for each group  
+**Question 22.** Select all correct answers.   
+  1. have have seamless integration with Jupyter and other IDEs  
+  2. have multi-feature chat user-interface   
+  3. provide real-time feedback and context-aware suggestions   
+  4. improve various aspects of the coding process   
+  7. boost your Python learning and productivity   
+**Question 23** c) Data collection   
+**Question 24** c) Arrays   
+**Question 25** b) selects all rows of the second column of the array   
+**Question 26.** c) Matplotlib is a versatile plotting library for creating static, interactive, and animated visualizations   
+**Question 27.** a) will add a legend to the plot   
+**Question 28.** a) Sets the line style to dashed line   
+**Question 29.** c) A modeling project providing climate model output      
+**Question 30.** c) Xarray is a library for working with labeled arrays and datasets in Python   
+**Question 31.** b) Plots the temperature data from the dataset using Matplotlib as a pcolormesh plot  
+**Question 32.**  a) time series plot showing mean zos varying with time with monthly intervals  
+**Question 33.** d) To define the map projection for the subplots   
+**Question 34.** a) The process of creating a map by projecting points on Earth's surface onto a flat surface  
+**Question 35.** b) To analyze and process large-scale geospatial datasets  
+
+Best of luck!
+
+
