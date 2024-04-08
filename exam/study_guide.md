@@ -4,7 +4,14 @@
 **Exam Time:** 03:00pm - 04:00pm    
 **Location:** Holmes Engineering 439    
     
-I hope you have been diligently preparing for the upcoming final exam. This one hour exam will have 60 multiple-choice questions. The exam is open book, but not open internet. Any form of academic dishonesty will result in a grade of zero for this exam. The questions cover the key topics and lessons from the 10 modules in the course. The exam will mainly cover basic materials, so you can only focus on the lessons instead of exercise and homework questions. To help you prepare, here are the key topics based on the exam questions, and few sample questions from the exam.
+I hope you are diligently preparing for the upcoming final exam. 
+- This one hour exam will have 60 multiple-choice questions.
+- The exam is open book, but not open internet.
+- Any form of academic dishonesty will result in a grade of zero for this exam.
+- The questions cover the key topics from the 10 modules in the course.
+- The exam will mainly cover basic materials, so you can only focus on the lessons instead of exercise and homework questions.
+
+To help you prepare, here are the key topics based on the exam questions, and few sample questions from the exam.
     
 ## 1. Introduction
 - Lesson 1: Introduction to Environmental Data Science with Python
