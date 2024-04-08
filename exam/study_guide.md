@@ -30,13 +30,13 @@ To help you to prepare, the study guide includes key topics based on the exam qu
 
 **Sample Questions:**     
 
-**Q1** What are some common tasks in environmental data science?
+**Question 1.** What are some common tasks in environmental data science?
 a) Analyzing satellite images of forests
 b) Predicting air quality based on weather data
 c) Processing data of Earth system models
 d) All of the above
    
-**Q2** Which of the following commands can be used to install Python packages using pip?
+**Question 2.** Which of the following commands can be used to install Python packages using pip?
 a) pip install package_name
 b) py install package_name
 c) python install package_name
@@ -59,19 +59,19 @@ d) pkg install package_name
   - Displaying numbers with decimal, scientific notation, and percentage
 
 **Sample Questions:**   
-**Q3** Which of the following is a valid variable name in Python?  
+**Question 3.** Which of the following is a valid variable name in Python?  
    a) `my_var1`  
    b) `1var`   
    c) `var_$`   
    d) None of the above  
       
-**Q4** What happens when you try to access a variable that has not been defined?  
+**Question 4.** What happens when you try to access a variable that has not been defined?  
   a) Python automatically assigns a value to it  
   b) Python raises an error   
   c) Python prompts the user to define the variable  
   d) None of the above  
   
-**Q5** What is the output of the following code?   
+**Question 5.** What is the output of the following code?   
    ```python
    x = 5
    y = 3
@@ -82,13 +82,13 @@ d) pkg install package_name
    c) 8  
    d) Python raises an error   
 
-**Q6** Which of the following is the correct way to call the `sqrt` function from the `math` module?  
+**Question 6.** Which of the following is the correct way to call the `sqrt` function from the `math` module?  
   a) `math.sqrt()`    
   b) `sqrt(math)`    
   c) `math(sqrt)`   
   d) `sqrt()`   
    
-**Q7** What is the output of the following code ?
+**Question 7.** What is the output of the following code ?
 ```python
 my_list = [1, 2, 3, 4, 5]
 print(my_list[-2])
