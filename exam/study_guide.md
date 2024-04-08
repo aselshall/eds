@@ -37,23 +37,23 @@ I hope you have been diligently preparing for the upcoming final exam. This one 
   - Displaying numbers with decimal, scientific notation, and percentage
 
 **Sample Questions:**
-Which of the following is a valid variable name in Python?
-   a) my_var1
-   b) 1var
-   c) var_$
-   d) None of the above
-
+Which of the following is a valid variable name in Python?  
+   a) my_var1  
+   b) 1var   
+   c) var_$   
+   d) None of the above  
+   
 What is the output of the following code?
    ```python
    x = 5
    y = 3
    print(x + y)
    ```
-   a) 5
-   b) 3
-   c) 8
-   d) Python raises an error
-
+   a) 5  
+   b) 3  
+   c) 8  
+   d) Python raises an error   
+    
 ## 3. Python Programming
 - Lesson 6: Python Programming 1 - Loops
   - for and while loops
