@@ -159,10 +159,10 @@ if x > 5:
 else:
     print("x is less than or equal to 5")
 ```
-a) x is greater than 5
-b) x is less than or equal to 5
-c) x is 10
-d) SyntaxError: invalid syntax
+a) x is greater than 5   
+b) x is less than or equal to 5   
+c) x is 10   
+d) SyntaxError: invalid syntax   
     
 **Question 14.** What will be the output of the following code?   
 ```python
