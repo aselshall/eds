@@ -1,19 +1,22 @@
 # Study Guide for Final Exam
 
-**Exam Date:** Tuesday, April 30   
-**Exam Time:** 03:00pm - 04:00pm    
-**Location:** Holmes Engineering 439    
-    
-I hope you are diligently preparing for the upcoming final exam. 
-- This one hour exam will have 60 multiple-choice questions.
-- The exam is open book, but not open internet.
-- Any form of academic dishonesty will result in a grade of zero for this exam.
-- The questions cover the key topics from the 10 modules in the course.
-- The exam mainly covers basic materials, so you can only focus on the lessons instead of exercise and homework questions.
-- The exam does not involve in-depth concepts, and includes a mix of easy, and moderate questions to assess different levels of understanding among the students.
+**Exam Date:** Tuesday, April 30  
+**Exam Time:** 03:00pm - 04:00pm  
+**Location:** Holmes Engineering 439  
 
-To help you prepare, here are the key topics based on the exam questions, and few sample questions from the exam.
-    
+As we approach the final exam, I encourage you to diligently prepare for the exam. Here are some important details regarding the exam:
+
+- The final exam will last for one hour and consist of 60 multiple-choice questions.
+- The the exam is open book, but not open internet.
+- Any form of academic dishonesty will result in a grade of zero for this exam.
+- The questions will cover key topics from the 10 modules in the course, focusing mainly on basic materials.
+- You can concentrate on the lessons, as the exam will not include exercise and homework questions.
+- Expect a mix of easy and moderate questions to assess different levels of understanding.
+- The exam will evaluate your grasp of general information discussed in class and your level of class participation.
+- If you ar regularly attending the class and consistant with practicing with homework and project, the exam should be easy.
+  
+To help you to prepare, the study guide includes key topics based on the exam questions, along with a few sample questions.
+
 ## 1. Introduction
 - Lesson 1: Introduction to Environmental Data Science with Python
   - Common tasks in environmental data science
