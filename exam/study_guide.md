@@ -29,18 +29,18 @@ To help you to prepare, the study guide includes key topics based on the exam qu
   - Jupyter Notebook vs. JupyterLab
 
 **Sample Questions:**     
-
-**Question 1.** What are some common tasks in environmental data science?
-a) Analyzing satellite images of forests
-b) Predicting air quality based on weather data
-c) Processing data of Earth system models
-d) All of the above
+     
+**Question 1.** What are some common tasks in environmental data science?   
+a) Analyzing satellite images of forests    
+b) Predicting air quality based on weather data     
+c) Processing data of Earth system models   
+d) All of the above    
    
-**Question 2.** Which of the following commands can be used to install Python packages using pip?
-a) pip install package_name
-b) py install package_name
-c) python install package_name
-d) pkg install package_name
+**Question 2.** Which of the following commands can be used to install Python packages using pip?   
+a) pip install package_name   
+b) py install package_name   
+c) python install package_name    
+d) pkg install package_name     
    
 ## 2. Python Basics  
 - Lesson 3: Python Basics 1 - Variables and Functions
@@ -59,6 +59,7 @@ d) pkg install package_name
   - Displaying numbers with decimal, scientific notation, and percentage
 
 **Sample Questions:**   
+    
 **Question 3.** Which of the following is a valid variable name in Python?  
    a) `my_var1`  
    b) `1var`   
@@ -88,7 +89,7 @@ d) pkg install package_name
   c) `math(sqrt)`   
   d) `sqrt()`   
    
-**Question 7.** What is the output of the following code ?
+**Question 7.** What is the output of the following code?
 ```python
 my_list = [1, 2, 3, 4, 5]
 print(my_list[-2])
@@ -98,6 +99,16 @@ b) 2
 c) 3   
 d) 4    
      
+**Question 8.** What will be the output of the following code ?
+```python
+percentage = 0.75
+print(f"The percentage is {percentage:.1%}")
+```
+a) The percentage is 0.8  
+b) The percentage is 75.0%  
+c) The percentage is 75%  
+d) The percentage is 0.8%  
+    
 ## 3. Python Programming
 - Lesson 6: Python Programming 1 - Loops
   - for and while loops
@@ -109,19 +120,31 @@ d) 4
   - Combining conditional statements
 
 **Sample Questions:**   
-What will be the output of the following code?
+
+**Question 9.** What will be the output of the following code?   
+
    ```python
    numbers = [1, 2, 3, 4, 5]
    for num in numbers:
        print(num * 2)
    ```
-   a) 2 4 6 8 10
-   b) 1 2 3 4 5
-   c) 1 2 3 4 5 2 4 6 8 10
-   d) SyntaxError: invalid syntax
+   a) 2 4 6 8 10   
+   b) 1 2 3 4 5   
+   c) 1 2 3 4 5 2 4 6 8 10   
+   d) SyntaxError: invalid syntax   
 
-
-
+**Question 10.** What does the following while loop do?
+```python
+count = 0
+while count < 5:
+    print("The count is:", count)
+    count += 1
+```
+a) It prints the count from 1 to 5  
+b) It prints the count from 0 to 4  
+c) It prints "The count is:" infinitely  
+d) Python raises an error  
+   
 ## 4. Pandas
 - Lessons 10-14: Pandas Primer
   - Installing and importing Pandas
