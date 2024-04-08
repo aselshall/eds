@@ -88,15 +88,15 @@ Which of the following is the correct way to call the `sqrt` function from the `
   d) `sqrt()`   
    
 What is the output of the following code ?
-  ```python
-  my_list = [1, 2, 3, 4, 5]
-  print(my_list[-2])
-  ```
-    a) 1
-    b) 2
-    c) 3
-    d) 4
-   
+```python
+my_list = [1, 2, 3, 4, 5]
+print(my_list[-2])
+```
+a) 1   
+b) 2   
+c) 3   
+d) 4    
+     
 ## 3. Python Programming
 - Lesson 6: Python Programming 1 - Loops
   - for and while loops
