@@ -121,7 +121,13 @@ d) The percentage is 0.8%
 
 **Sample Questions:**   
 
-**Question 9.** What will be the output of the following code?   
+**Question 10.** Which loop in Python is better suited when the number of iterations is known?  
+a) for loop  
+b) while loop   
+c) They are equally suited   
+d) None of the above   
+   
+**Question 11.** What will be the output of the following code?   
 
    ```python
    numbers = [1, 2, 3, 4, 5]
@@ -133,7 +139,7 @@ d) The percentage is 0.8%
    c) 1 2 3 4 5 2 4 6 8 10   
    d) SyntaxError: invalid syntax   
 
-**Question 10.** What does the following while loop do?
+**Question 12.** What does the following while loop do?
 ```python
 count = 0
 while count < 5:
@@ -145,6 +151,33 @@ b) It prints the count from 0 to 4
 c) It prints "The count is:" infinitely  
 d) Python raises an error  
    
+**Question 13.** What will be the output of this code?   
+```python
+x = 10
+if x > 5:
+    print("x is greater than 5")
+else:
+    print("x is less than or equal to 5")
+```
+a) x is greater than 5
+b) x is less than or equal to 5
+c) x is 10
+d) SyntaxError: invalid syntax
+    
+**Question 14.** What will be the output of the following code?   
+```python
+x = 15
+if x > 5 and x < 15:
+    print("Between 5 and 15")
+else:
+    print("Outside the range")
+```
+a) Outside the range  
+b) Between 5 and 15  
+c) Error   
+d) None of the above   
+   
+
 ## 4. Pandas
 - Lessons 10-14: Pandas Primer
   - Installing and importing Pandas
