@@ -6,7 +6,7 @@
 
 As we approach the final exam, I encourage you to diligently prepare for the exam. Here are some important details regarding the exam:
 
-- The one hour final exam consists of 60 multiple-choice /select all correct questions.
+- The one hour final exam consists of 60 multiple-choice questions and select correct answer questions.
 - The the exam is open book, but not open internet.
 - Any form of academic dishonesty will result in a grade of zero for this exam.
 - The questions will cover key topics from the 10 modules in the course, focusing mainly on basic materials.
@@ -214,16 +214,38 @@ d) `import my_script`
   - Filtering and querying data
 
 **Sample Questions:**
-What is the output of the following code?
+
+**Question 18.**  Select the most accurate answer  
+a) You can install pandas using pip install pandas  
+b) You can install pandas using pip install pandas or pip download pandas  
+c) pandas can be only installed with pip if you have conda or miniconda   
+d) none of the above  
+     
+**Question 19.** What is the output of the following code?    
    ```python
    import pandas as pd
    data = pd.read_csv("data.csv")
    print(data.shape)
    ```
-   a) The number of rows and columns in the DataFrame
-   b) The number of unique values in each column of the DataFrame
-   c) No output or error as `.shape` is not a method
-   d) None of the above
+   a) The number of rows and columns in the DataFrame   
+   b) The number of unique values in each column of the DataFrame   
+   c) No output or error as `.shape` is not a method   
+   d) None of the above  
+   
+**Question 20.** Which of the following will display the first three rows of df DataFrame in Pandas?   
+a) `display(df.iloc[0:3])`
+b) `display(df.iloc[0:3,:])`   
+c) `display(df.loc[0:2])`   
+d) All the above   
+
+**Question 21.** Suppose you have a DataFrame named df with columns 'A', 'B', and 'C'. What does the following code do?
+```python
+df = df.groupby('A').sum()
+```
+a) Groups the DataFrame by unique values in column 'A' and sums the values in column 'A' for each group
+b) Groups the DataFrame by unique values in column 'A', sums the values in columns 'B' and 'C' for each group
+c) Returns a syntax error
+d) None of the above
    
 ## 5. AI Coding Assistance
 - Lesson 15: AI Coding Assistance
@@ -231,14 +253,29 @@ What is the output of the following code?
   - Integrating AI code assistants in Jupyter Notebook
 
 **Sample Questions:**   
-
+**Question 22.** Select all correct answers.   
+AI conding assistants (e.g., Jupyter AI, GitHub copilot, and Amazon CodeWhisperer) can:  
+  1. have have seamless integration with Jupyter and other IDEs  
+  2. have multi-feature chat user-interface   
+  3. provide real-time feedback and context-aware suggestions   
+  4. improve various aspects of the coding process   
+  5. guarantee error-free code without human review   
+  6. provide creative solutions that require human insight    
+  7. boost your Python learning and productivity   
+  8. replace the work that you do   
+    
 ## 6. Data Science Workflow
 - Lessons 16-17: Data Science Workflow
   - Steps in the data science workflow
   - Data preprocessing techniques
 
 **Sample Questions:**   
-
+**Question 23** What is the first step in the data science workflow?   
+a) Data analysis  
+b) Data visualization    
+c) Data collection   
+d) Data preprocessing  
+  
 ## 7. NumPy
 - Lessons 18-20: NumPy Basics
   - Creating NumPy arrays
@@ -246,6 +283,30 @@ What is the output of the following code?
   - Performing mathematical operations
 
 **Sample Questions:**   
+**Question 24** What is the primary data structure used in NumPy?   
+a) Lists   
+b) Tuples   
+c) Arrays   
+d) Sets  
+
+
+**Question 25** Consider the following code:   
+```python
+import numpy as np
+
+arr = np.array([[1, 2, 3],
+                [4, 5, 6],
+                [7, 8, 9]])
+
+result = arr[:, 1]
+print(result)
+```
+This code   
+a) selects all rows of the first column of the array   
+b) selects all rows of the second column of the array   
+c) selects the second row of all columns of the array  
+d) none of the above  
+   
 
 ## 8. Matplotlib
 - Lessons 21-23: Matplotlib Basics
