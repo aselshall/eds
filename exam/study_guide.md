@@ -3,9 +3,9 @@
 **Exam Date:** Tuesday, April 30   
 **Exam Time:** 03:00pm - 04:00pm    
 **Location:** Holmes Engineering 439    
-
+    
 I hope you have been diligently preparing for the upcoming final exam. This one hour exam will have 60 multiple-choice questions. The exam is open book, but not open internet. Any form of academic dishonesty will result in a grade of zero for this exam. The questions cover the key topics and lessons from the 10 modules in the course. The exam will mainly cover basic materials, so you can only focus on the lessons instead of exercise and homework questions. To help you prepare, here are the key topics based on the exam questions, and few sample questions from the exam.
-
+    
 ## 1. Introduction
 - Lesson 1: Introduction to Environmental Data Science with Python
   - Common tasks in environmental data science
@@ -17,10 +17,10 @@ I hope you have been diligently preparing for the upcoming final exam. This one 
   - Benefits of using Jupyter Notebooks
   - Jupyter Notebook vs. JupyterLab
 
-**Sample Questions:**
+**Sample Questions:**     
 
 
-## 2. Python Basics
+## 2. Python Basics  
 - Lesson 3: Python Basics 1 - Variables and Functions
   - Importing modules and libraries
   - Defining variables
@@ -36,7 +36,7 @@ I hope you have been diligently preparing for the upcoming final exam. This one 
   - Formatting text and numbers using f-strings
   - Displaying numbers with decimal, scientific notation, and percentage
 
-**Sample Questions:**
+**Sample Questions:**   
 Which of the following is a valid variable name in Python?  
    a) my_var1  
    b) 1var   
@@ -64,7 +64,7 @@ What is the output of the following code?
   - Evaluating boolean conditions
   - Combining conditional statements
 
-**Sample Questions:**
+**Sample Questions:**   
 What will be the output of the following code?
    ```python
    numbers = [1, 2, 3, 4, 5]
@@ -100,14 +100,14 @@ What is the output of the following code?
   - Pros and cons of generative AI in Python learning and productivity
   - Integrating AI code assistants in Jupyter Notebook
 
-**Sample Questions:**
+**Sample Questions:**   
 
 ## 6. Data Science Workflow
 - Lessons 16-17: Data Science Workflow
   - Steps in the data science workflow
   - Data preprocessing techniques
 
-**Sample Questions:**
+**Sample Questions:**   
 
 ## 7. NumPy
 - Lessons 18-20: NumPy Basics
@@ -115,7 +115,7 @@ What is the output of the following code?
   - Indexing and slicing arrays
   - Performing mathematical operations
 
-**Sample Questions:**
+**Sample Questions:**   
 
 ## 8. Matplotlib
 - Lessons 21-23: Matplotlib Basics
@@ -137,7 +137,13 @@ What is the output of the following code?
   - Creating regional maps with raster and vector data
   - Customizing map extent and features
 
-**Sample Questions:**
+**Sample Questions:**   
 
+## 10. Google Earth Engine and GeeMap
+- Lesson 27: Google Earth Enginer and GeeMap
+  - General information about Google Earth Enginer and GeeMap
+
+**Sample Questions:**  
+  
 
 Best of luck!
