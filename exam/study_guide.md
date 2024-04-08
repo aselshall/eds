@@ -9,7 +9,8 @@ I hope you are diligently preparing for the upcoming final exam.
 - The exam is open book, but not open internet.
 - Any form of academic dishonesty will result in a grade of zero for this exam.
 - The questions cover the key topics from the 10 modules in the course.
-- The exam will mainly cover basic materials, so you can only focus on the lessons instead of exercise and homework questions.
+- The exam mainly covers basic materials, so you can only focus on the lessons instead of exercise and homework questions.
+- The exam does not involve in-depth concepts, and includes a mix of easy, and moderate questions to assess different levels of understanding among the students.
 
 To help you prepare, here are the key topics based on the exam questions, and few sample questions from the exam.
     
