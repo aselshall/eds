@@ -30,7 +30,7 @@ Due dates for the following deliverables will be posted on Canvas. The project w
 - **Project Abstract ((10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, methodology, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your methodology, analysis, results, and conclusions
-- **Project Presentation (20%)** : Presentation of your project findings to the class
+- **Project Presentation (20%)** : Presentation of your project findings to the class. Total time is 10 minutes and allow two minutes for questions and transition.
 
 The due dates of the above deliverables will be posted on Canvas.
 
