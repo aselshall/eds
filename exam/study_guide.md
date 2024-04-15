@@ -472,12 +472,12 @@ Best of luck!
 **Question 18.**  a) You can install pandas using pip install pandas  
 **Question 19.** a) The number of rows and columns in the DataFrame   
 **Question 20.**  Correct answers       
-- display(df.iloc[0:3])  
-- display(df.iloc[0:3,:])  
-- display(df.loc[0:2])  
-- display(df.loc[0:2,:])  
-- df.head(3)  
-- display(df[0:3])
+- `display(df.iloc[0:3])`  
+- `display(df.iloc[0:3,:])`  
+- `display(df.loc[0:2])`  
+- `display(df.loc[0:2,:])`  
+- `df.head(3)`  
+- `display(df[0:3])`
 
 **Question 21.** b) Groups the DataFrame by unique values in column 'A', sums the values in columns 'B' and 'C' for each group  
 **Question 22.** Select all correct answers.   
