@@ -232,11 +232,29 @@ d) none of the above
    c) No output or error as `.shape` is not a method   
    d) None of the above  
    
-**Question 20.** Which of the following will display the first three rows of df DataFrame in Pandas?   
-a) `display(df.iloc[0:3])`   
-b) `display(df.iloc[0:3,:])`      
-c) `display(df.loc[0:2])`     
-d) All the above     
+**Question 20.** Select all line codes that can display the first three rows of this `df` DataFrame:  
+|    |   A |   B |
+|---:|----:|----:|
+|  0 |  10 |   1 |
+|  1 |  20 |   2 |
+|  2 |  30 |   3 |
+|  3 |  40 |   4 |
+|  4 |  50 |   5 |
+|  5 |  60 |   6 |
+  
+1) `display(df.iloc[0:3])`  
+2) `display(df.iloc[0:3,:])`     
+3) `display(df.iloc[:,0:3])`    
+4) `display(df.loc[0:3])`   
+5) `display(df.loc[0:3,:])`    
+6) `display(df.loc[0:2])`   
+7) `display(df.loc[0:2,:])`    
+8) `df.head(3)`    
+9) `df.head()`   
+10) `display(df[0:3, :])`    
+11) `display(df[0:3])`   
+12) `display(df[0:2])`    
+
 
 **Question 21.** Suppose you have a DataFrame named df with columns 'A', 'B', and 'C'. What does the following code do?   
 ```python
