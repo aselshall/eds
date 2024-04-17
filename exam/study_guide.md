@@ -17,7 +17,7 @@ As we approach the final exam, I encourage you to diligently prepare for the exa
   
 To help you to prepare, the study guide includes key topics based on the exam questions, along with a few sample questions.
 
-## 1. Introduction (~ 10 %)
+## 1. Introduction and General (~ 10 %)
 - Lesson 1: Introduction to Environmental Data Science with Python
   - Common tasks in environmental data science
   - Programming languages used in environmental data science
