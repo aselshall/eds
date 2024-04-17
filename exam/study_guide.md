@@ -272,12 +272,12 @@ d) None of the above
 
 **Sample Questions:**   
 **Question 22.**
-What is the potential downside of relying too much on generative AI for coding tasks?
-a) It may lead to decreased efficiency and productivity due to slower response times
-b) It may result in code plagiarism, lack of originality and dependency on AI for coding tasks
-c) It may increase the likelihood of code errors and bugs
-d) It may require extensive computational resources
-    
+What is the potential downside of relying too much on generative AI for coding tasks?   
+a) It may lead to decreased efficiency and productivity due to slower response times  
+b) It may result in code plagiarism, lack of originality and dependency on AI for coding tasks   
+c) It may increase the likelihood of code errors and bugs   
+d) It may require extensive computational resources   
+     
 ## 6. Data Science Workflow
 - Lessons 16-17: Data Science Workflow
   - Steps in the data science workflow
