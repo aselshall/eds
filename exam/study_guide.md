@@ -17,7 +17,7 @@ As we approach the final exam, I encourage you to diligently prepare for the exa
   
 To help you to prepare, the study guide includes key topics based on the exam questions, along with a few sample questions.
 
-## 1. Introduction
+## 1. Introduction (~ 10 %)
 - Lesson 1: Introduction to Environmental Data Science with Python
   - Common tasks in environmental data science
   - Programming languages used in environmental data science
@@ -42,7 +42,7 @@ b) py install package_name
 c) python install package_name    
 d) pkg install package_name     
    
-## 2. Python Basics  
+## 2. Python Basics  (~ 25%)
 - Lesson 3: Python Basics 1 - Variables and Functions
   - Importing modules and libraries
   - Defining variables
@@ -109,7 +109,7 @@ b) The percentage is 75.0%
 c) The percentage is 75%  
 d) The percentage is 0.8%  
     
-## 3. Python Programming
+## 3. Python Programming (~ 25%)
 - Lesson 6: Python Programming 1 - Loops
   - for and while loops
   - Iterating over lists
@@ -206,7 +206,7 @@ b) `from my_script import greet`
 c) `from my_script import greet()`   
 d) `import my_script`   
     
-## 4. Pandas
+## 4. Pandas  (~ 15%)
 - Lessons 10-14: Pandas Primer
   - Installing and importing Pandas
   - Reading CSV files
@@ -265,7 +265,7 @@ b) Groups the DataFrame by unique values in column 'A', sums the values in colum
 c) Returns a syntax error  
 d) None of the above  
     
-## 5. AI Coding Assistance
+## 5. AI Coding Assistance (< 5%)
 - Lesson 15: AI Coding Assistance
   - Pros and cons of generative AI in Python learning and productivity
   - Integrating AI code assistants in Jupyter Notebook
@@ -278,7 +278,7 @@ b) It may result in code plagiarism, lack of originality and dependency on AI fo
 c) It may increase the likelihood of code errors and bugs   
 d) It may require extensive computational resources   
      
-## 6. Data Science Workflow
+## 6. Data Science Workflow (< 5%)
 - Lessons 16-17: Data Science Workflow
   - Steps in the data science workflow
   - Data preprocessing techniques
@@ -290,7 +290,7 @@ b) Data visualization
 c) Data collection   
 d) Data preprocessing  
   
-## 7. NumPy
+## 7. NumPy (~ 5%)
 - Lessons 18-20: NumPy Basics
   - Creating NumPy arrays
   - Indexing and slicing arrays
@@ -321,7 +321,7 @@ b) selects all rows of the second column of the array
 c) selects the second row of all columns of the array  
 d) none of the above  
    
-## 8. Matplotlib
+## 8. Matplotlib (~ 5%)
 - Lessons 21-23: Matplotlib Basics
   - Purpose and features of Matplotlib
   - Working with Figure and Axes objects
@@ -365,7 +365,7 @@ b) Sets the line style to dotted line
 c) Sets the line style to solid line  
 d) None of the above  
    
-## 9. Xarray and CartoPy
+## 9. Xarray and CartoPy (~ 10%)
 - Lessons 24 Climate Data - CMIP6 and Remote Sensing   
   - General information about CMIP6 and remote sensing data
     
