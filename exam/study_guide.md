@@ -271,16 +271,12 @@ d) None of the above
   - Integrating AI code assistants in Jupyter Notebook
 
 **Sample Questions:**   
-**Question 22.** Select all correct answers.   
-AI conding assistants (e.g., Jupyter AI, GitHub copilot, and Amazon CodeWhisperer) can:  
-  1. have have seamless integration with Jupyter and other IDEs  
-  2. have multi-feature chat user-interface   
-  3. provide real-time feedback and context-aware suggestions   
-  4. improve various aspects of the coding process   
-  5. guarantee error-free code without human review   
-  6. provide creative solutions that require human insight    
-  7. boost your Python learning and productivity   
-  8. replace the work that you do   
+**Question 22.**
+What is the potential downside of relying too much on generative AI for coding tasks?
+a) It may lead to decreased efficiency and productivity due to slower response times
+b) It may result in code plagiarism, lack of originality and dependency on AI for coding tasks
+c) It may increase the likelihood of code errors and bugs
+d) It may require extensive computational resources
     
 ## 6. Data Science Workflow
 - Lessons 16-17: Data Science Workflow
@@ -480,13 +476,7 @@ Best of luck!
 - `display(df[0:3])`
 
 **Question 21.** b) Groups the DataFrame by unique values in column 'A', sums the values in columns 'B' and 'C' for each group  
-**Question 22.** Select all correct answers.   
-  1. have have seamless integration with Jupyter and other IDEs  
-  2. have multi-feature chat user-interface   
-  3. provide real-time feedback and context-aware suggestions   
-  4. improve various aspects of the coding process   
-  7. boost your Python learning and productivity   
- 
+**Question 22.** b) It may result in code plagiarism, lack of originality and dependency on AI for coding tasks 
 **Question 23** c) Data collection   
 **Question 24** c) Arrays   
 **Question 25** b) selects all rows of the second column of the array   
