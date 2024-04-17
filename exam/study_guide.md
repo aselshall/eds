@@ -338,17 +338,19 @@ d) Matplotlib is the best choice for for 3D visualization tasks among plotting l
 **Question 27.** Consider the following code:  
 ```python
 import matplotlib.pyplot as plt
+
 fig, ax = plt.subplots()
-ax.plot([1, 2, 3, 4], [1, 4, 9, 16], label='Line 1')
-ax.plot([1, 2, 3, 4], [2, 3, 5, 8], label='Line 2')
-ax.legend()
+ax.plot([1, 2, 3, 4], [1, 4, 9, 16])
+ax.set_xlabel('X-axis')
+ax.set_ylabel('Y-axis')
+ax.set_title('Line Plot')
 plt.show()
 ```
-The `ax.legend()` in this code  
-a) will add a legend to the plot   
-b) will not add a legend because we did not specify any legend labels  
-c) is an invalid method to `ax.`  
-d) is none of the above  
+Through `.plt.subplots()` function you can  
+a) create a new figure and axes object  
+b) add a title  
+c) adjust figure size  
+d) do all of the above  
 
 **Question 28.** Consider the following code:   
 ```python
@@ -481,7 +483,7 @@ Best of luck!
 **Question 24** c) Arrays   
 **Question 25** b) selects all rows of the second column of the array   
 **Question 26.** c) Matplotlib is a versatile plotting library for creating static, interactive, and animated visualizations   
-**Question 27.** a) will add a legend to the plot   
+**Question 27.** a) create a new figure and axes object  
 **Question 28.** a) Sets the line style to dashed line   
 **Question 29.** c) A modeling project providing climate model output      
 **Question 30.** c) Xarray is a library for working with labeled arrays and datasets in Python   
