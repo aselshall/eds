@@ -80,7 +80,7 @@ In case you want your icon to look nice
 - You can now drag your icon from Desktop to Taskbar to make your JupyterLab handy.
 
 ### 5. Install basic libraries
-From the miniconda terminal install these libraries one by one.
+From the miniconda terminal install these libraries one by one. You can install of them now or before the lesson.
 ```python
 pip install pyarrow
 ```
@@ -88,10 +88,10 @@ pip install pyarrow
 pip install pandas
 ```
 ```python
-pip install lckr_jupyterlab_variableinspector
+pip install matplotlib
 ```
 ```python
-pip install matplotlib
+pip install lckr_jupyterlab_variableinspector
 ```
 ```python
 pip install numpy
@@ -105,11 +105,14 @@ pip install xarray
 ```python
 pip install netCDF4
 ```
+The following are optional libraries:
+```python
+pip install geemap
+```
 This library will not work for python version 3.12 and you need to downgrade your version to 3.11
 ```python
 pip install jupyter-ai
 ```
-
 
 ## Next steps
 Now you have JupyterLab and Python installed , you can start with these: 
