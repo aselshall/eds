@@ -79,7 +79,7 @@ In case you want your icon to look nice
 - Right click on the shortcut: "Change Icon": "Browse": Select the icon from where you saved it.
 - You can now drag your icon from Desktop to Taskbar to make your JupyterLab handy.
 
-### 5. Install basic libraries to install
+### 5. Install basic libraries
 ```python
 pip install pyarrow
 ```
