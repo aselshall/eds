@@ -175,11 +175,11 @@ Use this form to provide you peer assessment:
 
 The instructor will regularly update this section throughout the project to answer common questions and clarify any uncertainties that students may have.
 
-### Are there any project themes or topics that we are restricted to?
+### (1) Are there any project themes or topics that we are restricted to?
 
 While there is no strict limitation on project themes, your chosen topic should fall under the broader umbrella of water and environmental data science. This includes, but is not limited to, areas such as environmental science, ecological studies, hydrology, environmental engineering, climate change impacts, environmental economics, demographic changes, public health concerns, social media discourse, and social sciences research, all with a focus on water or environmental issues. Your project should demonstrate the application of Python for data analysis, visualization, and problem-solving in these interconnected fields.
 
-### In case I do not have a project idea, how can I find a one?   
+### (2) In case I do not have a project idea, how can I find a one?   
 
 The key is to choose a project that aligns with your interests and allows you to demonstrate your skills in Python and water and environmental data analysis. To get project ideas you can:
 - **Your current work**: Leverage on a project that you currently doing at work, working on with your supervisor, or for your graduation
@@ -190,7 +190,7 @@ The key is to choose a project that aligns with your interests and allows you to
 - **Seek Guidance**: Consult with your instructor, who may have suggestions for tailored project ideas that suit your interests and learning goals.
 
 
-### For the abstract, what do you mean by "plan for implementation" ?
+### (3) For the abstract, what do you mean by "plan for implementation" ?
 
 I recommend focusing on a question or hypothesis that does not require extensive data collection or complex modeling, which can be time-consuming. Given the number of hours that you will spend on this project per week, you need to have a realistic plan to complete your project on time. Once you decide on your research/management/business question or hypothesis, you can outline a plan for implementation. Here is an exampe. 
 
