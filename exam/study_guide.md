@@ -121,7 +121,8 @@ d) The percentage is 0.8%
 
 - Lesson 8: Functions
 
-- Lesson 9: Scripts 
+- Lesson 9: Scripts  
+
 **Sample Questions:**   
 
 **Question 10.** Which loop in Python is better suited when the number of iterations is known?  
