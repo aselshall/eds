@@ -440,7 +440,7 @@ b) The method of coloring different regions on a map
 c) The process of adding geographic features such as coastlines and rivers to a map  
 d) The technique of overlaying multiple plots on a single map figure  
    
-## 10. Google Earth Engine and GeeMap
+## 10. Google Earth Engine and GeeMap (execluded from the exam)
 - Lesson 27: Google Earth Enginer and GeeMap
   - General information about Google Earth Enginer and GeeMap
 
