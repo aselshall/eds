@@ -121,7 +121,7 @@ d) The percentage is 0.8%
 
 - Lesson 8: Functions
 
-- Lesson 9: Scripts  
+- Lesson 9: Scripts and Modules
 
 **Sample Questions:**   
 
