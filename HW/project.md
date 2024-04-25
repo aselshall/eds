@@ -206,7 +206,14 @@ Remember to allocate some time for unexpected challenges and iterative improveme
 
 ### 4. Will I miss points if my data and code is not well documented?
 
-The code will not get the full mark if missing annotation using markdown cells. We mainly use notebooks because it has this feature. Incorporating narrative descriptions into your code is good coding practice, enhancing its accessibility and reusability. This helps both users and you, especially when revisiting the code in the future. As an example, please check the solutions of your homework. You will notice that I use the markdown cells to provide a narrative for the code. As such, my notebook is not only a code, but also a good story to tell. For more information, please refer to 'GCP 2 - Describing your code' under the module of 'Good Coding Practice' on Canvas. Also, make sure to stick to the [grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
-
-
-
+The code may not receive full marks if it lacks annotations using markdown cells. Code annotation using markdown cells is vital as it enhances readability and comprehension for both users and future self. By providing narrative descriptions alongside the code, it becomes easier to understand its functionality and purpose, facilitating easier troubleshooting and future modifications. 
+  
+For example, please review your homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. This provides a better learning experience for students than just a code!
+    
+Here is an example from real life:  
+>This is the code: https://github.com/aselshall/feart/blob/main/Subset_selection/SubsetSelection.ipynb   
+>This is the report that goes with it: https://www.frontiersin.org/articles/10.3389/feart.2022.786223/full   
+ 
+While you do not need to replicate this level of detail for your project, it serves as a real-life example.
+   
+In this class you are not only learning coding, but also good coding practices (GCP). Please refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP)' module on Canvas for further details. Also, please ensure adherence to the [final report grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
