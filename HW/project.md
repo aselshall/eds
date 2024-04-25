@@ -202,3 +202,11 @@ I recommend focusing on a question or hypothesis that does not require extensive
 >- **Week 6:** Finalizing the report/presentation. Refine your report, and prepare the presentation and final report to share your project results.
 
 Remember to allocate some time for unexpected challenges and iterative improvement. 
+
+
+### 4. Will I miss points if my data and code is not well documented?
+
+The code will not get the full mark if missing annotation using markdown cells. We mainly use notebooks because it has this feature. Incorporating narrative descriptions into your code is good coding practice, enhancing its accessibility and reusability. This helps both users and you, especially when revisiting the code in the future. As an example, please check the solutions of your homework. You will notice that I use the markdown cells to provide a narrative for the code. As such, my notebook is not only a code, but also a good story to tell. For more information, please refer to 'GCP 2 - Describing your code' under the module of 'Good Coding Practice' on Canvas. Also, make sure to stick to the [grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
+
+
+
