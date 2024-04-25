@@ -206,7 +206,7 @@ Remember to allocate some time for unexpected challenges and iterative improveme
 
 ### 4. Will I miss points if my data and code is not well documented?
 
-The code may not receive full marks if it lacks annotations using markdown cells. Code annotation using markdown cells is vital as it enhances readability and comprehension for both users and future self. By providing narrative descriptions alongside the code, it becomes easier to understand its functionality and purpose, facilitating easier troubleshooting and future modifications. 
+The code may not receive full marks if it lacks annotations using markdown cells. In this class you are not only learning coding, but also good coding practices (GCP). Code annotation using markdown cells is vital as it enhances readability and comprehension for both users and future self. By providing narrative descriptions alongside the code, it becomes easier to understand its functionality and purpose, facilitating easier troubleshooting and future modifications. 
   
 For example, please review your homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. This provides a better learning experience for students than just a code!
     
@@ -216,4 +216,4 @@ Here is an example from real life:
  
 While you do not need to replicate this level of detail for your project, it serves as a real-life example.
    
-In this class you are not only learning coding, but also good coding practices (GCP). Please refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP)' module on Canvas for further details. Also, please ensure adherence to the [final report grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
+Please refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP)' module on Canvas for further details. Also, please ensure adherence to the [final report grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
