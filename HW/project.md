@@ -228,6 +228,6 @@ To upload your code and data to GitHub, follow these steps:
   
 If all your data and code are on GitHub and cited in your report, you only need to submit your report to Canvas.   
 
-If you prefer not to share your data on GitHub, you can still share your code or part of it to demonstrate your use of the tool. In this case, upload your data and code to Canvas.  
+If you prefer not to share your data on GitHub, you can still share your code or part of it to demonstrate your use of GitHub. In this case, upload your data and code to Canvas.  
 
 For grading purposes, ensure that your code is fully functional. Make sure to adhere to the [final report grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).  
