@@ -220,7 +220,7 @@ Please refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP
 
 ### 5. What is the link to upload the code and do I need to use GitHub?
   
-You can upload your code on Canvas, GitHub, or both. Please check the Data Availability (20%) criterion of the [final report grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50) for details.
+You can upload your code on Canvas, GitHub, or both. For full credit you need to use GitHub or a similar platform for code sharing. Please check the Data Availability (20%) criterion of the [final report grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50) for details.
 
 To upload your code and data to GitHub, follow these steps:  
 1. Create a GitHub account.
