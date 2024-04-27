@@ -202,22 +202,21 @@ I recommend focusing on a question or hypothesis that does not require extensive
 >- **Week 6:** Finalizing the report/presentation. Refine your report, and prepare the presentation and final report to share your project results.
 
 Remember to allocate some time for unexpected challenges and iterative improvement. 
-
-
-### 4. Will I miss points if my data and code is not well documented?
-
-The code may not receive full marks if it lacks annotations using markdown cells. In this class you are not only learning coding, but also good coding practices (GCP). Code annotation using markdown cells is vital as it enhances readability and comprehension for both users and future self. By providing narrative descriptions alongside the code, it becomes easier to understand its functionality and purpose, facilitating easier troubleshooting and future modifications. 
-  
-For example, please review your homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. This provides a better learning experience for students than just a code!
     
-Here is an example from real life:  
+### 4. Will I lose points for incomplete documentation of data and code?
+
+Incomplete documentation in the code may result in a deduction of marks, particularly if markdown cells are not utilized for annotations. In this course, you are not only learning good coding skills but also good coding practices (GCP). Markdown cell annotations improves readability and understanding for both users and your future reference. By providing narrative descriptions alongside the code, it becomes easier to understand code functionality and purpose, facilitating understanding and future modifications.
+
+For example, please review your homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. Has not this enhanced your learning experience?
+
+Here is another example from real life:  
 >This is the code: https://github.com/aselshall/feart/blob/main/Subset_selection/SubsetSelection.ipynb   
 >This is the report that goes with it: https://www.frontiersin.org/articles/10.3389/feart.2022.786223/full   
  
 While you do not need to replicate this level of detail for your project, it serves as a real-life example.
    
-Please refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP)' module on Canvas for further details. Also, please ensure adherence to the [final report grading rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
-
+For further guidance, refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP)' module on Canvas. Additionally, ensure adherence with the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
+   
 ### 5. Where should I upload the code and do I need to use GitHub?  
   
 You can upload your code on Canvas, GitHub, or both. Using GitHub or a similar platform is recommended for a higher grade. Refer to the Data Availability criterion in the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50) for specific requirements. This aligns with data communication and best coding practices outlined in your [project objectives](https://aselshall.github.io/eds/HW/project#12-project-objectives). Adherence to these practices contributes to a better grade according to the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
