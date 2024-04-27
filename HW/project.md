@@ -228,7 +228,9 @@ To upload your code and data to GitHub, follow these steps:
 3. Upload your data and code to your GitHub repository.  
 4. Cite your code repository in your report.   
 5. Optionally, you can also upload your presentation and report to GitHub.  
-  
+
+Additionally, with [Binder](https://mybinder.org/), you can open your notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere.
+
 If all your data and code are on GitHub and cited in your report, you only need to submit your report to Canvas.   
 
 If you prefer not to share your data on GitHub, you can still share your code or part of it to demonstrate your use of GitHub. In this case, upload your data and code to Canvas.  
