@@ -8,6 +8,8 @@ As we approach the final exam, I encourage you to diligently prepare for the exa
 
 - The one hour final exam consists of 60 multiple-choice questions and select correct answer questions.
 - The the exam is open book, but not open internet.
+- Generative AI (e.g., ChatGPT) is not permitted.
+- Aiding and abetting someone else's academic dishonesty is considered the same as the dishonesty itself! (Thus: “I let him cheat off of me” means “I cheated.”).
 - Any form of academic dishonesty will result in a grade of zero for this exam.
 - The questions will cover key topics from the 10 modules in the course, focusing mainly on basic materials.
 - You can concentrate on the lessons, as the exam will not include exercise and homework questions.
