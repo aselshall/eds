@@ -471,7 +471,7 @@ Best of luck!
 **Question 12.** b) It prints the count from 0 to 4  
 **Question 13.** a) x is greater than 5   
 **Question 14.** a) Outside the range   
-**Question 15.** c) 25  
+**Question 15.** d) None of the above 
 **Question 16.** b) `from my_script import greet`   
 **Question 18.**  a) You can install pandas using pip install pandas  
 **Question 19.** a) The number of rows and columns in the DataFrame   
