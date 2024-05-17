@@ -35,6 +35,15 @@ This course serves as an introduction to water and environmental data analysis u
 
 This elective course is designed for engineering and science students who have a genuine interest or practical necessity to learn coding to delve into water and environmental data analysis. No prior programming experience is required. This course is project-based and with self-directed learning opportunities. Accordingly, hands-on learning and practical applications are key criteria for assessing and evaluating your progress in this course. 
 
+## Course Learning Objectives
+
+By the end of this course, you will be able to:
+- Apply basic Python programming skills and libraries related to scientific computing such as NumPy, SciPy, Pandas, Matplotlib, Xarray and Catropy
+- Write Python codes to access, manage, analyze, visualize, and share environmental data from various sources such as files, databases, dashboards, and web scraping
+- Use Python to analyze climate change data using datasets such as Coupled Model Intercomparison Project Phase 6 (CMIP6) data
+- Perform spatial analysis of environmental and water resources data using platforms and libraries such as Google Earth Engine, USGS ScienceBasePy, and FloPy
+- Execute project using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
+
 ## Course Schedule 
 
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative and actual deadlines will be posted of canvas.
@@ -94,15 +103,6 @@ Online available materials include:
 - Project: [Environmental Data Driven Inquiry and Exploration (Eddie)](https://serc.carleton.edu/eddie)
 - Journal: [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science) by Cambridge University Press 
 - Resource gallery: [Project Pythia Resource Gallery](https://projectpythia.org/resource-gallery.html)
-
-## Course Learning Objectives
-
-By the end of this course, you will be able to:
-- Apply basic Python programming skills and libraries related to scientific computing such as NumPy, SciPy, Pandas, Matplotlib, Xarray and Catropy
-- Write Python codes to access, manage, analyze, visualize, and share environmental data from various sources such as files, databases, dashboards, and web scraping
-- Use Python to analyze climate change data using datasets such as Coupled Model Intercomparison Project Phase 6 (CMIP6) data
-- Perform spatial analysis of environmental and water resources data using platforms and libraries such as Google Earth Engine, USGS ScienceBasePy, and FloPy
-- Execute project using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
 
 ## Assessment and Grading
 
