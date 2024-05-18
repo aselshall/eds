@@ -89,7 +89,7 @@ These topics and dates are tentative and subject to change based on class progre
 |   | 28 | 18-Apr | Case Study: Google Earth Engine, GeeMap, and machine learning| HW5 Xarray and CartoPy |
 | 16  | 29 | 23-Apr | Final exam review | |
 |   | 30 | 25-Apr |  Project presentation | Final report |
-| 17 |  | 30-Apr |  Final Exam | |
+| 17 |  | 30-Apr |  Final exam | |
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
