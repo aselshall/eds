@@ -17,7 +17,7 @@ Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/insta
 - FGCU AppsAnywhere (*not recommended*):  
 If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fgcu.edu/its/appsanywhere/) has Anaconda.
      - Pros: You do not need to install anything and you can use Jupyterlab on the cloud
-     - Cons: Many features such as adding Jupyterlab extensions will be disabled; old version of Python 3.8x; can creat synce issues with OneDrive 
+     - Cons: Many features such as adding Jupyterlab extensions will be disabled; old version of Python; can creat synce issues with OneDrive 
 
 This tutorial shows you how to: 
 - install Miniconda that will install Python for you
@@ -80,7 +80,8 @@ In case you want your icon to look nice
 - You can now drag your icon from Desktop to Taskbar to make your JupyterLab handy.
 
 ### 5. Install basic libraries
-From the miniconda terminal install these libraries one by one. You can install of them now or before the lesson.
+From the miniconda terminal install these libraries one by one. You can install them now or before each lesson.   
+Pandas, NumPy and matplotlib libraries:
 ```python
 pip install pyarrow
 ```
@@ -91,25 +92,31 @@ pip install pandas
 pip install matplotlib
 ```
 ```python
-pip install lckr_jupyterlab_variableinspector
+pip install numpy
 ```
 ```python
-pip install numpy
+pip install lckr_jupyterlab_variableinspector
+```
+Xarray and CartoPy libraries:   
+```python
+pip install xarray
 ```
 ```python
 pip install cartopy
 ```
 ```python
-pip install xarray
-```
-```python
 pip install netCDF4
 ```
-The following are optional libraries:
+
+Google Earth engine (GEE) libraries:
+```python
+pip install earthengine-api
+```
 ```python
 pip install geemap
 ```
-This library will not work for python version 3.12 and you need to downgrade your version to 3.11
+This library will not work for python version 3.12 and you need to downgrade your version to 3.11  
+The following are optional libraries:  
 ```python
 pip install jupyter-ai
 ```
