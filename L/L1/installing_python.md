@@ -70,7 +70,7 @@ At my machine the content of the "Target" cell now looks something like this:
 ```
 %windir%\System32\cmd.exe "/K" C:\Users\username\AppData\Local\miniconda3\Scripts\activate.bat C:\Users\username\AppData\Local\miniconda3 & jupyter lab && exit
 ```
-If this is unclear, check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg). 
+If this is unclear, check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=PXY_gllGM52twLji&t=730). 
   
 ### 4. Change JupyterLab shortcut icon (*optional*)
 In case you want your icon to look nice
