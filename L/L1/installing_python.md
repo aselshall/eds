@@ -121,7 +121,7 @@ pip install statsmodels
 ```python
 pip install scikit-learn
 ```
-Google Earth engine (GEE) libraries:
+Google Earth engine (GEE) libraries (optional):
 ```python
 pip install earthengine-api
 ```
