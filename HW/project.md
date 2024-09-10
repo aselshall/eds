@@ -9,7 +9,7 @@ You are expected to conduct a project using Python on a water or environmental i
 ### 1.2 Project Objectives
 
 Your project should demonstrate your ability to perform the following tasks.
-1. **Environmental data analysis and visualization:** Conduct a project using Python, encompassing data analysis, and visualization to address a water or environmental issue of your choice
+1. **Data analysis and visualization:** Conduct a project using Python, encompassing data analysis, and visualization to address a water or environmental issue of your choice
 2. **Research question/problem statement:** Develop a research question or problem statement that guides your analysis 
 3. **Data acquisition and processing:** Skillfully access, manage, wrangle, and analyze complex datasets with diverse data formats and from diverse sources such as Google Earth Engine, USGS ScienceBasePy, NOAA, Data.Gov, peer-reviewed articles, among others
 4. **Python libraries and tools:** Apply appropriate Python libraries and tools for data manipulation, analysis, and visualization, such as Jupyter, Pandas, NumPy, Matplotlib, Xarray, Cartopy, Geemap, FloPy, and TensorFlow
