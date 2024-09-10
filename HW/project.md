@@ -205,11 +205,9 @@ Incomplete documentation in the code may result in a deduction of marks, particu
 
 For example, please review your homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. Has not this enhanced your learning experience?
 
-Here is another example from real life:  
->This is the code: https://github.com/aselshall/feart/blob/main/Subset_selection/SubsetSelection.ipynb   
->This is the report that goes with it: https://www.frontiersin.org/articles/10.3389/feart.2022.786223/full   
+This is another example from real life for a report [Link](https://github.com/aselshall/feart/blob/main/Subset_selection/SubsetSelection.ipynb) with accompanying annotated code [Link](https://www.frontiersin.org/articles/10.3389/feart.2022.786223/full) 
  
-While you do not need to replicate this level of detail for your project, it serves as a real-life example.
+While you do not need to replicate this level of detail in the above example for your project, it serves as a real-life example.
    
 For further guidance, refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP)' module on Canvas. Additionally, ensure adherence with the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
    
