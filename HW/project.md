@@ -199,7 +199,7 @@ I recommend focusing on a question or hypothesis that does not require extensive
 
 Remember to allocate some time for unexpected challenges and iterative improvement. 
     
-### 4. Will I lose points for incomplete documentation of data and code?
+### 4. Will I lose points for incomplete documentation of code?
 
 Incomplete documentation in the code may result in a deduction of marks, particularly if markdown cells are not utilized for annotations. In this course, you are not only learning good coding skills but also good coding practices (GCP). Markdown cell annotations improves readability and understanding for both users and your future reference. By providing narrative descriptions alongside the code, it becomes easier to understand code functionality and purpose, facilitating understanding and future modifications.
 
