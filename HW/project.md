@@ -213,7 +213,7 @@ For further guidance, refer to 'GCP 2 - Describing your code' in the 'Good Codin
    
 ### 5. Where should I upload the code and do I need to use GitHub?  
   
-You can upload your code on Canvas, GitHub, or both. Using GitHub or a similar platform is recommended for a higher grade. Refer to the Data Availability criterion in the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50) for specific requirements. This aligns with data communication and best coding practices outlined in your [project objectives](https://aselshall.github.io/eds/HW/project#12-project-objectives). Adherence to these practices contributes to a better grade according to the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
+You can upload your code on Canvas, GitHub, or both. Using GitHub or a similar platform is required for a higher grade. Refer to the Data Availability criterion in the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50) for specific requirements. This aligns with data communication and best coding practices outlined in your [project objectives](https://aselshall.github.io/eds/HW/project#12-project-objectives). Adherence to these practices contributes to a better grade according to the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
   
 To upload your code and data to GitHub, follow these steps:  
 1. Create a GitHub account.
