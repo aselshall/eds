@@ -177,7 +177,7 @@ The instructor will regularly update this section throughout the project to answ
 
 While there is no strict limitation on project themes, your chosen topic should fall under the broader umbrella of water and environmental data science. This includes, but is not limited to, areas such as environmental science, ecological studies, hydrology, environmental engineering, climate change impacts, environmental economics, urban planning, demographic changes, public health concerns, social media discourse, and social sciences research, all with a focus on water, climate, or environmental issues. Your project should demonstrate the application of Python for data analysis, visualization, and problem-solving in these interconnected fields.
 
-### 2. In case I do not have a project idea, how can I find a one?   
+### 2. In case I do not have a project idea, how can I find one?   
 
 The key is to choose a project that aligns with your interests and allows you to demonstrate your skills in Python and water and environmental data analysis. To get project ideas you can:
 - **Your current work**: Leverage on a project that you currently doing at work, working on with your supervisor, or for your graduation
