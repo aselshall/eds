@@ -218,9 +218,9 @@ You can upload your code on Canvas, GitHub, or both. Using GitHub or a similar p
 To upload your code and data to GitHub, follow these steps:  
 1. Create a GitHub account.
 2. Create a new repository.
-3. Upload your data and code to your GitHub repository.  
-4. Cite your code repository in your report.   
-5. Optionally, you can also upload your presentation and report to GitHub.  
+3. Cite your code repository in your report.  
+4. Upload your data and code to your GitHub repository.  
+6. Upload your presentation and report to your GitHub repository.
 
 Additionally, with [Binder](https://mybinder.org/), you can open your notebooks in an executable environment, making your code promptly reproducible by anyone without the need to install Python or Jupyter. 
 
