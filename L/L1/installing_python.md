@@ -20,12 +20,13 @@ If you cannot install Python on your machine, [FGCU appsanywhere](https://www.fg
      - Cons: Many features such as adding Jupyterlab extensions will be disabled; can creat synce issues with OneDrive; Python version not often updated 
 
 This tutorial shows you how to: 
-- [install Miniconda that will install Python for you](#installing-python-and-jupyterLab-with-miniconda)
-- use Miniconda to install JupyterLab
-- create a JupyterLab shortcut
+- Install Miniconda that will install Python for you
+- Use Miniconda to install JupyterLab
+- Create a JupyterLab shortcut
+- Install libraries needed for this course
 - Get started with JuypterLab and Python
 
-## Installing Python and JupyterLab with Miniconda
+## Installing Python, JupyterLab, and required libraries with Miniconda
 
 ### 1. Install Python with Miniconda
 
