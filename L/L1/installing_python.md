@@ -5,7 +5,7 @@ In this course we will use Python with [Jupyterlab](https://jupyter.org/), which
 
 You can install Python using different methods:
 - Miniconda (*recommended*):  
-   - Pros: Light weight version of Anaconda
+   - Pros: Light weight version (of Anaconda)
    - Cons: You would need to do few extra steps as shown in this tutorial
 - Anaconda (*not recommended*):  
 Installing Python using [anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) provides a streamlined and comprehensive approach, bundling not only Python but also popular data science libraries and tools. [This video](https://youtu.be/ozTSqhU9Hek?si=cGzNRATmPOPsoLCg) for example shows how to install Python with Anaconda, the different tools that Anaconda provides, how to create a shortcut for jupyterl lab, and how to get started.
