@@ -24,7 +24,7 @@ This tutorial shows you how to:
 - use Miniconda to install JupyterLab
 - create a JupyterLab shortcut 
 
-## Installing Python and JupyterLab
+## Installing Python and JupyterLab with Miniconda
 
 ### 1. Install Python with Miniconda
 
