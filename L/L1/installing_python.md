@@ -60,18 +60,22 @@ jupyter lab
 ```
 
 ### 3. Create Jupyterlab shortcut
-Each time you use JupterLab, you do not want to open an Anaconda Prompt(Miniconda3) and type `jupyter lab`, so you can create a shortcut to automatically lunch JupyterLab. Here are the steps
+Each time you use JupterLab, you do not want to open an Anaconda Prompt(Miniconda3) and type `jupyter lab`. You can create a shortcut to automatically lunch JupyterLab following these steps.
 
-**Create Anaconda Prompt Shortcut:** Drag Anaconda Prompt(Miniconda3) from Start Menu to Desktop, which will create an Anaconda Prompt(Miniconda3) shortcut. You can check that by clicking on it and then typing `jupyter lab` which will lunch JupyterLab.
+**Create Anaconda Prompt Shortcut:** 
+   - Drag Anaconda Prompt(Miniconda3) from Start Menu to Desktop, which will create an Anaconda Prompt(Miniconda3) shortcut.
+   - You can check that by clicking on it and then typing `jupyter lab` which will lunch JupyterLab.
 
-**Customize Anaconda Prompt Shortcut:** To customize the shortcut to lunch JupyterLab automatically, right click on your shortcut and select "Properties". Then at the end of the "Target" cell type
-```code
-& jupyter lab && exit
-```
-At my machine the content of the "Target" cell now looks something like this:
-```
-%windir%\System32\cmd.exe "/K" C:\Users\username\AppData\Local\miniconda3\Scripts\activate.bat C:\Users\username\AppData\Local\miniconda3 & jupyter lab && exit
-```
+**Customize Anaconda Prompt Shortcut:** 
+   - To customize the shortcut to lunch JupyterLab automatically, right click on your shortcut and select "Properties".
+   - Then at the end of the "Target" cell type
+      ```code
+      & jupyter lab && exit
+      ```
+      At my machine the content of the "Target" cell now looks something like this:
+      ```
+      %windir%\System32\cmd.exe "/K" C:\Users\username\AppData\Local\miniconda3\Scripts\activate.bat C:\Users\username\AppData\Local\miniconda3 & jupyter lab && exit
+      ```
 If this is unclear, check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=PXY_gllGM52twLji&t=730). 
   
 ### 4. Change JupyterLab shortcut icon (*optional*)
