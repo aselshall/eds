@@ -1,4 +1,4 @@
-[## EGN 4930 / EGN 5932C Special Topic : Environmental Data Science](https://aselshall.github.io/eds)
+## [EGN 4930 / EGN 5932C Special Topic : Environmental Data Science](https://aselshall.github.io/eds)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2024  
