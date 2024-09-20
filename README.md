@@ -3,7 +3,7 @@ Florida Gulf Coast University
 U.A. Whitaker College of Engineering  
 Spring 2024  
 Last updated: Feb 9, 2024  
-project link: [Link](https://aselshall.github.io/eds/HW/project)
+
 ## Course Information
 
 EGN 4930 / EGN 5932C Special Topic : Environmental Data Science   
@@ -40,6 +40,8 @@ This elective course is designed for engineering and science students with a gen
 - [FloPy](https://www.usgs.gov/software/flopy-python-package-creating-running-and-post-processing-modflow-based-models) for groundwater modeling using this MODFLOW Python API
 
 Accordingly, hands-on learning and practical applications will be key criteria for assessing and evaluating your progress in this course.
+
+Project link: [Link](https://aselshall.github.io/eds/HW/project)
 
 ## Course Learning Objectives
 
