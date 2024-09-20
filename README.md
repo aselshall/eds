@@ -184,7 +184,7 @@ Unexcused absences affect the final course grade according to the following sche
 
 You learn a programming language by practice. Accordingly, almost a bi-weekly assignment will be posted on Canvas. Each assignment is due by Thursday at 11:59 pm, unless otherwise mentioned in class or posted on CANVAS. Assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with a variety of Python libraries and datasets of your interest.
 
-## Project
+## [Project](https://aselshall.github.io/HW/project)
 
 A main learning objective is to immerse students in a project-based learning experience that integrates practical skills with a scientific mindset and engineering design approach. You are expected to work individually or in a group of two or three to develop a research question or industry-oriented problem, and use python tools to process data to provide useful information and solutions that support decisions. The project objectives are to help you to build a deeper understanding of different Python libraries and their applications in water resources and environmental data analysis, while promoting independent learning and critical thinking skills. By achieving these objectives, you will be well-equipped to leverage Python for in-depth analysis of environmental data across various domains. The instructor will be available to provide guidance and support. In addition, you will share your discoveries with the class through a presentation. A rubric for class presentation will be posted on Canvas. Attending all presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates for project abstract, interim report, and final report will be posted on Canvas. If you have a group of two or three students, a peer-assessment rubric will be posted on Canvas. The project will be graded according to the following schedule
 
@@ -213,9 +213,9 @@ Project assessment plan
 
 As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. The confirmation of attendance is required for all students, not only those receiving financial aid.
 
-## LLM use
+## Generative AI use
 
-Large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "LLM Not Permitted". Students must cite the used LLM tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
+Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "LLM Not Permitted". Students must cite the used LLM tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
 
 ## Core Syllabus Policies 
 
