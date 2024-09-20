@@ -2,9 +2,8 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2024  
-Syllabus link: https://aselshall.github.io/eds/admin/live_syllabus2024  
 Last updated: Feb 9, 2024  
-
+project link: [Link](https://aselshall.github.io/eds/HW/project)
 ## Course Information
 
 EGN 4930 / EGN 5932C Special Topic : Environmental Data Science   
