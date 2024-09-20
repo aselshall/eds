@@ -46,9 +46,9 @@ Accordingly, hands-on learning and practical applications will be key criteria f
 
 By the end of this course, you will be able to:
 - Apply basic Python programming skills and libraries related to scientific computing such as NumPy, SciPy, Pandas, Matplotlib, Xarray and Catropy
-- Write Python codes to access, manage, analyze, visualize, and share environmental data from various sources such as files, databases, dashboards, and web scraping
-- Use Python to analyze climate change data using datasets such as Coupled Model Intercomparison Project Phase 6 (CMIP6) data
-- Perform spatial analysis of environmental and water resources data using platforms and libraries such as Google Earth Engine, USGS ScienceBasePy, and FloPy
+- Write Python codes to access, manage, analyze, visualize, and share data from various sources such as files, databases, dashboards, and web scraping
+- Use Python to analyze climate data using datasets such as Coupled Model Intercomparison Project Phase 6 (CMIP6) data and remote sensing data
+- Perform spatial and specialized analysis of environmental and water resources data using platforms and libraries of your interest such as Google Earth Engine, Python in ArcGIS Pro, FloPy, and TensorFlow 
 - Execute project using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
 
 ## Course Schedule 
