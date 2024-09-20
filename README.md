@@ -213,7 +213,7 @@ Project assessment plan
 
 As of fall 2015, all faculty members are required to use Canvas to confirm a student's attendance for each course by the end of the first week of classes. Failure to do so will result in a delay in the disbursement of your financial aid. The confirmation of attendance is required for all students, not only those receiving financial aid.
 
-## Generative AI use
+## Generative AI Use
 
 Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "LLM Not Permitted". Students must cite the used LLM tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
 
