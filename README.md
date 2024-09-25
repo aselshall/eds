@@ -3,7 +3,7 @@ Florida Gulf Coast University
 U.A. Whitaker College of Engineering  
 Spring 2024  
 Last updated: Feb 9, 2024  
-Project link: [Link](https://aselshall.github.io/eds/HW/project)
+Project link: [Link](https://aselshall.github.io/eds/HW/project)   
 Course link: [Link](https://thaliavch.github.io/Environmental-Data-Science-Book)
 ## Course Information
 
