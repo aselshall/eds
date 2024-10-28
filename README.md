@@ -59,41 +59,40 @@ By the end of this course, you will be able to:
 
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative and actual deadlines will be posted of canvas.
 
-| **Week** | **Lesson** | **Date** | **Topic** | **Due Date** |
-| --- | --- | --- | --- | --- |
-| 1 | 1 | 9-Jan  | Introduction to environmental data science with Python | |
-|   | 2 | 11-Jan | Getting Started with JupyterLab and Python | Python Installation |
-| 2  | 3 | 16-Jan | Python Basics 1 - Variables and functions | |
-|   | 4 | 18-Jan |  Python Basics 2 - Python data structures | |
-| 3  | 5 | 23-Jan | Python Basics 3 - Text formatting | |
-|   | 6 | 25-Jan |  Python Programming 1 - Loops | HW1 Basics |
-| 4  | 7 | 30-Jan | Python programming 2 - Conditional statements | |
-|   | 8 | 1-Feb | Python programming 3 - Functions | |
-| 5 | 9 | 6-Feb | Python programming 4 - Modules | |
-|   | 10 | 8-Feb | Pandas 1 -Tabular data | HW2 Programming |
-| 6  | 11 | 13-Feb | Pandas 2 - Data wrangling | |
-|   | 12 | 15-Feb | Pandas 3 - Data analysis|  |
-| 7  | 13 | 20-Feb | Pandas 4 - Data analysis | |
-|   | 14 | 22-Feb | Pandas 5 - Data visualization |  |
-| 8  | 15 | 27-Feb | AI coding assistance | |
-|   | 16 | 29-Feb | Data science workflow |  |
-| 9 | | 5-Mar | Spring Break | HW3 Pandas |
-|   |  | 7-Mar | Spring Break | |
-| 10  | 17 | 12-Mar | Data science workflow |  |
-|   | 18 | 14-Mar |  NumPy for scientific computing |  |
-| 11  | 19 | 19-Mar | NumPy for scientific computing | |
-|   | 20 | 21-Mar | NumPy for scientific computing | Project Abstract |
-| 12  | 21 | 26-Mar | Data visualization with Matplotlib | |
-|   | 22 | 28-Mar | Data visualization with Matplotlib 	 |  |
-| 13 | 23 | 2-Apr | Data visualization with Matplotlib |   |
-|   | 24 | 4-Apr | Climate Data - CMIP6 and Remote Sensing | |
-| 14  | 25 | 9-Apr | Xarray for n-dimensional geospatial data  | HW4 NumPy and Matplotlib |
-|   | 26 | 11-Apr | Xarray for n-dimensional geospatial data | Interim report |
-| 15  | 27 | 16-Apr | Cartopy for geospatial data visualization |  |
-|   | 28 | 18-Apr | Case Study: Google Earth Engine, GeeMap, and machine learning| HW5 Xarray and CartoPy |
-| 16  | 29 | 23-Apr | Final exam review | |
-|   | 30 | 25-Apr |  Project presentation | Final report |
-| 17 |  | 30-Apr |  Final exam | |
+| Week | Lesson | Date      | Topic                                              | Due Date                  |
+|------|--------|-----------|----------------------------------------------------|----------------------------|
+| 1    | 1      | 14-Jan    | Introduction to environmental data science with Python |                            |
+| 1    | 2      | 16-Jan    | Getting Started with JupyterLab and Python          | Python Installation        |
+| 2    | 3      | 21-Jan    | Python Basics 1 - Variables and functions           |                            |
+| 2    | 4      | 23-Jan    | Python Basics 2 - Python data structures            |                            |
+| 3    | 5      | 28-Jan    | Python Basics 3 - Text formatting                   |                            |
+| 3    | 6      | 30-Jan    | Python Programming 1 - Loops                        | HW1 Basics                 |
+| 4    | 7      | 4-Feb     | Python programming 2 - Conditional statements       |                            |
+| 4    | 8      | 6-Feb     | Python programming 3 - Functions                    |                            |
+| 5    | 9      | 11-Feb    | Python programming 4 - Modules                      |                            |
+| 5    | 10     | 13-Feb    | Pandas 1 - Tabular data                             | HW2 Programming            |
+| 6    | 11     | 18-Feb    | Pandas 2 - Data wrangling                           |                            |
+| 6    | 12     | 20-Feb    | Pandas 3 - Data analysis                            |                            |
+| 7    | 13     | 25-Feb    | Pandas 4 - Data analysis                            |                            |
+| 7    | 14     | 27-Feb    | Pandas 5 - Data visualization                       |                            |
+| 8    | 15     | 4-Mar     | Spring Break                                        |                            |
+| 8    | 16     | 6-Mar     | Spring Break                                        |                            |
+| 9    |        | 11-Mar    | Data science workflow                               | HW3 Pandas                 |
+| 9    |        | 13-Mar    | Data science workflow                               |                            |
+| 10   | 17     | 18-Mar    | NumPy for scientific computing                      |                            |
+| 10   | 18     | 20-Mar    | NumPy for scientific computing                      |                            |
+| 11   | 19     | 25-Mar    | NumPy for scientific computing                      | Project Abstract           |
+| 11   | 20     | 27-Mar    | Data visualization with Matplotlib                  |                            |
+| 12   | 21     | 1-Apr     | Data visualization with Matplotlib                  |                            |
+| 12   | 22     | 3-Apr     | Data visualization with Matplotlib                  |                            |
+| 13   | 23     | 8-Apr     | ST: Climate Data - CMIP6 and Remote Sensing             |                            |
+| 13   | 24     | 10-Apr    | ST: Xarray for n-dimensional geospatial data            | HW4 NumPy and Matplotlib   |
+| 14   | 25     | 15-Apr    | ST: Xarray for n-dimensional geospatial data            | Interim report             |
+| 14   | 26     | 17-Apr    | ST: Cartopy for geospatial data visualization           |                            |
+| 15   | 27     | 22-Apr    | ST: Case Study with Google Earth Engine, GeeMap, and machine learning | HW5 Xarray and CartoPy |
+| 15   | 28     | 24-Apr    | Project presentation                                |                            |
+| 16   | 29     | 29-Apr    | Final exam                                          | Final report               |
+
 
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
