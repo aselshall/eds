@@ -1,10 +1,14 @@
 ## [EGN 4930 / EGN 5932C Special Topic : Environmental Data Science](https://aselshall.github.io/eds)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-Spring 2024  
-Last updated: Feb 9, 2024  
-Project link: [Link](https://aselshall.github.io/eds/HW/project)   
+Spring 2025
+Last updated: Oct 27, 2024  
+
+## Important links
+Course flyer: [Link](https://aselshall.github.io/eds/Environmental%20Data%20Science%20Flyer.pdf)
 Course link: [Link](https://thaliavch.github.io/Environmental-Data-Science-Book)
+Project link: [Link](https://aselshall.github.io/eds/HW/project)   
+
 ## Course Information
 
 EGN 4930 / EGN 5932C Special Topic : Environmental Data Science   
