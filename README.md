@@ -53,6 +53,7 @@ By the end of this course, you will be able to:
 - Use Python to analyze climate data using datasets such as Coupled Model Intercomparison Project Phase 6 (CMIP6) data and remote sensing data
 - Perform spatial and specialized analysis of environmental and water resources data using platforms and libraries of your interest such as Google Earth Engine, Python in ArcGIS Pro, FloPy, and TensorFlow 
 - Execute project using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
+- Communicate your findings effectively in both oral and written forms including following best practices in open data
 
 ## Course Schedule 
 
