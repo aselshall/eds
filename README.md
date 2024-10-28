@@ -62,35 +62,35 @@ These topics and dates are tentative and subject to change based on class progre
 | Week | Lesson | Date      | Topic                                              | Due Date                  |
 |------|--------|-----------|----------------------------------------------------|----------------------------|
 | 1    | 1      | 14-Jan    | Introduction to environmental data science with Python |                            |
-| 1    | 2      | 16-Jan    | Getting Started with JupyterLab and Python          | Python Installation        |
+|     | 2      | 16-Jan    | Getting Started with JupyterLab and Python          | Python Installation        |
 | 2    | 3      | 21-Jan    | Python Basics 1 - Variables and functions           |                            |
-| 2    | 4      | 23-Jan    | Python Basics 2 - Python data structures            |                            |
+|     | 4      | 23-Jan    | Python Basics 2 - Python data structures            |                            |
 | 3    | 5      | 28-Jan    | Python Basics 3 - Text formatting                   |                            |
-| 3    | 6      | 30-Jan    | Python Programming 1 - Loops                        | HW1 Basics                 |
+|     | 6      | 30-Jan    | Python Programming 1 - Loops                        | HW1 Basics                 |
 | 4    | 7      | 4-Feb     | Python programming 2 - Conditional statements       |                            |
-| 4    | 8      | 6-Feb     | Python programming 3 - Functions                    |                            |
+|     | 8      | 6-Feb     | Python programming 3 - Functions                    |                            |
 | 5    | 9      | 11-Feb    | Python programming 4 - Modules                      |                            |
-| 5    | 10     | 13-Feb    | Pandas 1 - Tabular data                             | HW2 Programming            |
+|     | 10     | 13-Feb    | Pandas 1 - Tabular data                             | HW2 Programming            |
 | 6    | 11     | 18-Feb    | Pandas 2 - Data wrangling                           |                            |
-| 6    | 12     | 20-Feb    | Pandas 3 - Data analysis                            |                            |
+|     | 12     | 20-Feb    | Pandas 3 - Data analysis                            |                            |
 | 7    | 13     | 25-Feb    | Pandas 4 - Data analysis                            |                            |
-| 7    | 14     | 27-Feb    | Pandas 5 - Data visualization                       |                            |
+|     | 14     | 27-Feb    | Pandas 5 - Data visualization                       |                            |
 | 8    | 15     | 4-Mar     | Spring Break                                        |                            |
-| 8    | 16     | 6-Mar     | Spring Break                                        |                            |
+|     | 16     | 6-Mar     | Spring Break                                        |                            |
 | 9    |        | 11-Mar    | Data science workflow                               | HW3 Pandas                 |
-| 9    |        | 13-Mar    | Data science workflow                               |                            |
+|     |        | 13-Mar    | Data science workflow                               |                            |
 | 10   | 17     | 18-Mar    | NumPy for scientific computing                      |                            |
-| 10   | 18     | 20-Mar    | NumPy for scientific computing                      |                            |
+|    | 18     | 20-Mar    | NumPy for scientific computing                      |                            |
 | 11   | 19     | 25-Mar    | NumPy for scientific computing                      | Project Abstract           |
-| 11   | 20     | 27-Mar    | Data visualization with Matplotlib                  |                            |
+|    | 20     | 27-Mar    | Data visualization with Matplotlib                  |                            |
 | 12   | 21     | 1-Apr     | Data visualization with Matplotlib                  |                            |
-| 12   | 22     | 3-Apr     | Data visualization with Matplotlib                  |                            |
+|    | 22     | 3-Apr     | Data visualization with Matplotlib                  |                            |
 | 13   | 23     | 8-Apr     | ST: Climate Data - CMIP6 and Remote Sensing             |                            |
-| 13   | 24     | 10-Apr    | ST: Xarray for n-dimensional geospatial data            | HW4 NumPy and Matplotlib   |
+|    | 24     | 10-Apr    | ST: Xarray for n-dimensional geospatial data            | HW4 NumPy and Matplotlib   |
 | 14   | 25     | 15-Apr    | ST: Xarray for n-dimensional geospatial data            | Interim report             |
-| 14   | 26     | 17-Apr    | ST: Cartopy for geospatial data visualization           |                            |
+|    | 26     | 17-Apr    | ST: Cartopy for geospatial data visualization           |                            |
 | 15   | 27     | 22-Apr    | ST: Case Study with Google Earth Engine, GeeMap, and machine learning | HW5 Xarray and CartoPy |
-| 15   | 28     | 24-Apr    | Project presentation                                |                            |
+|    | 28     | 24-Apr    | Project presentation                                |                            |
 | 16   | 29     | 29-Apr    | Final exam                                          | Final report               |
 
 
