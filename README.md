@@ -2,7 +2,7 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2025  
-Last updated: Oct 27, 2024  
+Last updated: Nov 13, 2024  
    
 Course flyer: [Link](https://aselshall.github.io/eds/Environmental%20Data%20Science%20Flyer.pdf)  
 Course link: [Link](https://thaliavch.github.io/Environmental-Data-Science-Book)  
@@ -11,7 +11,7 @@ Project link: [Link](https://aselshall.github.io/eds/HW/project)
 ## Course Information
 
 EGN 4930 / EGN 5932C Special Topic : Environmental Data Science   
-CRN: [15603](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15603) / [15604](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15604)   
+CRN: [15844](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15844) / [15843](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15843)   
 Credit hours: 3  
 Class: T R -- 04:30pm - 05:45pm -- Holmes Engineering 439 (Jan 9 – Apr 25)  
 Exam: T -- 03:00pm - 05:15pm -- Holmes Engineering 439 (Apr 30)  
@@ -134,7 +134,7 @@ The instructor may elect to employ a curve that favors the students.
 - Fina Exam 30%
 
 General notes
-- Grades Due from Faculty by Tuesday, 07 May 2024
+- Grades Due from Faculty by Tuesday, 06 May 2024
 - If you are falling behind, consult the academic calendar for the last day to drop.
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
