@@ -11,7 +11,7 @@ Project link: [Link](https://aselshall.github.io/eds/HW/project)
 ## Course Information
 
 EGN 4930 / EGN 5932C Special Topic : Environmental Data Science   
-CRN: [15844](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15844) / [15843](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202401&crn=15843)   
+CRN: [15844](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15844) / [15843](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15843)   
 Credit hours: 3  
 Class: T R -- 04:30pm - 05:45pm -- Holmes Engineering 439 (Jan 9 – Apr 25)  
 Exam: T -- 03:00pm - 05:15pm -- Holmes Engineering 439 (Apr 30)  
