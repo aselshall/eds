@@ -24,7 +24,7 @@ Department of Bioengineering, Civil Engineering, and Environmental Engineering
 U.A. Whitaker College of Engineering Joint Appointment with The Water School  
 Office: Holmes Hall 423 (inside 416)  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
-Office Hours : Tuesday and Thursday 8:00 am – 12:00 pm and 3:00 pm - 4:00 pm, and by appointment  
+Office Hours : Tuesday and Thursday 2:00 pm - 4:00 pm, and by appointment  
 
 ## Teaching Assistant
 Thalia Valle Chavez  
