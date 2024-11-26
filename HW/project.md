@@ -229,3 +229,15 @@ If all your data and code are on GitHub and cited in your report, you only need 
 If you prefer not to share your data on GitHub, you can still share your code or part of it to demonstrate your use of GitHub. In this case, upload your data and code to Canvas.  
 
 Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure that your code is fully functional. 
+
+
+## 4. Student projects
+
+### Spring 2024
+1. Plasma proteomics of loggerhead sea turtles (Caretta caretta) to establish diagnostic biomarkers for brevetoxicosis [Link](https://github.com/cceballos3193/PythonCodesforProteomics/tree/main)
+2. Seasonal and spatial variations of nutrient concentrations in the Sanibel Slough: Implications for Watershed Management [Link](https://github.com/diggz1286/Project)
+3. Identification and analysis of upwelling events in the Gulf of Mexico and their connection to K. brevis blooms on the West Florida shelf using remote sensing data [Link](https://github.com/gjrosas1154/Connecting-sea-surface-temperature-and-upwelling-to-K.-brevis-blooms.git)
+4. Dynamic Interplay: Hurricanes and surface water salinity levels [Link](https://github.com/WillTh03/Salinity_hurricanes_dynamics)
+6. Investigating the groundwater drawdown using FloPy package for MODFLOW groundwater modeling [Link](https://github.com/hgrimm27/flopy_eds)
+7. Aligning plant biodiversity data of the Naples Botanical Garden with Global Biodiversity Information Facility using pandas and ArcGIS Online Notebooks [Link](https://github.com/sophers/Data-Science-Final-Project)
+8. Exploring machine learning models for red tide prediction in the Gulf of Mexico
