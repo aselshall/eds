@@ -88,7 +88,7 @@ In case you want your icon to look nice
 ### 5. Install basic libraries
 From the miniconda terminal install these libraries one by one. You can install them now or before each lesson.   
     
-Pandas, NumPy and matplotlib libraries:
+#### Basic libraries: Pandas, NumPy and matplotlib :
 ```python
 pip install pyarrow
 ```
@@ -104,7 +104,7 @@ pip install numpy
 ```python
 pip install lckr_jupyterlab_variableinspector
 ```
-Xarray and CartoPy libraries:   
+#### Gridded data libraries: Xarray and CartoPy   
 ```python
 pip install xarray
 ```
@@ -114,7 +114,7 @@ pip install netCDF4
 ```python
 pip install cartopy
 ```
-Statistical analysis libraries:
+#### Statistical analysis and machine learning libraries:
 ```python
 pip install scipy
 ```
@@ -127,13 +127,14 @@ pip install statsmodels
 ```python
 pip install scikit-learn
 ```
-Google Earth engine (GEE) libraries (optional):
+#### Google Earth engine (GEE) libraries (optional):
 ```python
 pip install earthengine-api
 ```
 ```python
 pip install geemap
 ```
+#### Extra 
 The following library will not work for python version 3.12 and you need to downgrade your version to 3.11(optional):
 ```python
 pip install jupyter-ai
