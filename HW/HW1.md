@@ -1,4 +1,4 @@
-<h1 style="color:green; text-align:center;"> Homework 1 Python Basics </h1>  
+<h1 style="color:green; text-align:center;"> [Homework 1 Python Basics](https://aselshall.github.io/HW/HW1) </h1>  
 
 **Instructions:**
 * LLM Not Permitted (Check syllabus for details)
