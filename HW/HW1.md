@@ -1,4 +1,4 @@
-# [Homework 1 Python Basics](https://aselshall.github.io/HW/HW1)  
+# [Homework 1 Python Basics](https://aselshall.github.io/eds/HW/HW1)  
 
 **Instructions:**
 * LLM Not Permitted (Check syllabus for details)
