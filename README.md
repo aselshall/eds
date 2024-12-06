@@ -218,7 +218,7 @@ As of fall 2015, all faculty members are required to use Canvas to confirm a stu
 
 ## Generative AI Use
 
-Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "LLM Not Permitted". Students must cite the used LLM tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
+Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "Generative AI Not Permitted". Otherwise, students must cite the used AI tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
 
 ## Core Syllabus Policies 
 
