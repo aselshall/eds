@@ -247,11 +247,11 @@ FGCU has a set of central policies related to student recording class sessions, 
 - Faculty submit the number of project submissions [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd-2tIRyJJqES0IK4LEDcB8q26xtUbKnf0KrtObds42H5dAOA/viewform). Project details are not required until April 11th.
 - Event details: Eagle X is FGCU’s largest annual showcase event featuring the most highly regarded student projects of the year from Research, Community Engagement, Internships, and Leadership. Read more: www.fgcu.edu/eaglex
 
-#### DEADLINES for May 2025 Graduating Seniors 
+### DEADLINES for May 2025 Graduating Seniors 
 - Deadline for all service-learning hours tracked and verified in Eagle Service Network:  February 7, 2025
 - Deadline to apply for the [Excellence in Civic Engagement Award](https://www.fgcu.edu/studentlife/servicelearning/students/awardsrecognition#ExcellenceinCivicEngagementAward): April 1, 2025
 
-#### Service-learning opportunities
+### Service-learning opportunities
 - As you search for service-learning experiences for your students, please consider using our Guided Trip Finder on Eagle Link at bit.ly/SLGuidedTrips.
 - These are updated in real-time and reflect service-learning opportunities for students guided by one of our trained student assistants.
 
