@@ -211,7 +211,9 @@ Project assessment plan
 
 ## [Service Learning (Optional)](https://aselshall.github.io/eds/HW/project#3-service-learning-optional)
 
-You have the option to count service learning hours while working on your term project. To qualify, your term project should address a direct or research need for a community partner that is not-for-profit. For detail check [term project](https://aselshall.github.io/eds/HW/project#3-service-learning-optional). Check this [link](https://aselshall.github.io/eds/HW/sl-events) for service learning events including:
+You have the option to count service learning hours while working on your term project. To qualify, your term project should address a direct or research need for a community partner that is not-for-profit. For detail check [term project](https://aselshall.github.io/eds/HW/project#3-service-learning-optional). 
+   
+Check this [link](https://aselshall.github.io/eds/HW/sl-events) for service learning events including:
    - [Service-Learning Fair](https://fgcu.campuslabs.com/engage/event/10670146):  Tuesday, January 21, 2025 (10am-2pm, Cohen Ballroom)
    - [Soaring with Service](https://fgcu.campuslabs.com/engage/event/10712137): Thursday, January 30, 2025 (10am-1pm, Library Lawn) 
    - [Community Engagement Day (part of Eagle X)](https://docs.google.com/forms/d/e/1FAIpQLSd-2tIRyJJqES0IK4LEDcB8q26xtUbKnf0KrtObds42H5dAOA/viewform): Tuesday, April 22, 2025 (8am-1:30pm, Alico Arena)
