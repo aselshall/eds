@@ -224,7 +224,9 @@ Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Cl
 
 FGCU has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, generative AI, and religious observances that apply to all courses at FGCU. Be sure to review these [online](https://www.fgcu.edu/about/leadership/officeoftheprovost/core-syllabus-policy-statements)
 
-## Service Learning
+## Service Learning (Optional)
+
+You have the option to count service learning hours while working on your term project. To qualify, your project should address a direct or research need for a community partner that is not for profit. Check [term project](https://aselshall.github.io/eds/HW/project#3-service-learning-optional) for detail.
 
 ### Upcoming Events
 
