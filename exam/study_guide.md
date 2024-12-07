@@ -1,6 +1,6 @@
 # [Study Guide for Final Exam](https://aselshall.github.io/eds/exam/study_guide)
 
-**Exam Date:** Tuesday, April 30  
+**Exam Date:** Tuesday, April 29  
 **Exam Time:** 03:00pm - 04:00pm  
 **Location:** Holmes Engineering 439  
 
