@@ -130,7 +130,7 @@ The instructor may elect to employ a curve that favors the students.
 ### Assessment plan (100%)
 - Participation 10%
 - Assignments 30%
-- Project 30%
+- Term Project 30%
 - Fina Exam 30%
 
 General notes
@@ -187,7 +187,7 @@ Unexcused absences affect the final course grade according to the following sche
 
 You learn a programming language by practice. Accordingly, almost a bi-weekly assignment will be posted on Canvas. Each assignment is due by Thursday at 11:59 pm, unless otherwise mentioned in class or posted on CANVAS. Assignments are designed to include self-directed learning opportunities. This is to give you the opportunity to explore and experiment with a variety of Python libraries and datasets of your interest.
 
-## [Project](https://aselshall.github.io/HW/project)
+## [Term Project](https://aselshall.github.io/HW/project)
 
 A main learning objective is to immerse students in a project-based learning experience that integrates practical skills with a scientific mindset and engineering design approach. You are expected to work individually or in a group of two or three to develop a research question or industry-oriented problem, and use python tools to process data to provide useful information and solutions that support decisions. The project objectives are to help you to build a deeper understanding of different Python libraries and their applications in water resources and environmental data analysis, while promoting independent learning and critical thinking skills. By achieving these objectives, you will be well-equipped to leverage Python for in-depth analysis of environmental data across various domains. The instructor will be available to provide guidance and support. In addition, you will share your discoveries with the class through a presentation. A rubric for class presentation will be posted on Canvas. Attending all presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates for project abstract, interim report, and final report will be posted on Canvas. If you have a group of two or three students, a peer-assessment rubric will be posted on Canvas. The project will be graded according to the following schedule
 
@@ -204,8 +204,9 @@ Project assessment plan
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
-## Exam
-- There will be a final exam that is comprehensive and open-book
+## [Final Exam]((https://aselshall.github.io/eds/exam/study_guide)
+- There will be a final exam that is comprehensive and open-boo
+- For more information, check the [final exam study guide](https://aselshall.github.io/eds/exam/study_guide)
 - Makeup exam may be provided for [execused absence](#Execused-Absence-Policy)
 
 ## Policy for Academic Integrity Violations 
