@@ -204,12 +204,12 @@ Project assessment plan
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
-## [Final Exam]((https://aselshall.github.io/eds/exam/study_guide)
+## [Final Exam](https://aselshall.github.io/eds/exam/study_guide)
 - There will be a final exam that is comprehensive and open-boo
 - For more information, check the [final exam study guide](https://aselshall.github.io/eds/exam/study_guide)
 - Makeup exam may be provided for [execused absence](#Execused-Absence-Policy)
 
-## Service Learning (Optional)
+## [Service Learning (Optional)](https://aselshall.github.io/eds/HW/project#3-service-learning-optional)
 
 You have the option to count service learning hours while working on your term project. To qualify, your term project should address a direct or research need for a community partner that is not-for-profit. For detail check [term project](https://aselshall.github.io/eds/HW/project#3-service-learning-optional). Check this [link](https://aselshall.github.io/eds/HW/sl-events) for service learning events including:
    - [Service-Learning Fair](https://fgcu.campuslabs.com/engage/event/10670146):  Tuesday, January 21, 2025 (10am-2pm, Cohen Ballroom)
@@ -217,7 +217,6 @@ You have the option to count service learning hours while working on your term p
    - [Community Engagement Day (part of Eagle X)](https://docs.google.com/forms/d/e/1FAIpQLSd-2tIRyJJqES0IK4LEDcB8q26xtUbKnf0KrtObds42H5dAOA/viewform): Tuesday, April 22, 2025 (8am-1:30pm, Alico Arena)
    - For Graduating Seniors: Deadline for all service-learning hours tracked and verified in Eagle Service Network:  February 7, 2025
    - For Graduating Seniors: Deadline to apply for the [Excellence in Civic Engagement Award](https://www.fgcu.edu/studentlife/servicelearning/students/awardsrecognition#ExcellenceinCivicEngagementAward): April 1, 2025
-
 
 ## Policy for Academic Integrity Violations 
 - Academic dishonesty in assignments, projects, or exams will result in a grade of zero for that submission, and will be strictly addressed in line with [FGCU policies and procedures](https://fgcucdn.fgcu.edu/studentlife/studentconduct/files/academic_integrity_flowchart_2019.pdf).
