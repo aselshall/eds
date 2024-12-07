@@ -12,7 +12,7 @@ Your project should demonstrate your ability to perform the following tasks.
 1. **Data analysis and visualization:** Conduct a project using Python, encompassing data analysis, and visualization to address a water or environmental issue of your choice
 2. **Research question/problem statement:** Develop a research question or problem statement that guides your analysis 
 3. **Data acquisition and processing:** Skillfully access, manage, wrangle, and analyze complex datasets with diverse data formats and from diverse sources such as Google Earth Engine, USGS ScienceBasePy, NOAA, Data.Gov, peer-reviewed articles, among others
-4. **Python libraries and tools:** Apply appropriate Python libraries and tools for data manipulation, analysis, and visualization, such as Jupyter, Pandas, NumPy, Matplotlib, Xarray, Cartopy, Geemap, FloPy, and TensorFlow
+4. **Python libraries and tools:** Apply appropriate Python libraries and tools for data manipulation, analysis, and visualization, such as Jupyter, Pandas, NumPy, Matplotlib, Xarray, Cartopy, Google Earth engine, Geemap, FloPy, and TensorFlow
 5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
 6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
 7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
