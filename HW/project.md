@@ -42,7 +42,7 @@ The instructor is available to provide any needed guidance and support. You are 
 
 Submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions will result in 10% deduction per day up.
 
-All students working in a group need to submit the peer-assessment. You only get the peer-assessment grade if you submitted peer-assessment. Use peer-assessment [rubric](https://aselshall.github.io/HW/rubic) to evaluate the contribution of each group member. 
+All students working in a group need to submit the peer-assessment. You only get the peer-assessment grade if you submitted peer-assessment. Use [peer-assessment rubric](https://aselshall.github.io/HW/peer) to evaluate the contribution of each group member. 
 
 Good luck, and we look forward to seeing your creative applications in water and environmental data science with Python.
 
