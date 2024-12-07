@@ -16,7 +16,7 @@ Your project should demonstrate your ability to perform the following tasks.
 5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
 6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
 7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
-8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards (e.g., (Guide to Technical Report Writing)[https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting].
+8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards (e.g., [Guide to Technical Report Writing](https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting)
 9. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
 10. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
 
