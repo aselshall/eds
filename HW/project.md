@@ -119,7 +119,7 @@ You can work with the instructor on one of these projects, or with other faculty
 To count service learning hours, follow these steps:
 - Step 1 Preparation:
   - Identify a **not-for-profit** community partner and plan your project with them.
-  - Tip: Start the preparation early (week 1), as identifying and planning with a partner can take time.
+  - Tip: As identifying and planning with a partner can take time, start the preparation early (week 1) and discuss with the instructor your project idea and feasibility 
 - Step 2 Action:
   - Setup service record in the [Eagle Service Network (ESN)](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting)
   - Work on your project, and track your individual hours: [YouTube Video Guide](https://youtu.be/QbQw6KiHTx0)
