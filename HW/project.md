@@ -1,4 +1,4 @@
-# [EGN 4930 / EGN 5932C Environmental Data Science](https://aselshall.github.io/eds)  - [Final Project](https://aselshall.github.io/eds/HW/project)
+# [EGN 4930 / EGN 5932C Environmental Data Science](https://aselshall.github.io/eds)  - [Term Project](https://aselshall.github.io/eds/HW/project)
 
 ## 1. Project Assignment 
 
