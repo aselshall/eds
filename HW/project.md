@@ -16,9 +16,9 @@ Your project should demonstrate your ability to perform the following tasks.
 5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
 6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
 7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
-8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards (e.g., (A guide to technical report writing)[https://www.theiet.org/media/5182/technical-report-writing.pdf]
-10. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
-11. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
+8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards (e.g., (Guide to Technical Report Writing)[https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting].
+9. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
+10. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
 
 
 ### 1.3 Schedule and Assessment
@@ -30,10 +30,6 @@ The project will be graded according to the following schedule:
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions
 - **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition. 
-### 6. 
-Students can identify areas for improvement and gaps in their learning by analyzing both successful and unsuccessful aspects of an experience
-
-
 - **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
   
 The due dates of the above deliverables will be posted on Canvas.
@@ -113,7 +109,9 @@ The rubrics serve as a general guide to understand the evaluation criteria and e
 Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment criteria, form, and submission instructions.
 
 ## 3. Service learning (optional)
-You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. A community partner could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student worked on a [water quality analysis project](https://github.com/diggz1286/Project) with Sanibel-Captiva Conservation Foundation. Another student assisted with automating the workflow for Naples Botanical Garden. You can search for a community partner that aligns with your interests using the FGCU Community Partners Database: [FGCU Community Partners Database](https://servicelearning.fgcu.edu/CommunityPartnerDatabase/agencieslist). Examples of potential partners include the Florida Department of Environmental Protection, U.S. Army Corps of Engineers, and other similar organizations. Alternatively, you can contribute a research project at FGCU related to environmental data science. Here are some examples: 
+You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. A community partner could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student worked on a [water quality analysis project](https://github.com/diggz1286/Project) with Sanibel-Captiva Conservation Foundation. Another student assisted with automating the workflow for Naples Botanical Garden. You can search for a community partner that aligns with your interests using the FGCU Community Partners Database: [FGCU Community Partners Database](https://servicelearning.fgcu.edu/CommunityPartnerDatabase/agencieslist). Examples of potential partners include the Florida Department of Environmental Protection, U.S. Army Corps of Engineers, FGCU, and other similar organizations. 
+
+For example, you can contribute a research project at FGCU related to environmental data science. Here are some examples: 
 - **[Red tide water quality management application (REMApp)](https://github.com/aselshall/rm/blob/main/hw/projects/p4.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning
 - **[Nature-based infrastructure for climate resiliency](https://github.com/aselshall/rm/blob/main/hw/projects/p1.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture
 
