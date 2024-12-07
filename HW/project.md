@@ -115,7 +115,7 @@ You can search for a community partner that aligns with your interests in the [F
 - **[Red tide water quality management application (REMApp)](https://github.com/aselshall/rm/blob/main/hw/projects/p4.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning
 - **[Nature-based infrastructure for climate resiliency](https://github.com/aselshall/rm/blob/main/hw/projects/p1.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture
 
-You may work with the instructor on these projects, or collaborate with other faculty on any project that meets the [project-objectives](#1.2-Project-Objectives). This is an opportunity to apply course concepts to real-world community challenges, while fulfilling service learning requirements.
+You may work with the instructor on these projects, or collaborate with other faculty on any project that meets the [project objectives](https://aselshall.github.io/eds/HW/project#12-project-objectives). This is an opportunity to apply course concepts to real-world community challenges, while fulfilling service learning requirements.
 
 #### Action Steps
 To count service learning hours, follow these steps:
