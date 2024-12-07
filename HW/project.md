@@ -165,9 +165,9 @@ Remember to allocate some time for unexpected challenges and iterative improveme
     
 ### 4. Will I lose points for incomplete documentation of code?
 
-Incomplete documentation in the code will result in a deduction of marks, particularly if markdown cells are not utilized for annotations. In this course, you are not only learning good coding skills but also good coding practices (GCP). Markdown cell annotations improves readability and understanding for both users and your future reference. By providing narrative descriptions alongside the code, it becomes easier to understand code functionality and purpose, facilitating understanding and future modifications.
+Yes. Incomplete documentation of the code will result in a deduction of marks, particularly if markdown cells are not utilized for annotations. In this course, you are not only learning good coding skills but also good coding practices (GCP). Markdown cell annotations improves readability and understanding for both users and your future reference. By providing narrative descriptions alongside the code, it becomes easier to understand code functionality and purpose, facilitating understanding and future modifications.
 
-For example, please review your homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. Has not this enhanced your learning experience?
+For example, please review your lessons and homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. Has not this enhanced your learning experience?
 
 This is another example from real life for [a report](https://www.frontiersin.org/articles/10.3389/feart.2022.786223/full) with accompanying [annotated code](https://github.com/aselshall/feart/blob/main/Subset_selection/SubsetSelection.ipynb). While you do not need to replicate this level of detail for your project, it serves as a real-life example.
    
@@ -186,7 +186,7 @@ To upload your code and data to GitHub, follow these steps:
 
 Additionally, with [Binder](https://mybinder.org/), you can open your notebooks in an executable environment, making your code promptly reproducible by anyone without the need to install Python or Jupyter. 
 
-If all your data and code are on GitHub and cited in your report, you only need to submit your report to Canvas. If did not share your code on GitHub, you must submit both the report and code on Canvas.
+If all your data and code are on GitHub and cited in your report, you only need to submit your report to Canvas. If you did not share your code on GitHub, you must submit both the report and code on Canvas.
 
 If you prefer not to share your data on GitHub, you can still share your code or part of it to demonstrate your use of GitHub. In this case, upload your data and code to Canvas.  
 
