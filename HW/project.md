@@ -14,12 +14,11 @@ Your project should demonstrate your ability to perform the following tasks.
 3. **Data acquisition and processing:** Skillfully access, manage, wrangle, and analyze complex datasets with diverse data formats and from diverse sources such as Google Earth Engine, USGS ScienceBasePy, NOAA, Data.Gov, peer-reviewed articles, among others
 4. **Python libraries and tools:** Apply appropriate Python libraries and tools for data manipulation, analysis, and visualization, such as Jupyter, Pandas, NumPy, Matplotlib, Xarray, Cartopy, Google Earth engine, Geemap, FloPy, and TensorFlow
 5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
-6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
-7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
-8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards (e.g., [Guide to Technical Report Writing](https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting))
-9. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
-10. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
-
+6. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
+7. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
+8. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
+9. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards (e.g., [Guide to Technical Report Writing](https://www.sussex.ac.uk/ei/internal/forstudents/engineeringdesign/studyguides/techreportwriting))
+10. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
 
 ### 1.3 Schedule and Assessment
 
