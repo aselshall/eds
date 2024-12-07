@@ -148,13 +148,11 @@ Remember to allocate some time for unexpected challenges and iterative improveme
     
 ### 4. Will I lose points for incomplete documentation of code?
 
-Incomplete documentation in the code may result in a deduction of marks, particularly if markdown cells are not utilized for annotations. In this course, you are not only learning good coding skills but also good coding practices (GCP). Markdown cell annotations improves readability and understanding for both users and your future reference. By providing narrative descriptions alongside the code, it becomes easier to understand code functionality and purpose, facilitating understanding and future modifications.
+Incomplete documentation in the code will result in a deduction of marks, particularly if markdown cells are not utilized for annotations. In this course, you are not only learning good coding skills but also good coding practices (GCP). Markdown cell annotations improves readability and understanding for both users and your future reference. By providing narrative descriptions alongside the code, it becomes easier to understand code functionality and purpose, facilitating understanding and future modifications.
 
 For example, please review your homework solutions, where I use markdown cells to provide narrative context. This transforms the notebook into not just code, but a story to tell. Has not this enhanced your learning experience?
 
-This is another example from real life for a report [ [Link](https://github.com/aselshall/feart/blob/main/Subset_selection/SubsetSelection.ipynb) ] with accompanying annotated code [ [Link](https://www.frontiersin.org/articles/10.3389/feart.2022.786223/full) ].
- 
-While you do not need to replicate this level of detail in the above example for your project, it serves as a real-life example.
+This is another example from real life for a report [Link](https://www.frontiersin.org/articles/10.3389/feart.2022.786223/full) with accompanying annotated code [Link](https://github.com/aselshall/feart/blob/main/Subset_selection/SubsetSelection.ipynb). While you do not need to replicate this level of detail for your project, it serves as a real-life example.
    
 For further guidance, refer to 'GCP 2 - Describing your code' in the 'Good Coding Practice (GCP)' module on Canvas. Additionally, ensure adherence with the [final report rubric](https://aselshall.github.io/eds/HW/project#24-final-report-rubric-50).
    
