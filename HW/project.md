@@ -105,7 +105,7 @@ The rubrics serve as a general guide to understand the evaluation criteria and e
 
 ### 2.5 Peer-Assessment Rubric (10%)
 
-Check this [link]((https://aselshall.github.io/eds/HW/peer) for peer-assessment criteria, form, and submission instructions.
+Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment criteria, form, and submission instructions.
 
 ## 3. FAQ 
 
