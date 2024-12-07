@@ -16,9 +16,9 @@ Your project should demonstrate your ability to perform the following tasks.
 5.  **Result evaluation and interpretation:** Critically evaluate and interpret the results of your analysis, and draw meaningful conclusions that address your original research question or problem statement
 6. **Data communication:** Effectively communicate your findings by documenting, visualizing, sharing and presenting your data insights in a clear and concise manner utilizing tools such as Jupyter notebook, GitHub, and Binder 
 7. **Code documentation and best practices**: Deliver clear and well-documented Jupyter notebook with Python codes following the best coding practices
-8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards
-9. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
-10. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
+8. **Reporting**: Deliver a technically proficient final report following recognized academic or professional standards (e.g., (A guide to technical report writing)[https://www.theiet.org/media/5182/technical-report-writing.pdf]
+10. **Presentation:** Deliver a clear, organized, and effective class presentation to disseminate the project's findings to a wider audience
+11. **Team collaboration**: If applicable, contribute meaningfully to the project, and demonstrate effective teamwork skills including communication, collaboration, and conflict resolution
 
 
 ### 1.3 Schedule and Assessment
@@ -29,7 +29,11 @@ The project will be graded according to the following schedule:
 - **Project Abstract ((10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions
-- **Project Presentation (20%)** : Presentation of your project findings to the class. Total time is 10 minutes and allow two minutes for questions and transition.
+- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition. 
+### 6. 
+Students can identify areas for improvement and gaps in their learning by analyzing both successful and unsuccessful aspects of an experience
+
+
 - **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
   
 The due dates of the above deliverables will be posted on Canvas.
@@ -92,6 +96,7 @@ The rubrics serve as a general guide to understand the evaluation criteria and e
 *Note: Assign numerical values (5.0, 4.5, 4.0, 3.5, 3.0) to each level for calculating the overall score.*
 
 ### 2.4 Project Presentation Rubric (20%)
+
 
 | Criteria                              | Excellent (5.0)                                     | Good (4.5)                                  | Satisfactory (4)                                  | Needs Improvement (3.5)                           | Inadequate (3.0)                                   |
 |---------------------------------------|---------------------------------------------------|-------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
@@ -174,7 +179,6 @@ If all your data and code are on GitHub and cited in your report, you only need 
 If you prefer not to share your data on GitHub, you can still share your code or part of it to demonstrate your use of GitHub. In this case, upload your data and code to Canvas.  
 
 Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure that your code is fully functional. 
-
 
 ## 5. Student projects
 
