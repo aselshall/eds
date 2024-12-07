@@ -4,7 +4,7 @@
 
 ### 1.1 Project Description
 
-You are expected to conduct a project using Python on a water or environmental issue of your choice. You should develop a research question or problem statement that guides your analysis. You need to use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve an industry-or community-oriented problem. Graduate student may work individually or in group of up to three. Undergraduate student needs to work in a group of two to five. Throughout the project, you will have the opportunity to apply and deepen your skills in data analysis and visualization, critical thinking, and independent learning, in alignment with the project objectives.
+You are expected to conduct a project using Python on a water or environmental issue of your choice. You should develop a research question or problem statement that guides your analysis. You need to use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve an industry-or community-oriented problem. Graduate student may work individually or in group of up to three. Undergraduate student needs to work in a group of two to four. Throughout the project, you will have the opportunity to apply and deepen your skills in data analysis and visualization, critical thinking, and independent learning, in alignment with the project objectives.
 
 ### 1.2 Project Objectives
 
@@ -29,7 +29,7 @@ The project will be graded according to the following schedule:
 - **Project Abstract ((10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions
-- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition. 
+- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition. You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 for extra credit. Winning an Eagle X Research Award guarantees an “A” grade provided that you get a passing grade 50% in the final. 
 - **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
   
 The due dates of the above deliverables will be posted on Canvas.
@@ -109,13 +109,18 @@ The rubrics serve as a general guide to understand the evaluation criteria and e
 Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment criteria, form, and submission instructions.
 
 ## 3. Service learning (optional)
-You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. A community partner could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student worked on a [water quality analysis project](https://github.com/diggz1286/Project) with Sanibel-Captiva Conservation Foundation. Another student assisted with automating the workflow for Naples Botanical Garden. You can search for a community partner that aligns with your interests using the FGCU Community Partners Database: [FGCU Community Partners Database](https://servicelearning.fgcu.edu/CommunityPartnerDatabase/agencieslist). Examples of potential partners include the Florida Department of Environmental Protection, U.S. Army Corps of Engineers, FGCU, and other similar organizations. 
-
-For example, you can contribute a research project at FGCU related to environmental data science. Here are some examples: 
+You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. A community partner could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student worked on a [water quality analysis project](https://github.com/diggz1286/Project) with Sanibel-Captiva Conservation Foundation. Another student assisted with automating the workflow for Naples Botanical Garden. You can search for a community partner that aligns with your interests using the FGCU Community Partners Database: [FGCU Community Partners Database](https://servicelearning.fgcu.edu/CommunityPartnerDatabase/agencieslist). Examples of potential partners include the Florida Department of Environmental Protection, U.S. Army Corps of Engineers, FGCU, and other similar organizations. For example, you can contribute a research project at FGCU related to environmental data science. Here are some examples: 
 - **[Red tide water quality management application (REMApp)](https://github.com/aselshall/rm/blob/main/hw/projects/p4.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning
 - **[Nature-based infrastructure for climate resiliency](https://github.com/aselshall/rm/blob/main/hw/projects/p1.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture
 
 You can work with the instructor on one of these projects, or with other faculty on any project that meet the [project-objectives](#1.2-Project-Objectives). This is an opportunity to apply course concepts to real-world community challenges including local environmental challenges while fulfilling service learning requirements.
+
+#### Service Learning Action Steps
+- Step 1 Preparation: Identify a **not-for-profit** community partner and plan your project with
+- Step 2 Action: Setup service record in [Eagle Service Network (ESN)](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting), work on your project, and track individual hours: [YouTube Video](https://youtu.be/QbQw6KiHTx0)
+- Step 3 Reflection: Reflect on the process in your final report and presentation
+- Step 4 Submission: Send professional message to community partner to express gratitude, summarize work and hour total, and request hour approval; submit hours to ESN and submit screenshot to Canvas for verification 
+
 
 ## 4. FAQ 
 
