@@ -1,4 +1,4 @@
-### 2.5 Peer-Assessment Rubric (10%)
+### [2.5 Peer-Assessment Rubric (10%)](https://aselshall.github.io/eds/HW/peer)
 
 #### Peer Assessment Criteria
 Use the Peer Assessment Form below to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions based on these criteria:
