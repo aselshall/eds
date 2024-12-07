@@ -107,7 +107,14 @@ The rubrics serve as a general guide to understand the evaluation criteria and e
 
 Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment criteria, form, and submission instructions.
 
-## 3. FAQ 
+## 3. Service learning (optional)
+You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. A community partner could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student worked on a [water quality analysis project](https://github.com/diggz1286/Project) with Sanibel-Captiva Conservation Foundation. Another student automated the workflow for Naples Botanical Garden. You can search for a community partner that aligns with their interests using the FGCU Community Partners Database: [FGCU Community Partners Database](https://servicelearning.fgcu.edu/CommunityPartnerDatabase/agencieslist). Examples of potential partners include the Florida Department of Environmental Protection, U.S. Army Corps of Engineers, and other similar organizations. Alternatively, you can contribute to one of the following FGCU research projects:
+- **[Red Tide Water Quality Management Application (REMApp)](https://github.com/aselshall/rm/blob/main/hw/projects/p4.md)**: Involves enhancing harmful algal bloom prediction through advanced machine learning
+- **[Nature-Based Infrastructure for Climate Resiliency](https://github.com/aselshall/rm/blob/main/hw/projects/p1.md)**: Focuses on enhancing the climate resiliency of groundwater resources in South Florida through nature-based infrastrcture
+
+This is an opportunity to apply course concepts to real-world challenges while fulfilling service learning requirements.
+
+## 4. FAQ 
 
 The instructor will regularly update this section throughout the project to answer common questions and clarify any uncertainties that students may have. Make sure to check this section before submitting your project deliverables. 
 
@@ -171,7 +178,7 @@ If you prefer not to share your data on GitHub, you can still share your code or
 Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure that your code is fully functional. 
 
 
-## 4. Student projects
+## 5. Student projects
 
 ### Spring 2024
 1. Plasma proteomics of loggerhead sea turtles (Caretta caretta) to establish diagnostic biomarkers for brevetoxicosis [Link](https://github.com/cceballos3193/PythonCodesforProteomics/tree/main)
