@@ -118,7 +118,7 @@ This is an opportunity to apply course concepts to real-world challenges while f
 
 The instructor will regularly update this section throughout the project to answer common questions and clarify any uncertainties that students may have. Make sure to check this section before submitting your project deliverables. 
 
-### 1. Are there any project themes or topics that we are restricted to?
+### 1. Are there any project themes or topics that we are restricted to? 
 
 While there is no strict limitation on project themes, your chosen topic should fall under the broader umbrella of water and environmental data science. This includes, but is not limited to, areas such as environmental science, ecological studies, hydrology, environmental engineering, climate change impacts, environmental economics, urban planning, demographic changes, public health concerns, social media discourse, and social sciences research, all with a focus on water, climate, or environmental issues. Your project should demonstrate the application of Python for data analysis, visualization, and problem-solving in these interconnected fields.
 
