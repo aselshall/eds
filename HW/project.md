@@ -29,7 +29,7 @@ The project will be graded according to the following schedule:
 - **Project Abstract ((10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions
-- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition. You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 for extra credit. Winning an Eagle X Research Award guarantees an “A” grade provided that you get a passing grade 50% in the final. 
+- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition. You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 for extra credit. Winning an Eagle X Research Award guarantees an “A” grade provided that you get a passing grade of 60% in the final. 
 - **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
   
 The due dates of the above deliverables will be posted on Canvas.
@@ -115,12 +115,19 @@ You have the option to count service learning hours while working on your projec
 
 You can work with the instructor on one of these projects, or with other faculty on any project that meet the [project-objectives](#1.2-Project-Objectives). This is an opportunity to apply course concepts to real-world community challenges including local environmental challenges while fulfilling service learning requirements.
 
-#### Service Learning Action Steps
-- Step 1 Preparation: Identify a **not-for-profit** community partner and plan your project with
-- Step 2 Action: Setup service record in [Eagle Service Network (ESN)](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting), work on your project, and track individual hours: [YouTube Video](https://youtu.be/QbQw6KiHTx0)
-- Step 3 Reflection: Reflect on the process in your final report and presentation
-- Step 4 Submission: Send professional message to community partner to express gratitude, summarize work and hour total, and request hour approval; submit hours to ESN and submit screenshot to Canvas for verification 
-
+#### Action Steps
+To count service learning hours, follow these steps:
+- Step 1 Preparation:
+  - Identify a **not-for-profit** community partner and plan your project with them.
+  - Tip: Start the preparation early (week 1), as identifying and planning with a partner can take time.
+- Step 2 Action:
+  - Setup service record in the [Eagle Service Network (ESN)](https://www.fgcu.edu/studentlife/servicelearning/students/volunteeringrecordingservice-learninghours#documenting)
+  - Work on your project, and track your individual hours: [YouTube Video Guide](https://youtu.be/QbQw6KiHTx0)
+- Step 3 Reflection:
+  - Reflect on the process in your final report and presentation (in class or at Eagle X)
+- Step 4 Submission:
+  - Send professional message to community partner to express gratitude, summarize work and hours, and request hour approval    
+  - Submit aproved hours to ESN and submit screenshot to Canvas for verification 
 
 ## 4. FAQ 
 
