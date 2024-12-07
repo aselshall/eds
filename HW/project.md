@@ -169,7 +169,7 @@ To upload your code and data to GitHub, follow these steps:
 
 Additionally, with [Binder](https://mybinder.org/), you can open your notebooks in an executable environment, making your code promptly reproducible by anyone without the need to install Python or Jupyter. 
 
-If all your data and code are on GitHub and cited in your report, you only need to submit your report to Canvas.   
+If all your data and code are on GitHub and cited in your report, you only need to submit your report to Canvas. If did not share your code on GitHub, you must submit both the report and code on Canvas.
 
 If you prefer not to share your data on GitHub, you can still share your code or part of it to demonstrate your use of GitHub. In this case, upload your data and code to Canvas.  
 
