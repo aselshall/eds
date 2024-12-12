@@ -1,6 +1,8 @@
 ### [2.5 Peer-Assessment Rubric (10%)](https://aselshall.github.io/eds/HW/peer)
 
-#### Peer Assessment Criteria
+All students working in a group need to submit the peer-assessment. You only get the peer-assessment grade if you submitted peer-assessment. Use peer-assessment rubric to evaluate the contribution of each group member. 
+
+#### Peer Assessment Rubric
 Use the Peer Assessment Form below to provide an honest and thoughtful evaluation of both your contribution and your team members' contributions based on these criteria:
 
 Q1. **Understanding of team dynamics (5 points):**
