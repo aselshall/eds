@@ -31,7 +31,7 @@ The project will be graded according to the following schedule:
 - **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition.
   - You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 for extra credit.
   - Winning an Eagle X Research Award guarantees an “A” grade (provided that you get a passing grade of 50% in the final). 
-- **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
+- **Peer Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
   
 The due dates of the above deliverables will be posted on Canvas.
 
