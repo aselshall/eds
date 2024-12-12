@@ -41,9 +41,7 @@ The instructor is available to provide any needed guidance and support. You are 
 
 ### 1.5 Submission
 
-Submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions will result in 10% deduction per day.
-
-Good luck, and we look forward to seeing your creative applications in water and environmental data science with Python.
+Submission dates will be posted on Canvas. Please ensure that your work is submitted on time. Late submissions will result in 10% deduction per day. Good luck, and we look forward to seeing your creative applications in water and environmental data science with Python.
 
 ## 2. Rubrics 
 
