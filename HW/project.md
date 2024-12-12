@@ -25,10 +25,12 @@ Your project should demonstrate your ability to perform the following tasks.
 To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hours on Tuesday and Thursday from 1:00 pm to 4:00 pm, after the class, or by appointment.
 
 The project will be graded according to the following schedule:
-- **Project Abstract ((10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
+- **Project Abstract (10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions
-- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition. You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 for extra credit. Winning an Eagle X Research Award guarantees an “A” grade provided that you get a passing grade of 60% in the final. 
+- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition.
+  - You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 for extra credit.
+  - Winning an Eagle X Research Award guarantees an “A” grade (provided that you get a passing grade of 50% in the final). 
 - **Peer-Assessment (10%)** : Evaluation of your contribution and your team members' contributions to the project, if applicable
   
 The due dates of the above deliverables will be posted on Canvas.
