@@ -80,7 +80,7 @@ Each time you use JupterLab, you do not want to open an Anaconda Prompt(Minicond
       ```
       %windir%\System32\cmd.exe "/K" C:\Users\username\AppData\Local\miniconda3\Scripts\activate.bat C:\Users\username\AppData\Local\miniconda3 & jupyter lab && exit
       ```
-If this is unclear, check this [YouTube video](https://youtu.be/ozTSqhU9Hek?si=PXY_gllGM52twLji&t=730). 
+If this is unclear, check this [YouTube video](https://www.youtube.com/live/lD11l2vViqo?si=0PXs2GJLi_LqiuOC&t=465)
   
 ### 4. Change JupyterLab shortcut icon (*optional*)
 In case you want your icon to look nice
