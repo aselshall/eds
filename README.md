@@ -113,7 +113,7 @@ Textbook:
 
 Online available materials include:
 - eBook: [Scientific Python](https://lectures.scientific-python.org)
-- Course: [Geo-Python](https://geo-python-site.readthedocs.io)
+- Course: [Geo-Python](https://geo-python-site.readthedocs.io) or [this course](https://thaliavch.github.io/Environmental-Data-Science-Book)  
 - Cookbooks: [Project Pythia Cookbooks](https://projectpythia.org/)
 - Tutorials: [NASA Gesdisc Tutorials](https://github.com/nasa/gesdisc-tutorials)
 - Project: [Environmental Data Driven Inquiry and Exploration (Eddie)](https://serc.carleton.edu/eddie)
