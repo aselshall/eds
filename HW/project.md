@@ -27,9 +27,11 @@ To ensure the project is appropriately challenging, schedule a meeting with the 
 The project will be graded according to the following schedule:
 - **Project Abstract (10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
-- **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions
-- **Project Presentation (20%)** : Presentation of your project findings to class. Total time is 10 minutes and allow two minutes for questions and transition.
-  - You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 for extra credit.
+- **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions with the following outline
+  - Cover page (with specific and informative title), Abstract (less than 150 words), 1. Introduction (brief), 2. Methods, 3. Results and discussion, 4, Conclusions, Data availability statement (containing link to your code, presentation and report repository), References
+- **Project Presentation (20%)** : In-class or Eagle X presentation of your project
+  - For in-class presentation, plan for 10 minute minute presentation that includes two minutes for questions and transition.
+  - You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 morning for extra credit.
   - Winning an Eagle X Research Award guarantees an “A” grade (provided that you get a passing grade of 50% in the final). 
 - **Peer Assessment (10%)** : Evaluation of your contribution and your team members' contributions, if applicable, is required following [these instructions](https://aselshall.github.io/eds/HW/peer)
   
