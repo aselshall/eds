@@ -28,7 +28,15 @@ The project will be graded according to the following schedule:
 - **Project Abstract (10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions with the following outline
-  - Cover page (with specific and informative title), Abstract (less than 150 words), 1. Introduction (brief), 2. Methods, 3. Results and discussion, 4, Conclusions, Data availability statement (containing link to your code, presentation and report repository), References
+  - Cover page (with specific and informative project title)
+  - Abstract (less than 200 words)
+  - 1. Introduction (brief)
+  - 2. Methods
+  - 3. Results and discussion
+  - 4. Conclusions
+  - Data availability statement (containing link to your code, presentation and report repository)
+  - References
+  - Appendix (if needed)
 - **Project Presentation (20%)** : In-class or Eagle X presentation of your project
   - For in-class presentation, plan for 10 minute minute presentation that includes two minutes for questions and transition.
   - You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 morning for extra credit.
