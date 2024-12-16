@@ -22,7 +22,7 @@ Your project should demonstrate your ability to perform the following tasks.
 
 ### 1.3 Schedule and Assessment
 
-To ensure the project is appropriately challenging, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hours on Tuesday and Thursday from 1:00 pm to 4:00 pm, after the class, or by appointment.
+To ensure the project is feasible, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hours on Tuesday and Thursday, after the class, or schedule an appointment by email.
 
 The project will be graded according to the following schedule:
 - **Project Abstract (10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
@@ -30,10 +30,10 @@ The project will be graded according to the following schedule:
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions with the following outline
   - Cover page (with specific and informative project title)
   - Abstract (less than 200 words)
-  - 1. Introduction (brief)
-  - 2. Methods
-  - 3. Results and discussion
-  - 4. Conclusions
+  - 1.Introduction (brief)
+  - 2.Methods
+  - 3.Results and discussion
+  - 4.Conclusions
   - Data availability statement (containing link to your code, presentation and report repository)
   - References
   - Appendix (if needed)
