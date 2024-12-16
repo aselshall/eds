@@ -140,7 +140,7 @@ The instructor may elect to employ a curve that favors the students.
 - Fina Exam 30%
 
 General notes
-- Grades Due from Faculty by Tuesday, 06 May 2024
+- Grades Due from Faculty by Noon - Tuesday, 06 May 2025
 - If you are falling behind, consult the academic calendar for the last day to drop.
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
@@ -153,6 +153,7 @@ For participation assessment students are expected to:
 - be present in class, meaning avoid web browsing, texting, off subject discussions, or other non-academic activities that impact your class participation grade
 - read assigned materials _before_ class to prepare for discussion and to incorporate what is learned from the readings in the class discussion
 - fill-out exit ticket meaningfully to provide instructor with constructive feedback and suggestions
+- Every class you need to fill-out the exit ticket consistutes 50% of your participation grade
 
 All these will be evident by the quality of your class participation, which form the majority of your participation grade.  
 
@@ -195,15 +196,15 @@ You learn a programming language by practice. Accordingly, almost a bi-weekly as
 
 ## [Term Project](https://aselshall.github.io/HW/project)
 
-A main learning objective is to immerse students in a project-based learning experience that integrates practical skills with a scientific mindset and engineering design approach. You are expected to work individually or in a group of two or three to develop a research question or industry-oriented problem, and use python tools to process data to provide useful information and solutions that support decisions. The project objectives are to help you to build a deeper understanding of different Python libraries and their applications in water resources and environmental data analysis, while promoting independent learning and critical thinking skills. By achieving these objectives, you will be well-equipped to leverage Python for in-depth analysis of environmental data across various domains. The instructor will be available to provide guidance and support. In addition, you will share your discoveries with the class through a presentation. A rubric for class presentation will be posted on Canvas. Attending all presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates for project abstract, interim report, and final report will be posted on Canvas. If you have a group of two or three students, a peer-assessment rubric will be posted on Canvas. The project will be graded according to the following schedule
+A main learning objective is to immerse students in a project-based learning experience that integrates practical skills with a scientific mindset and engineering design approach. You are expected to work individually or in a group of two or three to develop a research question or industry-oriented problem, and use python tools to process data to provide useful information and solutions that support decisions. The project objectives are to help you to build a deeper understanding of different Python libraries and their applications in water resources and environmental data analysis, while promoting independent learning and critical thinking skills. By achieving these objectives, you will be well-equipped to leverage Python for in-depth analysis of environmental data across various domains. The instructor will be available to provide guidance and support. In addition, you will share your discoveries with the class through a presentation. A rubric for class presentation will be posted on Canvas. Attending all presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates for project abstract, interim report, and final report will be posted on Canvas. The project will be graded according to the following schedule
 
 Project assessment plan
-- Peer-assessment 10%
 - Abstract 10%
 - Interim report 10%
 - Final report 50%
 - Project presentation 20%
-  
+- Peer-assessment 10%
+
 ## Late Assignments and Project Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
 - Deadline maybe extended for [execused absences](#Execused-Absence-Policy)
