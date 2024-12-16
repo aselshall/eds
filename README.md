@@ -2,7 +2,7 @@
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
 Spring 2025  
-Last updated: Nov 13, 2024  
+Last updated: Dec 16, 2025 
    
 Course flyer: [Link](https://aselshall.github.io/eds/Environmental%20Data%20Science%20Flyer.pdf)  
 Course link: [Link](https://thaliavch.github.io/Environmental-Data-Science-Book)  
