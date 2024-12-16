@@ -1,5 +1,7 @@
 # [Installing Python and JupyterLab](https://aselshall.github.io/eds/L/L1/installing_python)
 
+## Tutorial
+Read the instruction below to install Python or watch the video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lD11l2vViqo?si=e8k0GBbT61-niNfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Overivew 
