@@ -55,12 +55,12 @@ Accordingly, hands-on learning and practical applications will be key criteria f
 ## Course Learning Objectives
 
 By the end of this course, you will be able to:
-- Apply basic programming skills and Python libraries related to scientific computing such as NumPy, SciPy, Pandas, Matplotlib, Xarray and Catropy
-- Write codes to access, manage, analyze, visualize, and share data from various sources such as files, databases, dashboards, and web scraping
-- Use Python to analyze climate data using datasets such as Coupled Model Intercomparison Project Phase 6 (CMIP6) data and remote sensing data
-- Perform spatial and temporal analysis using platforms and libraries of your interest such as Google Earth Engine for remote sensing data, Python in ArcGIS Pro, FloPy for groundwater modeling, and TensorFlow for machine learning
-- Execute project using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
-- Communicate your findings effectively in both oral and written forms including following best practices in open data
+- Apply programming skills and Python libraries for scientific computing.(e.g., NumPy, SciPy, Pandas, Matplotlib, Xarray, and Cartopy)
+- Write Python code to access, manage, analyze, visualize, and share data from files, databases, dashboards, and web scraping
+- Analyze climate data using datasets such as CMIP6 and remote sensing data
+- Perform spatial and temporal analysis with tools and libraries like Google Earth Engine, Python in ArcGIS Pro, FloPy for groundwater modeling, and TensorFlow for machine learning
+- Execute projects using Python, encompassing data analysis and visualization to address environmental and water resources challenges and inform decision
+- Communicate your findings effectively in both oral and written forms including following best coding practices and best practices in open data
 
 ## Course Schedule 
 
