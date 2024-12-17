@@ -55,10 +55,10 @@ Accordingly, hands-on learning and practical applications will be key criteria f
 ## Course Learning Objectives
 
 By the end of this course, you will be able to:
-- Apply Python programming skills and libraries like NumPy, Pandas, Matplotlib, Xarray, and Cartopy to analyze data in formats such as CSV, shapefiles, and NetCDF from sources like NOAA, EPA, NASA, USGS, CMIP6, and Copernicus
-- Identify and solve water resources or environmental issues using tools such as Pandas and Xarray, Google Earth Engine, Python in ArcGIS Pro, FloPy for groundwater modeling, or TensorFlow for machine learning
-- Communicate findings through interactive notebooks like Jupyter Notebook or Google Colab, reports, and presentations, while following best practices in coding and data sharing
-
+- Apply Python programming skills and libraries like NumPy, Pandas, Matplotlib, Xarray, and Cartopy to analyze data in formats like CSV, shapefiles, and NetCDF from sources including NOAA, EPA, NASA, USGS, CMIP6, and Copernicus
+- Identify and solve water resources or environmental issues using tools such as Pandas, Xarray, Google Earth Engine, Python in ArcGIS Pro, FloPy for groundwater modeling, or TensorFlow for machine learning
+- Communicate findings effectively through interactive notebooks like Jupyter Notebook or Google Colab, as well as reports and presentations, while following best practices in coding and data sharing
+  
 ## Course Schedule 
 
 These topics and dates are tentative and subject to change based on class progress. Due dates are tentative and actual deadlines will be posted of canvas.
