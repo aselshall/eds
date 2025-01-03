@@ -83,8 +83,8 @@ These topics and dates are tentative and subject to change based on class progre
 |      | 16     | 27-Feb    | Data science workflow                              | HW3 Pandas                 |
 | 8    |        | 4-Mar     | Spring Break                                       |                            |
 |      |        | 6-Mar     | Spring Break                                       |                            |
-| 10   | 17     | 11-Mar    | NumPy for scientific computing                     | Project abstract           |
-|      | 18     | 13-Mar    | NumPy for scientific computing                     |                            |
+| 10   | 17     | 11-Mar    | NumPy for scientific computing                     |                            |
+|      | 18     | 13-Mar    | NumPy for scientific computing                     | Project abstract           |
 | 11   | 19     | 18-Mar    | NumPy for scientific computing                     |                            |
 |      | 20     | 20-Mar    | Data visualization with Matplotlib                 |                            |
 | 12   | 21     | 25-Mar     | Data visualization with Matplotlib                 |                            |
