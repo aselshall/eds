@@ -79,9 +79,9 @@ These topics and dates are tentative and subject to change based on class progre
 |      | 12     | 13-Feb    | Pandas 3 - Data analysis                           |                            |
 | 7    | 13     | 18-Feb    | Pandas 4 - Data analysis                           |                            |
 |      | 14     | 20-Feb    | Pandas 5 - Data visualization                      |                            |
-| 9    | 15     | 25-Feb    | Data science workflow                              |                            |
+| 8    | 15     | 25-Feb    | Data science workflow                              |                            |
 |      | 16     | 27-Feb    | Data science workflow                              | HW3 Pandas                 |
-| 8    |        | 4-Mar     | Spring Break                                       |                            |
+| 9    |        | 4-Mar     | Spring Break                                       |                            |
 |      |        | 6-Mar     | Spring Break                                       |                            |
 | 10   | 17     | 11-Mar    | NumPy for scientific computing                     |                            |
 |      | 18     | 13-Mar    | NumPy for scientific computing                     | Project abstract           |
@@ -95,9 +95,9 @@ These topics and dates are tentative and subject to change based on class progre
 |      | 26     | 10-Apr    | ST: Cartopy for geospatial data visualization      |                            |
 | 15   | 27     | 15-Apr    | ST: Google Earth Engine and machine learning       | HW5 Xarray and CartoPy (optional) |
 |      | 28     | 17-Apr    | ST: Google Earth Engine and machine learning       | HW5 Xarray and CartoPy (optional) |
-| 15   | 29     | 22-Apr    | Project presentation                               |                            |
+| 16   | 29     | 22-Apr    | Project presentation                               |                            |
 |      | 30     | 24-Apr    |  Review of final exam                              |                            |
-| 16   |        | 29-Apr    | Final exam                                         | Final report               |
+| 17   |        | 29-Apr    | Final exam                                         | Final report               |
    
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
