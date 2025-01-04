@@ -4,7 +4,7 @@
 
 ### 1.1 Project Description
 
-You are expected to conduct a project using Python on a water or environmental issue of your choice. You should develop a research question or problem statement that guides your analysis. You need to use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve an industry-or community-oriented problem. Graduate students may work individually or in group of up to three. Undergraduate students need to work in a group of two to four. Throughout the project, you will have the opportunity to apply and deepen your skills in data analysis and visualization, critical thinking, and independent learning, in alignment with the project objectives.
+You are expected to conduct a project using Python on a water or environmental issue of your choice. You should develop a research question or problem statement that guides your analysis. You need to use Python and its various libraries to process, analyze, and visualize data to answer your research question or solve an industry-or community-oriented problem. Graduate students may work individually or in group of up to four. Undergraduate students need to work in a group of three to five. Throughout the project, you will have the opportunity to apply and deepen your skills in data analysis and visualization, critical thinking, and independent learning, in alignment with the project objectives.
 
 ### 1.2 Project Objectives
 
