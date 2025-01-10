@@ -45,7 +45,7 @@ This will return to you the Python version that you have installed (e.g., Python
 **Note:** Make sure you that you have a 64-bit system. If you do not know: Use the search icon near "Start Menu" and search for "About" that will take you to"Settings": "About" where you can know if you have a 32-bit or 64-bit processor. 
 
 ### 2. Install and run Jupyterlab 
-You do not want to use Python in a back screen, so you need to install a graphical user interface(GUI). For programming languages, a GUI is called interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, Julia, R, MATLAB/Octave, and few other programming languages. 
+You do not want to use Python in a black screen, so you need to install a graphical user interface(GUI). For programming languages, a GUI is called interactive development environment (IDE). The IDE that we will use for this course is [Jupyterlab](https://jupyter.org/), which is an open-source IDE for Python, Julia, R, MATLAB/Octave, and few other programming languages. 
   
 In Python, we generally use `pip` or `conda` for installation. For JupyterLab installation details you can check the [JupyterLab documentation](https://jupyter.org/install), or follow these steps:
 
