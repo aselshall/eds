@@ -2,7 +2,7 @@
 
 ## Tutorial
 To install Python, JupyterLab, and the packages for the Environmental Data Science course read the instructions below  or watch the video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lD11l2vViqo?si=e8k0GBbT61-niNfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2_Nrro95UMc?si=FMk-8xzoi46V3yXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Overivew 
 In this course we will use Python with [Jupyterlab](https://jupyter.org/), which is an open-source interactive development environment (IDE) that facilitates data science and scientific computing in Python through a web-based interface.  
