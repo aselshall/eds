@@ -138,7 +138,7 @@ pip install earthengine-api
 ```python
 pip install geemap
 ```
-#### Extra (optional):
+#### Jupyter AI (optional):
 The following library may not work for the current python or JupyterLab version. Check [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) documentation for requirements. You might need to downgrade your python version to meet the python version requirement.
 ```python
 pip install jupyter-ai[all]
