@@ -1,6 +1,6 @@
 ## Evaluation of downscaled climate data for South Florida
 
-Faulty member: Mewcha A. Gebremedhin, Ph.D.
+Faulty member: Mewcha A. Gebremedhin, Ph.D.  
 Funding: EPA-I-R4-SFL-2023-01; 2023 South Florida Program
 
 ### 1. Project overview
