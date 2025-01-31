@@ -158,7 +158,7 @@ The key is to choose a project that aligns with your interests and allows you to
 - **Seek Guidance**: Consult with your instructor, who may have suggestions for tailored project ideas that suit your interests and learning goals.
 
 
-### 3. For the abstract, what do you mean by "plan for implementation" ?
+### 3. For the project summary, what do you mean by "plan for implementation" ?
 
 I recommend focusing on a question or hypothesis that does not require extensive data collection or complex modeling, which can be time-consuming. Given the number of hours that you will spend on this project per week, you need to have a realistic plan to complete your project on time. Once you decide on your research/management/business question or hypothesis, you can outline a plan for implementation. Here is an exampe. 
 
