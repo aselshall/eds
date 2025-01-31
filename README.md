@@ -209,7 +209,7 @@ A main learning objective is to immerse students in a project-based learning exp
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
 ## [Final Exam](https://aselshall.github.io/eds/exam/study_guide)
-- There will be a final exam that is comprehensive and open-boo
+- There will be a final exam that is comprehensive and open-book.
 - For more information, check the [final exam study guide](https://aselshall.github.io/eds/exam/study_guide)
 - Makeup exam may be provided for [execused absence](#Execused-Absence-Policy)
 
