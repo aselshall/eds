@@ -25,7 +25,7 @@ Your project should demonstrate your ability to perform the following tasks.
 To ensure the project is feasible, schedule a meeting with the instructor to discuss your proposed project and obtain approval. Meetings are typically around 15 minutes, but may be extended as needed. You need to obtain approval before you submit your project abstract. You need to schedule a meeting with the instructor during office hours on Tuesday and Thursday, after the class, or schedule an appointment by email.
 
 The project will be graded according to the following schedule:
-- **Project Abstract (10%)** : Two-page abstract outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
+- **Project Summary (10%)** : Two-page summary outlining the proposed research question or industry-oriented problem, method, plan for implementation, and expected outcomes
 - **Interim Report (10%)** : Progress report detailing the work done so far, preliminary results, and any challenges encountered
 - **Final Report (50%)** : Comprehensive report detailing your method, analysis, results, and conclusions with the following outline
   - Cover page (with specific and informative project title)
@@ -57,7 +57,7 @@ Submission dates will be posted on Canvas. Please ensure that your work is submi
 
 The rubrics serve as a general guide to understand the evaluation criteria and expectations. The rubrics are subject to change to the benefit of the students. The rubrics may be adjusted based on student feedback to ensure a more relevant and engaging learning experience.
 
-### 2.1 Abstract Rubric (10%)
+### 2.1 Project Summary Rubric (10%)
 
 | Criteria                                   | Excellent (5.0)                                      | Good (4.5)                                    | Satisfactory (4.0)                                  | Needs Improvement (3.5)                           | Inadequate (3.0)                                   |
 |--------------------------------------------|----------------------------------------------------|---------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
