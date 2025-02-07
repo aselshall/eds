@@ -215,17 +215,19 @@ This is an extra figure in case your are curious about the last 10 years:
 
 ### Rubric
 The student's performance on this homework problem will be evaluated based on the ability to collect and organize the data, perform data analysis and visualization, interpret the results, and communicate the findings in a clear and concise manner as follows.
-1. Data Collection and Preparation (5 points)
+1. Data Collection and Preparation (1 points)
    - Correctly downloaded and imported the dataset from the provided data link or requested the dataset from FWRI as instructed.
    - Successfully filtered and subsetted the data for Tampa Bay and Charlotte Harbor estuary regions based on the provided latitude and longitude constraints.
-2. Data Analysis and Visualization (20 points)
+2. Data Analysis and Visualization (6 points)
    - Accurately extracted the maximum concentration of Karenia brevis cell counts per week from the dataset for both Tampa Bay and Charlotte Harbor estuary.
    - Created a clear and informative plot(s) of the maximum concentration of Karenia brevis cell counts per week for the whole dataset and for each region.
    - Accurately classified the bloom  per week for for both Tampa Bay and Charlotte Harbor estuary. 
    - Created a clear and informative histogram plot(s) for the bloom impact per week for each region.
-3. Interpretation and Conclusion (5 points)
+3. Interpretation and Conclusion (1 points)
    - Provided a brief interpretation of the plots, including any noticeable patterns, trends, or anomalies between the two regions.
    - Discussed relevant assumptions or limitations. 
-4. Code Quality and Documentation (5 points)
+4. Code Quality and Documentation (2 points)
    - Submitted a well-structured and commented Python code, demonstrating a good understanding of Pandas and good coding practices
    - Proper citation of the used AI-LLM and data source.
+    
+    
