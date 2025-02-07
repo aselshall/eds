@@ -7,11 +7,11 @@
 - Unexecused late submissions received after the deadline will incur a penalty of 20% per day of the total possible points
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
-## Problem 1: Exploratory data analysis with Pandas (65 Points)
+## Problem 1: Exploratory data analysis with Pandas (100 points)
 
 ### Tasks
 Perform the following tasks:
-1. Repeat the steps in Lessons 10 - 12 Pansas Primer using a dataset of your interest
+1. Repeat the steps in Lessons 10 - 14 Pansas Primer using a dataset of your interest
 2. Apply a Pandas method that was not introduced in class in your data analysis
 3. Present noteworthy information uncovered from your data exploration
 4. Document your use of AI-LLM in improving your learning and productivity  
@@ -39,166 +39,52 @@ Select a dataset that aligns with the learning objectives for this assignment. W
 The instructor is available to provide guidance if you need help selecting an appropriate dataset. Please reach out with any questions!
 
 ### Rubric 
-#### Task 1. Data exploration (50 points)
-Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 12 
-<table>
-    <thead>
-        <tr>
-            <th>Task</th>
-            <th>Criteria</th>
-            <th>Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1. Data Selection</td>
-            <td>Appropriateness of dataset and proper citation</td>
-            <td>5</td>
-        </tr>
-        <tr>
-            <td>2. Read CSV File</td>
-            <td>Correctly read into DataFrame with Pandas</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td>3. Display DataFrame</td>
-            <td>Properly displayed with head/tail/info</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>4. Filter Columns by Labels</td>
-            <td>Accurate filtering, demonstrated understanding</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>5. Filter Columns by Keyword</td>
-            <td>Accurate filtering, demonstrated understanding</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>6. Filter Rows by Value</td>
-            <td>Correct filtering by numeric and non-numeric values</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>7. Datetime Index*</td>
-            <td>Appropriate datetime conversion and indexing, or alternative if no datetime</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>8. Descriptive Statistics</td>
-            <td>Comprehensive descriptive statistics provided</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>9. Resampling of Time-Series Data*</td>
-            <td>Correct application of resampling techniques, or alternative if no datetime</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>10. Groupby</td>
-            <td>Correct usage of groupby for data aggregation</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>11. Slicing with loc & iloc</td>
-            <td>Accurate slicing techniques demonstrated</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>12. Dicing</td>
-            <td>Correct dicing of DataFrame to obtain smaller portions</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>13. Slicing and Dicing Together</td>
-            <td>Effective combination of slicing and dicing to extract data</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>14. Datetime Column Subsetting*</td>
-            <td>Correct subsetting using Datetime, or alternative if no datetime</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>15. Quick Plots of Data</td>
-            <td>Creation of insightful plots that aid in data understanding</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>16. Operations on DataFrame</td>
-            <td>Appropriate and effective operations applied to DataFrame</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>17. Iterating over Rows</td>
-            <td>(Bonus) Successful iteration over DataFrame rows for additional insights</td>
-            <td>1 (bonus)</td>
-        </tr>
-        <tr>
-            <td>18. Save & Load DataFrame</td>
-            <td>Correctly saved to and loaded from file</td>
-            <td>3</td>
-        </tr>
-    </tbody>
-</table>
+#### Task 1. Data exploration (85 points)
+Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 14
+
+| Task | Criteria | Points |
+|------|----------|--------|
+| 1. Data Selection | Appropriateness of dataset and proper citation | 8|
+| 2. Read CSV File | Correctly read into DataFrame with Pandas | 1 |
+| 3. Display DataFrame | Properly displayed with head/tail/info | 1 |
+| 4. Filter Columns by Labels | Accurate filtering, demonstrated understanding | 5 |
+| 5. Filter Columns by Keyword | Accurate filtering, demonstrated understanding | 5 |
+| 6. Filter Rows by Value | Correct filtering by numeric and non-numeric values | 5 |
+| 7. Datetime Index* | Appropriate datetime conversion and indexing, or alternative if no datetime | 5 |
+| 8. Descriptive Statistics | Comprehensive descriptive statistics provided | 5 |
+| 9. Resampling of Time-Series Data* | Correct application of resampling techniques, or alternative if no datetime | 5 |
+| 10. Groupby | Correct usage of groupby for data aggregation | 5 |
+| 11. Slicing with loc & iloc | Accurate slicing techniques demonstrated | 5 |
+| 12. Dicing | Correct dicing of DataFrame to obtain smaller portions | 5 |
+| 13. Slicing and Dicing Together | Effective combination of slicing and dicing to extract data | 5 |
+| 14. Datetime Column Subsetting* | Correct subsetting using Datetime, or alternative if no datetime | 5 |
+| 15. Quick Plots of Data | Creation of insightful plots that aid in data understanding | 5 |
+| 16. Operations on DataFrame | Appropriate and effective operations applied to DataFrame | 5 |
+| 17. Iterating over Rows | (Bonus) Successful iteration over DataFrame rows for additional insights | 1 (bonus) |
+| 18. Save & Load DataFrame | Correctly saved to and loaded from file | 5 |
 
 #### Task 2. New Pandas method exploration (5 points)
 Explore a Pandas method that was not covered in class but piques your interest or aligns with your dataset analysis. Demonstrate its usage with examples from your dataset. Here are some suggestions:  `.agg()` method, `.pivot_table()` methods, `.stack()` and `.unstack()`methods, `.merge()` and `.join()`methods, `.cut()` and `.qcut()` methods. `.explode()` method, `.shift()`method, `.rolling()` method, `.duplicated()` and `.drop_duplicates()` methods, and many more. 
-<table>
-    <thead>
-        <tr>
-            <th>Task</th>
-            <th>Criteria</th>
-            <th>Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>19. New Method</td>
-            <td>Successful demonstration of a new Pandas method not covered in class, with clear explanation and proper application to the dataset</td>
-            <td>5</td>
-        </tr>
-    </tbody>
-</table>
+
+| Task | Criteria | Points |
+|------|----------|--------|
+| 19. New Method | Successful demonstration of a new Pandas method not covered in class, with clear explanation and proper application to the dataset | 5 |
 
 #### Task 3. Information discovries (5 points)
 Report any valuable information and findings derived from your data analysis.
-<table>
-    <thead>
-        <tr>
-            <th>Task</th>
-            <th>Criteria</th>
-            <th>Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>20. Infromation Discovries</td>
-            <td>Clear and informative report outlining valuable findings from the analysis, including patterns, anomalies, or other relevant observations</td>
-            <td>5</td>
-        </tr>
-    </tbody>
-</table>
+
+| Task | Criteria | Points |
+|------|----------|--------|
+| 20. Information Discoveries | Clear and informative report outlining valuable findings from the analysis, including patterns, anomalies, or other relevant observations | 5 |
+
 
 #### Task 4. LLM usage (5 points)
 Highlight the integration of advanced AI technologies in data analysis workflows and showcases your ability to leverage cutting-edge tools for effective problem-solving. In this section, document the specific instances where you utilized a Large Language Model (LLM) such as GPT-3.5 for problem-solving during this assignment and discuss your overall experience of using LLM. 
-<table>
-    <thead>
-        <tr>
-            <th>Task</th>
-            <th>Criteria</th>
-            <th>Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>21. LLM Usage</td>
-            <td>Thorough documentation of LLM usage in the analysis process, including specific examples and reflection on the experience</td>
-            <td>5</td>
-        </tr>
-    </tbody>
-</table>
+
+| Task | Criteria | Points |
+|------|----------|--------|
+| 21. LLM Usage | Thorough documentation of LLM usage in the analysis process, including specific examples and reflection on the experience | 5 |
+
 
 **Additional Notes:**
 - Students should adhere to best practices in coding.
@@ -212,9 +98,9 @@ Highlight the integration of advanced AI technologies in data analysis workflows
 For Task 3. Information discovries (5 points), if you are interested, you can learn about [data-information-knowledge-wisdom hierarchy](https://aselshall.github.io/eds/HW/data_hierarchy) at the science-policy interface. 
 
   
-## Problem 2 - Water quality analysis (35 points) 
+## Problem 2 - Water quality analysis (10 points) 
 - Mandatory for graduate students
-- Optional for undergraduates or 10 bonus points
+- Optional for undergraduates for 10 bonus points
 
 ### Dataset
 Red tides are caused by Karenia brevis harmful algae blooms. For Karenia brevis cell count data, you can use the [current dataset](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0120767) of Physical and biological data collected along the Texas, Mississippi, Alabama, and Florida Gulf coasts in the Gulf of Mexico as part of the Harmful Algal BloomS Observing System from 1953-08-19 to 2023-07-06 (NCEI Accession 0120767). For direct data download, you can use this [data link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/habsos_20230714.csv) and this [data documentation link](https://www.nodc.noaa.gov/archive/arc0069/0120767/7.7/data/0-data/Support%20Documents/).  Alternatively, FWRI documents Karenia brevis blooms from 1953 to the present. The dataset has more than 200,000 records is updated daily. To request this dataset email: HABdata@MyFWC.com. To learn more about this data, check the [FWRI  Red Tide  Red Tide Current Status](https://myfwc.com/research/redtide/statewide/).
