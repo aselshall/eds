@@ -8,6 +8,8 @@
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
 ## Problem 1: Exploratory data analysis with Pandas (100 points)
+- This problem is worth 100 points for undergraduate students.
+- For graduate students, the final score will be scaled to 90 points. For example, if you scored 90/100, your adjusted score for this problem will be 81/90.
 
 ### Tasks
 Perform the following tasks:
