@@ -61,8 +61,6 @@ By the end of this course, you will be able to:
   
 ## Course Schedule 
 
-These topics and dates are tentative and subject to change based on class progress. Due dates are tentative and actual deadlines will be posted of canvas.
-
 | Week | Lesson | Date      | Topic                                              | Due Date                   |
 |------|--------|-----------|----------------------------------------------------|----------------------------|
 | 1    | 1      | 7-Jan    | Introduction to environmental data science         |                            |
@@ -74,11 +72,11 @@ These topics and dates are tentative and subject to change based on class progre
 | 4    | 7      | 28-Jan     | Python programming 2 - Conditional statements      |                            |
 |      | 8      | 30-Jan     | Python programming 3 - Functions                   |                            |
 | 5    | 9      | 4-Feb    | Python programming 4 - Modules                     |                            |
-|      | 10     | 6-Feb    | Pandas 1 - Tabular data                            | HW2 Programming            |
-| 6    | 11     | 11-Feb    | Pandas 2 - Data wrangling                          |                            |
-|      | 12     | 13-Feb    | Pandas 3 - Data analysis                           |                            |
-| 7    | 13     | 18-Feb    | Pandas 4 - Data analysis                           |                            |
-|      | 14     | 20-Feb    | Pandas 5 - Data visualization                      |                            |
+|      | 10     | 6-Feb    | Pandas 1 - Pandas basics and filtering by label | HW2 Programming            |
+| 6    | 11     | 11-Feb    | Pandas 2 - Filtering by keyword and dataFrame index                          |                            |
+|      | 12     | 13-Feb    | Pandas 3 - Descriptive statistics and Slicing                            |                            |
+| 7    | 13     | 18-Feb    | Pandas 4 - Dicing and datetime column subsetting                           |                            |
+|      | 14     | 20-Feb    | Pandas 5 - Quick plots and save & load dataFrame                     |                            |
 | 8    | 15     | 25-Feb    | Data science workflow                              |                            |
 |      | 16     | 27-Feb    | Data science workflow                              | HW3 Pandas                 |
 | 9    |        | 4-Mar     | Spring Break                                       |                            |
