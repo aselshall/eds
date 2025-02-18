@@ -84,9 +84,9 @@ By the end of this course, you will be able to:
 | 10   | 17     | 11-Mar    | NumPy for scientific computing                     |                            |
 |      | 18     | 13-Mar    | NumPy for scientific computing                     | Project abstract           |
 | 11   | 19     | 18-Mar    | NumPy for scientific computing                     |                            |
-|      | 20     | 20-Mar    | Data visualization with Matplotlib                 |                            |
-| 12   | 21     | 25-Mar     | Data visualization with Matplotlib                 |                            |
-|      | 22     | 27-Mar     | Data visualization with Matplotlib                 |                            |
+|      | 20     | 20-Mar    | Matplotlib for data visualization                   |                            |
+| 12   | 21     | 25-Mar     | Matplotlib for data visualizationb                 |                            |
+|      | 22     | 27-Mar     | Matplotlib for data visualization                 |                            |
 | 13   | 23     | 1-Apr     | ST: Climate data - CMIP6 and remote sensing        | HW4 NumPy and Matplotlib   |
 |      | 24     | 3-Apr    | ST: Xarray for n-dimensional geospatial data       |                            |
 | 14   | 25     | 8-Apr    | ST: Xarray for n-dimensional geospatial data       | Interim report             |
