@@ -65,10 +65,10 @@ By the end of this course, you will be able to:
 |------|--------|-----------|----------------------------------------------------|----------------------------|
 | 1    | 1      | 7-Jan    | Introduction to environmental data science         |                            |
 |      | 2      | 9-Jan    | Getting Started with JupyterLab and Python         | Python Installation        |
-| 2    | 3      | 14-Jan    | Python Basics 1 - Variables and functions          |                            |
-|      | 4      | 16-Jan    | Python Basics 2 - Python data structures           |                            |
-| 3    | 5      | 21-Jan    | Python Basics 3 - Text formatting                  |                            |
-|      | 6      | 23-Jan    | Python Programming 1 - Loops                       | HW1 Basics                 |
+| 2    | 3      | 14-Jan    | Python basics 1 - Variables and functions          |                            |
+|      | 4      | 16-Jan    | Python basics 2 - Python data structures           |                            |
+| 3    | 5      | 21-Jan    | Python basics 3 - Text formatting                  |                            |
+|      | 6      | 23-Jan    | Python programming 1 - Loops                       | HW1 Basics                 |
 | 4    | 7      | 28-Jan     | Python programming 2 - Conditional statements      |                            |
 |      | 8      | 30-Jan     | Python programming 3 - Functions                   |                            |
 | 5    | 9      | 4-Feb    | Python programming 4 - Modules                     |                            |
