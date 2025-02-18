@@ -72,9 +72,9 @@ By the end of this course, you will be able to:
 | 4    | 7      | 28-Jan     | Python programming 2 - Conditional statements      |                            |
 |      | 8      | 30-Jan     | Python programming 3 - Functions                   |                            |
 | 5    | 9      | 4-Feb    | Python programming 4 - Modules                     |                            |
-|      | 10     | 6-Feb    | Pandas 1 - Pandas basics and filtering by label | HW2 Programming            |
+|      | 10     | 6-Feb    | Pandas 1 - Pandas for programmable spreadsheet | HW2 Programming            |
 | 6    | 11     | 11-Feb    | Pandas 2 - Filtering by keyword and dataFrame index                          |                            |
-|      | 12     | 13-Feb    | Pandas 3 - Descriptive statistics and Slicing                            |                            |
+|      | 12     | 13-Feb    | Pandas 3 - Descriptive statistics and slicing                            |                            |
 | 7    | 13     | 18-Feb    | Pandas 4 - Dicing and datetime column subsetting                           |                            |
 |      | 14     | 20-Feb    | Pandas 5 - Quick plots and save & load dataFrame                     |                            |
 | 8    | 15     | 25-Feb    | Data science workflow                              |                            |
