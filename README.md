@@ -64,7 +64,7 @@ By the end of this course, you will be able to:
 | Week | Lesson | Date      | Topic                                              | Due Date                   |
 |------|--------|-----------|----------------------------------------------------|----------------------------|
 | 1    | 1      | 7-Jan    | Introduction to environmental data science         |                            |
-|      | 2      | 9-Jan    | Getting Started with JupyterLab and Python         | Python Installation        |
+|      | 2      | 9-Jan    | Getting started with JupyterLab and Python         | Python Installation        |
 | 2    | 3      | 14-Jan    | Python basics 1 - Variables and functions          |                            |
 |      | 4      | 16-Jan    | Python basics 2 - Python data structures           |                            |
 | 3    | 5      | 21-Jan    | Python basics 3 - Text formatting                  |                            |
@@ -87,12 +87,12 @@ By the end of this course, you will be able to:
 |      | 20     | 20-Mar    | Data visualization with Matplotlib                 |                            |
 | 12   | 21     | 25-Mar     | Data visualization with Matplotlib                 |                            |
 |      | 22     | 27-Mar     | Data visualization with Matplotlib                 |                            |
-| 13   | 23     | 1-Apr     | ST: Climate Data - CMIP6 and Remote Sensing        | HW4 NumPy and Matplotlib   |
+| 13   | 23     | 1-Apr     | ST: Climate data - CMIP6 and remote sensing        | HW4 NumPy and Matplotlib   |
 |      | 24     | 3-Apr    | ST: Xarray for n-dimensional geospatial data       |                            |
 | 14   | 25     | 8-Apr    | ST: Xarray for n-dimensional geospatial data       | Interim report             |
 |      | 26     | 10-Apr    | ST: Cartopy for geospatial data visualization      |                            |
-| 15   | 27     | 15-Apr    | ST: Google Earth Engine and machine learning       | HW5 Xarray and CartoPy (optional) |
-|      | 28     | 17-Apr    | ST: Google Earth Engine and machine learning       | HW5 Xarray and CartoPy (optional) |
+| 15   | 27     | 15-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
+|      | 28     | 17-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
 | 16   | 29     | 22-Apr    | Project presentation                               |                            |
 |      | 30     | 24-Apr    |  Review of final exam                              |                            |
 | 17   |        | 29-Apr    | Final exam                                         | Final report               |
