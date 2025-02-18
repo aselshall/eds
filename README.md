@@ -64,7 +64,7 @@ By the end of this course, you will be able to:
 | Week | Lesson | Date      | Topic                                              | Due Date                   |
 |------|--------|-----------|----------------------------------------------------|----------------------------|
 | 1    | 1      | 7-Jan    | Introduction to environmental data science         |                            |
-|      | 2      | 9-Jan    | Getting started with JupyterLab and Python         | Python Installation        |
+|      | 2      | 9-Jan    | Getting started with JupyterLab and Python         | Python Installation before class        |
 | 2    | 3      | 14-Jan    | Python basics 1 - Variables and functions          |                            |
 |      | 4      | 16-Jan    | Python basics 2 - Python data structures           |                            |
 | 3    | 5      | 21-Jan    | Python basics 3 - Text formatting                  |                            |
