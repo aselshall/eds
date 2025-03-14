@@ -94,8 +94,8 @@ By the end of this course, you will be able to:
 | 15   | 27     | 15-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
 |      | 28     | 17-Apr    | ST: Google Earth engine and machine learning       |                            |
 | 16   | 29     | 22-Apr    | Project presentation                               |                            |
-|      | 30     | 24-Apr    |  Review of final exam                              |                            |
-| 17   |        | 29-Apr    | Final exam                                         | Final report               |
+|      | 30     | 24-Apr    | Review of final exam                               | Final report               |
+| 17   |        | 29-Apr    | Final exam                                         |                            |
    
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
