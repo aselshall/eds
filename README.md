@@ -63,36 +63,36 @@ By the end of this course, you will be able to:
 
 | Week | Lesson | Date      | Topic                                              | Due Date                   |
 |------|--------|-----------|----------------------------------------------------|----------------------------|
-| 1    | 1      | 7-Jan    | Introduction to environmental data science         |                            |
-|      | 2      | 9-Jan    | Getting started with JupyterLab and Python         | Python Installation before class        |
+| 1    | 1      | 7-Jan     | Introduction to environmental data science         |                            |
+|      | 2      | 9-Jan     | Getting started with JupyterLab and Python         | Python Installation before class        |
 | 2    | 3      | 14-Jan    | Python basics 1 - Variables and functions          |                            |
 |      | 4      | 16-Jan    | Python basics 2 - Python data structures           |                            |
 | 3    | 5      | 21-Jan    | Python basics 3 - Text formatting                  |                            |
 |      | 6      | 23-Jan    | Python programming 1 - Loops                       | HW1 Basics                 |
-| 4    | 7      | 28-Jan     | Python programming 2 - Conditional statements      |                            |
-|      | 8      | 30-Jan     | Python programming 3 - Functions                   |                            |
-| 5    | 9      | 4-Feb    | Python programming 4 - Modules                     |                            |
-|      | 10     | 6-Feb    | Pandas 1 - Pandas for programmable spreadsheet | HW2 Programming            |
-| 6    | 11     | 11-Feb    | Pandas 2 - Filtering by keyword and dataFrame index                          |                            |
-|      | 12     | 13-Feb    | Pandas 3 - Descriptive statistics and slicing                            |                            |
-| 7    | 13     | 18-Feb    | Pandas 4 - Dicing and datetime column subsetting                           |                            |
-|      | 14     | 20-Feb    | Pandas 5 - Quick plots and save & load dataFrame                     |                            |
-| 8    | 15     | 25-Feb    | Data science workflow                              |                            |
-|      | 16     | 27-Feb    | Data science workflow                              | HW3 Pandas                 |
+| 4    | 7      | 28-Jan    | Python programming 2 - Conditional statements      |                            |
+|      | 8      | 30-Jan    | Python programming 3 - Functions                   |                            |
+| 5    | 9      | 4-Feb     | Python programming 4 - Modules                     |                            |
+|      | 10     | 6-Feb     | Pandas 1 - Pandas for programmable spreadsheet     | HW2 Programming            |
+| 6    | 11     | 11-Feb    | Pandas 2 - Filtering by keyword and dataFrame index|                            |
+|      | 12     | 13-Feb    | Pandas 3 - Descriptive statistics and slicing      |                            |
+| 7    | 13     | 18-Feb    | Pandas 4 - Dicing and datetime column subsetting   |                            |
+|      | 14     | 20-Feb    | Pandas 5 - Quick plots and save & load dataFrame   |                            |
+| 8    | 15     | 25-Feb    | Data science workflow                              | HW3 Pandas                 |
+|      | 16     | 27-Feb    | Data science workflow                              | Project summary            |
 | 9    |        | 4-Mar     | Spring Break                                       |                            |
 |      |        | 6-Mar     | Spring Break                                       |                            |
 | 10   | 17     | 11-Mar    | NumPy for scientific computing                     |                            |
-|      | 18     | 13-Mar    | NumPy for scientific computing                     | Project abstract           |
+|      | 18     | 13-Mar    | NumPy for scientific computing                     |                            |
 | 11   | 19     | 18-Mar    | NumPy for scientific computing                     |                            |
-|      | 20     | 20-Mar    | Matplotlib for data visualization                   |                            |
-| 12   | 21     | 25-Mar     | Matplotlib for data visualizationb                 |                            |
-|      | 22     | 27-Mar     | Matplotlib for data visualization                 |                            |
+|      | 20     | 20-Mar    | Matplotlib for data visualization                  |                            |
+| 12   | 21     | 25-Mar    | Matplotlib for data visualizationb                 |                            |
+|      | 22     | 27-Mar    | Matplotlib for data visualization                  |                            |
 | 13   | 23     | 1-Apr     | ST: Climate data - CMIP6 and remote sensing        | HW4 NumPy and Matplotlib   |
-|      | 24     | 3-Apr    | ST: Xarray for n-dimensional geospatial data       |                            |
-| 14   | 25     | 8-Apr    | ST: Xarray for n-dimensional geospatial data       | Interim report             |
+|      | 24     | 3-Apr     | ST: Xarray for n-dimensional geospatial data       |                            |
+| 14   | 25     | 8-Apr     | ST: Xarray for n-dimensional geospatial data       | Interim report             |
 |      | 26     | 10-Apr    | ST: Cartopy for geospatial data visualization      |                            |
 | 15   | 27     | 15-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
-|      | 28     | 17-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
+|      | 28     | 17-Apr    | ST: Google Earth engine and machine learning       |                            |
 | 16   | 29     | 22-Apr    | Project presentation                               |                            |
 |      | 30     | 24-Apr    |  Review of final exam                              |                            |
 | 17   |        | 29-Apr    | Final exam                                         | Final report               |
