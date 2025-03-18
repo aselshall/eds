@@ -114,8 +114,9 @@ pip install earthengine-api geemap
 
 #### For automated data download 
 ```python
-pip install copernicusmarine requests
+pip install copernicusmarine dataretrieval requests
 ```
+***Note:*** `dataretrieval` retrieves the major data types of USGS hydrology data that are available on the Web, as well as data from the Water Quality Portal (WQP), which currently houses water quality data from the EPA, USDA and USGS. Direct USGS data is obtained from a service called the National Water Information System (NWIS).
 
 #### Jupyter AI (optional):
 You first need to have an API key for your language model to work. For example, if you want to use ChatGPT, check this file for [OpenAI API key](https://aselshall.github.io/eds/L/L5/openai_api_key). 
@@ -131,6 +132,11 @@ pip install jupyter-ai langchain-openai langchain-google-genai
 The above provides two examples, but you can check the [model provider table](https://jupyter-ai.readthedocs.io/en/latest/users/index.html#model-providers) for information on supported providers and their dependencies. 
 
 ***Note***: Jupyter AI may not work for the current python or JupyterLab version. You might need to downgrade your python version to meet the python version requirement. Installing this package can be time consuming and tricky, so you can skip it and use language models (e.g. ChatGPT) outside the Jupyter environment. If you want to give it a try, before you start you need to check [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) documentation for requirements and instructions.
+
+#### GeoPandas for shapefiles (optional):
+```python
+pip install geopandas contextily shapely adjustText
+```
 
 ## Next steps
 Now you have JupyterLab and Python installed , you can start with these: 
