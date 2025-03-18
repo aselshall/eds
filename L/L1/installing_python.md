@@ -125,11 +125,11 @@ To install Jupyter-AI with dependencies for all supported language models (not r
 ```python
 pip install jupyter-ai[all]
 ```
-To install the package with dependencies of selected model providers such as OpenAI including ChatGPT and Google including Gemini (recommended):
+To install  Jupyter-AI wit with dependencies of selected model providers such as OpenAI including ChatGPT and Google including Gemini (recommended):
 ```python	
 pip install jupyter-ai langchain-openai langchain-google-genai
 ```
-The above provides two examples, but you can check the [model provider table](https://jupyter-ai.readthedocs.io/en/latest/users/index.html#model-providers) for information on supported providers and their dependencies. 
+The above comand provides two examples, but you can check the [model provider table](https://jupyter-ai.readthedocs.io/en/latest/users/index.html#model-providers) for information on supported providers and their dependencies. 
 
 ***Note***: Jupyter AI may not work for the current python or JupyterLab version. You might need to downgrade your python version to meet the python version requirement. Installing this package can be time consuming and tricky, so you can skip it and use language models (e.g. ChatGPT) outside the Jupyter environment. If you want to give it a try, before you start you need to check [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) documentation for requirements and instructions.
 
