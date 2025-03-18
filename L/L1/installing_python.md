@@ -112,7 +112,7 @@ pip install scipy seaborn statsmodels scikit-learn
 pip install earthengine-api geemap
 ```
 
-#### For automated data download 
+#### Automated data download 
 ```python
 pip install copernicusmarine dataretrieval requests
 ```
