@@ -94,65 +94,36 @@ From the miniconda terminal install these libraries one by one. You can install 
     
 #### Basic libraries: Pandas, NumPy and matplotlib :
 ```python
-pip install pyarrow
+pip install pyarrow pandas matplotlib numpy lckr_jupyterlab_variableinspector
 ```
-```python
-pip install pandas
-```
-```python
-pip install matplotlib
-```
-```python
-pip install numpy
-```
-```python
-pip install lckr_jupyterlab_variableinspector
-```
+
 #### Gridded data libraries: Xarray and CartoPy   
 ```python
-pip install xarray
+pip install xarray netCDF4 cartopy
 ```
-```python
-pip install netCDF4
-```
-```python
-pip install cartopy
-```
+
 #### Statistical analysis and machine learning libraries:
 ```python
-pip install scipy
+pip install scipy seaborn statsmodels scikit-learn
 ```
-```python
-pip install seaborn
-```
-```python
-pip install statsmodels
-```
-```python
-pip install scikit-learn
-```
+
 #### Google Earth engine (GEE) libraries:
 ```python
-pip install earthengine-api
+pip install earthengine-api geemap
 ```
-```python
-pip install geemap
-```
+
 #### Jupyter AI (optional):
-Installing this package can be tricky. Before you start you need to check [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) documentation for requirements and instructions. If you want to install this packages with dependent packages for all supported language models:
+Installing this package can be time consuming and tricky, so you can skip it and use language models (e.g. ChatGPT) outside the Jupyter environment. If you want to give it a try, you first need to have an API key. For example, check this file for [OpenAI API key](https://aselshall.github.io/eds/L/L5/openai_api_key). Before you start you need to check [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) documentation for requirements and instructions. If you want to install this Jupyter-AI with dependencies for all supported language models (not recommended):
 ```python
 pip install jupyter-ai[all]
 ```
-If you want to install the package with a dependent package of a selected model such as OpenAI ChatGPT or Google Gemini
+If you want to install the package with dependencies of selected model providers such as OpenAI ChatGPT and Google Gemini
 ```python	
-langchain-openai
+pip install jupyter-ai langchain-openai langchain-google-genai
 ```
+See the [model provider table](https://jupyter-ai.readthedocs.io/en/latest/users/index.html#model-providers) for information on supported providers and their dependencies. After 
 
-```python	
-langchain-google-genai
-```
-
-This library may not work for the current python or JupyterLab version. You might need to downgrade your python version to meet the python version requirement.
+*Note*: Jupyter AI may not work for the current python or JupyterLab version. You might need to downgrade your python version to meet the python version requirement.
 
 ## Next steps
 Now you have JupyterLab and Python installed , you can start with these: 
