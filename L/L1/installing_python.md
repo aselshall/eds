@@ -114,7 +114,7 @@ pip install earthengine-api geemap
 
 #### For automated data download 
 ```python
-pip install copernicusmarine
+pip install copernicusmarine requests
 ```
 
 #### Jupyter AI (optional):
