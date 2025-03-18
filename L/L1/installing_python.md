@@ -125,7 +125,7 @@ To install Jupyter-AI with dependencies for all supported language models (not r
 ```python
 pip install jupyter-ai[all]
 ```
-To install  Jupyter-AI wit with dependencies of selected model providers such as OpenAI including ChatGPT and Google including Gemini (recommended):
+To install  Jupyter-AI wit with dependencies of selected model providers such as OpenAI, e.g., ChatGPT and Google, e.g., Gemini (recommended):
 ```python	
 pip install jupyter-ai langchain-openai langchain-google-genai
 ```
