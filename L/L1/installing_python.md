@@ -131,7 +131,7 @@ pip install jupyter-ai langchain-openai langchain-google-genai
 ```
 The above comand provides two examples, but you can check the [model provider table](https://jupyter-ai.readthedocs.io/en/latest/users/index.html#model-providers) for information on supported providers and their dependencies. 
 
-***Note***: Jupyter AI may not work for the current python or JupyterLab version. You might need to downgrade your python version to meet the python version requirement. Installing this package can be time consuming and tricky, so you can skip it and use language models (e.g. ChatGPT) outside the Jupyter environment. If you want to give it a try, before you start you need to check [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) documentation for requirements and instructions.
+***Note***: Jupyter AI may not work for the current python or JupyterLab version. You might need to upgrade/downgrade your python version to meet the version requirement. Installing Jupyter AI can be time consuming and tricky, so you can skip it and use language models (e.g. ChatGPT) outside the Jupyter environment. If you want to give it a try, before you start you need to check [jupyter-ai](https://github.com/jupyterlab/jupyter-ai) documentation for requirements and instructions.
 
 #### GeoPandas for shapefiles (optional):
 ```python
