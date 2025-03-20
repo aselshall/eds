@@ -50,7 +50,7 @@ Using any (big) dataset of your interest, repeat Section 4.0 in Lessons 10 - 14
 | 2. Read CSV File | Correctly read into DataFrame with Pandas | 1 |
 | 3. Display DataFrame | Properly displayed with head/tail/info | 1 |
 | 4. Filter Columns by Labels | Accurate filtering, demonstrated understanding | 5 |
-| 5. Filter Columns by Keyword | Accurate filtering, demonstrated understanding | 5 |
+| 5. Filter Rows by Keyword | Accurate filtering, demonstrated understanding | 5 |
 | 6. Filter Rows by Value | Correct filtering by numeric and non-numeric values | 5 |
 | 7. Datetime Index* | Appropriate datetime conversion and indexing, or alternative if no datetime | 5 |
 | 8. Descriptive Statistics | Comprehensive descriptive statistics provided | 5 |
