@@ -148,6 +148,10 @@ Activate the new environment to take priority when you start Python
 ```python
 conda activate py312
 ```
+You can check your environments:
+```python
+conda info --envs
+```
 Then you can install everything at once, but creating a `requirements.txt` file with the following content:
 ```python
 jupyterlab
