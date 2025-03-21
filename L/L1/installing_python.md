@@ -139,12 +139,12 @@ pip install geopandas contextily shapely adjustText
 ```
 ***Note***: This will not replace a GIS software such as ArcGIS Pro or QMap, but it is useful for integrating GIS maps in your workflow.  
 
-#### Useful tips
-Sometime you want to update your Python version, which you can do by creating a new environment. Here is how to upgrade from Python 3.11 to 3.12:
+### Useful tips
+Sometime you need to update your Python version, which you can do by creating a new environment. Here is how to upgrade from Python 3.11 to 3.12:
 ```python
 conda create -n py312 python=3.12
 ```
-Activate the new environment
+Activate the new environment to take priority when you start Python
 ```python
 conda activate py312
 ```
