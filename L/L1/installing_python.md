@@ -118,7 +118,7 @@ pip install copernicusmarine dataretrieval requests
 ```
 ***Note:*** `dataretrieval` retrieves the major data types of USGS hydrology data that are available on the Web, as well as data from the Water Quality Portal (WQP), which currently houses water quality data from the EPA, USDA and USGS. Direct USGS data is obtained from a service called the National Water Information System (NWIS).
 
-#### Jupyter AI (optional):
+#### Jupyter AI (optional, highly recommended):
 [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) facilitates AI coding assistance by bring language models such as ChatGPT to your Jupyter environment. You first need to have an API key for your language model to work. For example, if you want to use ChatGPT, check this [file for OpenAI API key](https://aselshall.github.io/eds/L/L5/openai_api_key). Also, the installation time can be long, so you need to be patient.
     
 To install Jupyter-AI with dependencies for all supported language models (not recommended):
@@ -137,6 +137,7 @@ The above comand provides two examples, but you can check the [model provider ta
 ```python
 pip install geopandas contextily shapely adjustText
 ```
+***Note***: This will not replace a GIS software such as ArcGIS Pro or QMap, but it is useful for integrating GIS maps in your workflow.  
 
 ## Next steps
 Now you have JupyterLab and Python installed , you can start with these: 
