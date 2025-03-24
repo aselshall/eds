@@ -104,7 +104,7 @@ pip install xarray netCDF4 cartopy
 
 #### Statistical analysis and machine learning libraries:
 ```python
-pip install scipy seaborn statsmodels scikit-learn
+pip install scipy seaborn statsmodels scikit-learn shap
 ```
 
 #### Google Earth engine (GEE) libraries:
@@ -167,6 +167,7 @@ scipy
 seaborn
 statsmodels
 scikit-learn
+shap
 earthengine-api
 geemap
 copernicusmarine
