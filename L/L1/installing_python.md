@@ -137,6 +137,11 @@ The above comand provides two examples, but you can check the [model provider ta
 ```python
 pip install geopandas contextily shapely adjustText
 ```
+#### Specialized packages and plots (optional):
+```python
+pip install windrose
+```
+
 ***Note***: This will not replace a GIS software such as ArcGIS Pro or QMap, but it is useful for integrating GIS maps in your workflow.  
 
 ### Useful tips
@@ -180,6 +185,7 @@ geopandas
 contextily
 shapely
 adjustText
+windrose
 ```
 Then install everything using:
 ```python
