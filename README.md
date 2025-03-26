@@ -5,7 +5,7 @@ Spring 2025
 Last updated: Jan 3, 2025 
    
 Course flyer: [Link](https://aselshall.github.io/eds/Environmental%20Data%20Science%20Flyer.pdf)  
-Course link: [Link](https://thaliavch.github.io/Environmental-Data-Science-Book)  
+Course link: [Link](https://aselshall.github.io/edsbook/intro.html)
 Project link: [Link](https://aselshall.github.io/eds/HW/project)   
 
 ## Course Information
