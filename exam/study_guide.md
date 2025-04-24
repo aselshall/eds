@@ -152,8 +152,8 @@ while count < 5:
     print("The count is:", count)
     count += 1
 ```
-a) It prints the count from 1 to 5  
-b) It prints the count from 0 to 4  
+a) It prints "The count is:1" to  "The count is:5"
+b) It prints "The count is:0" to  "The count is:4"
 c) It prints "The count is:" infinitely  
 d) Python raises an error  
    
