@@ -239,6 +239,7 @@ d) none of the above
    d) None of the above  
    
 **Question 20.** Select all line codes that can display the first three rows of this `df` DataFrame:  
+   
 |    |   A |   B |
 |---:|----:|----:|
 |  0 |  10 |   1 |
@@ -247,7 +248,8 @@ d) none of the above
 |  3 |  40 |   4 |
 |  4 |  50 |   5 |
 |  5 |  60 |   6 |
-  
+   
+
 1) `display(df.iloc[0:3])`  
 2) `display(df.iloc[0:3,:])`     
 3) `display(df.iloc[:,0:3])`    
