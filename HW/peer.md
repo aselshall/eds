@@ -25,7 +25,7 @@ Use this form to provide you peer assessment:
 
 #### Submission Instructions
 - Individual submission is required
-- Fill out the above [Peer Assessment Form](https://github.com/aselshall/eds/blob/main/HW/peer-assessment-form.docx) and submit on Canvas by due date
+- Fill out the above [Peer Assessment Form](https://github.com/aselshall/eds/raw/refs/heads/main/HW/peer-assessment-form.docx) and submit on Canvas by due date
 - Late submissions are subject to penalty of 10% deduction per day
   
 ### Handling non-contributing team members
