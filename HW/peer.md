@@ -29,6 +29,8 @@ Use this [Peer Assessment Form](https://github.com/aselshall/eds/raw/refs/heads/
 
 #### Submission Instructions
 - Individual submission is required by due date
+- Missing "additional comments" will result in -1 point
+- Missing self evaluation will reault in -1 point
 - Late submissions are subject to penalty of 20% deduction per day
   
 ### Handling non-contributing team members
