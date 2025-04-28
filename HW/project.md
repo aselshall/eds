@@ -206,9 +206,9 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 ### Spring 2025
 1. Predictive modeling of red tide events using machine learning [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
 2. Machine learning of algal blooms from Lake Okeechobee discharge [Link](https://github.com/hewittns01/PythonClass_FinalProject)
+3. Coral Reef Bleaching in the State of Florida during COVID-19 [Link](https://github.com/cperry01/Coral-Reef-Bleaching-in-the-State-of-Florida-during-COVID-19)
 4. Evaluating downscaled precipitation data in Collier County [Link](https://github.com/aTrav1031/Final_Project)
-5. Floridian Coral bleach 
-6. Contaminant transport in complex groundwater regime 
+5. Contaminant transport in complex groundwater regime [Link](https://github.com/DaveHempleman/5932C)
 
 ### Spring 2024
 1. Plasma proteomics of loggerhead sea turtles (Caretta caretta) to establish diagnostic biomarkers for brevetoxicosis [Link](https://github.com/cceballos3193/PythonCodesforProteomics/tree/main)
