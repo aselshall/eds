@@ -203,6 +203,13 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 
 ## 5. Student projects
 
+### Spring 2025
+1. Predictive modeling of red tide events Using machine learning [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
+2. Machine learning of algal blooms from Lake Okeechobee discharge [Link](https://github.com/hewittns01/PythonClass_FinalProject)
+4. Evaluating downscaled precipitation data in Collier County [Link](https://github.com/aTrav1031/Final_Project)
+5. Floridian Coral bleach 
+6. Contaminant transport in complex groundwater regime 
+
 ### Spring 2024
 1. Plasma proteomics of loggerhead sea turtles (Caretta caretta) to establish diagnostic biomarkers for brevetoxicosis [Link](https://github.com/cceballos3193/PythonCodesforProteomics/tree/main)
 2. Seasonal and spatial variations of nutrient concentrations in the Sanibel Slough: Implications for Watershed Management [Link](https://github.com/diggz1286/Project)
@@ -212,9 +219,4 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 7. Aligning plant biodiversity data of the Naples Botanical Garden with Global Biodiversity Information Facility using pandas and ArcGIS Online Notebooks [Link](https://github.com/sophers/Data-Science-Final-Project)
 8. Exploring machine learning models for red tide prediction in the Gulf of Mexico
 
-### Spring 2025
-1. Predictive modeling of red tide events Using machine learning [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
-2. Machine learning of algal blooms from Lake Okeechobee discharge [Link](https://github.com/hewittns01/PythonClass_FinalProject)
-4. Evaluating downscaled precipitation data in Collier County [Link](https://github.com/aTrav1031/Final_Project)
-5. Floridian Coral bleach 
-6. Contaminant transport in complex groundwater regime 
+
