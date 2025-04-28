@@ -12,20 +12,24 @@ To provide an honest and thoughtful evaluation of both your contribution and you
 | **Q5. Contribution to Project Tasks** | Consistently makes substantial and high-quality contributions to project tasks: Takes a proactive role in various aspects of the project | Generally contributes well to project tasks: May occasionally need more involvement or focus on specific areas | Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas | Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion | Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively |
   
 ### Peer Assessment Form
-Use this form to provide you peer assessment:
+Use this [Peer Assessment Form](https://github.com/aselshall/eds/raw/refs/heads/main/HW/peer-assessment-form.docx) to provide you peer assessment both quantitatively using the above rubric and qualitatively by commenting on team collaboration.B e constructive and provide specific examples where possible. Here is an exmaple:
 
 > | Team Member Name | Q1 Score | Q2 Score | Q3 Score | Q4 Score | Q5 Score | Total Score |
 > |------------------|----------|----------|----------|----------|----------|-------------|
-> | [Name 1]         |          |          |          |          |          |             |
-> | [Name 2]         |          |          |          |          |          |             |
-> | [Your name]      |          |          |          |          |          |             |
->
+> | Andy      |     5     |   5       |    5      |    5      |     5     |     25        |
+> | Jon (me)     |      5    |   5       |    5      |    5      |   5       |   25          |
+> | Sue   |      5    |     5     |    5      |     5     |    4      |    24         |
+> | Tom   |       5   |    5      |     5     |    5      |     4     |    24         |
 > 
-> **Additional Comments:** [Provide any additional comments or feedback on the overall team collaboration. Be constructive and provide specific examples where possible.]
+> **Additional Comments:**  Each of the team members contributed a meaningful amount of work to this project. What follows is my impression of how it all came together, focusing on the roles of the other team members. I’ll leave their impressions of me to their assessments. I gave Andy 5s across the board because he was great at moving the project forward. He planned in advance and communicated clearly with the rest of the team. He went into detail with the data he pulled for air quality and put together the outline for the final report, delegating tasks to other team members.
+> 
+> Giving Sue and Tom 4s on question 5 does not mean they were especially lacking in that area or that they did not contribute a great deal to this project. But when you have one person leading the final report (Andy) and one person leading the data collection/visualization (me) then inevitably other team members are in more supporting roles. Sue put together the framework for the presentation and made meaningful contributions to the final report, as did Tom.
+>
+>  I was very happy with each member of the team and did not feel at any point that someone wasn’t pulling their weight or putting in their fair share of time and effort. At different times over the course of the project, each team member proposed meeting times and locations and followed through with tasks. We also checked in with each other regularly on the progress we were making and would offer to help with any pain points.
 
 #### Submission Instructions
 - Individual submission is required
-- Fill out the above [Peer Assessment Form](https://github.com/aselshall/eds/raw/refs/heads/main/HW/peer-assessment-form.docx) and submit on Canvas by due date
+- Fill out the form and submit on Canvas by due date
 - Late submissions are subject to penalty of 10% deduction per day
   
 ### Handling non-contributing team members
