@@ -16,21 +16,20 @@ Use this [Peer Assessment Form](https://github.com/aselshall/eds/raw/refs/heads/
 
 > | Team Member Name | Q1 Score | Q2 Score | Q3 Score | Q4 Score | Q5 Score | Total Score |
 > |------------------|----------|----------|----------|----------|----------|-------------|
-> | Andy      |     5     |   5       |    5      |    5      |     5     |     25        |
+> | Brooke      |     5     |   5       |    5      |    5      |     5     |     25        |
 > | Jon (me)     |      5    |   5       |    5      |    5      |   5       |   25          |
 > | Sue   |      5    |     5     |    5      |     5     |    4      |    24         |
 > | Tom   |       5   |    5      |     5     |    5      |     4     |    24         |
 > 
-> **Additional Comments:**  Each of the team members contributed a meaningful amount of work to this project. What follows is my impression of how it all came together, focusing on the roles of the other team members. I’ll leave their impressions of me to their assessments. I gave Andy 5s across the board because he was great at moving the project forward. He planned in advance and communicated clearly with the rest of the team. He went into detail with the data he pulled for air quality and put together the outline for the final report, delegating tasks to other team members.
+> **Additional Comments:**  Each of the team members contributed a meaningful amount of work to this project. What follows is my impression of how it all came together, focusing on the roles of the other team members. I’ll leave their impressions of me to their assessments. I gave Brooke 5s across the board because she was great at moving the project forward. She planned in advance and communicated clearly with the rest of the team. She went into detail with the data she pulled for air quality and put together the outline for the final report, delegating tasks to other team members.
 > 
-> Giving Sue and Tom 4s on question 5 does not mean they were especially lacking in that area or that they did not contribute a great deal to this project. But when you have one person leading the final report (Andy) and one person leading the data collection/visualization (me) then inevitably other team members are in more supporting roles. Sue put together the framework for the presentation and made meaningful contributions to the final report, as did Tom.
+> Giving Sue and Tom 4s on question 5 does not mean they were especially lacking in that area or that they did not contribute a great deal to this project. But when you have one person leading the final report (Brooke) and one person leading the data collection/visualization (Jon) then inevitably other team members are in more supporting roles. Sue put together the framework for the presentation and made meaningful contributions to the final report, as did Tom.
 >
 >  I was very happy with each member of the team and did not feel at any point that someone wasn’t pulling their weight or putting in their fair share of time and effort. At different times over the course of the project, each team member proposed meeting times and locations and followed through with tasks. We also checked in with each other regularly on the progress we were making and would offer to help with any pain points.
 
 #### Submission Instructions
-- Individual submission is required
-- Fill out the form and submit on Canvas by due date
-- Late submissions are subject to penalty of 10% deduction per day
+- Individual submission is required by due date
+- Late submissions are subject to penalty of 20% deduction per day
   
 ### Handling non-contributing team members
 If a team member is not meaningfully contributing to the project, please inform the instructor as soon as possible. You have the option to remove their name when submitting the project deliverables after discussing with the instructor. Clearly indicate this by assigning a score of zero in the peer assessment for that individual and in the additinal comments section.
