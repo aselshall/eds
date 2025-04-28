@@ -204,19 +204,19 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 ## 5. Student projects
 
 ### Spring 2025
-1. Predictive modeling of red tide events using machine learning [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
-2. Machine learning of algal blooms from Lake Okeechobee discharge [Link](https://github.com/hewittns01/PythonClass_FinalProject)
-3. Coral Reef Bleaching in the State of Florida during COVID-19 [Link](https://github.com/cperry01/Coral-Reef-Bleaching-in-the-State-of-Florida-during-COVID-19)
-4. Evaluating downscaled precipitation data in Collier County [Link](https://github.com/aTrav1031/Final_Project)
-5. Contaminant transport in complex groundwater regime [Link](https://github.com/DaveHempleman/5932C)
+1. Predictive modeling of red tide events using machine learning: [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
+2. Machine learning of algal blooms from Lake Okeechobee discharge: [Link](https://github.com/hewittns01/PythonClass_FinalProject)
+3. Coral Reef Bleaching in the State of Florida during COVID-19: [Link](https://github.com/cperry01/Coral-Reef-Bleaching-in-the-State-of-Florida-during-COVID-19)
+4. Evaluating downscaled precipitation data in Collier County: [Link](https://github.com/aTrav1031/Final_Project)
+5. Contaminant transport in complex groundwater regime: [Link](https://github.com/DaveHempleman/5932C)
 
 ### Spring 2024
-1. Plasma proteomics of loggerhead sea turtles (Caretta caretta) to establish diagnostic biomarkers for brevetoxicosis [Link](https://github.com/cceballos3193/PythonCodesforProteomics/tree/main)
-2. Seasonal and spatial variations of nutrient concentrations in the Sanibel Slough: Implications for Watershed Management [Link](https://github.com/diggz1286/Project)
-3. Identification and analysis of upwelling events in the Gulf of Mexico and their connection to K. brevis blooms on the West Florida shelf using remote sensing data [Link](https://github.com/gjrosas1154/Connecting-sea-surface-temperature-and-upwelling-to-K.-brevis-blooms.git)
-4. Dynamic Interplay: Hurricanes and surface water salinity levels [Link](https://github.com/WillTh03/Salinity_hurricanes_dynamics)
-6. Investigating the groundwater drawdown using FloPy package for MODFLOW groundwater modeling [Link](https://github.com/hgrimm27/flopy_eds)
-7. Aligning plant biodiversity data of the Naples Botanical Garden with Global Biodiversity Information Facility using pandas and ArcGIS Online Notebooks [Link](https://github.com/sophers/Data-Science-Final-Project)
+1. Plasma proteomics of loggerhead sea turtles (Caretta caretta) to establish diagnostic biomarkers for brevetoxicosis: [Link](https://github.com/cceballos3193/PythonCodesforProteomics/tree/main)
+2. Seasonal and spatial variations of nutrient concentrations in the Sanibel Slough: Implications for Watershed Management: [Link](https://github.com/diggz1286/Project)
+3. Identification and analysis of upwelling events in the Gulf of Mexico and their connection to K. brevis blooms on the West Florida shelf using remote sensing data: [Link](https://github.com/gjrosas1154/Connecting-sea-surface-temperature-and-upwelling-to-K.-brevis-blooms.git)
+4. Dynamic Interplay: Hurricanes and surface water salinity levels: [Link](https://github.com/WillTh03/Salinity_hurricanes_dynamics)
+6. Investigating the groundwater drawdown using FloPy package for MODFLOW groundwater modeling: [Link](https://github.com/hgrimm27/flopy_eds)
+7. Aligning plant biodiversity data of the Naples Botanical Garden with Global Biodiversity Information Facility using pandas and ArcGIS Online Notebooks: [Link](https://github.com/sophers/Data-Science-Final-Project)
 8. Exploring machine learning models for red tide prediction in the Gulf of Mexico
 
 
