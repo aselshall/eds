@@ -211,3 +211,10 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 6. Investigating the groundwater drawdown using FloPy package for MODFLOW groundwater modeling [Link](https://github.com/hgrimm27/flopy_eds)
 7. Aligning plant biodiversity data of the Naples Botanical Garden with Global Biodiversity Information Facility using pandas and ArcGIS Online Notebooks [Link](https://github.com/sophers/Data-Science-Final-Project)
 8. Exploring machine learning models for red tide prediction in the Gulf of Mexico
+
+### Spring 2025
+1. Predictive modeling of red tide events Using machine learning [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
+2. Machine learning of algal blooms from Lake Okeechobee discharge [Link](https://github.com/hewittns01/PythonClass_FinalProject)
+4. Evaluating downscaled precipitation data in Collier County [Link](https://github.com/aTrav1031/Final_Project)
+5. Floridian Coral bleach 
+6. Contaminant transport in complex groundwater regime 
