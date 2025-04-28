@@ -204,7 +204,7 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 ## 5. Student projects
 
 ### Spring 2025
-1. Predictive modeling of red tide events Using machine learning [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
+1. Predictive modeling of red tide events using machine learning [Link](https://github.com/mkduus/caloosahatchee-red-tide-analysis)
 2. Machine learning of algal blooms from Lake Okeechobee discharge [Link](https://github.com/hewittns01/PythonClass_FinalProject)
 4. Evaluating downscaled precipitation data in Collier County [Link](https://github.com/aTrav1031/Final_Project)
 5. Floridian Coral bleach 
