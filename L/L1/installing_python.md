@@ -109,7 +109,8 @@ pip install scipy seaborn statsmodels scikit-learn shap tensorflow
 
 #### Google Earth engine (GEE) libraries:
 ```python
-pip install earthengine-api geemap
+pip install earthengine-api geemap ipywidgets
+
 ```
 
 #### Automated data download 
