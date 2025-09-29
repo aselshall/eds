@@ -42,7 +42,7 @@ The project will be graded according to the following schedule:
   - You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 morning for extra credit.
   - Winning an Eagle X Research Award guarantees an “A” grade (provided that you get a passing grade of 50% in the final). 
 - **Peer Assessment (5%)** : Evaluation of your contribution and your team members' contributions, if applicable, is required following [these instructions](https://aselshall.github.io/eds/HW/peer)
-- **Critical Thinking Badge (5%)**: To earn this badge, you must demonstrate advanced critical thinking in your use of AI tools. This involves not just using AI as a shortcut, but engaging with it as a critical and reflective practitioner. Your application for the badge consists of a self-assessment and a reflective essay following [these instructions](https://aselshall.github.io/eds/HW/peer)
+- **Critical Thinking Badge (5%)**: To earn this badge, you must demonstrate advanced critical thinking in your use of AI tools. This involves not just using AI as a shortcut, but engaging with it as a critical and reflective practitioner. Your application for the badge consists of a self-assessment and a reflective essay following the instructions [below](https://aselshall.github.io/eds/HW/project#25-critical-thinking-badge-5)
 
 The due dates of the above deliverables will be posted on Canvas.
 
@@ -121,7 +121,7 @@ Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment c
 #### Self-Assessment Rubric
 Using the provided rubric, reflect critically on your AI use. 
 
-| Skill Area  | Skill Competency | Score<br> Advanced (3) <br>2 Competent (2) <br> Not Demonstrated (1) |
+| Skill Area  | Skill Competency | Score |
 | ------------| -----------------| ---------------------------------------------------------------- |
 | 1. Sound Reasoning<br>*Ability to analyze issues, make decisions, and address problems.* | Clearly states the environmental problem and frames it within a guiding scientific or engineering context.  |              |
 |       | Critically evaluates potential solutions (including those suggested by AI), weighing merits, tradeoffs, feasibility, and potential impacts.  |       |
@@ -129,15 +129,20 @@ Using the provided rubric, reflect critically on your AI use.
 | 2. Research Ability & Information Literacy<br>*Ability to obtain, interpret, and use knowledge, facts, and data.*  | Gathers credible data from multiple reputable sources (e.g., USGS, NOAA, peer-reviewed articles).   |   |
 |       | Treats AI as one source among many, not as an absolute authority. |   |
 |       | Cross-references and validates AI information, identifying inaccuracies, hallucinations, or biases. |           |
-|       | Synthesizes (“meliorates”) AI and non-AI sources into a comprehensive, novel analysis. |                        |
+|       | Synthesizes AI and non-AI sources into a comprehensive, novel analysis. |                        |
 | 3. Critical AI Engagement & Stewardship<br>*Ability to strategically guide, evaluate, and take ownership of AI-assisted work.* | Practices effective prompt engineering to guide AI toward relevant, high-quality outputs.  |       |
 |       | Iteratively interrogates and refines AI outputs, treating AI as a “sparring partner.” |                        |
 |       | Critically evaluates AI-generated code/analysis for correctness, efficiency, and relevance.   |                  |
 |        | Practices task stewardship: takes full responsibility for project integrity, originality, and conclusions, while acknowledging AI’s role and limitations. |         |
+*Score: Advanced (3), Competent (2), Not Demonstrated (1)*
 
 #### Reflective Essay
-Write a 300-500 word reflective essay. In this essay,use the above rubric to self-assess their own critical thinking process throughout the project. You must provide specific examples from your Fianl Report to justify your self-assessment.
-
+**AI Not Permitted**. Using AI for this task will result in a grade of zero.
+<br>
+Write a 300-500 word reflective essay. In this essay, use the above rubric to self-assess your own critical thinking process throughout the project. You must provide specific examples from your Fianl Report to support your answer. Here are examples of some questions that your essay cann address.
+- Describe a specific instance where you used the AI as a "sparring partner" (i.e., someone with whom one continually argues or contends) rather than just an answer-generator. How did interrogating and refining its outputs lead you to a deeper or different conclusion than you started with?
+- In your project, where did the AI's contribution end and your unique human expertise begin? Discuss how you practiced "critical thinking" and "task stewardship" by taking final responsibility for the analysis and conclusions.
+- As AI continues to advance, what do you believe are the most critical, uniquely human expertise for an engineer or scientist? How did this project shape your view on where humans can and must add on top of what AI can produce?
 
 ## 3. Service learning (optional)
 You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. Community partners could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student conducted a [project on water quality analysis](https://github.com/diggz1286/Project) with the Sanibel-Captiva Conservation Foundation, while another automated workflows for Naples Botanical Garden. 
