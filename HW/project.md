@@ -145,9 +145,8 @@ Using the provided rubric, reflect critically on your AI use.
    
 *Score: Advanced (3), Competent (2), Not Demonstrated (1)*
 
-#### Reflective Essay
-**AI Not Permitted**. Using AI for this task will result in a grade of zero.
-<br>
+#### Reflective Essay (*AI Not Permitted*)
+
 Write a 300-500 word reflective essay. In this essay, use the above rubric to self-assess your own critical thinking process throughout the project. You must provide specific examples from your Fianl Report to support your answer. Here are examples of some questions that your essay cann address.
 - Describe a specific instance where you used the AI as a "sparring partner" (i.e., someone with whom one continually argues or contends) rather than just an answer-generator. How did interrogating and refining its outputs lead you to a deeper or different conclusion than you started with?
 - In your project, where did the AI's contribution end and your unique human expertise begin? Discuss how you practiced "critical thinking" and "task stewardship" by taking final responsibility for the analysis and conclusions.
