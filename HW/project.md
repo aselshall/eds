@@ -114,6 +114,14 @@ The rubrics serve as a general guide to understand the evaluation criteria and e
 
 ### 2.5 Peer-Assessment Rubric (5%)
 
+| Criterion | 5 Points | 4 Points | 3 Points | 2 Points | 1 Point |
+|:---|:---|:---|:---|:---|:---|
+| **Q1. Understanding of team dynamics** | Consistently demonstrates a deep understanding of team dynamics: Contribute to a positive team environment, considering and respecting the perspectives of others | Generally understands team dynamics and actively participates in team discussions: Collaborate well with others but may occasionally need more awareness of team dynamics | Demonstrates a basic understanding of team dynamics and contributes when prompted: May require more active engagement in team discussions and activities | Shows limited awareness of team dynamics: Occasionally contributes but may not fully engage in team discussions or activities | Lacks understanding of team dynamics: Rarely contributes to team discussions or activities, hindering overall collaboration |
+| **Q2. Communication and collaboration** | Communicates effectively and collaborates seamlessly with team members: Actively listens, provides valuable input, and fosters open communication | Communicates well and collaborates effectively most of the time: Occasionally needs improvement in terms of clarity or responsiveness | Communicates adequately and collaborates when necessary: May require more consistent and proactive communication with the team | Communication is occasionally unclear or lacking, impacting collaboration: Needs to improve responsiveness and active participation | Communication is a significant challenge, hindering effective collaboration: Rarely contributes meaningfully to team discussions |
+| **Q3. Commitment and work ethic** | Demonstrates a strong commitment to the project, consistently putting in extra effort: Shows a commendable work ethic and takes initiative | Generally committed to the project and displays a good work ethic: May occasionally need more proactive engagement or effort | Meets the minimum level of commitment and work ethic: May need occasional reminders or encouragement to stay engaged | Shows limited commitment and work ethic: Requires more consistent effort and a proactive approach to tasks | Lacks commitment and work ethic, impacting overall project progress: Needs a significant improvement in effort and engagement |
+| **Q4. Reliability and meeting deadlines** | Consistently meets all deadlines and is highly reliable: Delivers high-quality work on time or ahead of schedule | Generally reliable and meets most deadlines: May occasionally need more attention to ensure all tasks are completed on time | Meets deadlines but may require occasional reminders: Requires improvement in consistently meeting all project timelines | Struggles to meet deadlines consistently, impacting project progress: Needs more focus on timely completion of tasks | Frequently fails to meet deadlines, significantly affecting project timelines: Requires immediate attention to improve reliability |
+| **Q5. Contribution to Project Tasks** | Consistently makes substantial and high-quality contributions to project tasks: Takes a proactive role in various aspects of the project | Generally contributes well to project tasks: May occasionally need more involvement or focus on specific areas | Contributes adequately to assigned tasks: May require more consistent effort or additional contributions in certain areas | Shows limited contribution to project tasks: Requires more active involvement and improvement in task completion | Lacks meaningful contribution to project tasks: Requires immediate attention to actively participate and contribute effectively |
+  
 Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment criteria, form, and submission instructions.
 
 ### 2.5 Critical-Thinking Badge (5%)
@@ -134,6 +142,7 @@ Using the provided rubric, reflect critically on your AI use.
 |       | Iteratively interrogates and refines AI outputs, treating AI as a “sparring partner.” |                        |
 |       | Critically evaluates AI-generated code/analysis for correctness, efficiency, and relevance.   |                  |
 |        | Practices task stewardship: takes full responsibility for project integrity, originality, and conclusions, while acknowledging AI’s role and limitations. |         |
+   
 *Score: Advanced (3), Competent (2), Not Demonstrated (1)*
 
 #### Reflective Essay
