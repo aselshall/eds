@@ -64,8 +64,8 @@ By the end of this course, you will be able to:
 | Week | Lesson | Date      | Topic                                              | Due Date                   |
 |------|--------|-----------|----------------------------------------------------|----------------------------|
 | 1    | 1      | 8-Jan     | Introduction to environmental data science         |                            |
-| 2    | 2      | 13-Jan    | Getting started with JupyterLab and Python        | [Python Installation](https://aselshall.github.io/eds/L/L1/installing_python) before class                                         |
-| 3    |        | 19-Jan    | MLK Holiday Observed (no classes) Monday           |                            |
+| 2    | 2      | 13-Jan    | Getting started with JupyterLab and Python         | [Python Installation](https://aselshall.github.io/eds/L/L1/installing_python) before class                                         |
+| 3    |        | 19-Jan    | MLK Holiday Observed (no classes)- Monday          |                            |
 |      | 3      | 20-Jan    | Python basics 1 - Variables and functions          |                            |
 |      | 4      | 22-Jan    | Python basics 2 - Python data structures           |                            |
 | 4    | 5      | 27-Jan    | Python basics 3 - Text formatting                  |                            |
@@ -74,10 +74,10 @@ By the end of this course, you will be able to:
 |      | 8      | 5-Jan     | Python programming 3 - Functions                   |                            |
 | 6    | 9      | 10-Feb     | Python programming 4 - Modules                     |                            |
 |      | 10     | 12-Feb     | Pandas 1 - Pandas for programmable spreadsheet     | HW2 Programming            |
-| 7    | 11     | 11-Feb    | Pandas 2 - Filtering by keyword and dataFrame index|                            |
-|      | 12     | 13-Feb    | Pandas 3 - Descriptive statistics and slicing      |                            |
-| 8    | 13     | 18-Feb    | Pandas 4 - Dicing and datetime column subsetting   |                            |
-|      | 14     | 20-Feb    | Pandas 5 - Quick plots and save & load dataFrame   |                            |
+| 7    | 11     | 17-Feb    | Pandas 2 - Filtering by keyword and dataFrame index|                            |
+|      | 12     | 19-Feb    | Pandas 3 - Descriptive statistics and slicing      |                            |
+| 8    | 13     | 24-Feb    | Pandas 4 - Dicing and datetime column subsetting   |                            |
+|      | 14     | 26-Feb    | Pandas 5 - Quick plots and save & load dataFrame   |                            |
 | 9    | 15     | 25-Feb    | Data science workflow                              | HW3 Pandas                 |
 |      | 16     | 27-Feb    | Data science workflow                              | Project summary            |
 | 10   |        | 4-Mar     | Spring Break                                       |                            |
