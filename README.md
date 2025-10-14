@@ -71,16 +71,16 @@ By the end of this course, you will be able to:
 |      | 3      | 20-Jan    | Python basics 1 - Variables and functions          |                            |
 |      | 4      | 22-Jan    | Python basics 2 - Python data structures           |                            |
 | 4    | 5      | 27-Jan    | Python basics 3 - Text formatting                  |                            |
-|      | 6      | 29-Jan    | Python programming 1 - Loops                       | HW1 Basics                 |
+|      | 6      | 29-Jan    | Python programming 1 - Loops                       | [HW1 Basics](https://aselshall.github.io/edsbook/Chapters/2.%20Python%20Basics/HW1.html)                 |
 | 5    | 7      | 3-Jan     | Python programming 2 - Conditional statements      |                            |
 |      | 8      | 5-Jan     | Python programming 3 - Functions                   |                            |
 | 6    | 9      | 10-Feb    | Python programming 4 - Modules                     |                            |
-|      | 10     | 12-Feb    | Pandas 1 - Pandas for programmable spreadsheet     | HW2 Programming            |
+|      | 10     | 12-Feb    | Pandas 1 - Pandas for programmable spreadsheet     | [HW2 Programming](https://aselshall.github.io/edsbook/Chapters/3.%20Python%20Programming/HW2.html)            |
 | 7    | 11     | 17-Feb    | Pandas 2 - Filtering by keyword and dataFrame index|                            |
 |      | 12     | 19-Feb    | Pandas 3 - Descriptive statistics and slicing      |                            |
 | 8    | 13     | 24-Feb    | Pandas 4 - Dicing and datetime column subsetting   |                            |
 |      | 14     | 26-Feb    | Pandas 5 - Quick plots and save & load dataFrame   |                            |
-| 9    | 15     | 25-Feb    | Data science workflow                              | HW3 Pandas                 |
+| 9    | 15     | 25-Feb    | Data science workflow                              | [HW3 Pandas](https://aselshall.github.io/edsbook/Chapters/4.%20Pandas%20for%20Tabular%20Data/HW3.html)                 |
 |      | 16     | 27-Feb    | Data science workflow                              | Project summary            |
 | 10   |        | 3-Mar     | Spring Break                                       |                            |
 |      |        | 5-Mar     | Spring Break                                       |                            |
@@ -90,11 +90,11 @@ By the end of this course, you will be able to:
 |      | 20     | 19-Mar    | Matplotlib for data visualization                  |                            |
 | 13   | 21     | 24-Mar    | Matplotlib for data visualizationb                 |                            |
 |      | 22     | 26-Mar    | Matplotlib for data visualization                  |                            |
-| 14   | 23     | 31-Mar    | ST: Climate data - CMIP6 and remote sensing        | HW4 NumPy and Matplotlib   |
+| 14   | 23     | 31-Mar    | ST: Climate data - CMIP6 and remote sensing        | [HW4 NumPy and Matplotlib](https://aselshall.github.io/edsbook/Chapters/8.%20Matplotlib%20for%20Visualization/HW4.html)   |
 |      | 24     | 2-Apr     | ST: Xarray for n-dimensional geospatial data       |                            |
 | 15   | 25     | 7-Apr     | ST: Xarray for n-dimensional geospatial data       | Interim report             |
 |      | 26     | 9-Apr     | ST: Cartopy for geospatial data visualization      |                            |
-| 16   | 27     | 14-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
+| 16   | 27     | 14-Apr    | ST: Google Earth engine and machine learning       | [HW5 Xarray and CartoPy](https://aselshall.github.io/edsbook/Chapters/9.%20Xarray%20and%20CartoPy%20for%20Labeled%20and%20Gridded%20N-dimensional%20Arrays/HW5.html) (optional) |
 |      | 28     | 16-Apr    | ST: Google Earth engine and machine learning       |                            |
 | 17   | 29     | 21-Apr    | Project presentation                               |                            |
 |      | 30     | 23-Apr    | Review of final exam                               | Final report               |
