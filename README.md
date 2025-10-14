@@ -81,7 +81,7 @@ By the end of this course, you will be able to:
 | 8    | 13     | 24-Feb    | Pandas 4 - Dicing and datetime column subsetting   |                            |
 |      | 14     | 26-Feb    | Pandas 5 - Quick plots and save & load dataFrame   |                            |
 | 9    | 15     | 25-Feb    | Data science workflow                              | [HW3 Pandas](https://aselshall.github.io/edsbook/Chapters/4.%20Pandas%20for%20Tabular%20Data/HW3.html)                 |
-|      | 16     | 27-Feb    | Data science workflow                              | Project summary            |
+|      | 16     | 27-Feb    | Data science workflow                              | [Project summary](https://aselshall.github.io/eds/HW/project#13-schedule-and-assessment)            |
 | 10   |        | 3-Mar     | Spring Break                                       |                            |
 |      |        | 5-Mar     | Spring Break                                       |                            |
 | 11   | 17     | 10-Mar    | NumPy for scientific computing                     |                            |
@@ -92,12 +92,12 @@ By the end of this course, you will be able to:
 |      | 22     | 26-Mar    | Matplotlib for data visualization                  |                            |
 | 14   | 23     | 31-Mar    | ST: Climate data - CMIP6 and remote sensing        | [HW4 NumPy and Matplotlib](https://aselshall.github.io/edsbook/Chapters/8.%20Matplotlib%20for%20Visualization/HW4.html)   |
 |      | 24     | 2-Apr     | ST: Xarray for n-dimensional geospatial data       |                            |
-| 15   | 25     | 7-Apr     | ST: Xarray for n-dimensional geospatial data       | Interim report             |
+| 15   | 25     | 7-Apr     | ST: Xarray for n-dimensional geospatial data       | [Interim report](https://aselshall.github.io/eds/HW/project#13-schedule-and-assessment)             |
 |      | 26     | 9-Apr     | ST: Cartopy for geospatial data visualization      |                            |
 | 16   | 27     | 14-Apr    | ST: Google Earth engine and machine learning       | [HW5 Xarray and CartoPy](https://aselshall.github.io/edsbook/Chapters/9.%20Xarray%20and%20CartoPy%20for%20Labeled%20and%20Gridded%20N-dimensional%20Arrays/HW5.html) (optional) |
 |      | 28     | 16-Apr    | ST: Google Earth engine and machine learning       |                            |
 | 17   | 29     | 21-Apr    | Project presentation                               |                            |
-|      | 30     | 23-Apr    | Review of final exam                               | Final report               |
+|      | 30     | 23-Apr    | Review of final exam                               | [Final report](https://aselshall.github.io/eds/HW/project#13-schedule-and-assessment)               |
 | 18   |        | 29-Apr    | Final exam                                         |                            |
    
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
