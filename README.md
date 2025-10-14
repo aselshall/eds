@@ -1,8 +1,8 @@
 ## [EGN 4930 / EGN 5932C Special Topic : Environmental Data Science](https://aselshall.github.io/eds)
 Florida Gulf Coast University  
 U.A. Whitaker College of Engineering  
-Spring 2025  
-Last updated: Jan 3, 2025 
+Spring 2026      
+Last updated: Oct 14, 2025 
    
 Course flyer: [Link](https://aselshall.github.io/eds/Environmental%20Data%20Science%20Flyer.pdf)  
 Course textbook: [Link](https://aselshall.github.io/edsbook/intro.html)    
@@ -24,11 +24,13 @@ Department of Bioengineering, Civil Engineering, and Environmental Engineering
 U.A. Whitaker College of Engineering Joint Appointment with The Water School  
 Office: Holmes Hall 423 (inside 416)  
 Research Website: [https://aelshall.weebly.com](https://aelshall.weebly.com/)  
-Office Hours : Tuesday and Thursday 2:00 pm - 4:00 pm, and by appointment  
+Office Hours:
+- Tuesday 8:00 AM – 12:00 PM
+- By appointment using this [link](https://outlook.office.com/bookwithme/user/0ef6bb499a744b9baf3c2c5ba2e9bce0@fgcu.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
 ## Teaching Assistant
-Thalia Valle Chavez  
-Office Hours :  By appointment  
+TBA
+Office Hours: By appointment  
 
 ## Course Description
 
@@ -64,7 +66,7 @@ By the end of this course, you will be able to:
 | Week | Lesson | Date      | Topic                                              | Due Date                   |
 |------|--------|-----------|----------------------------------------------------|----------------------------|
 | 1    | 1      | 8-Jan     | Introduction to environmental data science         |                            |
-| 2    | 2      | 13-Jan    | Getting started with JupyterLab and Python         | [Python Installation](https://aselshall.github.io/eds/L/L1/installing_python) before class                                         |
+| 2    | 2      | 13-Jan    | Getting started with JupyterLab and Python         | [Python Installation](https://aselshall.github.io/eds/L/L1/installing_python) before class                                                                                                  |
 | 3    |        | 19-Jan    | MLK Holiday Observed (no classes)- Monday          |                            |
 |      | 3      | 20-Jan    | Python basics 1 - Variables and functions          |                            |
 |      | 4      | 22-Jan    | Python basics 2 - Python data structures           |                            |
@@ -72,33 +74,39 @@ By the end of this course, you will be able to:
 |      | 6      | 29-Jan    | Python programming 1 - Loops                       | HW1 Basics                 |
 | 5    | 7      | 3-Jan     | Python programming 2 - Conditional statements      |                            |
 |      | 8      | 5-Jan     | Python programming 3 - Functions                   |                            |
-| 6    | 9      | 10-Feb     | Python programming 4 - Modules                     |                            |
-|      | 10     | 12-Feb     | Pandas 1 - Pandas for programmable spreadsheet     | HW2 Programming            |
+| 6    | 9      | 10-Feb    | Python programming 4 - Modules                     |                            |
+|      | 10     | 12-Feb    | Pandas 1 - Pandas for programmable spreadsheet     | HW2 Programming            |
 | 7    | 11     | 17-Feb    | Pandas 2 - Filtering by keyword and dataFrame index|                            |
 |      | 12     | 19-Feb    | Pandas 3 - Descriptive statistics and slicing      |                            |
 | 8    | 13     | 24-Feb    | Pandas 4 - Dicing and datetime column subsetting   |                            |
 |      | 14     | 26-Feb    | Pandas 5 - Quick plots and save & load dataFrame   |                            |
 | 9    | 15     | 25-Feb    | Data science workflow                              | HW3 Pandas                 |
 |      | 16     | 27-Feb    | Data science workflow                              | Project summary            |
-| 10   |        | 4-Mar     | Spring Break                                       |                            |
-|      |        | 6-Mar     | Spring Break                                       |                            |
-| 11   | 17     | 11-Mar    | NumPy for scientific computing                     |                            |
-|      | 18     | 13-Mar    | NumPy for scientific computing                     |                            |
-| 12   | 19     | 18-Mar    | NumPy for scientific computing                     |                            |
-|      | 20     | 20-Mar    | Matplotlib for data visualization                  |                            |
-| 13   | 21     | 25-Mar    | Matplotlib for data visualizationb                 |                            |
-|      | 22     | 27-Mar    | Matplotlib for data visualization                  |                            |
-| 14   | 23     | 1-Apr     | ST: Climate data - CMIP6 and remote sensing        | HW4 NumPy and Matplotlib   |
-|      | 24     | 3-Apr     | ST: Xarray for n-dimensional geospatial data       |                            |
-| 15   | 25     | 8-Apr     | ST: Xarray for n-dimensional geospatial data       | Interim report             |
-|      | 26     | 10-Apr    | ST: Cartopy for geospatial data visualization      |                            |
-| 16   | 27     | 15-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
-|      | 28     | 17-Apr    | ST: Google Earth engine and machine learning       |                            |
-| 17   | 29     | 22-Apr    | Project presentation                               |                            |
-|      | 30     | 24-Apr    | Review of final exam                               | Final report               |
-|      |        | 29-Apr    | Final exam                                         |                            |
+| 10   |        | 3-Mar     | Spring Break                                       |                            |
+|      |        | 5-Mar     | Spring Break                                       |                            |
+| 11   | 17     | 10-Mar    | NumPy for scientific computing                     |                            |
+|      | 18     | 12-Mar    | NumPy for scientific computing                     |                            |
+| 12   | 19     | 17-Mar    | NumPy for scientific computing                     |                            |
+|      | 20     | 19-Mar    | Matplotlib for data visualization                  |                            |
+| 13   | 21     | 24-Mar    | Matplotlib for data visualizationb                 |                            |
+|      | 22     | 26-Mar    | Matplotlib for data visualization                  |                            |
+| 14   | 23     | 31-Mar    | ST: Climate data - CMIP6 and remote sensing        | HW4 NumPy and Matplotlib   |
+|      | 24     | 2-Apr     | ST: Xarray for n-dimensional geospatial data       |                            |
+| 15   | 25     | 7-Apr     | ST: Xarray for n-dimensional geospatial data       | Interim report             |
+|      | 26     | 9-Apr     | ST: Cartopy for geospatial data visualization      |                            |
+| 16   | 27     | 14-Apr    | ST: Google Earth engine and machine learning       | HW5 Xarray and CartoPy (optional) |
+|      | 28     | 16-Apr    | ST: Google Earth engine and machine learning       |                            |
+| 17   | 29     | 21-Apr    | Project presentation                               |                            |
+|      | 30     | 23-Apr    | Review of final exam                               | Final report               |
+| 18   |        | 29-Apr    | Final exam                                         |                            |
    
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
+
+Important dates: 
+- Last Day of Classes - Spring 2026 (Full Term)	Monday, 27 April 2026
+- Finals Begin - Spring 2026 (Full Term)	Tuesday, 28 April 2026
+- Finals End - Spring 2026 (Full Term)	Saturday, 02 May 2026
+- Grades Due from Faculty by Noon - Spring 2026 (Full Term)	Tuesday, 05 May 2026
 
 ## Course materials
 
@@ -135,11 +143,10 @@ The instructor may elect to employ a curve that favors the students.
 - Participation 10%
 - Assignments 30%
 - Term Project 30%
-- Fina Exam 30%
+- Final Exam 30%
 
 General notes
-- Grades Due from Faculty by Noon - Tuesday, 06 May 2025
-- If you are falling behind, consult the academic calendar for the last day to drop.
+- If you are falling behind, consult the [academic calendar](https://www.fgcu.edu/academics/academiccalendar/) for the last day to drop.
 - Incomplete grades are granted in exceptional circumstances (e.g., medical emergency)
 
 ## Participation and Attendance
@@ -195,11 +202,12 @@ You learn a programming language by practice. Accordingly, almost a bi-weekly as
 ## [Term Project](https://aselshall.github.io/eds/HW/project)
 
 A main learning objective is to immerse students in a project-based learning experience that integrates practical skills with a scientific mindset and engineering design approach. You are expected to work individually or in a group of two or three to develop a research question or industry-oriented problem, and use python tools to process data to provide useful information and solutions that support decisions. The project objectives are to help you to build a deeper understanding of different Python libraries and their applications in water resources and environmental data analysis, while promoting independent learning and critical thinking skills. By achieving these objectives, you will be well-equipped to leverage Python for in-depth analysis of environmental data across various domains. The instructor will be available to provide guidance and support. In addition, you will share your discoveries with the class through a presentation. A rubric for class presentation will be posted on Canvas. Attending all presentations and providing peer-assessment using the peer-assessment form that will be posted on canvas consist part of your project grade. Due dates for project abstract, interim report, and final report will be posted on Canvas. The project will be graded according to the following schedule project assessment plan:
-- Abstract 10%
+- Project summary 10%
 - Interim report 10%
 - Final report 50%
 - Project presentation 20%
-- Peer-assessment 10%
+- Peer-assessment 5%
+- Critical thinking badge 5%
 
 ## Late Assignments and Project Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
@@ -208,7 +216,7 @@ A main learning objective is to immerse students in a project-based learning exp
 - Once the solutions and grades are posted, late unexecused submissions will not be accepted, and a score of zero will be assigned
 
 ## [Final Exam](https://aselshall.github.io/eds/exam/study_guide)
-- There will be a final exam that is comprehensive and open-book.
+- There will be a final exam that is comprehensive and open-book, but not open-internet.
 - For more information, check the [final exam study guide](https://aselshall.github.io/eds/exam/study_guide)
 - Makeup exam may be provided for [execused absence](#Execused-Absence-Policy)
 
@@ -233,7 +241,7 @@ As of fall 2015, all faculty members are required to use Canvas to confirm a stu
 
 ## Generative AI Use
 
-Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "Generative AI Not Permitted". Otherwise, students must cite the used AI tool, and failing to do so will be considered academic dishonesty. Check FGCU Generative AI policy for more details.
+Generative AI including large language models (LLMs) such as ChatGPT, Gimini, Claude, and DeepL should not be used in assignments and exams when indicated by the text "Generative AI Not Permitted". Otherwise, students must cite the used AI tool, and failing to do so will be considered academic dishonesty. Check [FGCU generative AI policy](https://www.fgcu.edu/about/leadership/officeoftheprovost/generative-ai) for more details.   
 
 ## Core Syllabus Policies 
 
