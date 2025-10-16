@@ -147,7 +147,7 @@ Using the provided rubric, reflect critically on your AI use.
 
 #### Reflective Essay (*AI Not Permitted*)
 
-Write a 300-500 word reflective essay. In this essay, use the above rubric to self-assess your own critical thinking process throughout the project. You must provide specific examples from your Fianl Report to support your answer. Here are examples of some questions that your essay cann address.
+Write a 300-500 word reflective essay. In this essay, use the above rubric to self-assess your own critical thinking process throughout the project. You must provide specific examples from your Final Report to support your answer. Here are examples of some questions that your essay can address.
 - Describe a specific instance where you used the AI as a "sparring partner" (i.e., someone with whom one continually argues or contends) rather than just an answer-generator. How did interrogating and refining its outputs lead you to a deeper or different conclusion than you started with?
 - In your project, where did the AI's contribution end and your unique human expertise begin? Discuss how you practiced "critical thinking" and "task stewardship" by taking final responsibility for the analysis and conclusions.
 - As AI continues to advance, what do you believe are the most critical, uniquely human expertise for an engineer or scientist? How did this project shape your view on where humans can and must add on top of what AI can produce?
