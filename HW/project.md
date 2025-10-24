@@ -131,19 +131,19 @@ Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment c
 ##### 1. Self-Assessment:
 Use the Critical Self-Assessment Rubric of Human–AI Collaboration to evaluate your own critical thinking process throughout the term project.
 
-| Skill Area  | Skill Competency | Score |
-| ------------| -----------------| ---------------------------------------------------------------- |
-| 1. Sound Reasoning<br>*Ability to analyze issues, make decisions, and address problems.* | Clearly states the environmental problem and frames it within a guiding scientific or engineering context.  |              |
-|       | Critically evaluates potential solutions (including those suggested by AI), weighing merits, tradeoffs, feasibility, and potential impacts.  |       |
-|       | Constructs a coherent and persuasive argument for the chosen analytical path and conclusions, integrating diverse sources of evidence.  |            |
-| 2. Research Ability & Information Literacy<br>*Ability to obtain, interpret, and use knowledge, facts, and data.*  | Gathers credible data from multiple reputable sources (e.g., USGS, NOAA, peer-reviewed articles).   |   |
-|       | Treats AI as one source among many, not as an absolute authority. |   |
-|       | Cross-references and validates AI information, identifying inaccuracies, hallucinations, or biases. |           |
-|       | Synthesizes AI and non-AI sources into a comprehensive, novel analysis. |                        |
-| 3. Critical AI Engagement & Stewardship<br>*Ability to strategically guide, evaluate, and take ownership of AI-assisted work.* | Practices effective prompt engineering to guide AI toward relevant, high-quality outputs.  |       |
-|       | Iteratively interrogates and refines AI outputs, treating AI as a “sparring partner.” |                        |
-|       | Critically evaluates AI-generated code/analysis for correctness, efficiency, and relevance.   |                  |
-|        | Practices task stewardship: takes full responsibility for project integrity, originality, and conclusions, while acknowledging AI’s role and limitations. |         |
+| Skill Area  | Skill Competency | Score without AI| Score with AI|
+| ------------| -----------------| --------------- |---------------|
+| 1. Sound Reasoning<br>*Ability to analyze issues, make decisions, and address problems.* | Clearly states the environmental problem and frames it within a guiding scientific or engineering context.  |              | |
+|       | Critically evaluates potential solutions (including those suggested by AI), weighing merits, tradeoffs, feasibility, and potential impacts.  |       | |
+|       | Constructs a coherent and persuasive argument for the chosen analytical path and conclusions, integrating diverse sources of evidence.  |            | |
+| 2. Research Ability & Information Literacy<br>*Ability to obtain, interpret, and use knowledge, facts, and data.*  | Gathers credible data from multiple reputable sources (e.g., USGS, NOAA, peer-reviewed articles).   |   | |
+|       | Treats AI as one source among many, not as an absolute authority. |   | |
+|       | Cross-references and validates AI information, identifying inaccuracies, hallucinations, or biases. |           | |
+|       | Synthesizes AI and non-AI sources into a comprehensive, novel analysis. |                        | |
+| 3. Critical AI Engagement & Stewardship<br>*Ability to strategically guide, evaluate, and take ownership of AI-assisted work.* | Practices effective prompt engineering to guide AI toward relevant, high-quality outputs.  |       | |
+|       | Iteratively interrogates and refines AI outputs, treating AI as a “sparring partner.” |                        | |
+|       | Critically evaluates AI-generated code/analysis for correctness, efficiency, and relevance.   |                  | |
+|        | Practices task stewardship: takes full responsibility for project integrity, originality, and conclusions, while acknowledging AI’s role and limitations. |         | |
    
 *Score: Advanced (3), Competent (2), Not Demonstrated (1)*
 
