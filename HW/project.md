@@ -42,8 +42,8 @@ The project will be graded according to the following schedule:
   - You have the option to present at [Eagle X](https://www.fgcu.edu/eaglex/) on Apr 22 morning for extra credit.
   - Winning an Eagle X Research Award guarantees an “A” grade (provided that you get a passing grade of 50% in the final). 
 - **Peer Assessment (5%)** : Evaluation of your contribution and your team members' contributions, if applicable, is required following [these instructions](https://aselshall.github.io/eds/HW/peer)
-- **Critical Thinking Badge (5%)**: To earn this badge, you must demonstrate advanced critical thinking in your use of AI tools. This involves not just using AI as a shortcut, but engaging with it as a critical and reflective practitioner. Your application for the badge consists of a self-assessment and a reflective essay following the instructions [below](https://aselshall.github.io/eds/HW/project#25-critical-thinking-badge-5)
-
+- **Critical Thinking Badge (5%)**: To earn the Critical Thinking Badge, you must demonstrate advanced critical thinking in your use of AI tools. This means engaging in a critical human–AI collaboration, and not using AI as a shortcut, but as a partner for inquiry, analysis, and reflection. Your application for this badge includes s completed Critical Self-Assessment Rubric of Human–AI Collaboration and a Reflective Essay (300–500 words) as described [below](https://aselshall.github.io/eds/HW/project#25-critical-thinking-badge-5).
+     
 The due dates of the above deliverables will be posted on Canvas.
 
 ### 1.4 Support
@@ -126,8 +126,10 @@ Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment c
 
 ### 2.5 Critical-Thinking Badge (5%)
 
-#### Self-Assessment Rubric
-Using the provided rubric, reflect critically on your AI use. 
+#### 2.5.1 Tasks
+
+##### 1. Self-Assessment:
+Use the Critical Self-Assessment Rubric of Human–AI Collaboration to evaluate your own critical thinking process throughout the term project.
 
 | Skill Area  | Skill Competency | Score |
 | ------------| -----------------| ---------------------------------------------------------------- |
@@ -145,13 +147,28 @@ Using the provided rubric, reflect critically on your AI use.
    
 *Score: Advanced (3), Competent (2), Not Demonstrated (1)*
 
-#### Reflective Essay (*AI Not Permitted*)
+##### 2. Reflective Essay (*AI Not Permitted*)
+Write a 300–500-word essay reflecting on your critical thinking process and your collaboration with AI tools. In your essay:
+1. Reflect on what resonated most with you in the self-assessment rubric.
+2. Describe one or two specific instances in your project where you applied critical thinking. You need to provide specific examples from your Final Report to illustrate your answer
+3. Address one question related to human–AI collaboration. Here are some examples
+    -	AI as a sparring partner: Describe a specific instance where you used the AI as a “sparring partner” (i.e., someone with whom one continually argues or contends) rather than just an answer-generator. How did interrogating and refining its outputs lead you to a deeper or different conclusion than you started with? 
+    -	Human expertise and task stewardship: In your project, where did the AI’s contribution end and your unique human expertise begin? Discuss how you practiced “critical thinking” and “task stewardship” by taking final responsibility for the analysis and conclusions. 
+    -	Unique human expertise: As AI continues to advance, what do you believe is the most critical, uniquely human expertise for an engineer or scientist? How did this project shape your view on where humans can and must add on top of what AI can produce?
 
-Write a 300-500 word reflective essay. In this essay, use the above rubric to self-assess your own critical thinking process throughout the project. You must provide specific examples from your Final Report to support your answer. Here are examples of some questions that your essay can address.
-- Describe a specific instance where you used the AI as a "sparring partner" (i.e., someone with whom one continually argues or contends) rather than just an answer-generator. How did interrogating and refining its outputs lead you to a deeper or different conclusion than you started with?
-- In your project, where did the AI's contribution end and your unique human expertise begin? Discuss how you practiced "critical thinking" and "task stewardship" by taking final responsibility for the analysis and conclusions.
-- As AI continues to advance, what do you believe are the most critical, uniquely human expertise for an engineer or scientist? How did this project shape your view on where humans can and must add on top of what AI can produce?
+To make your essay more relevant, imagine you are in a job interview. The search committee asks
+> We saw that you earned a Critical Thinking Badge in your Environmental Data Science course. Can you explain what that means?
 
+Your essay should be the 5-minute answer you would give in that situation.
+
+#### 2.5.2 Submission Instructions
+
+Upload your Critical Thinking Badge materials [here](https://www.fgcu.edu/digitalbadges/) which includes:
+- Badge Artifact: Your Final Report
+- Deliverable to demonstrate that they have applied the transferable skill: Your Reflective Essay
+    - Your Reflective Essay must include an appendix containing your completed Critical Self-Assessment Rubric of Human–AI Collaboration
+- For credit: Upload on Canvas the Badge submission confirmation along with your reflective essay with the appendix 
+  
 ## 3. Service learning (optional)
 You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. Community partners could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student conducted a [project on water quality analysis](https://github.com/diggz1286/Project) with the Sanibel-Captiva Conservation Foundation, while another automated workflows for Naples Botanical Garden. 
     
