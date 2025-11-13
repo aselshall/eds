@@ -1,4 +1,4 @@
-## Five-Level Critical Thinking Performance Metric*
+## Five-Level Critical Thinking Performance Metric
 
 A strong metric for measuring critical thinking should capture how you reason, evaluate evidence, question assumptions, and justify decisions. This is research-based 5-level metric adapted from well-established higher-education rubrics (AAC&U VALUE Rubric, Facione’s critical thinking framework, and engineering reasoning rubrics). 
 
