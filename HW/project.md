@@ -163,7 +163,7 @@ Your essay should be the 5-minute answer you would give in that situation.
 
 #### 2.5.2 Submission Instructions
 
-According to the [syllabus](https://aselshall.github.io/eds/critical-thinking-badge), doube submission is required as follows:
+According to the [syllabus](https://aselshall.github.io/eds/#term-project), doube submission is required as follows.
 - For Badging: Upload your Critical Thinking Badge package to the [Transferable Skill Badges webpage](www.fgcu.edu/digitalbadges/transferable) to demonstrate that they have applied the transferable skill. Critical Thinking Badge package must include
   - Your Reflective Essay include an appendix containing your completed Critical Self-Assessment Rubric (individual essay)
   - Badge Artifact: Your Final Report (group report)
