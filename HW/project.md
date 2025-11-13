@@ -129,7 +129,7 @@ Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment c
 #### 2.5.1 Tasks
 
 ##### 1. Self-Assessment:
-Use the Critical Self-Assessment Rubric of Human–AI Collaboration to evaluate your own critical thinking process throughout the term project.
+Individually (not as a group), use the Critical Self-Assessment Rubric of Human–AI Collaboration below to evaluate your own critical thinking process throughout the term project. 
 
 | Skill Area  | Skill Competency | Score without AI| Score with AI|
 | ------------| -----------------| --------------- |---------------|
@@ -145,10 +145,10 @@ Use the Critical Self-Assessment Rubric of Human–AI Collaboration to evaluate 
 |       | Critically evaluates AI-generated code/analysis for correctness, efficiency, and relevance.   |                  | |
 |        | Practices task stewardship: takes full responsibility for project integrity, originality, and conclusions, while acknowledging AI’s role and limitations. |         | |
    
-*Score: Advanced (3), Competent (2), Not Demonstrated (1)*
+*Score: Advanced (5), Competent (4), Developing (3), Limited (2) Not Demonstrated (1); For the definition of each level, please chkeck the [critical-thinking rubric](https://aselshall.github.io/eds/HW/critical-thinking)
 
 ##### 2. Reflective Essay (*AI Not Permitted*)
-Write a 300–500-word essay reflecting on your critical thinking process and your collaboration with AI tools. In your essay:
+Individually (not as a group),  write a 300–500-word essay reflecting on your critical thinking process and your collaboration with AI tools. In your essay:
 1. Reflect on what resonated most with you in the self-assessment rubric.
 2. Describe one or two specific instances in your project where you applied critical thinking. You need to provide specific examples from your Final Report to illustrate your answer
 3. Address one question related to human–AI collaboration. Here are some examples
@@ -163,11 +163,13 @@ Your essay should be the 5-minute answer you would give in that situation.
 
 #### 2.5.2 Submission Instructions
 
-Upload your Critical Thinking Badge materials [here](https://www.fgcu.edu/digitalbadges/) which includes:
-- Badge Artifact: Your Final Report
-- Deliverable to demonstrate that they have applied the transferable skill: Your Reflective Essay
-    - Your Reflective Essay must include an appendix containing your completed Critical Self-Assessment Rubric of Human–AI Collaboration
-- For credit: Upload on Canvas the Badge submission confirmation along with your reflective essay with the appendix 
+According to the [syllabus](https://aselshall.github.io/eds/critical-thinking-badge), doube submission is required as follows:
+- For Badging: Upload your Critical Thinking Badge package to the [Transferable Skill Badges webpage](www.fgcu.edu/digitalbadges/transferable) to demonstrate that they have applied the transferable skill. Critical Thinking Badge package must include
+  - Your Reflective Essay include an appendix containing your completed Critical Self-Assessment Rubric (individual essay)
+  - Badge Artifact: Your Final Report (group report)
+  - Instructional videos: [Link](www.fgcu.edu/digitalbadges/transferable)
+- For course credit: Upload on Canvas the Badge submission confirmation along with your reflective essay with the appendix 
+
   
 ## 3. Service learning (optional)
 You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. Community partners could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student conducted a [project on water quality analysis](https://github.com/diggz1286/Project) with the Sanibel-Captiva Conservation Foundation, while another automated workflows for Naples Botanical Garden. 
