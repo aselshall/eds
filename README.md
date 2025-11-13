@@ -207,7 +207,8 @@ A main learning objective is to immerse students in a project-based learning exp
 - Project presentation 20%
 - Peer-assessment 5%
 - Critical thinking badge 5%
-For the critical thinking badge double submission is required as described in the [Term Project](https://aselshall.github.io/eds/HW/project#252-submission-instructions)
+  
+For the critical thinking badge double submission is required as described in the [Term Project](https://aselshall.github.io/eds/HW/project#252-submission-instructions).
 
 ## Late Assignments and Project Policy
 - If you encounter challenges that may affect your ability to submit on time, please communicate with the instructor as early as possible to explore possible accommodations.
