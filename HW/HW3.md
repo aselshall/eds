@@ -80,12 +80,12 @@ Report any valuable information and findings derived from your data analysis.
 | 20. Information Discoveries | Clear and informative report outlining valuable findings from the analysis, including patterns, anomalies, or other relevant observations | 5 |
 
 
-#### Task 4. LLM usage (5 points)
-Highlight the integration of advanced AI technologies in data analysis workflows and showcases your ability to leverage cutting-edge tools for effective problem-solving. In this section, document the specific instances where you utilized a Large Language Model (LLM) such as GPT-3.5 for problem-solving during this assignment and discuss your overall experience of using LLM. 
+#### Task 4. GenAI usage (5 points)
+Highlight the integration of  GenAI in data analysis workflows and showcases your ability to leverage GenAI tools for effective problem-solving. In this section, document the specific instances where you utilized GenAI (e.g., ChatGPT, Gemini, Claude) for problem-solving during this assignment and discuss your overall experience of using GenAI. 
 
 | Task | Criteria | Points |
 |------|----------|--------|
-| 21. LLM Usage | Thorough documentation of LLM usage in the analysis process, including specific examples and reflection on the experience | 5 |
+| 21. GenAI Usage | Thorough documentation of GenAI usage in the analysis process, including specific examples and reflection on the experience | 5 |
 
 
 **Additional Notes:**
