@@ -275,4 +275,6 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 7. Aligning plant biodiversity data of the Naples Botanical Garden with Global Biodiversity Information Facility using pandas and ArcGIS Online Notebooks: [Link](https://github.com/sophers/Data-Science-Final-Project)
 8. Exploring machine learning models for red tide prediction in the Gulf of Mexico
 
-
+### Published studnet project
+1. Matthew Duus (Spring 2025), Physical and Biogeochemical Drivers for Forecasting Red Tides in Southwest Florida: A Regionally Integrated Machine Learning Framework [Link](https://www.preprints.org/frontend/manuscript/1d5ddb13af3fe392ba8553eeedcdfbf5/download_pub)
+2. ...
