@@ -14,7 +14,7 @@ EGN 4930 / EGN 5932C Special Topic : Environmental Data Science
 CRN: [15844](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15844) / [15843](https://gulfline.fgcu.edu/pls/fgpo/szkschd.p_showdetail?termcode=202501&crn=15843)   
 Credit hours: 3  
 Class: T R -- 04:30pm - 05:45pm -- Holmes Engineering 439     
-Exam: T -- 03:00pm - 05:15pm -- Holmes Engineering 439 (Apr 28)  
+Exam: T -- 03:00pm - 04:00pm -- Holmes Engineering 439 (Tuesday, Apr 28)  
 
 ## Instructor 
 
@@ -96,8 +96,8 @@ By the end of this course, you will be able to:
 | 15   | 26     | 14-Apr     | ST: Cartopy for geospatial data visualization      |                            |
 |      | 27     | 16-Apr    | ST: Google Earth engine and machine learning       | [HW5 Xarray and CartoPy](https://aselshall.github.io/edsbook/Chapters/9.%20Xarray%20and%20CartoPy%20for%20Labeled%20and%20Gridded%20N-dimensional%20Arrays/HW5.html) (optional) |
 | 16   | 29     | 21-Apr    | Project presentation                               |                            |
-|      | 30     | 23-Apr    | Review of final exam                               | [Final report](https://aselshall.github.io/eds/HW/project#13-schedule-and-assessment)               |
-| 17   |        | 28-Apr    | Final exam                                         |                            |
+|      | 30     | 23-Apr    | Review of final exam                               | [Final report](https://aselshall.github.io/eds/HW/project#13-schedule-and-assessment)          |
+| 17   |        | 28-Apr    | Final exam (3:00 PM - 4:00 PM)                     |                            |
    
 Special topics (ST) are suggested topics by the instructor and subject to change based on students' interests.
 
