@@ -128,8 +128,8 @@ Check this [link](https://aselshall.github.io/eds/HW/peer) for peer-assessment c
 
 #### 2.5.1 Tasks
 
-##### 1. Self-Assessment:
-Individually (not as a group), use the Critical Self-Assessment Rubric of Human–AI Collaboration below to evaluate your own critical thinking process throughout the term project. 
+##### 1. Critical Self-Assessment Rubric:
+Individually (not as a group), use the Critical Self-Assessment Rubric of Human–AI Collaboration below to evaluate your own critical thinking process throughout the term project.  
 
 | Skill Area  | Skill Competency | Score without AI| Score with AI|
 | ------------| -----------------| --------------- |---------------|
@@ -148,20 +148,21 @@ Individually (not as a group), use the Critical Self-Assessment Rubric of Human�
 *Score: Advanced (5), Competent (4), Developing (3), Limited (2) Not Demonstrated (1); For the definition of each level, please chkeck the [critical-thinking rubric](https://aselshall.github.io/eds/HW/critical-thinking)
 
 ##### 2. Reflective Essay (*AI Not Permitted*)
-Individually (not as a group),  write a 250–500-word essay reflecting on your critical thinking process and your collaboration with AI tools. 
+Individually (not as a group), based on your responses for the critical self-assessment rubric, write a 250–500-word essay reflecting on your critical thinking process and your collaboration with AI tools. 
    
 To make your essay more relevant, imagine you are in a job interview. The search committee asks
 > We saw that you earned a Critical Thinking Badge in your Environmental Data Science course. Can you explain what that means?
   
 Your essay should be the 5-minute answer you would give in that situation.
 In your essay:
-1. Reflect on what resonated most with you in the self-assessment rubric.
+1. Reflect on what resonated most with you in the Critical Self-Assessment Rubric.
 2. Describe one or two specific instances in your project where you applied critical thinking. You need to provide specific examples from your Final Report to illustrate your answer
 3. Address one question related to human–AI collaboration. Here are some examples
     -	AI as a sparring partner: Describe a specific instance where you used the AI as a “sparring partner” (i.e., someone with whom one continually argues or contends) rather than just an answer-generator. How did interrogating and refining its outputs lead you to a deeper or different conclusion than you started with? 
     -	Human expertise and task stewardship: In your project, where did the AI’s contribution end and your unique human expertise begin? Discuss how you practiced “critical thinking” and “task stewardship” by taking final responsibility for the analysis and conclusions. 
     -	Unique human expertise: As AI continues to advance, what do you believe is the most critical, uniquely human expertise for an engineer or scientist? How did this project shape your view on where humans can and must add on top of what AI can produce?
 
+Do not take this as a homework that you have to do, but as something fun for you to reflect on. 
 
 #### 2.5.2 Submission Instructions
 
