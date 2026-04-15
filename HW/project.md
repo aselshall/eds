@@ -148,7 +148,13 @@ Individually (not as a group), use the Critical Self-Assessment Rubric of Human�
 *Score: Advanced (5), Competent (4), Developing (3), Limited (2) Not Demonstrated (1); For the definition of each level, please chkeck the [critical-thinking rubric](https://aselshall.github.io/eds/HW/critical-thinking)
 
 ##### 2. Reflective Essay (*AI Not Permitted*)
-Individually (not as a group),  write a 300–500-word essay reflecting on your critical thinking process and your collaboration with AI tools. In your essay:
+Individually (not as a group),  write a 250–500-word essay reflecting on your critical thinking process and your collaboration with AI tools. 
+   
+To make your essay more relevant, imagine you are in a job interview. The search committee asks
+> We saw that you earned a Critical Thinking Badge in your Environmental Data Science course. Can you explain what that means?
+  
+Your essay should be the 5-minute answer you would give in that situation.
+In your essay:
 1. Reflect on what resonated most with you in the self-assessment rubric.
 2. Describe one or two specific instances in your project where you applied critical thinking. You need to provide specific examples from your Final Report to illustrate your answer
 3. Address one question related to human–AI collaboration. Here are some examples
@@ -156,21 +162,26 @@ Individually (not as a group),  write a 300–500-word essay reflecting on your 
     -	Human expertise and task stewardship: In your project, where did the AI’s contribution end and your unique human expertise begin? Discuss how you practiced “critical thinking” and “task stewardship” by taking final responsibility for the analysis and conclusions. 
     -	Unique human expertise: As AI continues to advance, what do you believe is the most critical, uniquely human expertise for an engineer or scientist? How did this project shape your view on where humans can and must add on top of what AI can produce?
 
-To make your essay more relevant, imagine you are in a job interview. The search committee asks
-> We saw that you earned a Critical Thinking Badge in your Environmental Data Science course. Can you explain what that means?
-
-Your essay should be the 5-minute answer you would give in that situation.
 
 #### 2.5.2 Submission Instructions
 
 According to the [syllabus](https://aselshall.github.io/eds/#term-project), doube submission is required as follows.
-- For Badging: Upload your Critical Thinking Badge package to the [Transferable Skill Badges webpage](www.fgcu.edu/digitalbadges/transferable) to demonstrate that they have applied the transferable skill. Critical Thinking Badge package must include
-  - Your Reflective Essay include an appendix containing your completed Critical Self-Assessment Rubric (individual essay)
-  - Badge Artifact: Your Final Report (group report)
-  - Instructional videos: [Link](www.fgcu.edu/digitalbadges/transferable)
-- For course credit: Upload on Canvas the Badge submission confirmation along with your reflective essay with the appendix 
+- **For Badging:**
+  - Upload your Critical Thinking Badge package to the [Transferable Skill Badges webpage- Critical Thinking](https://fgcu.formstack.com/forms/criticalthink) to demonstrate that they have applied the transferable skill.
+  - Critical Thinking Badge package must include
+      1. Your Reflective Essay: With your essay, include your responses to the Critical Self-Assessment Rubric (as an appendix to your eassy)
+      2. Badge Artifact 1: Final Project Report (the group report) 
+      3. Badge Artifcat 2: Pfd version of your Jupyter Notobke for Homework 3 where you used AI
+      4. Badge Artifcat 3: Pfd version of your Jupyter Notobke for Homework 4 where you used AI 
+  - To get the pdf version of your Jupyter Notebook, open the Notebook and print it as pdf from your browser 
+  - You do not need to complete the badging process for this course (e.g., badge interview); you only need to submit your badge application. 
+  - You can find more instructions [here](https://www.fgcu.edu/digitalbadges/files/stepbystepts.pdf) if needed. Note these instruction is for Oral Communication badge, but it the same for Critical Thinking badge
+  - For more information about badges for transferable skills : [Link](www.fgcu.edu/digitalbadges/transferable)
+- **For course credit:**
+  - Upload on Canvas the Badge submission confirmation
+  - Your reflective essay with the appendix (i.e., Critical Self-Assessment Rubric) 
 
-  
+
 ## 3. Service learning (optional)
 You have the option to count service learning hours while working on your project. To qualify, your project should address a direct or research need for a community partner that is not for profit. Community partners could benefit from projects involving data analysis, predictive modeling, GIS-based spatial analysis, or workflow automation using Python libraries such as Pandas, Google Earth engine, GeeMap, and Scikit-learn. For example, one student conducted a [project on water quality analysis](https://github.com/diggz1286/Project) with the Sanibel-Captiva Conservation Foundation, while another automated workflows for Naples Botanical Garden. 
     
