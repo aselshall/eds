@@ -271,16 +271,14 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 
 ### 6. How to create a GitHub account and use GitHub to upload my code, data, report, power point file and so on?
 
-Check this [video](https://www.youtube.com/live/bXi7KBelIuY?si=mzyXmMDBfJB3z6as) and you will find other videos on this YouTube channel on FAIR data guiding principles. After you upload your Juypter notebook click on it and make sure its viewable. For GIS files you can zip them. 
+Check this [tutorial video](https://www.youtube.com/live/bXi7KBelIuY?si=mzyXmMDBfJB3z6as). You will also find additional videos on this channel about FAIR data principles. After uploading your Jupyter Notebook, open it on GitHub and make sure it renders correctly (i.e., outputs and figures are visible).
 
-### 7. I have many shapefiles and maps that exceed GitHub file size limits. Zipping them has not helped. How should I handle and share large geospatial datasets? Also, do I need to share all my data and codes?
+### 7. Do I need to share all my data and codes? I have many shapefiles and maps that exceed GitHub file size limits. Zipping them has not helped. How should I handle and share large geospatial datasets? 
 
-GitHub is not designed to host large geospatial datasets (e.g., shapefiles, rasters). Zipping does not resolve the size limits (100 MB per file, ~1–2 GB practical repo size).
-   
-For this course, keep it simple and purposeful. I only need to see at least one well-structured Jupyter Notebook that demonstrates your analysis, data access, and good coding practice. I recommend (not required) adding your report and presentation. Everything else is optional—this is your repo, design it based on your goals (e.g., portfolio, job interviews, or data archiving for future use by you or others). The general rule is make data as open as possible, and as closed as necessary. Do not share sensitive, proprietary, or restricted data. If you plan to publish your data, be cautious about sharing it publicly before publication. 
-    
-For large shapefiles/maps, better option would be Zenodo. There are also Figshare, OSF, or Google Drive. Upload the data there and link it in your GitHub repo.
-  
+For this course, keep it simple and purposeful. I only need to see at least one well-structured Jupyter Notebook that demonstrates your analysis, data access, and good coding practice. I recommend (not required) adding your report and presentation. Everything else is optional. This is your repo, design it based on your goals (e.g., portfolio, job interviews, or data archiving for future use by you or others). The general rule is make data as open as possible, and as closed as necessary. Do not share sensitive, proprietary, or restricted data. If you plan to publish your data, be cautious about sharing it publicly before publication. 
+
+GitHub is not designed to host large geospatial datasets (e.g., shapefiles, rasters). Zipping does not resolve the size limits (100 MB per file, ~1–2 GB practical repo size). For large shapefiles/maps, better option would be Zenodo. There are also Figshare, OSF, or Google Drive. Upload the data there and link it in your GitHub repo.
+
 In summary, meet the course requirement with a clear notebook, then design the rest of your repo based on your broader goals. 
     
 ## 5. Student projects
