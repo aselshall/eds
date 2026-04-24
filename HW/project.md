@@ -273,8 +273,7 @@ Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure
 
 Check this [tutorial video](https://www.youtube.com/live/bXi7KBelIuY?si=mzyXmMDBfJB3z6as). You will also find additional videos on this channel about FAIR data principles. After uploading your Jupyter Notebook, open it on GitHub and make sure it renders correctly (i.e., outputs and figures are visible).
 
-### Q7. 
-**Do I need to share all my data and codes? I have many shapefiles and maps that exceed GitHub file size limits. Zipping them has not helped. How should I handle and share large geospatial datasets?**
+### 7. Do I need to share all my data and codes? I have many shapefiles and maps that exceed GitHub file size limits. Zipping them has not helped. How should I handle and share large geospatial datasets?
 
 For this course, keep it simple and purposeful. I only need to see at least one well-structured Jupyter Notebook that demonstrates your analysis, data access, and good coding practice. I recommend (not required) adding your report and presentation. Everything else is optional. This is your repo, design it based on your goals (e.g., portfolio, job interviews, or data archiving for future use by you or others). The general rule is make data as open as possible, and as closed as necessary. Do not share sensitive, proprietary, or restricted data. If you plan to publish your data, be cautious about sharing it publicly before publication. 
 
