@@ -292,5 +292,5 @@ Check this [video](https://www.youtube.com/live/bXi7KBelIuY?si=mzyXmMDBfJB3z6as)
 8. Exploring machine learning models for red tide prediction in the Gulf of Mexico
 
 ### Published studnet project
-1. Matthew Duus (Spring 2025), Physical and Biogeochemical Drivers for Forecasting Red Tides in Southwest Florida: A Regionally Integrated Machine Learning Framework [Link](https://www.preprints.org/frontend/manuscript/1d5ddb13af3fe392ba8553eeedcdfbf5/download_pub)
+1. Matthew Duus (Spring 2025), Physical and Biogeochemical Drivers for Forecasting Red Tides in Southwest Florida: A Regionally Integrated Machine Learning Framework [Link](https://www.mdpi.com/2076-3298/13/5/239)
 2. ...
