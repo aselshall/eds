@@ -269,6 +269,10 @@ If you prefer not to share your data on GitHub, you can still share your code or
 
 Whether you uploaded your code on Canvas or GitHub, for grading purposes, ensure that your code is fully functional. 
 
+### 6. How to create a GitHub account and use GitHub to upload my code, data, report, power point file and so on?
+
+Check this [video](https://www.youtube.com/live/bXi7KBelIuY?si=mzyXmMDBfJB3z6as) and you will find other videos on this YouTube channel on FAIR data guiding principles. After you upload your Juypter notebook click on it and make sure its viewable. For GIS files you can zip them. 
+
 ## 5. Student projects
 
 ### Spring 2025
